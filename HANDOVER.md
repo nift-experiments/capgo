@@ -1,12 +1,13 @@
-# capgo-similar — project handover
+# capgo — project handover
 
 ## Purpose and principles
 
-Recreate Capgo's public website/content with recognisably similar layouts,
-typography, hierarchy, navigation and interactions, while retaining human-friendly
-Markdown/MDX authoring and using Nift for composition. Humans and agents are both
-maintainers. Similarity is practical design/behavior fidelity, not exhaustive
-pixel parity. Capgo-style blue and light themes are allowed. Preserve meaningful
+Build Capgo’s public website/content using Nift in a way that remains pleasant
+and idiomatic for both human developers and coding agents. Preserve familiar
+MD/MDX/frontmatter authoring where practical and recognizable Capgo information
+architecture, layouts and behavior. This is the normal/reference recreation;
+maintenance philosophy distinguishes it from the agent-first sibling. Aim for
+practical presentation fidelity, without exhaustive pixel parity. Capgo-style blue and light themes are allowed. Preserve meaningful
 content and build a configurable downloadable application, not a set of inert
 screenshots. Do not retain Astro runtime machinery solely for architectural parity.
 
@@ -29,15 +30,29 @@ screenshots. Do not retain Astro runtime machinery solely for architectural pari
   separate docs/marketing ownership. `runtime/` and `config/`: replaceable API
   integration as described below, independent of article authoring.
 
-Prefer a pinned external MDX compiler with a small build-time static rendering
-layer (e.g. MDX compiler + static JSX component renderer). A build-time library
-is acceptable if its output ships no mandatory framework hydration. Inventory
-Astro-component imports before choosing the renderer; MDX compiler alone does
-not render `.astro` components. Replace these with explicit adapters, not silently
-drop them. Ordinary MD can use Nift `@markup` only after GFM tables, heading IDs,
-smart punctuation, raw HTML and sigil handling pass compatibility fixtures;
-otherwise use the same pinned build-time converter where consistency is clearer.
-Document compiler dependency footprint and full edit-to-output timings.
+The intended pipeline is authored MDX → `mdx.input(...)` → dependency-aware
+preserved document → `mdx.html(...)` → static HTML → Nift templates/output.
+Production `mdx.html` is not implemented yet: CP06 is blocked on completion and
+certification of the dedicated reusable package work. Its normal production
+path must be batched, not one process per page; project orchestration must retain
+Nift per-page dependency ownership, including transitive source and adapters.
+The 41.35s versus 1.44s renderer-only 100-page benchmark motivates this requirement.
+Do not turn it into a whole-site speed claim or an opaque untracked preprocessing
+step. The scalar facade stays convenient; its production batch integration must
+be established by the package task without changing Nift core.
+
+Require a real measured trusted-build profile: 242/519 canonical docs MDX files
+exceed the existing 4KB bound and the largest is 43,342B. Parser performance,
+components, explicit execution policy, structured diagnostics, adapter dependency
+invalidation and cross-platform certification are release gates. React may be
+used at build time but is replaceable behind MDX document → HTML; no React/JSX
+browser runtime is required for ordinary documents. Do not build a private Capgo
+renderer unless package investigation during implementation finds a genuine
+blocker and records the evidence/decision. Capgo-owned adapters should replace
+Starlight/Astro components explicitly, never silently drop them. Ordinary MD
+may use Nift `@markup` after compatibility fixtures, or the certified shared
+pipeline where that is clearer. Document dependencies and full edit-to-output
+costs, including batch orchestration and asset/config invalidation.
 
 Retain frontmatter/MDX source as the authoring authority. Rendered fragments are
 cache/output, not the source a human is expected to edit. Map component behavior
@@ -51,6 +66,23 @@ Focused visual samples: homepage, docs landing, one ordinary docs/article page,
 one deeply nested component-heavy page, desktop and mobile. Record deliberate
 changes (API integration, palette choice, runtime behavior, authorship pipeline)
 and stop polishing once the site is recognizable and usable.
+
+## Component and island decision rule
+
+Apply the same progression in both sibling experiments: static HTML → CSS →
+vanilla JS enhancement → a framework island when state/complexity materially
+justifies it. Menus, theme switching, tabs, copy buttons, TOCs, simple filtering
+and pagination should use vanilla JavaScript; pagination does not use Nift.
+Complex configurators, data explorers, dashboards, live tools or stateful workflows
+may use React, Vue, Svelte, Solid or another appropriate library if that produces
+the clearest, smallest codebase for humans and agents. Do not preselect a framework.
+
+For each island record why vanilla JS was not preferable, chosen runtime, exact
+scope, hydration and client bundle cost, state ownership, API boundary and tests.
+Keep its ownership local and explicit, with independent tests and an accessible
+static shell where practical. One widget does not justify hydrating the entire
+site. Both experiments may independently choose the same island technology;
+do not force differences simply to make their repositories look different.
 
 ## Current status and boundaries
 
@@ -97,7 +129,7 @@ English docs, published articles/blog, plugin tutorials, marketing informational
 pages, generated indexes and discoverability outputs. Exclude private account
 applications and write an honest capability matrix for runtime services.
 Use the same document/route inclusion decisions, text/heading checks and public
-snapshot data in both experiments. Alt may change presentation/navigation; map
+snapshot data in both experiments. The agent-first version may change presentation/navigation; map
 old logical URLs to new ones so coverage and links remain auditable.
 
 Content updates are explicit, never a network fetch during an ordinary build.
@@ -115,8 +147,8 @@ Plan two explicit modes with the same content:
    metrics/pricing content; static search, diagrams and navigation. Clearly label
    snapshot dates and disable or externally link unavailable transactional
    actions. Can be deployed on Pages.
-2. **Configured application:** local/hosted runtime adapter + vanilla browser
-   client, configured against a user's own APIs. Define capability contracts for
+2. **Configured application:** local/hosted runtime adapter + vanilla-first browser
+   client (with justified local islands), configured against a user's own APIs. Define capability contracts for
    plans/credits, metrics, forms and supported tools. Support provider URL,
    tenant/public settings, authentication mode and documented response schemas.
    Unknown/unconfigured features give a clear setup/unavailable state. Do not
@@ -166,7 +198,9 @@ Benchmark the full conversion orchestration, not just a pre-rendered fragment.
 Run `nift build` immediately after changes to config/tracking and after meaningful
 edits. Validate `nift status`, `nift build --all`, normal incremental and explicit
 `nift build <tracked-name>`. Pin Nift/tool releases after the compatibility spike;
-local inspected version was Nift 4.5.0, not a guarantee for future runners.
+the original planning inspection found Nift 4.5.0; the MDX investigation required
+Nift 4.6.0 because 4.5.0 rejected the parser’s UTF-8 encode call. Verify the
+certified package/runtime combination before selecting future runners.
 See https://nift.dev/docs.html, https://nift.dev/docs/markup.html,
 https://nift.dev/docs/paths.html, https://nift.dev/docs/incremental-builds.html,
 and https://nift.dev/docs/platforms/github-pages.html.
@@ -176,7 +210,7 @@ and https://nift.dev/docs/platforms/github-pages.html.
 Use `data/routes.json` as the logical route registry, with original Capgo path,
 experiment path, tracked name, output path, type and alias mapping. Preserve
 trailing-slash clean URLs where practical. Relative `@path` links keep HTML
-usable under `/capgo-similar/` or `/capgo-alt/` on project Pages and at a domain
+usable under `/capgo/` or `/capgo-agent/` on project Pages and at a domain
 root. Audit JS fetches, imports, CSS URLs, fonts and dynamically created links
 separately; configure a public base URL for canonicals/OG/sitemap/robots. Canonicals
 must use the actual deployment and preview indexing policy, not accidentally
@@ -222,6 +256,23 @@ controlled application scenario. Same hardware, frozen inputs, declared warmups,
 repeat runs and dispersion, raw commands/results. Invalid output fails the gate;
 no invented targeted Astro equivalent and no universal speed claim.
 
+## Maintenance/agent comparison contract
+
+Compare upstream / capgo / capgo-agent on equivalent tasks after implementation
+and corpus certification. Include adding a docs page, changing global navigation,
+updating a shared component, adding a content type, altering a stateful UI feature,
+tracing source to output, diagnosing an introduced bug and a cross-cutting visual
+change. Freeze task specifications, equivalent correctness tests, model/tool
+settings and starting states; reset between runs and document intervention.
+
+Record task success/correctness, agent turns, context/tokens where measurable,
+files inspected/modified, failed builds/tests, unnecessary edits and human
+intervention. Collect the agent’s architecture explanation and preferred codebase
+with reasons. Keep this dimension separate from build/system timing: clean/full,
+warm/full, no-change, one content edit, targeted build, shared-layout fanout,
+memory, dependency/install footprint and output size. Do not run this evaluation
+during planning or infer maintenance superiority from build speed.
+
 ## Safety and next action
 
 Do not delete `.git`, wipe existing project trees, rewrite unrelated history,
@@ -230,3 +281,12 @@ After approval, execute the checklist in `GAMEPLAN.md` in order, with a small
 reviewable commit and evidence note for each checkpoint. Update this handover as
 facts change. Mark a checkpoint complete only after its acceptance checks pass.
 Until then, stop at these planning documents.
+
+## Rename/planning revision completed
+
+GitHub repository identity and local .git history were preserved in place. The
+new canonical repository names and project prefixes are capgo and capgo-agent.
+The upstream SHA, lock digest and materially equivalent shared corpus are
+unchanged. All implementation checkpoints remain pending; the rename did not
+start site or MDX production work. Both plans now include the same island rule
+and separate build/system and maintenance/agent evaluation protocols.

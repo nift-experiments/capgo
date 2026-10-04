@@ -1,6 +1,7 @@
-# capgo-similar
+# capgo
 
-Fidelity-oriented Capgo recreation with familiar MD/MDX authoring.
+Reference Capgo recreation designed for pleasant human+agent maintenance,
+with familiar MD/MDX/frontmatter authoring where practical.
 
 **Planning only: no website has been implemented.** Stop before implementation
 until the user has reviewed and approved the plan.
@@ -21,8 +22,17 @@ Read:
 - [UPSTREAM.md](UPSTREAM.md): observed architecture, corpus and open constraints.
 - [provenance.json](provenance.json): exact upstream SHA, lock digest and measured inventory.
 
-Sibling: https://github.com/nift-experiments/capgo-alt
+Sibling: https://github.com/nift-experiments/capgo-agent
 
 No Nift core or unrelated package changes are in scope. No permanent upstream
 fork, dependency installation, benchmark campaign or deployment was performed in
 this planning phase.
+
+The distinction is maintenance model, not forced visual or technology divergence.
+Prefer HTML/CSS/vanilla JS; isolated framework islands are allowed for materially
+complex stateful UI, with documented boundaries, costs and tests. Build/system
+and equivalent maintenance/agent evaluations are separate future goals.
+
+MDX integration is gated on certified reusable Nift `mdx.input` → `mdx.html`
+work, including batched rendering and measured trusted-build parser limits.
+Production rendering is not implemented; no private Capgo renderer is planned.

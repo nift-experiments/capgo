@@ -1,10 +1,30 @@
-# capgo-similar — implementation gameplan
+# capgo — implementation gameplan
 
 **All 22 checkpoints are pending. Implementation requires user approval.**
 Read HANDOVER.md, UPSTREAM.md and provenance.json first. Each checkpoint ends
 with acceptance evidence, a small Git commit and a handover update. Dependencies
 flow in order; do not skip corpus/functionality gates to advertise benchmarks.
 The ordered list is adapted to the pinned Capgo monorepo and latest user changes.
+
+## Shared component and evaluation rules
+
+Progress from static HTML to CSS to vanilla JS; use a local framework island only
+when complex state materially makes it clearer/smaller to maintain. Do not
+preselect React/Vue/Svelte/Solid or force technology differences between siblings.
+For each island record the reason vanilla was not preferable, runtime, scope,
+hydration/client bundle cost, state ownership, API boundary and independent tests.
+Menus/theme/tabs/copy/TOCs/simple filtering/pagination remain vanilla JS.
+
+Keep build/system and maintenance/agent evaluation separate, comparing
+upstream / capgo / capgo-agent on equivalent corpus/functionality and tasks.
+Build scenarios: clean/full, warm/full, no-change, one content edit, targeted
+build, shared-layout fanout, memory, dependency/install footprint, output size.
+Maintenance tasks: docs page, global navigation, shared component, new content
+type, stateful feature, source→output trace, seeded bug and cross-cutting visual
+change. Record success/correctness, turns, context/tokens where measurable,
+files inspected/modified, failed builds/tests, unnecessary edits, intervention,
+architecture explanation and preferred codebase/reasons. Freeze model/tool/start
+conditions and equivalent acceptance tests before runs. No final evaluation now.
 
 ## CP01 — Pin baseline and corpus contract
 
@@ -26,19 +46,19 @@ The ordered list is adapted to the pinned Capgo monorepo and latest user changes
 - [ ] Audit interactive pages and decide supported own-API capabilities, schemas/auth/CORS/base URL behavior, external services and preview fallbacks. Specify local run/deployment topology. Acceptance: per-feature success/setup/error contract and documented unavailable production services.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP05 — Preserve authoring inputs
+## CP05 — Preserve human+agent authoring inputs
 
-- [ ] Import MD/MDX/frontmatter and asset references by hash, with original path attribution and a human-edit/upstream-update merge policy. Preserve published/origin/locale semantics. Acceptance: source manifest matches agreed corpus and human edits have a documented home.
+- [ ] Import MD/MDX/frontmatter and asset references by hash, preserve familiar source conventions where practical and record attribution, locale and upstream-update merges. Humans and agents edit the authoritative source; generated fragments are output. Acceptance: agreed corpus matches and editable ownership/update conflicts are explicit.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP06 — Prove the content compiler boundary
+## CP06 — Integrate the certified reusable Nift MDX pipeline
 
-- [ ] Spike plain MD and component-heavy MDX with pinned external compiler/static adapters. Cover tables, raw HTML, sigils, nested code, images, Starlight cards/tabs/Steps and Astro component replacements. Acceptance: semantic fixtures render without executing code examples or needing changes to Nift/packages.
+- [ ] BLOCKED until the dedicated MDX package implementation/certification is complete: authored MDX → mdx.input → dependency-aware document → mdx.html → static HTML → Nift templates. Require normal batched rendering, lightweight pure parse/input, no browser React/JSX, measured trusted-build limits/parser performance, transitive @dep, adapters, execution policy, diagnostics, adapter invalidation and cross-platform evidence. React is a replaceable build-time detail. Add only Capgo-specific Starlight/Astro adapters; do not build a private renderer absent an evidenced package blocker. Acceptance: actual ordinary/largest/component-heavy corpus fixtures render through the installed certified package without core changes or executing code examples.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP07 — Define tracking and per-page dependencies
+## CP07 — Define batch orchestration and per-page dependencies
 
-- [ ] Plan wrappers and metadata schemas, register converter/component/source inputs as per-page dependencies, test cache invalidation by source and adapter edits. Acceptance: one-page edit regenerates content + one Nift target, and shared adapter fans out correctly.
+- [ ] Integrate the package batch interface/build orchestration with Nift target selection and source/component/config/asset dependency manifests. Avoid per-page process spawning as the normal path and opaque untracked preprocessing. Acceptance: source/transitive/adapter edits regenerate affected HTML and consuming Nift targets, shared dependencies fan out correctly, unrelated and no-change targets remain untouched.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP08 — Create minimal Nift project
@@ -46,9 +66,9 @@ The ordered list is adapted to the pinned Capgo monorepo and latest user changes
 - [ ] Only after approval use normal Nift project config/public output. Add representative homepage/docs/blog/plugin wrappers and explicit templates. Acceptance: full/incremental/targeted subset builds, root and repository-prefix links correct.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP09 — Implement deterministic importer orchestration
+## CP09 — Implement deterministic source import orchestration
 
-- [ ] Import full authored corpus and metadata, handle asset/image imports, generate wrappers and fail on unknown MDX expressions/components. Acceptance: two imports are byte-stable; documented local overrides survive; no manual double-entry content.
+- [ ] Import full authored corpus and metadata, preserve MD/MDX/frontmatter and local edits, handle asset references, generate wrappers and report unsupported syntax/components under certified package policy. Use the reusable package rendering path rather than a second compiler. Acceptance: repeated imports are byte-stable, ownership is human+agent-friendly and no manual double-entry content.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP10 — Complete corpus and generated families
@@ -61,14 +81,14 @@ The ordered list is adapted to the pinned Capgo monorepo and latest user changes
 - [ ] Implement marketing header/footer, docs sidebar/TOC/breadcrumbs, blog/article bylines and plugin detail layouts using reusable vanilla templates. Acceptance: navigation generated from data and all layout families accessible without JS.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP12 — Implement Capgo-inspired visual system
+## CP12 — Implement recognizable Capgo presentation
 
-- [ ] Choose recognizable spacing, typography, colors, icons and responsive layout. Blue/light themes allowed; adapt upstream CSS rather than copy Tailwind architecture. Acceptance: homepage/docs/nested/article/mobile targeted comparisons meet practical similarity goals.
+- [ ] Use familiar layout families, hierarchy, visual identity and useful behaviors, with recognizable spacing/typography/colors/icons and responsive design. Blue/light themes allowed; adapt styles without retaining framework machinery solely for parity. Acceptance: practical homepage/docs/nested/article/mobile comparisons; no exhaustive pixel-parity gate or artificial branding divergence.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP13 — Add vanilla client behavior
+## CP13 — Add vanilla enhancements and justified islands
 
-- [ ] Menus, TOC, tabs/package commands, copy controls, theme and questionnaire interactions; JS pagination with shareable URLs and no-JS content fallback. Acceptance: keyboard, reduced-motion and failure paths pass focused browser checks.
+- [ ] Implement menus, TOC, tabs, copy, theme, simple filtering and JS pagination with accessible fallback. Evaluate complex questionnaires/configurators/workflows separately under the shared island rule; document runtime/scope/bundle/state/API/tests for any island. Acceptance: keyboard/reduced-motion/error checks, independent island tests and localized hydration only when justified.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP14 — Provide local search and code/diagram rendering
@@ -101,14 +121,14 @@ The ordered list is adapted to the pinned Capgo monorepo and latest user changes
 - [ ] Add reviewed Actions recipe for static preview and separate runtime hosting instructions; verify nested project-prefix/root links and artifact limits. Acceptance: preview/full-runtime boundaries explicit; no server features falsely advertised on Pages.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP20 — Freeze benchmark scenarios
+## CP20 — Freeze build and maintenance comparison protocols
 
-- [ ] Record converter caches, inputs, public snapshots, machine/concurrency, validation scope, warmups and measurement commands. Acceptance: identical inclusion/runtime snapshot policy with alt and equal full-artifact timing scope.
+- [ ] Agree identical corpus/inclusion/API snapshots with capgo-agent; record batch/render/import caches, machine/concurrency, full-artifact scope and separate render-only timings. Freeze equivalent maintenance tasks/model/settings/start states and correctness tests for upstream / capgo / capgo-agent. Acceptance: reproducible protocols for both dimensions, with token/context unavailable fields labeled rather than invented.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
-## CP21 — Measure and report comparative results
+## CP21 — Measure separate build and maintenance results
 
-- [ ] Run declared repeat scenarios for upstream/similar/alt on same hardware including end-to-end authored edit and render-only separately. Acceptance: valid outputs, raw runs/dispersion/memory/footprint/page counts and honest limitations.
+- [ ] After corpus gates pass, run controlled upstream / capgo / capgo-agent build scenarios and equivalent maintenance tasks from the shared protocol. Include full authored edit-to-output work and renderer-only separately; measure maintenance success/turns/context/files/failures/unnecessary edits/intervention/architecture preference. Acceptance: valid outputs, raw runs/dispersion/memory/footprint/counts, independent correctness evidence and honest limits; no maintenance claims from speed alone.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP22 — Prepare Labs report and release handover
