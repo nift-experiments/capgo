@@ -11,7 +11,7 @@ Build directly with the installed Nift 4.5 or newer:
 nift build --all
 ```
 
-The project pre-build hook prepares authored MDX automatically. After a failed or interrupted build, use `nift build --repair` once. A cached full build of the current 502-page MDX cohort measured **4.04 seconds / 206.5 MiB peak RSS**, including the preparation hook. A later run during host CPU contention took **16.55 seconds / 207.5 MiB**, with all 502 MDX cache entries reused. Interactive builds now show preparation status before Nift’s existing page progress. The MDX renderer uses a deterministic environment, so switching terminals does not invalidate all prepared pages; source, dependency and Node-version changes still invalidate the cache. The migration remains in progress.
+The project pre-build hook prepares authored MDX automatically. After a failed or interrupted build, use `nift build --repair` once. Three sequential cached full builds with installed Nift 4.6.0 measured **4.35–5.15 seconds (median 4.64s)**, with **185.7 MiB maximum peak RSS** across the runs, including the preparation hook. The earlier 16.55-second result did not repeat; see evidence/build-progress/build-time-recheck-20261005.json. Interactive builds now show preparation status before Nift’s existing page progress. The MDX renderer uses a deterministic environment, so switching terminals does not invalidate all prepared pages; source, dependency and Node-version changes still invalidate the cache. The migration remains in progress.
 
 
 Both experiments use the same pinned [Capgo source](https://github.com/Cap-go/website/tree/7d5b69d6ba8a6630384dffc7d012431ee3ed22ec),
