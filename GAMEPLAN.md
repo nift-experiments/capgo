@@ -1,6 +1,6 @@
 # capgo — implementation gameplan
 
-**All 22 checkpoints are pending. Implementation requires user approval.**
+**Implementation authorized 4 October 2026. Checkpoints proceed until completion; evidence is required before marking acceptance.**
 Read HANDOVER.md, UPSTREAM.md and provenance.json first. Each checkpoint ends
 with acceptance evidence, a small Git commit and a handover update. Dependencies
 flow in order; do not skip corpus/functionality gates to advertise benchmarks.
@@ -24,12 +24,12 @@ type, stateful feature, source→output trace, seeded bug and cross-cutting visu
 change. Record success/correctness, turns, context/tokens where measurable,
 files inspected/modified, failed builds/tests, unnecessary edits, intervention,
 architecture explanation and preferred codebase/reasons. Freeze model/tool/start
-conditions and equivalent acceptance tests before runs. No final evaluation now.
+conditions and equivalent acceptance tests before runs. Run the final evaluation only after implementation correctness gates pass.
 
 ## CP01 — Pin baseline and corpus contract
 
-- [ ] Verify the recorded upstream and lock hashes, create a disposable detached upstream checkout, record license/attribution and select exact runtime patches. Agree one inclusion/exclusion manifest and runtime capability vocabulary shared with the sibling experiment. Acceptance: documented pin verification and no divergent source snapshot.
-- [ ] Save evidence, commit this checkpoint, and update handover status.
+- [x] Verify the recorded upstream and lock hashes, create a disposable detached upstream checkout, record license/attribution and select exact runtime patches. Agree one inclusion/exclusion manifest and runtime capability vocabulary shared with the sibling experiment. Acceptance: documented pin verification and no divergent source snapshot.
+- [x] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP02 — Reproduce upstream build
 
@@ -53,7 +53,7 @@ conditions and equivalent acceptance tests before runs. No final evaluation now.
 
 ## CP06 — Integrate the certified reusable Nift MDX pipeline
 
-- [ ] BLOCKED until the dedicated MDX package implementation/certification is complete: authored MDX → mdx.input → dependency-aware document → mdx.html → static HTML → Nift templates. Require normal batched rendering, lightweight pure parse/input, no browser React/JSX, measured trusted-build limits/parser performance, transitive @dep, adapters, execution policy, diagnostics, adapter invalidation and cross-platform evidence. React is a replaceable build-time detail. Add only Capgo-specific Starlight/Astro adapters; do not build a private renderer absent an evidenced package blocker. Acceptance: actual ordinary/largest/component-heavy corpus fixtures render through the installed certified package without core changes or executing code examples.
+- [ ] Integrate the reusable Nift MDX renderer with a distinct compiler-semantic render-preparation path and exact per-target dependency manifests. Preserve pure parse/input contracts; implement/certify generic orchestration in the MDX package before site-scale integration. Use proper Nift is_dir/is_file APIs once landed, without core edits. Add Capgo-owned adapters and measure largest/component-heavy/all-corpus builds. Acceptance: authored source remains authoritative, batching is normal, unknown components fail, dependency/asset/config invalidation is exact and browser React is unnecessary.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP07 — Define batch orchestration and per-page dependencies
@@ -63,7 +63,7 @@ conditions and equivalent acceptance tests before runs. No final evaluation now.
 
 ## CP08 — Create minimal Nift project
 
-- [ ] Only after approval use normal Nift project config/public output. Add representative homepage/docs/blog/plugin wrappers and explicit templates. Acceptance: full/incremental/targeted subset builds, root and repository-prefix links correct.
+- [ ] Use normal Nift project config/public output. Add representative homepage/docs/blog/plugin wrappers and explicit templates. Acceptance: full/incremental/targeted subset builds, root and repository-prefix links correct.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP09 — Implement deterministic source import orchestration
@@ -136,3 +136,7 @@ conditions and equivalent acceptance tests before runs. No final evaluation now.
 - [ ] After results exist, propose Labs metadata/report entry with dark/no-blue styling there only, document fidelity and runtime differences, finalize source attribution and reproducibility. Acceptance: fresh-download reproduction and reviewed evidence; no speculative speed claims.
 - [ ] Save evidence, commit this checkpoint, and update handover status.
 
+
+## Current implementation decisions
+
+Both sites target close Capgo visual/behavioral fidelity and the same pinned corpus, route policy, assets and API snapshots. The distinction is maintenance architecture, not visual design. Preserve the 22/23 checkpoint skeletons; investigate intermediate failures and continue. Full corpus, runtime, fresh-clone, targeted visual, build and maintenance evidence are required. MDX compiler-preparation is approved by the current user outline; 8–15 s / 1–2 s remain provisional until measured. Fallback normalization is permitted only with an evidenced decision. Labs dark/no-blue stays separate. No core edits.

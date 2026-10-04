@@ -39,7 +39,8 @@
     "theme_rule": "Dark/no-blue applies to Labs report pages only; Capgo websites may use light themes and blue, and should remain Capgo-inspired.",
     "runtime_rule": "Not static-only. Downloaded projects must support users own API configuration; optional GitHub Pages preview cannot host a backend.",
     "component_rule": "Static HTML, CSS, vanilla JS first; justified independently testable framework islands allowed. No framework preselection or site-wide hydration by default.",
-    "mdx_gate": "Certified reusable Nift mdx.input\u2192mdx.html pipeline: normal batched production rendering, measured trusted-build limits/performance, adapters/policy/diagnostics/dependency invalidation/cross-platform checks; not implemented yet. No Nift core changes."
+    "mdx_gate": "Reusable batched compiler-semantic render preparation with exact Nift dependency registration; preserve existing pure parse/input. Authorized for implementation, certification pending.",
+    "visual_rule": "Close Capgo fidelity for both implementations; maintenance architecture is the primary distinction."
   },
   "experiment": {
     "name": "capgo",
@@ -47,6 +48,6 @@
     "maintenance_model": "human+agent",
     "sibling_repository": "https://github.com/nift-experiments/capgo-agent",
     "maintained_representation": "MD/MDX/frontmatter where practical",
-    "status": "planning only; implementation not started"
+    "status": "implementation authorized; CP01 complete"
   }
 }
