@@ -1,6 +1,6 @@
 # Local build profiling
 
-Run `NIFT=/path/to/nift npm run build -- --all` for a full build. Normal builds use up to four Nift workers, bounded by available CPU parallelism. Override with `NIFT_BUILD_THREADS=1` for controlled single-worker comparisons.
+Run `NIFT=/path/to/nift npm run build -- --all` for a full build. Normal builds set `build-threads` to `-1`, letting Nift use all hardware cores on the build machine. Override with `NIFT_BUILD_THREADS=1` for controlled single-worker comparisons.
 
 Set `BUILD_PROFILE=1` to print reference verification, configuration, asset verification, Nift compilation and output verification timings. `/usr/bin/time -v` around the command measures total wall time and maximum resident set size. These checks preserve every golden/output SHA check; faster builds do not skip parity validation.
 

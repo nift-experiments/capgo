@@ -1,8 +1,7 @@
-import {availableParallelism} from 'node:os';
 // Phase 3 bootstrap. Nift renders every HTML route; byte-identical production assets are retained.
 import {readFile,writeFile,mkdir,copyFile,stat} from 'node:fs/promises';import {dirname} from 'node:path';import {spawnSync} from 'node:child_process';import {createHash} from 'node:crypto';import {verify} from './golden.mjs';
 const started=performance.now(),timings={};let checkpoint=started;function mark(name){const now=performance.now();timings[name]=Number(((now-checkpoint)/1000).toFixed(3));checkpoint=now;}
-const buildThreads=Number(process.env.NIFT_BUILD_THREADS??Math.min(4,availableParallelism()));if(!Number.isInteger(buildThreads)||buildThreads<1)throw Error('NIFT_BUILD_THREADS must be a positive integer');
+const buildThreads=Number(process.env.NIFT_BUILD_THREADS??-1);if(!Number.isInteger(buildThreads)||(buildThreads!==-1&&buildThreads<1))throw Error('NIFT_BUILD_THREADS must be -1 or a positive integer');
 const nift=process.env.NIFT??'nift',routes=JSON.parse(await readFile('golden/routes.json')),files=JSON.parse(await readFile('golden/files.json'));
 const result=await verify();if(result.errors.length)throw Error('Golden reference changed: '+JSON.stringify(result.errors));
 mark('referenceVerification');

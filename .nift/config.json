@@ -5,7 +5,7 @@
     "output-dir": "public/",
     "output-ext": ".html",
     "default-template": "migration/templates/raw.html",
-    "build-threads": 4,
+    "build-threads": -1,
     "incremental-mode": "hash"
   }
 }
