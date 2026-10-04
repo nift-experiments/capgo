@@ -1,0 +1,16 @@
+{
+  "phase": 5,
+  "milestone": "shared docs header and route-aware sidebar",
+  "status": "in progress",
+  "docsPages": 529,
+  "sharedTemplates": 2,
+  "byteDifferences": 0,
+  "elapsedSeconds": 15.08,
+  "peakRssKiB": 142564,
+  "regressionDiagnosis": "Interpreted token loop processed hundreds of empty state slots for every docs page. Sparse native string replacements retain shared templates and avoid that overhead.",
+  "previousSlowBuild": {
+    "elapsedSeconds": 64.27,
+    "peakRssKiB": 138360
+  },
+  "validation": "All 3876 output hashes match the immutable production build."
+}
