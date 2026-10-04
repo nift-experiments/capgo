@@ -1,0 +1,21 @@
+{
+  "phase": 5,
+  "milestone": "byte-preserving head/header/footer extraction",
+  "status": "in progress: further template/metadata recovery planned",
+  "htmlRoutes": 1347,
+  "includes": 3224,
+  "sharedIncludes": 10,
+  "deduplicatedBytes": 81083117,
+  "byteDifferences": 0,
+  "semanticDifferences": 0,
+  "responsiveChecks": 9,
+  "observedGeometryDifferences": [
+    {
+      "page": "article",
+      "width": 375,
+      "count": 8
+    }
+  ],
+  "elapsedSeconds": 11.18,
+  "peakRssKiB": 141072
+}
