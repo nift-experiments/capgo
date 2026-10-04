@@ -1,0 +1,51 @@
+{
+  "stage": "Phase 5 shared shells, before MDX reconnection",
+  "method": "Sequential local full builds, existing filesystem caches; GNU time maximum RSS; installation excluded; not final benchmark",
+  "runs": [
+    {
+      "buildThreads": 1,
+      "timings": {
+        "referenceVerification": 1.036,
+        "configuration": 0.006,
+        "assetVerification": 0.52,
+        "niftBuild": 11.741,
+        "outputVerification": 0.933
+      },
+      "totalSeconds": 14.237,
+      "run": "one",
+      "elapsedSeconds": 14.44,
+      "peakRssKiB": 139256,
+      "byteDifferences": 0
+    },
+    {
+      "buildThreads": 4,
+      "timings": {
+        "referenceVerification": 0.916,
+        "configuration": 0.006,
+        "assetVerification": 0.44,
+        "niftBuild": 3.177,
+        "outputVerification": 0.937
+      },
+      "totalSeconds": 5.477,
+      "run": "four",
+      "elapsedSeconds": 5.63,
+      "peakRssKiB": 146576,
+      "byteDifferences": 0
+    },
+    {
+      "buildThreads": 4,
+      "timings": {
+        "referenceVerification": 0.939,
+        "configuration": 0.005,
+        "assetVerification": 0.468,
+        "niftBuild": 2.73,
+        "outputVerification": 0.934
+      },
+      "totalSeconds": 5.076,
+      "run": "default",
+      "elapsedSeconds": 5.22,
+      "peakRssKiB": 145216,
+      "byteDifferences": 0
+    }
+  ]
+}

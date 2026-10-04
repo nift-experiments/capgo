@@ -1,0 +1,4 @@
+📦 1347 files built successfully
+time taken: 2.716375 seconds
+{"htmlRoutes":1347,"files":3876,"byteDifferences":0}
+{"buildThreads":4,"timings":{"referenceVerification":0.939,"configuration":0.005,"assetVerification":0.468,"niftBuild":2.73,"outputVerification":0.934},"totalSeconds":5.076}
