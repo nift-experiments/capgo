@@ -1,0 +1,27 @@
+{
+  "kind": "opportunistic checkpoint measurements; not final benchmarks",
+  "runs": [
+    {
+      "cache": "cold",
+      "seconds": 53.93,
+      "peakRssKiB": 457152,
+      "docs": 529,
+      "threads": -1,
+      "niftVersion": "4.6.0",
+      "cpuCount": 20,
+      "contention": "not independently measured",
+      "preparation": "529 prepared"
+    },
+    {
+      "cache": "warm",
+      "seconds": 3.9,
+      "peakRssKiB": 231928,
+      "docs": 529,
+      "threads": -1,
+      "niftVersion": "4.6.0",
+      "cpuCount": 20,
+      "contention": "not independently measured",
+      "preparation": "529 cached"
+    }
+  ]
+}

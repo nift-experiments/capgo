@@ -1,4 +1,5 @@
 // Faithful Starlight component markup. Scoped tokens preserve the pinned upstream CSS.
+import tabsRestore from './tabs-restore.mjs';
 import tabRuntime from './tabs-runtime.mjs';
 import iconTrees from './icon-trees.mjs';
 export function components({element:h}){
@@ -19,12 +20,12 @@ export function components({element:h}){
   return focusable(p.children);
  });}
  const TabItem=({children})=>h('div',null,children);
- const Tabs=({syncKey,niftTabIndex,children})=>{
-  if(syncKey!==undefined)throw Error('Synced tabs require a faithful restore-script adapter');
-  const instance=Number(niftTabIndex),panels=items(children).filter(x=>x&&typeof x==='object'&&x.type===TabItem);
+ const Tabs=({syncKey,niftTabIndex,niftRestoreScript,children})=>{
+  const instance=Number(niftTabIndex),panels=items(children).filter(x=>x&&typeof x==='object'&&(x.type===TabItem||x.props?.niftTabItem));
   if(!panels.length)throw Error('Tabs requires TabItem children');
   const cls='astro-jyuni4a6';
-  return [h('starlight-tabs',{className:cls,key:'tabs'},h('div',{className:'tablist-wrapper not-content '+cls},h('ul',{role:'tablist',className:cls},...panels.map((panel,index)=>h('li',{role:'presentation',className:'tab '+cls,key:index},h('a',{role:'tab',href:'#tab-panel-'+instance+'-'+index,id:'tab-'+instance+'-'+index,'aria-selected':index===0?'true':'false',tabIndex:index===0?0:-1,className:cls},panel.props.icon?Icon({name:panel.props.icon}):null,panel.props.label))))),...panels.map((panel,index)=>h('div',{key:index,id:'tab-panel-'+instance+'-'+index,'aria-labelledby':'tab-'+instance+'-'+index,role:'tabpanel',hidden:index!==0,tabIndex:focusable(panel.props.children)?undefined:0},panel.props.children))),instance===0?h('script',{key:'controller',type:'module',dangerouslySetInnerHTML:{__html:tabRuntime}}):null];
+  return [niftRestoreScript?h('script',{key:'restore',dangerouslySetInnerHTML:{__html:tabsRestore}}):null,h('starlight-tabs',{className:cls,key:'tabs','data-sync-key':syncKey},h('div',{className:'tablist-wrapper not-content '+cls},h('ul',{role:'tablist',className:cls},...panels.map((panel,index)=>h('li',{role:'presentation',className:'tab '+cls,key:index},h('a',{role:'tab',href:'#tab-panel-'+instance+'-'+index,id:'tab-'+instance+'-'+index,'aria-selected':index===0?'true':'false',tabIndex:index===0?0:-1,className:cls},panel.props.icon?Icon({name:panel.props.icon,className:cls}):null,panel.props.label))))),...panels.map((panel,index)=>h('div',{key:index,id:'tab-panel-'+instance+'-'+index,'aria-labelledby':'tab-'+instance+'-'+index,role:'tabpanel',hidden:index!==0,tabIndex:focusable(panel.props.children)?undefined:0},panel.props.children)),syncKey?h('starlight-tabs-restore',{key:'restore-element',className:cls}):null),instance===0?h('script',{key:'controller',type:'module',dangerouslySetInnerHTML:{__html:tabRuntime}}):null];
  };
- return {NativeTh:props=>h('th',props),NativeTd:props=>h('td',props),th:cell('th'),td:cell('td'),Aside,Card,CardGrid,LinkCard,Steps,Tabs,TabItem};
+ const FileTree=({niftFileTreeHtml})=>h('starlight-file-tree',{className:'not-content astro-hcukmjby','data-pagefind-ignore':'true',dangerouslySetInnerHTML:{__html:niftFileTreeHtml}});
+ return {FileTree,NativeTh:props=>h('th',props),NativeTd:props=>h('td',props),th:cell('th'),td:cell('td'),Aside,Card,CardGrid,LinkCard,Steps,Tabs,TabItem};
 }

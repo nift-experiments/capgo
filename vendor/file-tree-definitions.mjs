@@ -1,0 +1,10 @@
+import files0 from "./file-tree-files-0.mjs";
+import extensions0 from "./file-tree-extensions-0.mjs";
+import partials0 from "./file-tree-partials-0.mjs";
+import svg0 from "./file-tree-svg-0.mjs";
+import svg1 from "./file-tree-svg-1.mjs";
+import svg2 from "./file-tree-svg-2.mjs";
+import svg3 from "./file-tree-svg-3.mjs";
+import svg4 from "./file-tree-svg-4.mjs";
+export const definitions={files:{...files0},extensions:{...extensions0},partials:{...partials0}};
+export const FileIcons={...svg0,...svg1,...svg2,...svg3,...svg4};

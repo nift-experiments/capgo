@@ -1,8 +1,8 @@
 {
-  "prepared": 502,
+  "prepared": 529,
   "cached": 0,
-  "eligible": 502,
-  "matched": 502,
+  "eligible": 529,
+  "matched": 529,
   "results": [
     {
       "route": "/docs/",
@@ -33,10 +33,24 @@
       "matches": true
     },
     {
+      "route": "/docs/builder/ci-ota-or-native/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ci-ota-or-native.mdx",
+      "file": "docs/builder/ci-ota-or-native/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
       "route": "/docs/builder/ci-ui-trigger/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ci-ui-trigger.mdx",
       "file": "docs/builder/ci-ui-trigger/index.html",
       "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/configuration/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/configuration.mdx",
+      "file": "docs/builder/configuration/index.html",
+      "codeBlocks": 10,
       "matches": true
     },
     {
@@ -47,10 +61,24 @@
       "matches": true
     },
     {
+      "route": "/docs/builder/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/getting-started.mdx",
+      "file": "docs/builder/getting-started/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
       "route": "/docs/builder/github-actions/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/github-actions.mdx",
       "file": "docs/builder/github-actions/index.html",
       "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ios.mdx",
+      "file": "docs/builder/ios/index.html",
+      "codeBlocks": 16,
       "matches": true
     },
     {
@@ -65,6 +93,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/troubleshooting.mdx",
       "file": "docs/builder/troubleshooting/index.html",
       "codeBlocks": 33,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/webhooks/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/webhooks.mdx",
+      "file": "docs/builder/webhooks/index.html",
+      "codeBlocks": 5,
       "matches": true
     },
     {
@@ -250,10 +285,24 @@
       "matches": true
     },
     {
+      "route": "/docs/getting-started/add-an-app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/add-an-app.mdx",
+      "file": "docs/getting-started/add-an-app/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
       "route": "/docs/getting-started/after-onboarding-setup-checklist/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/after-onboarding-setup-checklist.mdx",
       "file": "docs/getting-started/after-onboarding-setup-checklist/index.html",
       "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/cicd-integration/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/cicd-integration.mdx",
+      "file": "docs/getting-started/cicd-integration/index.html",
+      "codeBlocks": 12,
       "matches": true
     },
     {
@@ -467,6 +516,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/index.mdx",
+      "file": "docs/plugins/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/accelerometer/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/accelerometer/index.mdx",
       "file": "docs/plugins/accelerometer/index.html",
@@ -607,6 +663,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/app-attest/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/getting-started.mdx",
+      "file": "docs/plugins/app-attest/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/app-attest/ios/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/ios.mdx",
       "file": "docs/plugins/app-attest/ios/index.html",
@@ -709,6 +772,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/android.mdx",
       "file": "docs/plugins/auto/android/index.html",
       "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/auto/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/getting-started.mdx",
+      "file": "docs/plugins/auto/getting-started/index.html",
+      "codeBlocks": 9,
       "matches": true
     },
     {
@@ -866,6 +936,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/capacitor-plus/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-plus/getting-started.mdx",
+      "file": "docs/plugins/capacitor-plus/getting-started/index.html",
+      "codeBlocks": 26,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/compass/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/compass/index.mdx",
       "file": "docs/plugins/compass/index.html",
@@ -905,6 +982,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/android.mdx",
       "file": "docs/plugins/contentsquare/android/index.html",
       "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contentsquare/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/getting-started.mdx",
+      "file": "docs/plugins/contentsquare/getting-started/index.html",
+      "codeBlocks": 12,
       "matches": true
     },
     {
@@ -1412,6 +1496,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/incoming-call-kit/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/getting-started.mdx",
+      "file": "docs/plugins/incoming-call-kit/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/incoming-call-kit/ios/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/ios.mdx",
       "file": "docs/plugins/incoming-call-kit/ios/index.html",
@@ -1486,6 +1577,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/android.mdx",
       "file": "docs/plugins/intune/android/index.html",
       "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intune/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/getting-started.mdx",
+      "file": "docs/plugins/intune/getting-started/index.html",
+      "codeBlocks": 9,
       "matches": true
     },
     {
@@ -1734,6 +1832,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/native-loader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-loader/index.mdx",
+      "file": "docs/plugins/native-loader/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/native-loader/getting-started/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-loader/getting-started.mdx",
       "file": "docs/plugins/native-loader/getting-started/index.html",
@@ -1790,6 +1895,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/native-navigation/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-navigation/getting-started.mdx",
+      "file": "docs/plugins/native-navigation/getting-started/index.html",
+      "codeBlocks": 18,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/native-purchases/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/index.mdx",
       "file": "docs/plugins/native-purchases/index.html",
@@ -1822,6 +1934,20 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-sandbox-testing.mdx",
       "file": "docs/plugins/native-purchases/android-sandbox-testing/index.html",
       "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/getting-started.mdx",
+      "file": "docs/plugins/native-purchases/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-app-store-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-app-store-review.mdx",
+      "file": "docs/plugins/native-purchases/ios-app-store-review/index.html",
+      "codeBlocks": 11,
       "matches": true
     },
     {
@@ -1976,6 +2102,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/backend.mdx",
       "file": "docs/plugins/passkey/backend/index.html",
       "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/passkey/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/getting-started.mdx",
+      "file": "docs/plugins/passkey/getting-started/index.html",
+      "codeBlocks": 7,
       "matches": true
     },
     {
@@ -2196,6 +2329,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/privacy-screen/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/getting-started.mdx",
+      "file": "docs/plugins/privacy-screen/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/privacy-screen/ios/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/ios.mdx",
       "file": "docs/plugins/privacy-screen/ios/index.html",
@@ -2396,6 +2536,20 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sim/getting-started.mdx",
       "file": "docs/plugins/sim/getting-started/index.html",
       "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/index.mdx",
+      "file": "docs/plugins/social-login/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/android.mdx",
+      "file": "docs/plugins/social-login/apple/android/index.html",
+      "codeBlocks": 4,
       "matches": true
     },
     {
@@ -2931,6 +3085,13 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/updater/notify-app-ready/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/notify-app-ready.mdx",
+      "file": "docs/plugins/updater/notify-app-ready/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/updater/self-hosted/auto-update/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/auto-update.mdx",
       "file": "docs/plugins/updater/self-hosted/auto-update/index.html",
@@ -3113,6 +3274,20 @@
       "matches": true
     },
     {
+      "route": "/docs/plugins/watch/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/getting-started.mdx",
+      "file": "docs/plugins/watch/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/watch/watch-app-setup/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/watch-app-setup.mdx",
+      "file": "docs/plugins/watch/watch-app-setup/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
       "route": "/docs/plugins/webview-crash/",
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-crash/index.mdx",
       "file": "docs/plugins/webview-crash/index.html",
@@ -3152,6 +3327,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/android.mdx",
       "file": "docs/plugins/webview-version-checker/android/index.html",
       "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/getting-started.mdx",
+      "file": "docs/plugins/webview-version-checker/getting-started/index.html",
+      "codeBlocks": 9,
       "matches": true
     },
     {
@@ -3229,6 +3411,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/android.mdx",
       "file": "docs/plugins/zebra-datawedge/android/index.html",
       "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zebra-datawedge/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/getting-started.mdx",
+      "file": "docs/plugins/zebra-datawedge/getting-started/index.html",
+      "codeBlocks": 5,
       "matches": true
     },
     {
@@ -3518,7 +3707,5 @@
       "codeBlocks": 0,
       "matches": true
     }
-  ],
-  "domNestingCompared": true,
-  "finalVerification": "evidence/parity/static.json"
+  ]
 }

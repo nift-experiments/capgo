@@ -1,0 +1,3 @@
+// Adapt parse5 fragments to HAST for the pinned Starlight file-tree processor.
+import{parseFragment}from'./parse5.mjs';
+export function htmlToHast(html,{space}={}){const root=parseFragment(space==='svg'?'<svg>'+html+'</svg>':html);function convert(n){if(n.nodeName==='#text')return{type:'text',value:n.value};if(n.nodeName==='#comment')return{type:'comment',value:n.data};if(n.tagName)return{type:'element',tagName:n.tagName,properties:Object.fromEntries((n.attrs??[]).map(a=>[a.name==='class'?'className':a.name,a.name==='class'?a.value.split(/\s+/):a.value])),children:(n.childNodes??[]).map(convert)};return{type:'root',children:(n.childNodes??[]).map(convert)}}return convert(space==='svg'?root.childNodes[0]:root)}

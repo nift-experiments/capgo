@@ -1,0 +1,2 @@
+// Pinned upstream YouTubeEmbed.astro markup, generated from authored props.
+export function components({element:h}){return {default:({id,title})=>h('div',{className:'my-6 aspect-video w-full overflow-hidden rounded-xl border border-[var(--sl-color-gray-5)] bg-black'},h('iframe',{src:'https://www.youtube-nocookie.com/embed/'+id,title,className:'h-full w-full',loading:'lazy',allow:'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share',referrerPolicy:'strict-origin-when-cross-origin',allowFullScreen:true}))};}

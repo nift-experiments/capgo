@@ -1,0 +1,309 @@
+{
+  "upstreamCommit": "7d5b69d6ba8a6630384dffc7d012431ee3ed22ec",
+  "constructs": [
+    {
+      "name": "MermaidGraph",
+      "affectedPages": 5,
+      "status": "connected; rendered body parity verified",
+      "implementation": "source graph markup with retained pinned Mermaid controller",
+      "representativeRoutes": [
+        "/docs/builder/ci-ota-or-native/",
+        "/docs/builder/configuration/",
+        "/docs/builder/getting-started/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/builder/ci-ota-or-native/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ci-ota-or-native.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/builder/configuration/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/configuration.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/builder/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/builder/webhooks/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/webhooks.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/social-login/apple/android/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/android.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "BuildCredentialsQuestionnaire",
+      "affectedPages": 1,
+      "status": "connected; rendered body parity verified",
+      "implementation": "authored questionnaire data, shell, and inline controller",
+      "representativeRoutes": [
+        "/docs/builder/getting-started/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/builder/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "image import",
+      "affectedPages": 3,
+      "status": "connected; rendered body parity verified",
+      "implementation": "pinned authored image import mapped to canonical asset",
+      "representativeRoutes": [
+        "/docs/builder/ios/",
+        "/docs/plugins/native-loader/",
+        "/docs/plugins/native-purchases/ios-app-store-review/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/builder/ios/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ios.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/native-loader/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-loader/index.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/native-purchases/ios-app-store-review/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-app-store-review.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "YouTubeEmbed",
+      "affectedPages": 2,
+      "status": "connected; rendered body parity verified",
+      "implementation": "original iframe markup and embedded player",
+      "representativeRoutes": [
+        "/docs/getting-started/add-an-app/",
+        "/docs/plugins/social-login/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/getting-started/add-an-app/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/add-an-app.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/social-login/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/index.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "Code",
+      "affectedPages": 2,
+      "status": "connected; rendered body parity verified",
+      "implementation": "source-derived Expressive Code rendering",
+      "representativeRoutes": [
+        "/docs/getting-started/add-an-app/",
+        "/docs/getting-started/cicd-integration/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/getting-started/add-an-app/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/add-an-app.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/getting-started/cicd-integration/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/cicd-integration.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "PluginsDirectory",
+      "affectedPages": 1,
+      "status": "connected; rendered body parity verified",
+      "implementation": "authored registry and source docs-slug resolution",
+      "representativeRoutes": [
+        "/docs/plugins/"
+      ],
+      "residualDifferences": [
+        "Published link resolution retained as explicit data; authored registry and template regenerate the directory."
+      ],
+      "pages": [
+        {
+          "route": "/docs/plugins/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/index.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "PackageManagers",
+      "affectedPages": 12,
+      "status": "connected; rendered body parity verified",
+      "implementation": "source-derived command transformation and synchronized tabs",
+      "representativeRoutes": [
+        "/docs/plugins/app-attest/getting-started/",
+        "/docs/plugins/auto/getting-started/",
+        "/docs/plugins/capacitor-plus/getting-started/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/plugins/app-attest/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/auto/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/capacitor-plus/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-plus/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/incoming-call-kit/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/intune/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/native-navigation/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-navigation/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/native-purchases/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/passkey/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/privacy-screen/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/watch/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/webview-version-checker/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        },
+        {
+          "route": "/docs/plugins/zebra-datawedge/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "PluginSetupSteps",
+      "affectedPages": 1,
+      "status": "connected; rendered body parity verified",
+      "implementation": "shared authored steps and package-manager commands",
+      "representativeRoutes": [
+        "/docs/plugins/contentsquare/getting-started/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/plugins/contentsquare/getting-started/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/getting-started.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "ConditionalQuestionnaire",
+      "affectedPages": 1,
+      "status": "connected; rendered body parity verified",
+      "implementation": "authored questionnaire and framework selector",
+      "representativeRoutes": [
+        "/docs/plugins/updater/notify-app-ready/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/plugins/updater/notify-app-ready/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/notify-app-ready.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    },
+    {
+      "name": "FileTree",
+      "affectedPages": 1,
+      "status": "connected; rendered body parity verified",
+      "implementation": "Starlight processor with parse5 boundary and original Seti icons",
+      "representativeRoutes": [
+        "/docs/plugins/watch/watch-app-setup/"
+      ],
+      "residualDifferences": [],
+      "pages": [
+        {
+          "route": "/docs/plugins/watch/watch-app-setup/",
+          "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/watch-app-setup.mdx",
+          "connected": true,
+          "renderedBodyVerified": true
+        }
+      ]
+    }
+  ]
+}

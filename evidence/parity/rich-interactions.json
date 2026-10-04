@@ -1,0 +1,16 @@
+{
+  "docs": 529,
+  "checks": {
+    "buildQuestionnaire": "iOS -> App Store/TestFlight -> credentials question",
+    "conditionalQuestionnaire": "React -> Vite SPA -> authored code recommendation",
+    "packageManagerTabs": "bun selection synchronizes both blocks; ArrowLeft selects yarn in both",
+    "fileTree": "directory disclosure closes",
+    "mermaid": "one SVG rendered; data-processed=true",
+    "mobileScreenshot": "375x900 screenshots byte-identical; original 574px scroll width preserved"
+  },
+  "screenshotSha256": "bfa41e4dc4f951c48dd21f5386db497407640430668aac42e96dbdfbecb8a7c0",
+  "limitations": [
+    "Representative interaction checks, not exhaustive per-route certification",
+    "Plugin directory preserves pinned published repository fallback resolution as explicit retained data"
+  ]
+}

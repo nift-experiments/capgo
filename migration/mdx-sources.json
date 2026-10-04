@@ -4380,6 +4380,249 @@
       "matches": true,
       "bodyStart": 293542,
       "bodyEnd": 488467
+    },
+    {
+      "route": "/docs/builder/ci-ota-or-native/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ci-ota-or-native.mdx",
+      "file": "docs/builder/ci-ota-or-native/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 289475,
+      "bodyEnd": 356136
+    },
+    {
+      "route": "/docs/builder/configuration/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/configuration.mdx",
+      "file": "docs/builder/configuration/index.html",
+      "codeBlocks": 10,
+      "matches": true,
+      "bodyStart": 298227,
+      "bodyEnd": 385167
+    },
+    {
+      "route": "/docs/builder/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/getting-started.mdx",
+      "file": "docs/builder/getting-started/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 291076,
+      "bodyEnd": 324459
+    },
+    {
+      "route": "/docs/builder/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ios.mdx",
+      "file": "docs/builder/ios/index.html",
+      "codeBlocks": 16,
+      "matches": true,
+      "bodyStart": 301261,
+      "bodyEnd": 433608
+    },
+    {
+      "route": "/docs/builder/webhooks/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/webhooks.mdx",
+      "file": "docs/builder/webhooks/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 291116,
+      "bodyEnd": 359913
+    },
+    {
+      "route": "/docs/getting-started/add-an-app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/add-an-app.mdx",
+      "file": "docs/getting-started/add-an-app/index.html",
+      "codeBlocks": 7,
+      "matches": true,
+      "bodyStart": 288268,
+      "bodyEnd": 310080
+    },
+    {
+      "route": "/docs/getting-started/cicd-integration/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/cicd-integration.mdx",
+      "file": "docs/getting-started/cicd-integration/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 290400,
+      "bodyEnd": 331799
+    },
+    {
+      "route": "/docs/plugins/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/index.mdx",
+      "file": "docs/plugins/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286202,
+      "bodyEnd": 419764
+    },
+    {
+      "route": "/docs/plugins/app-attest/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/getting-started.mdx",
+      "file": "docs/plugins/app-attest/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 293052,
+      "bodyEnd": 310158
+    },
+    {
+      "route": "/docs/plugins/auto/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/getting-started.mdx",
+      "file": "docs/plugins/auto/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true,
+      "bodyStart": 292352,
+      "bodyEnd": 312951
+    },
+    {
+      "route": "/docs/plugins/capacitor-plus/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-plus/getting-started.mdx",
+      "file": "docs/plugins/capacitor-plus/getting-started/index.html",
+      "codeBlocks": 26,
+      "matches": true,
+      "bodyStart": 296661,
+      "bodyEnd": 376158
+    },
+    {
+      "route": "/docs/plugins/contentsquare/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/getting-started.mdx",
+      "file": "docs/plugins/contentsquare/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 293602,
+      "bodyEnd": 332268
+    },
+    {
+      "route": "/docs/plugins/incoming-call-kit/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/getting-started.mdx",
+      "file": "docs/plugins/incoming-call-kit/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 294326,
+      "bodyEnd": 320132
+    },
+    {
+      "route": "/docs/plugins/intune/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/getting-started.mdx",
+      "file": "docs/plugins/intune/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true,
+      "bodyStart": 294042,
+      "bodyEnd": 321680
+    },
+    {
+      "route": "/docs/plugins/native-loader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-loader/index.mdx",
+      "file": "docs/plugins/native-loader/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267196,
+      "bodyEnd": 282267
+    },
+    {
+      "route": "/docs/plugins/native-navigation/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-navigation/getting-started.mdx",
+      "file": "docs/plugins/native-navigation/getting-started/index.html",
+      "codeBlocks": 18,
+      "matches": true,
+      "bodyStart": 294771,
+      "bodyEnd": 358930
+    },
+    {
+      "route": "/docs/plugins/native-purchases/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/getting-started.mdx",
+      "file": "docs/plugins/native-purchases/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true,
+      "bodyStart": 295313,
+      "bodyEnd": 359405
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-app-store-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-app-store-review.mdx",
+      "file": "docs/plugins/native-purchases/ios-app-store-review/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 305404,
+      "bodyEnd": 405354
+    },
+    {
+      "route": "/docs/plugins/passkey/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/getting-started.mdx",
+      "file": "docs/plugins/passkey/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true,
+      "bodyStart": 292455,
+      "bodyEnd": 313048
+    },
+    {
+      "route": "/docs/plugins/privacy-screen/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/getting-started.mdx",
+      "file": "docs/plugins/privacy-screen/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 292818,
+      "bodyEnd": 305004
+    },
+    {
+      "route": "/docs/plugins/social-login/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/index.mdx",
+      "file": "docs/plugins/social-login/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 271602,
+      "bodyEnd": 285607
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/android.mdx",
+      "file": "docs/plugins/social-login/apple/android/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 290550,
+      "bodyEnd": 333491
+    },
+    {
+      "route": "/docs/plugins/updater/notify-app-ready/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/notify-app-ready.mdx",
+      "file": "docs/plugins/updater/notify-app-ready/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 285797,
+      "bodyEnd": 325311
+    },
+    {
+      "route": "/docs/plugins/watch/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/getting-started.mdx",
+      "file": "docs/plugins/watch/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 297648,
+      "bodyEnd": 363502
+    },
+    {
+      "route": "/docs/plugins/watch/watch-app-setup/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/watch-app-setup.mdx",
+      "file": "docs/plugins/watch/watch-app-setup/index.html",
+      "codeBlocks": 8,
+      "matches": true,
+      "bodyStart": 301034,
+      "bodyEnd": 399025
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/getting-started.mdx",
+      "file": "docs/plugins/webview-version-checker/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true,
+      "bodyStart": 295002,
+      "bodyEnd": 321925
+    },
+    {
+      "route": "/docs/plugins/zebra-datawedge/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/getting-started.mdx",
+      "file": "docs/plugins/zebra-datawedge/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 292808,
+      "bodyEnd": 313420
     }
   ]
 }
