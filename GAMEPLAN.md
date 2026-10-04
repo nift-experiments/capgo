@@ -53,8 +53,8 @@ conditions and equivalent acceptance tests before runs. Run the final evaluation
 
 ## CP06 — Integrate the certified reusable Nift MDX pipeline
 
-- [ ] Integrate the reusable Nift MDX renderer with a distinct compiler-semantic render-preparation path and exact per-target dependency manifests. Preserve pure parse/input contracts; implement/certify generic orchestration in the MDX package before site-scale integration. Use proper Nift is_dir/is_file APIs once landed, without core edits. Add Capgo-owned adapters and measure largest/component-heavy/all-corpus builds. Acceptance: authored source remains authoritative, batching is normal, unknown components fail, dependency/asset/config invalidation is exact and browser React is unnecessary.
-- [ ] Save evidence, commit this checkpoint, and update handover status.
+- [x] Integrate the reusable Nift MDX renderer with a distinct compiler-semantic render-preparation path and exact per-target dependency manifests. Preserve pure parse/input contracts; implement/certify generic orchestration in the MDX package before site-scale integration. Use proper Nift is_dir/is_file APIs once landed, without core edits. Add Capgo-owned adapters and measure largest/component-heavy/all-corpus builds. Acceptance: authored source remains authoritative, batching is normal, unknown components fail, dependency/asset/config invalidation is exact and browser React is unnecessary.
+- [x] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP07 — Define batch orchestration and per-page dependencies
 
