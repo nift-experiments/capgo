@@ -48,8 +48,8 @@ conditions and equivalent acceptance tests before runs. Run the final evaluation
 
 ## CP05 — Preserve human+agent authoring inputs
 
-- [ ] Import MD/MDX/frontmatter and asset references by hash, preserve familiar source conventions where practical and record attribution, locale and upstream-update merges. Humans and agents edit the authoritative source; generated fragments are output. Acceptance: agreed corpus matches and editable ownership/update conflicts are explicit.
-- [ ] Save evidence, commit this checkpoint, and update handover status.
+- [x] Import MD/MDX/frontmatter and asset references by hash, preserve familiar source conventions where practical and record attribution, locale and upstream-update merges. Humans and agents edit the authoritative source; generated fragments are output. Acceptance: agreed corpus matches and editable ownership/update conflicts are explicit.
+- [x] Save evidence, commit this checkpoint, and update handover status.
 
 ## CP06 — Integrate the certified reusable Nift MDX pipeline
 
