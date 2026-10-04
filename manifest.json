@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mdx": {
+      "source": "https://github.com/nift-packages/mdx",
+      "ref": "22bb53653f47c22defff863e3465e8df9a11da99"
+    }
+  }
+}

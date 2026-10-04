@@ -1,0 +1,10 @@
+{
+  "lockfileVersion": 2,
+  "packages": {
+    "mdx": {
+      "source": "https://github.com/nift-packages/mdx",
+      "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+      "requirements": {}
+    }
+  }
+}
