@@ -1,0 +1,11 @@
+{
+  "phase": 5,
+  "milestone": "global header and route-aware footer",
+  "status": "in progress",
+  "headerPages": 813,
+  "footerPages": 813,
+  "footerTemplates": 1,
+  "byteDifferences": 0,
+  "elapsedSeconds": 11.41,
+  "peakRssKiB": 144724
+}
