@@ -1,0 +1,26 @@
+[
+  {
+    "name": "uuid",
+    "width": 375,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.0
+  },
+  {
+    "name": "uuid",
+    "width": 1440,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.0
+  },
+  {
+    "name": "channels",
+    "width": 375,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.0
+  },
+  {
+    "name": "channels",
+    "width": 1440,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.33888593537716344
+  }
+]

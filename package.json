@@ -13,7 +13,12 @@
     "highlight.js": "11.11.1",
     "node-forge": "1.4.0",
     "parse5": "7.3.0",
+    "rehype-expressive-code": "0.44.2",
+    "remark-directive": "4.0.0",
     "remark-smartypants": "3.0.3",
     "semver": "7.8.5"
+  },
+  "overrides": {
+    "shiki": "4.4.3"
   }
 }

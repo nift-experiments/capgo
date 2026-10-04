@@ -3,7 +3,7 @@
 Reference Capgo recreation designed for pleasant human+agent maintenance,
 with familiar MD/MDX/frontmatter authoring where practical.
 
-**Migration in progress.** The local site reproduces the pinned production build, with shared Nift shells and the first 138 authored docs rendered through the Nift MDX package. Rich MDX and the rest of the corpus remain in progress. See HANDOVER.md for current evidence.
+**Migration in progress.** The local site reproduces the pinned production build, with shared Nift shells and the first 346 authored docs rendered through the Nift MDX package. Rich MDX and the rest of the corpus remain in progress. See HANDOVER.md for current evidence.
 
 Both experiments use the same pinned [Capgo source](https://github.com/Cap-go/website/tree/7d5b69d6ba8a6630384dffc7d012431ee3ed22ec),
 inspected on 4 October 2026. The current source inventory contains 1,193 authored

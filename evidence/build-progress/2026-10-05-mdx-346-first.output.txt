@@ -1,0 +1,7 @@
+[expressive-code] Error while highlighting code block using language "gradle" in document "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/android.mdx". The language could not be found. Using "txt" instead. Ensure that all required languages are either part of the bundle or custom languages provided in the "langs" config option.
+{"pages":346,"codeBlocks":2529}
+{"prepared":346,"cached":0,"pages":346}
+📦 1347 files built successfully
+time taken: 1.682979 seconds
+{"htmlRoutes":1347,"files":3876,"parityErrors":0,"mdxSemanticMatches":346}
+{"buildThreads":-1,"timings":{"referenceVerification":0.862,"configuration":0.004,"assetVerification":0.431,"mdxPreparation":27.203,"niftBuild":1.707,"outputVerification":2.98},"totalSeconds":33.187}

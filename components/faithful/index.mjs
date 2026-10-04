@@ -1,0 +1,2 @@
+// Astro keeps table alignment attributes; modern MDX otherwise converts them to inline CSS.
+export function components({element:h}){const cell=tag=>({style,...props})=>{if(style?.textAlign){props.align=style.textAlign;const rest={...style};delete rest.textAlign;if(Object.keys(rest).length)props.style=rest;}else if(style)props.style=style;return h(tag,props)};return {th:cell('th'),td:cell('td')};}

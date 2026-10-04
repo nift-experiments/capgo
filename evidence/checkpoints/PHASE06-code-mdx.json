@@ -1,0 +1,21 @@
+{
+  "phase": 6,
+  "status": "in progress",
+  "authoredMdxRoutes": 346,
+  "codeBlocks": 2529,
+  "parity": "All 346 body DOM/text/attribute comparisons match. Page shells and remaining files retain byte parity; full 1347-route audit passes.",
+  "renderer": "Expressive Code 0.44.2 / Shiki 4.4.3 with pinned Starlight settings. Source-derived code preparation, no golden-body fallback.",
+  "responsive": "UUID and channels pages at 375/1440px: zero geometry differences, three pixel-identical captures; remaining desktop sample mean RGB difference 0.339.",
+  "copyControl": "Generated control displays Copied! feedback; browser clipboard bridge returned empty text, so clipboard contents are not certified.",
+  "builds": {
+    "first": {
+      "seconds": 33.35,
+      "peakRssKiB": 375584
+    },
+    "prepared": {
+      "seconds": 7.08,
+      "peakRssKiB": 228936
+    }
+  },
+  "pending": "Imported components, remaining authored docs/blog/plugin routes, metadata recovery, agent rebuild and final audits."
+}

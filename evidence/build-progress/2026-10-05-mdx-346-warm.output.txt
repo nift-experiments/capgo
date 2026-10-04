@@ -1,0 +1,6 @@
+{"pages":346,"codeBlocks":2529}
+{"prepared":0,"cached":346,"pages":346}
+📦 1347 files built successfully
+time taken: 1.618176 seconds
+{"htmlRoutes":1347,"files":3876,"parityErrors":0,"mdxSemanticMatches":346}
+{"buildThreads":-1,"timings":{"referenceVerification":0.905,"configuration":0.005,"assetVerification":0.454,"mdxPreparation":1.259,"niftBuild":1.637,"outputVerification":2.655},"totalSeconds":6.914}

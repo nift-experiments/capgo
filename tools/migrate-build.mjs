@@ -13,7 +13,7 @@ await stable('.nift/config.json',JSON.stringify({config:{'content-dir':'migratio
 mark('configuration');
 for(const row of files){if(row.path.endsWith('.html'))continue;const dest='public/'+row.path;await mkdir(dirname(dest),{recursive:true});let unchanged=false;try{unchanged=createHash('sha256').update(await readFile(dest)).digest('hex')===row.sha256}catch{}if(!unchanged)await copyFile('golden/site/'+row.path,dest)}
 mark('assetVerification');
-try{await stat('migration/mdx-sources.json');const prepared=spawnSync(process.execPath,['tools/prepare-faithful.mjs'],{stdio:'inherit'});if(prepared.status!==0)process.exit(prepared.status??1);}catch(error){if(error.code!=='ENOENT')throw error}
+try{await stat('migration/mdx-sources.json');if(JSON.parse(await readFile('.nift/mdx-render.json')).rehypePlugins.some(p=>p.path==='components/faithful/code-blocks.mjs')){const code=spawnSync(process.execPath,['tools/prepare-code-cohort.mjs'],{stdio:'inherit'});if(code.status!==0)process.exit(code.status??1);}const prepared=spawnSync(process.execPath,['tools/prepare-faithful.mjs'],{stdio:'inherit'});if(prepared.status!==0)process.exit(prepared.status??1);}catch(error){if(error.code!=='ENOENT')throw error}
 mark('mdxPreparation');
 const build=spawnSync(nift,['build',...process.argv.slice(2)],{stdio:'inherit'});if(build.status!==0)process.exit(build.status??1);mark('niftBuild');const parity=await verifyOutput('public');await mkdir('evidence/parity',{recursive:true});await writeFile('evidence/parity/bootstrap-files.json',JSON.stringify(parity,null,2)+'\n');console.log(JSON.stringify({htmlRoutes:routes.length,files:files.length,parityErrors:parity.errors.length,mdxSemanticMatches:parity.semanticMatches.length}));if(parity.errors.length)process.exitCode=1;
 
