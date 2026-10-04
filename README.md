@@ -11,7 +11,7 @@ Build directly with the installed Nift 4.5 or newer:
 nift build --all
 ```
 
-The project pre-build hook prepares authored MDX automatically. After a failed or interrupted build, use `nift build --repair` once. A cached full build of the current 496-page MDX cohort took **3.30 seconds / 204.8 MiB peak RSS**, including the preparation hook. The migration remains in progress.
+The project pre-build hook prepares authored MDX automatically. After a failed or interrupted build, use `nift build --repair` once. A cached full build of the current 496-page MDX cohort took **3.30 seconds / 204.8 MiB peak RSS**, including the preparation hook. Interactive builds now show preparation status before Nift’s existing page progress. The MDX renderer uses a deterministic environment, so switching terminals does not invalidate all prepared pages; source, dependency and Node-version changes still invalidate the cache. The migration remains in progress.
 
 
 Both experiments use the same pinned [Capgo source](https://github.com/Cap-go/website/tree/7d5b69d6ba8a6630384dffc7d012431ee3ed22ec),

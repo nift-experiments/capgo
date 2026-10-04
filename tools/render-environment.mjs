@@ -1,3 +1,5 @@
-// These launch/profiling controls do not participate in authored content rendering.
-// Preserve all application variables so environment-dependent adapters still invalidate.
-for (const name of ['_','SHLVL','NIFT','NIFT_BUILD_THREADS','BUILD_PROFILE','npm_lifecycle_event','npm_lifecycle_script','npm_execpath','npm_node_execpath']) delete process.env[name];
+// Faithful content adapters are deterministic and do not read shell/application env.
+// Runtime API configuration belongs to the preview server, not the MDX renderer.
+// Preserve only the explicit dependency override and Windows OS bootstrap variables.
+const allowed=new Set(['MDX_NODE_MODULES','SystemRoot','SYSTEMROOT','WINDIR']);
+for(const name of Object.keys(process.env))if(!allowed.has(name))delete process.env[name];

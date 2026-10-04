@@ -1,0 +1,24 @@
+{
+  "binary": "/usr/local/bin/nift",
+  "interactiveColdBuild": {
+    "command": "nift build --all",
+    "seconds": 48.81,
+    "peakRssKiB": 355692,
+    "prepared": 496,
+    "cached": 0,
+    "heartbeatSeconds": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "nativePageProgressObserved": true,
+    "builtPages": 1347
+  },
+  "environmentCacheChecks": {
+    "fullSeconds": 3.84,
+    "repairSeconds": 3.57,
+    "cachedPages": 496
+  },
+  "parityGate": true
+}
