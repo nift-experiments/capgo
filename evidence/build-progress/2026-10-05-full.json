@@ -1,0 +1,8 @@
+{
+  "stage": "raw HTML bootstrap with full hash validation",
+  "command": "NIFT=<Nift 4.6 executable> node tools/build.mjs --all",
+  "elapsedSeconds": 13.15,
+  "peakRssKiB": 145020,
+  "status": 0,
+  "measurement": "working measurement; simultaneous runs, not comparative benchmark; dependency install excluded"
+}

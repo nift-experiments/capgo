@@ -1,0 +1,20 @@
+{
+  "phase": 4,
+  "gate": true,
+  "files": 3876,
+  "routes": 1347,
+  "byteDifferences": 0,
+  "unexpectedFiles": 0,
+  "semanticDifferences": 0,
+  "introducedLinkIssues": 0,
+  "baselineLinkAnchorIssues": 11339,
+  "visualSamples": 39,
+  "geometryDifferences": 0,
+  "pixelExact": 27,
+  "classification": "Remaining captures differ only in homepage animation or <=0.1 mean channel browser rendering variance.",
+  "limitations": [
+    "Viewport screenshots are not a complete all-page visual audit.",
+    "Dynamic external testimonials/search/signup are not fully offline or submitted.",
+    "Golden captures intentionally preserve upstream baseline defects."
+  ]
+}

@@ -20,7 +20,7 @@ The 5 October instructions in docs/GOLDEN-MIGRATION-INSTRUCTIONS.md supersede th
 
 ## Phase 4 — establish automated parity checks
 
-- [ ] Implement, validate against the immutable production build, save evidence, update handover and commit.
+- [x] Implement, validate against the immutable production build, save evidence, update handover and commit.
 
 ## Phase 5 — recover proper Nift structure in `capgo`
 
