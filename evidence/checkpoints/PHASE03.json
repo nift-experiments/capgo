@@ -1,0 +1,14 @@
+{
+  "phase": 3,
+  "status": "raw Nift bootstrap; not final source migration",
+  "htmlRoutes": 1347,
+  "files": 3876,
+  "byteDifferences": 0,
+  "browserSamples": 39,
+  "behaviour": [
+    "original Products dropdown expands",
+    "SemVer 1.0.0 vs 1.1.0 returns update applied"
+  ],
+  "retained": "complete original compiled markup, CSS and JS",
+  "next": "automated parity gate; template extraction; real MDX bodies"
+}

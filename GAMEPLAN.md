@@ -16,7 +16,7 @@ The 5 October instructions in docs/GOLDEN-MIGRATION-INSTRUCTIONS.md supersede th
 
 ## Phase 3 — bootstrap `capgo` directly from the working built site
 
-- [ ] Implement, validate against the immutable production build, save evidence, update handover and commit.
+- [x] Implement, validate against the immutable production build, save evidence, update handover and commit.
 
 ## Phase 4 — establish automated parity checks
 

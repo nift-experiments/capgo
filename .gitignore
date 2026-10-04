@@ -11,3 +11,6 @@ build/
 .env
 config/public.json
 *.log
+
+# Nift dependency/hash cache for migrated pages
+.nift/migration/
