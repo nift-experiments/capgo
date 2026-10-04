@@ -3,12 +3,11 @@
 Reference Capgo recreation designed for pleasant human+agent maintenance,
 with familiar MD/MDX/frontmatter authoring where practical.
 
-**Planning only: no website has been implemented.** Stop before implementation
-until the user has reviewed and approved the plan.
+**Migration in progress.** The local site reproduces the pinned production build, with shared Nift shells and the first 138 authored docs rendered through the Nift MDX package. Rich MDX and the rest of the corpus remain in progress. See HANDOVER.md for current evidence.
 
 Both experiments use the same pinned [Capgo source](https://github.com/Cap-go/website/tree/7d5b69d6ba8a6630384dffc7d012431ee3ed22ec),
 inspected on 4 October 2026. The current source inventory contains 1,193 authored
-MD/MDX documents; rendered route count is not established yet.
+MD/MDX documents; the frozen production snapshot contains 1,347 HTML routes.
 
 These Capgo websites may use blue and light themes and should follow Capgo's
 style family. The Labs report site alone has the dark/no-blue rule. There is no
@@ -18,7 +17,7 @@ APIs and ordinary runtime tooling. GitHub Pages is an optional static preview.
 Read:
 
 - [HANDOVER.md](HANDOVER.md): purpose, architecture, runtime and maintenance rules.
-- [GAMEPLAN.md](GAMEPLAN.md): 22 ordered implementation checkpoints, none complete.
+- [GAMEPLAN.md](GAMEPLAN.md): the current golden-reference migration phases.
 - [UPSTREAM.md](UPSTREAM.md): observed architecture, corpus and open constraints.
 - [provenance.json](provenance.json): exact upstream SHA, lock digest and measured inventory.
 

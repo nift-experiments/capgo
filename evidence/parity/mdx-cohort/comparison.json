@@ -1,0 +1,17 @@
+[
+  {
+    "width": 375,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.002155671296296296
+  },
+  {
+    "width": 768,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.0
+  },
+  {
+    "width": 1440,
+    "geometryDifferences": 0,
+    "meanPixelDifference": 0.0
+  }
+]

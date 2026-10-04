@@ -1,0 +1,1109 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "route": "/docs/capgo-availability/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/capgo-availability.mdx",
+      "file": "docs/capgo-availability/index.html",
+      "matches": true,
+      "bodyStart": 289972,
+      "bodyEnd": 304114
+    },
+    {
+      "route": "/docs/cli/migrations/cli-from-0x-to-1x/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/migrations/cli-from-0x-to-1x.mdx",
+      "file": "docs/cli/migrations/cli-from-0x-to-1x/index.html",
+      "matches": true,
+      "bodyStart": 286150,
+      "bodyEnd": 287901
+    },
+    {
+      "route": "/docs/plugins/accelerometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/accelerometer/index.mdx",
+      "file": "docs/plugins/accelerometer/index.html",
+      "matches": true,
+      "bodyStart": 267142,
+      "bodyEnd": 274074
+    },
+    {
+      "route": "/docs/plugins/admob/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/admob/index.mdx",
+      "file": "docs/plugins/admob/index.html",
+      "matches": true,
+      "bodyStart": 266848,
+      "bodyEnd": 273709
+    },
+    {
+      "route": "/docs/plugins/age-range/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-range/index.mdx",
+      "file": "docs/plugins/age-range/index.html",
+      "matches": true,
+      "bodyStart": 265623,
+      "bodyEnd": 271372
+    },
+    {
+      "route": "/docs/plugins/age-signals/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-signals/index.mdx",
+      "file": "docs/plugins/age-signals/index.html",
+      "matches": true,
+      "bodyStart": 267103,
+      "bodyEnd": 276188
+    },
+    {
+      "route": "/docs/plugins/alarm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/alarm/index.mdx",
+      "file": "docs/plugins/alarm/index.html",
+      "matches": true,
+      "bodyStart": 266833,
+      "bodyEnd": 273947
+    },
+    {
+      "route": "/docs/plugins/android-inline-install/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-inline-install/index.mdx",
+      "file": "docs/plugins/android-inline-install/index.html",
+      "matches": true,
+      "bodyStart": 267496,
+      "bodyEnd": 273379
+    },
+    {
+      "route": "/docs/plugins/android-kiosk/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-kiosk/index.mdx",
+      "file": "docs/plugins/android-kiosk/index.html",
+      "matches": true,
+      "bodyStart": 265892,
+      "bodyEnd": 273288
+    },
+    {
+      "route": "/docs/plugins/android-sms-retriever/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-sms-retriever/index.mdx",
+      "file": "docs/plugins/android-sms-retriever/index.html",
+      "matches": true,
+      "bodyStart": 267499,
+      "bodyEnd": 276055
+    },
+    {
+      "route": "/docs/plugins/android-usagestatsmanager/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-usagestatsmanager/index.mdx",
+      "file": "docs/plugins/android-usagestatsmanager/index.html",
+      "matches": true,
+      "bodyStart": 267570,
+      "bodyEnd": 274630
+    },
+    {
+      "route": "/docs/plugins/app-attest/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/index.mdx",
+      "file": "docs/plugins/app-attest/index.html",
+      "matches": true,
+      "bodyStart": 267017,
+      "bodyEnd": 274034
+    },
+    {
+      "route": "/docs/plugins/app-tracking-transparency/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-tracking-transparency/index.mdx",
+      "file": "docs/plugins/app-tracking-transparency/index.html",
+      "matches": true,
+      "bodyStart": 266069,
+      "bodyEnd": 272325
+    },
+    {
+      "route": "/docs/plugins/appinsights/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appinsights/index.mdx",
+      "file": "docs/plugins/appinsights/index.html",
+      "matches": true,
+      "bodyStart": 267063,
+      "bodyEnd": 273171
+    },
+    {
+      "route": "/docs/plugins/appsflyer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appsflyer/index.mdx",
+      "file": "docs/plugins/appsflyer/index.html",
+      "matches": true,
+      "bodyStart": 267008,
+      "bodyEnd": 281577
+    },
+    {
+      "route": "/docs/plugins/audio-recorder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audio-recorder/index.mdx",
+      "file": "docs/plugins/audio-recorder/index.html",
+      "matches": true,
+      "bodyStart": 267155,
+      "bodyEnd": 274836
+    },
+    {
+      "route": "/docs/plugins/audiosession/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audiosession/index.mdx",
+      "file": "docs/plugins/audiosession/index.html",
+      "matches": true,
+      "bodyStart": 265806,
+      "bodyEnd": 272169
+    },
+    {
+      "route": "/docs/plugins/autofill-save-password/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/autofill-save-password/index.mdx",
+      "file": "docs/plugins/autofill-save-password/index.html",
+      "matches": true,
+      "bodyStart": 267509,
+      "bodyEnd": 273688
+    },
+    {
+      "route": "/docs/plugins/background-geolocation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-geolocation/index.mdx",
+      "file": "docs/plugins/background-geolocation/index.html",
+      "matches": true,
+      "bodyStart": 267528,
+      "bodyEnd": 275942
+    },
+    {
+      "route": "/docs/plugins/background-task/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-task/index.mdx",
+      "file": "docs/plugins/background-task/index.html",
+      "matches": true,
+      "bodyStart": 267273,
+      "bodyEnd": 276766
+    },
+    {
+      "route": "/docs/plugins/barometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/barometer/index.mdx",
+      "file": "docs/plugins/barometer/index.html",
+      "matches": true,
+      "bodyStart": 266992,
+      "bodyEnd": 273816
+    },
+    {
+      "route": "/docs/plugins/bluetooth-low-energy/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/bluetooth-low-energy/index.mdx",
+      "file": "docs/plugins/bluetooth-low-energy/index.html",
+      "matches": true,
+      "bodyStart": 267318,
+      "bodyEnd": 277594
+    },
+    {
+      "route": "/docs/plugins/brightness/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/brightness/index.mdx",
+      "file": "docs/plugins/brightness/index.html",
+      "matches": true,
+      "bodyStart": 267005,
+      "bodyEnd": 274790
+    },
+    {
+      "route": "/docs/plugins/camera-preview/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/camera-preview/index.mdx",
+      "file": "docs/plugins/camera-preview/index.html",
+      "matches": true,
+      "bodyStart": 267141,
+      "bodyEnd": 281385
+    },
+    {
+      "route": "/docs/plugins/compass/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/compass/index.mdx",
+      "file": "docs/plugins/compass/index.html",
+      "matches": true,
+      "bodyStart": 266915,
+      "bodyEnd": 275656
+    },
+    {
+      "route": "/docs/plugins/contacts/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contacts/index.mdx",
+      "file": "docs/plugins/contacts/index.html",
+      "matches": true,
+      "bodyStart": 266949,
+      "bodyEnd": 274929
+    },
+    {
+      "route": "/docs/plugins/contentsquare/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/index.mdx",
+      "file": "docs/plugins/contentsquare/index.html",
+      "matches": true,
+      "bodyStart": 267148,
+      "bodyEnd": 274042
+    },
+    {
+      "route": "/docs/plugins/crisp/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/crisp/index.mdx",
+      "file": "docs/plugins/crisp/index.html",
+      "matches": true,
+      "bodyStart": 266880,
+      "bodyEnd": 274632
+    },
+    {
+      "route": "/docs/plugins/data-storage-sqlite/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/data-storage-sqlite/index.mdx",
+      "file": "docs/plugins/data-storage-sqlite/index.html",
+      "matches": true,
+      "bodyStart": 267331,
+      "bodyEnd": 275139
+    },
+    {
+      "route": "/docs/plugins/device-info/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/device-info/index.mdx",
+      "file": "docs/plugins/device-info/index.html",
+      "matches": true,
+      "bodyStart": 267109,
+      "bodyEnd": 274809
+    },
+    {
+      "route": "/docs/plugins/document-scanner/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/document-scanner/index.mdx",
+      "file": "docs/plugins/document-scanner/index.html",
+      "matches": true,
+      "bodyStart": 267239,
+      "bodyEnd": 272929
+    },
+    {
+      "route": "/docs/plugins/downloader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/downloader/index.mdx",
+      "file": "docs/plugins/downloader/index.html",
+      "matches": true,
+      "bodyStart": 267076,
+      "bodyEnd": 274362
+    },
+    {
+      "route": "/docs/plugins/env/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/env/index.mdx",
+      "file": "docs/plugins/env/index.html",
+      "matches": true,
+      "bodyStart": 266762,
+      "bodyEnd": 272434
+    },
+    {
+      "route": "/docs/plugins/facebook-analytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/facebook-analytics/index.mdx",
+      "file": "docs/plugins/facebook-analytics/index.html",
+      "matches": true,
+      "bodyStart": 267397,
+      "bodyEnd": 275786
+    },
+    {
+      "route": "/docs/plugins/fast-sql/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/fast-sql/index.mdx",
+      "file": "docs/plugins/fast-sql/index.html",
+      "matches": true,
+      "bodyStart": 266959,
+      "bodyEnd": 274057
+    },
+    {
+      "route": "/docs/plugins/ffmpeg/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ffmpeg/index.mdx",
+      "file": "docs/plugins/ffmpeg/index.html",
+      "matches": true,
+      "bodyStart": 265516,
+      "bodyEnd": 271808
+    },
+    {
+      "route": "/docs/plugins/file-compressor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-compressor/index.mdx",
+      "file": "docs/plugins/file-compressor/index.html",
+      "matches": true,
+      "bodyStart": 267117,
+      "bodyEnd": 273007
+    },
+    {
+      "route": "/docs/plugins/file-picker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-picker/index.mdx",
+      "file": "docs/plugins/file-picker/index.html",
+      "matches": true,
+      "bodyStart": 265742,
+      "bodyEnd": 273061
+    },
+    {
+      "route": "/docs/plugins/file-sharer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-sharer/index.mdx",
+      "file": "docs/plugins/file-sharer/index.html",
+      "matches": true,
+      "bodyStart": 267096,
+      "bodyEnd": 275251
+    },
+    {
+      "route": "/docs/plugins/file/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file/index.mdx",
+      "file": "docs/plugins/file/index.html",
+      "matches": true,
+      "bodyStart": 266823,
+      "bodyEnd": 282142
+    },
+    {
+      "route": "/docs/plugins/firebase-analytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-analytics/index.mdx",
+      "file": "docs/plugins/firebase-analytics/index.html",
+      "matches": true,
+      "bodyStart": 265946,
+      "bodyEnd": 273784
+    },
+    {
+      "route": "/docs/plugins/firebase-app-check/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app-check/index.mdx",
+      "file": "docs/plugins/firebase-app-check/index.html",
+      "matches": true,
+      "bodyStart": 265946,
+      "bodyEnd": 272337
+    },
+    {
+      "route": "/docs/plugins/firebase-app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app/index.mdx",
+      "file": "docs/plugins/firebase-app/index.html",
+      "matches": true,
+      "bodyStart": 265736,
+      "bodyEnd": 271517
+    },
+    {
+      "route": "/docs/plugins/firebase-authentication/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-authentication/index.mdx",
+      "file": "docs/plugins/firebase-authentication/index.html",
+      "matches": true,
+      "bodyStart": 266121,
+      "bodyEnd": 280278
+    },
+    {
+      "route": "/docs/plugins/firebase-crashlytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-crashlytics/index.mdx",
+      "file": "docs/plugins/firebase-crashlytics/index.html",
+      "matches": true,
+      "bodyStart": 266016,
+      "bodyEnd": 273407
+    },
+    {
+      "route": "/docs/plugins/firebase-firestore/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-firestore/index.mdx",
+      "file": "docs/plugins/firebase-firestore/index.html",
+      "matches": true,
+      "bodyStart": 265952,
+      "bodyEnd": 274232
+    },
+    {
+      "route": "/docs/plugins/firebase-functions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-functions/index.mdx",
+      "file": "docs/plugins/firebase-functions/index.html",
+      "matches": true,
+      "bodyStart": 265952,
+      "bodyEnd": 272005
+    },
+    {
+      "route": "/docs/plugins/firebase-messaging/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-messaging/index.mdx",
+      "file": "docs/plugins/firebase-messaging/index.html",
+      "matches": true,
+      "bodyStart": 265958,
+      "bodyEnd": 274050
+    },
+    {
+      "route": "/docs/plugins/firebase-performance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-performance/index.mdx",
+      "file": "docs/plugins/firebase-performance/index.html",
+      "matches": true,
+      "bodyStart": 266027,
+      "bodyEnd": 273387
+    },
+    {
+      "route": "/docs/plugins/firebase-remote-config/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-remote-config/index.mdx",
+      "file": "docs/plugins/firebase-remote-config/index.html",
+      "matches": true,
+      "bodyStart": 266086,
+      "bodyEnd": 273328
+    },
+    {
+      "route": "/docs/plugins/firebase-storage/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-storage/index.mdx",
+      "file": "docs/plugins/firebase-storage/index.html",
+      "matches": true,
+      "bodyStart": 265882,
+      "bodyEnd": 272396
+    },
+    {
+      "route": "/docs/plugins/flash/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/flash/index.mdx",
+      "file": "docs/plugins/flash/index.html",
+      "matches": true,
+      "bodyStart": 266833,
+      "bodyEnd": 273006
+    },
+    {
+      "route": "/docs/plugins/gtm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/gtm/index.mdx",
+      "file": "docs/plugins/gtm/index.html",
+      "matches": true,
+      "bodyStart": 266747,
+      "bodyEnd": 273410
+    },
+    {
+      "route": "/docs/plugins/health/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/health/index.mdx",
+      "file": "docs/plugins/health/index.html",
+      "matches": true,
+      "bodyStart": 266887,
+      "bodyEnd": 274356
+    },
+    {
+      "route": "/docs/plugins/home-indicator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/home-indicator/index.mdx",
+      "file": "docs/plugins/home-indicator/index.html",
+      "matches": true,
+      "bodyStart": 267303,
+      "bodyEnd": 273588
+    },
+    {
+      "route": "/docs/plugins/ibeacon/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ibeacon/index.mdx",
+      "file": "docs/plugins/ibeacon/index.html",
+      "matches": true,
+      "bodyStart": 266921,
+      "bodyEnd": 275591
+    },
+    {
+      "route": "/docs/plugins/in-app-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/in-app-review/index.mdx",
+      "file": "docs/plugins/in-app-review/index.html",
+      "matches": true,
+      "bodyStart": 265843,
+      "bodyEnd": 271810
+    },
+    {
+      "route": "/docs/plugins/incoming-call-kit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/index.mdx",
+      "file": "docs/plugins/incoming-call-kit/index.html",
+      "matches": true,
+      "bodyStart": 267299,
+      "bodyEnd": 274896
+    },
+    {
+      "route": "/docs/plugins/install-referrer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/install-referrer/index.mdx",
+      "file": "docs/plugins/install-referrer/index.html",
+      "matches": true,
+      "bodyStart": 267302,
+      "bodyEnd": 275251
+    },
+    {
+      "route": "/docs/plugins/intent-launcher/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intent-launcher/index.mdx",
+      "file": "docs/plugins/intent-launcher/index.html",
+      "matches": true,
+      "bodyStart": 267263,
+      "bodyEnd": 334134
+    },
+    {
+      "route": "/docs/plugins/intercom/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intercom/index.mdx",
+      "file": "docs/plugins/intercom/index.html",
+      "matches": true,
+      "bodyStart": 265574,
+      "bodyEnd": 274462
+    },
+    {
+      "route": "/docs/plugins/intune/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/index.mdx",
+      "file": "docs/plugins/intune/index.html",
+      "matches": true,
+      "bodyStart": 265595,
+      "bodyEnd": 273675
+    },
+    {
+      "route": "/docs/plugins/is-root/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/is-root/index.mdx",
+      "file": "docs/plugins/is-root/index.html",
+      "matches": true,
+      "bodyStart": 266930,
+      "bodyEnd": 277099
+    },
+    {
+      "route": "/docs/plugins/ivs-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ivs-player/index.mdx",
+      "file": "docs/plugins/ivs-player/index.html",
+      "matches": true,
+      "bodyStart": 267007,
+      "bodyEnd": 276548
+    },
+    {
+      "route": "/docs/plugins/jw-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/jw-player/index.mdx",
+      "file": "docs/plugins/jw-player/index.html",
+      "matches": true,
+      "bodyStart": 266954,
+      "bodyEnd": 274544
+    },
+    {
+      "route": "/docs/plugins/keep-awake/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/keep-awake/index.mdx",
+      "file": "docs/plugins/keep-awake/index.html",
+      "matches": true,
+      "bodyStart": 267041,
+      "bodyEnd": 273557
+    },
+    {
+      "route": "/docs/plugins/launch-navigator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/launch-navigator/index.mdx",
+      "file": "docs/plugins/launch-navigator/index.html",
+      "matches": true,
+      "bodyStart": 267211,
+      "bodyEnd": 273839
+    },
+    {
+      "route": "/docs/plugins/light-sensor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/light-sensor/index.mdx",
+      "file": "docs/plugins/light-sensor/index.html",
+      "matches": true,
+      "bodyStart": 267099,
+      "bodyEnd": 274570
+    },
+    {
+      "route": "/docs/plugins/live-reload/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-reload/index.mdx",
+      "file": "docs/plugins/live-reload/index.html",
+      "matches": true,
+      "bodyStart": 267073,
+      "bodyEnd": 274116
+    },
+    {
+      "route": "/docs/plugins/llm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/llm/index.mdx",
+      "file": "docs/plugins/llm/index.html",
+      "matches": true,
+      "bodyStart": 266762,
+      "bodyEnd": 273894
+    },
+    {
+      "route": "/docs/plugins/media-session/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/media-session/index.mdx",
+      "file": "docs/plugins/media-session/index.html",
+      "matches": true,
+      "bodyStart": 267139,
+      "bodyEnd": 273418
+    },
+    {
+      "route": "/docs/plugins/mock-location-detector/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mock-location-detector/index.mdx",
+      "file": "docs/plugins/mock-location-detector/index.html",
+      "matches": true,
+      "bodyStart": 266093,
+      "bodyEnd": 272804
+    },
+    {
+      "route": "/docs/plugins/mqtt/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mqtt/index.mdx",
+      "file": "docs/plugins/mqtt/index.html",
+      "matches": true,
+      "bodyStart": 266807,
+      "bodyEnd": 273089
+    },
+    {
+      "route": "/docs/plugins/mute/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mute/index.mdx",
+      "file": "docs/plugins/mute/index.html",
+      "matches": true,
+      "bodyStart": 266787,
+      "bodyEnd": 272289
+    },
+    {
+      "route": "/docs/plugins/mux-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mux-player/index.mdx",
+      "file": "docs/plugins/mux-player/index.html",
+      "matches": true,
+      "bodyStart": 266986,
+      "bodyEnd": 273367
+    },
+    {
+      "route": "/docs/plugins/native-biometric/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-biometric/index.mdx",
+      "file": "docs/plugins/native-biometric/index.html",
+      "matches": true,
+      "bodyStart": 267262,
+      "bodyEnd": 279116
+    },
+    {
+      "route": "/docs/plugins/native-map/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/index.mdx",
+      "file": "docs/plugins/native-map/index.html",
+      "matches": true,
+      "bodyStart": 265655,
+      "bodyEnd": 275434
+    },
+    {
+      "route": "/docs/plugins/native-purchases/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/index.mdx",
+      "file": "docs/plugins/native-purchases/index.html",
+      "matches": true,
+      "bodyStart": 267197,
+      "bodyEnd": 275576
+    },
+    {
+      "route": "/docs/plugins/navigation-bar/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/navigation-bar/index.mdx",
+      "file": "docs/plugins/navigation-bar/index.html",
+      "matches": true,
+      "bodyStart": 267187,
+      "bodyEnd": 273317
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/index.mdx",
+      "file": "docs/plugins/network-diagnostics/index.html",
+      "matches": true,
+      "bodyStart": 267314,
+      "bodyEnd": 273316
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/ios.mdx",
+      "file": "docs/plugins/network-diagnostics/ios/index.html",
+      "matches": true,
+      "bodyStart": 289403,
+      "bodyEnd": 292883
+    },
+    {
+      "route": "/docs/plugins/nfc/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nfc/index.mdx",
+      "file": "docs/plugins/nfc/index.html",
+      "matches": true,
+      "bodyStart": 266759,
+      "bodyEnd": 274105
+    },
+    {
+      "route": "/docs/plugins/notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/notifications/index.mdx",
+      "file": "docs/plugins/notifications/index.html",
+      "matches": true,
+      "bodyStart": 265723,
+      "bodyEnd": 278965
+    },
+    {
+      "route": "/docs/plugins/pay/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pay/index.mdx",
+      "file": "docs/plugins/pay/index.html",
+      "matches": true,
+      "bodyStart": 266780,
+      "bodyEnd": 272969
+    },
+    {
+      "route": "/docs/plugins/pdf-generator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-generator/index.mdx",
+      "file": "docs/plugins/pdf-generator/index.html",
+      "matches": true,
+      "bodyStart": 267136,
+      "bodyEnd": 273111
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/index.mdx",
+      "file": "docs/plugins/pdf-viewer/index.html",
+      "matches": true,
+      "bodyStart": 265720,
+      "bodyEnd": 271763
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/ios.mdx",
+      "file": "docs/plugins/pdf-viewer/ios/index.html",
+      "matches": true,
+      "bodyStart": 286264,
+      "bodyEnd": 286733
+    },
+    {
+      "route": "/docs/plugins/pedometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pedometer/index.mdx",
+      "file": "docs/plugins/pedometer/index.html",
+      "matches": true,
+      "bodyStart": 267020,
+      "bodyEnd": 273964
+    },
+    {
+      "route": "/docs/plugins/permissions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/permissions/index.mdx",
+      "file": "docs/plugins/permissions/index.html",
+      "matches": true,
+      "bodyStart": 265764,
+      "bodyEnd": 272190
+    },
+    {
+      "route": "/docs/plugins/persistent-account/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-account/index.mdx",
+      "file": "docs/plugins/persistent-account/index.html",
+      "matches": true,
+      "bodyStart": 267301,
+      "bodyEnd": 273274
+    },
+    {
+      "route": "/docs/plugins/persistent-uuid/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-uuid/index.mdx",
+      "file": "docs/plugins/persistent-uuid/index.html",
+      "matches": true,
+      "bodyStart": 265820,
+      "bodyEnd": 273361
+    },
+    {
+      "route": "/docs/plugins/persona/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persona/index.mdx",
+      "file": "docs/plugins/persona/index.html",
+      "matches": true,
+      "bodyStart": 265627,
+      "bodyEnd": 273710
+    },
+    {
+      "route": "/docs/plugins/photo-library/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/photo-library/index.mdx",
+      "file": "docs/plugins/photo-library/index.html",
+      "matches": true,
+      "bodyStart": 267118,
+      "bodyEnd": 274439
+    },
+    {
+      "route": "/docs/plugins/printer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/printer/index.mdx",
+      "file": "docs/plugins/printer/index.html",
+      "matches": true,
+      "bodyStart": 266936,
+      "bodyEnd": 273399
+    },
+    {
+      "route": "/docs/plugins/privacy-screen/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/index.mdx",
+      "file": "docs/plugins/privacy-screen/index.html",
+      "matches": true,
+      "bodyStart": 267197,
+      "bodyEnd": 273156
+    },
+    {
+      "route": "/docs/plugins/realtimekit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/realtimekit/index.mdx",
+      "file": "docs/plugins/realtimekit/index.html",
+      "matches": true,
+      "bodyStart": 267060,
+      "bodyEnd": 273177
+    },
+    {
+      "route": "/docs/plugins/recaptcha/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/recaptcha/index.mdx",
+      "file": "docs/plugins/recaptcha/index.html",
+      "matches": true,
+      "bodyStart": 267048,
+      "bodyEnd": 274865
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/index.mdx",
+      "file": "docs/plugins/rich-notifications/index.html",
+      "matches": true,
+      "bodyStart": 266005,
+      "bodyEnd": 273235
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/ios.mdx",
+      "file": "docs/plugins/rich-notifications/ios/index.html",
+      "matches": true,
+      "bodyStart": 286552,
+      "bodyEnd": 287375
+    },
+    {
+      "route": "/docs/plugins/rudderstack/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rudderstack/index.mdx",
+      "file": "docs/plugins/rudderstack/index.html",
+      "matches": true,
+      "bodyStart": 267085,
+      "bodyEnd": 274523
+    },
+    {
+      "route": "/docs/plugins/screen-orientation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-orientation/index.mdx",
+      "file": "docs/plugins/screen-orientation/index.html",
+      "matches": true,
+      "bodyStart": 267308,
+      "bodyEnd": 274237
+    },
+    {
+      "route": "/docs/plugins/screen-recorder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-recorder/index.mdx",
+      "file": "docs/plugins/screen-recorder/index.html",
+      "matches": true,
+      "bodyStart": 267290,
+      "bodyEnd": 273364
+    },
+    {
+      "route": "/docs/plugins/shake/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/shake/index.mdx",
+      "file": "docs/plugins/shake/index.html",
+      "matches": true,
+      "bodyStart": 266936,
+      "bodyEnd": 272648
+    },
+    {
+      "route": "/docs/plugins/share-target/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/share-target/index.mdx",
+      "file": "docs/plugins/share-target/index.html",
+      "matches": true,
+      "bodyStart": 267074,
+      "bodyEnd": 273044
+    },
+    {
+      "route": "/docs/plugins/sim/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sim/index.mdx",
+      "file": "docs/plugins/sim/index.html",
+      "matches": true,
+      "bodyStart": 266764,
+      "bodyEnd": 272729
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/general.mdx",
+      "file": "docs/plugins/social-login/apple/general/index.html",
+      "matches": true,
+      "bodyStart": 287757,
+      "bodyEnd": 290619
+    },
+    {
+      "route": "/docs/plugins/speech-recognition/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-recognition/index.mdx",
+      "file": "docs/plugins/speech-recognition/index.html",
+      "matches": true,
+      "bodyStart": 267352,
+      "bodyEnd": 275573
+    },
+    {
+      "route": "/docs/plugins/speech-synthesis/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-synthesis/index.mdx",
+      "file": "docs/plugins/speech-synthesis/index.html",
+      "matches": true,
+      "bodyStart": 267244,
+      "bodyEnd": 275468
+    },
+    {
+      "route": "/docs/plugins/ssl-pinning/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ssl-pinning/index.mdx",
+      "file": "docs/plugins/ssl-pinning/index.html",
+      "matches": true,
+      "bodyStart": 267068,
+      "bodyEnd": 272731
+    },
+    {
+      "route": "/docs/plugins/streamcall/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/streamcall/index.mdx",
+      "file": "docs/plugins/streamcall/index.html",
+      "matches": true,
+      "bodyStart": 265687,
+      "bodyEnd": 273912
+    },
+    {
+      "route": "/docs/plugins/stripe-identity/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-identity/index.mdx",
+      "file": "docs/plugins/stripe-identity/index.html",
+      "matches": true,
+      "bodyStart": 265836,
+      "bodyEnd": 272793
+    },
+    {
+      "route": "/docs/plugins/stripe-pay/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-pay/index.mdx",
+      "file": "docs/plugins/stripe-pay/index.html",
+      "matches": true,
+      "bodyStart": 265685,
+      "bodyEnd": 273002
+    },
+    {
+      "route": "/docs/plugins/stripe-terminal/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-terminal/index.mdx",
+      "file": "docs/plugins/stripe-terminal/index.html",
+      "matches": true,
+      "bodyStart": 265842,
+      "bodyEnd": 275340
+    },
+    {
+      "route": "/docs/plugins/supabase/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/supabase/index.mdx",
+      "file": "docs/plugins/supabase/index.html",
+      "matches": true,
+      "bodyStart": 267020,
+      "bodyEnd": 273507
+    },
+    {
+      "route": "/docs/plugins/textinteraction/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/textinteraction/index.mdx",
+      "file": "docs/plugins/textinteraction/index.html",
+      "matches": true,
+      "bodyStart": 267204,
+      "bodyEnd": 272971
+    },
+    {
+      "route": "/docs/plugins/twilio-video/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-video/index.mdx",
+      "file": "docs/plugins/twilio-video/index.html",
+      "matches": true,
+      "bodyStart": 265763,
+      "bodyEnd": 273912
+    },
+    {
+      "route": "/docs/plugins/twilio-voice/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-voice/index.mdx",
+      "file": "docs/plugins/twilio-voice/index.html",
+      "matches": true,
+      "bodyStart": 267084,
+      "bodyEnd": 275701
+    },
+    {
+      "route": "/docs/plugins/updater/commonproblems/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/commonProblems.mdx",
+      "file": "docs/plugins/updater/commonproblems/index.html",
+      "matches": true,
+      "bodyStart": 297220,
+      "bodyEnd": 325755
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/contributing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/contributing.mdx",
+      "file": "docs/plugins/updater/local-dev/contributing/index.html",
+      "matches": true,
+      "bodyStart": 290003,
+      "bodyEnd": 295619
+    },
+    {
+      "route": "/docs/plugins/uploader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uploader/index.mdx",
+      "file": "docs/plugins/uploader/index.html",
+      "matches": true,
+      "bodyStart": 266976,
+      "bodyEnd": 273044
+    },
+    {
+      "route": "/docs/plugins/verisoul/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/verisoul/index.mdx",
+      "file": "docs/plugins/verisoul/index.html",
+      "matches": true,
+      "bodyStart": 266965,
+      "bodyEnd": 273265
+    },
+    {
+      "route": "/docs/plugins/video-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-player/index.mdx",
+      "file": "docs/plugins/video-player/index.html",
+      "matches": true,
+      "bodyStart": 267085,
+      "bodyEnd": 274843
+    },
+    {
+      "route": "/docs/plugins/video-thumbnails/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-thumbnails/index.mdx",
+      "file": "docs/plugins/video-thumbnails/index.html",
+      "matches": true,
+      "bodyStart": 267262,
+      "bodyEnd": 273207
+    },
+    {
+      "route": "/docs/plugins/volume-buttons/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/volume-buttons/index.mdx",
+      "file": "docs/plugins/volume-buttons/index.html",
+      "matches": true,
+      "bodyStart": 267189,
+      "bodyEnd": 273256
+    },
+    {
+      "route": "/docs/plugins/watch/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/index.mdx",
+      "file": "docs/plugins/watch/index.html",
+      "matches": true,
+      "bodyStart": 266906,
+      "bodyEnd": 275043
+    },
+    {
+      "route": "/docs/plugins/webview-guardian/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-guardian/index.mdx",
+      "file": "docs/plugins/webview-guardian/index.html",
+      "matches": true,
+      "bodyStart": 267306,
+      "bodyEnd": 273887
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/index.mdx",
+      "file": "docs/plugins/webview-version-checker/index.html",
+      "matches": true,
+      "bodyStart": 267436,
+      "bodyEnd": 274596
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/ios.mdx",
+      "file": "docs/plugins/webview-version-checker/ios/index.html",
+      "matches": true,
+      "bodyStart": 288979,
+      "bodyEnd": 292056
+    },
+    {
+      "route": "/docs/plugins/wechat/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wechat/index.mdx",
+      "file": "docs/plugins/wechat/index.html",
+      "matches": true,
+      "bodyStart": 266914,
+      "bodyEnd": 273519
+    },
+    {
+      "route": "/docs/plugins/wifi/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wifi/index.mdx",
+      "file": "docs/plugins/wifi/index.html",
+      "matches": true,
+      "bodyStart": 266782,
+      "bodyEnd": 276049
+    },
+    {
+      "route": "/docs/plugins/youtube-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/youtube-player/index.mdx",
+      "file": "docs/plugins/youtube-player/index.html",
+      "matches": true,
+      "bodyStart": 267222,
+      "bodyEnd": 278495
+    },
+    {
+      "route": "/docs/plugins/zebra-datawedge/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/index.mdx",
+      "file": "docs/plugins/zebra-datawedge/index.html",
+      "matches": true,
+      "bodyStart": 267184,
+      "bodyEnd": 290964
+    },
+    {
+      "route": "/docs/plugins/zip/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zip/index.mdx",
+      "file": "docs/plugins/zip/index.html",
+      "matches": true,
+      "bodyStart": 266759,
+      "bodyEnd": 272607
+    },
+    {
+      "route": "/docs/upgrade/from-v4-to-v5/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v4-to-v5.md",
+      "file": "docs/upgrade/from-v4-to-v5/index.html",
+      "matches": true,
+      "bodyStart": 287046,
+      "bodyEnd": 291690
+    },
+    {
+      "route": "/docs/upgrade/from-v5-to-v6/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v5-to-v6.md",
+      "file": "docs/upgrade/from-v5-to-v6/index.html",
+      "matches": true,
+      "bodyStart": 286618,
+      "bodyEnd": 290325
+    },
+    {
+      "route": "/docs/upgrade/from-v6-to-v7/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v6-to-v7.md",
+      "file": "docs/upgrade/from-v6-to-v7/index.html",
+      "matches": true,
+      "bodyStart": 287550,
+      "bodyEnd": 293696
+    },
+    {
+      "route": "/docs/webapp/log-insights/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/log-insights.mdx",
+      "file": "docs/webapp/log-insights/index.html",
+      "matches": true,
+      "bodyStart": 287096,
+      "bodyEnd": 293037
+    },
+    {
+      "route": "/docs/webapp/observe/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/observe.mdx",
+      "file": "docs/webapp/observe/index.html",
+      "matches": true,
+      "bodyStart": 287376,
+      "bodyEnd": 294377
+    }
+  ]
+}

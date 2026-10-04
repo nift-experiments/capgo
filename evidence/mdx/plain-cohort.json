@@ -1,0 +1,836 @@
+{
+  "prepared": 138,
+  "cached": 0,
+  "eligible": 138,
+  "matched": 138,
+  "results": [
+    {
+      "route": "/docs/capgo-availability/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/capgo-availability.mdx",
+      "file": "docs/capgo-availability/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/migrations/cli-from-0x-to-1x/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/migrations/cli-from-0x-to-1x.mdx",
+      "file": "docs/cli/migrations/cli-from-0x-to-1x/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/accelerometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/accelerometer/index.mdx",
+      "file": "docs/plugins/accelerometer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/admob/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/admob/index.mdx",
+      "file": "docs/plugins/admob/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/age-range/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-range/index.mdx",
+      "file": "docs/plugins/age-range/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/age-signals/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-signals/index.mdx",
+      "file": "docs/plugins/age-signals/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/alarm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/alarm/index.mdx",
+      "file": "docs/plugins/alarm/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-inline-install/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-inline-install/index.mdx",
+      "file": "docs/plugins/android-inline-install/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-kiosk/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-kiosk/index.mdx",
+      "file": "docs/plugins/android-kiosk/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-sms-retriever/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-sms-retriever/index.mdx",
+      "file": "docs/plugins/android-sms-retriever/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-usagestatsmanager/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-usagestatsmanager/index.mdx",
+      "file": "docs/plugins/android-usagestatsmanager/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-attest/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/index.mdx",
+      "file": "docs/plugins/app-attest/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-tracking-transparency/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-tracking-transparency/index.mdx",
+      "file": "docs/plugins/app-tracking-transparency/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/appinsights/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appinsights/index.mdx",
+      "file": "docs/plugins/appinsights/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/appsflyer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appsflyer/index.mdx",
+      "file": "docs/plugins/appsflyer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/audio-recorder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audio-recorder/index.mdx",
+      "file": "docs/plugins/audio-recorder/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/audiosession/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audiosession/index.mdx",
+      "file": "docs/plugins/audiosession/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/autofill-save-password/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/autofill-save-password/index.mdx",
+      "file": "docs/plugins/autofill-save-password/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-geolocation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-geolocation/index.mdx",
+      "file": "docs/plugins/background-geolocation/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-task/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-task/index.mdx",
+      "file": "docs/plugins/background-task/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/barometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/barometer/index.mdx",
+      "file": "docs/plugins/barometer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/bluetooth-low-energy/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/bluetooth-low-energy/index.mdx",
+      "file": "docs/plugins/bluetooth-low-energy/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/brightness/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/brightness/index.mdx",
+      "file": "docs/plugins/brightness/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/camera-preview/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/camera-preview/index.mdx",
+      "file": "docs/plugins/camera-preview/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/compass/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/compass/index.mdx",
+      "file": "docs/plugins/compass/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contacts/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contacts/index.mdx",
+      "file": "docs/plugins/contacts/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contentsquare/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/index.mdx",
+      "file": "docs/plugins/contentsquare/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/crisp/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/crisp/index.mdx",
+      "file": "docs/plugins/crisp/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/data-storage-sqlite/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/data-storage-sqlite/index.mdx",
+      "file": "docs/plugins/data-storage-sqlite/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/device-info/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/device-info/index.mdx",
+      "file": "docs/plugins/device-info/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/document-scanner/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/document-scanner/index.mdx",
+      "file": "docs/plugins/document-scanner/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/downloader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/downloader/index.mdx",
+      "file": "docs/plugins/downloader/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/env/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/env/index.mdx",
+      "file": "docs/plugins/env/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/facebook-analytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/facebook-analytics/index.mdx",
+      "file": "docs/plugins/facebook-analytics/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/fast-sql/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/fast-sql/index.mdx",
+      "file": "docs/plugins/fast-sql/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ffmpeg/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ffmpeg/index.mdx",
+      "file": "docs/plugins/ffmpeg/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-compressor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-compressor/index.mdx",
+      "file": "docs/plugins/file-compressor/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-picker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-picker/index.mdx",
+      "file": "docs/plugins/file-picker/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-sharer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-sharer/index.mdx",
+      "file": "docs/plugins/file-sharer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file/index.mdx",
+      "file": "docs/plugins/file/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-analytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-analytics/index.mdx",
+      "file": "docs/plugins/firebase-analytics/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-app-check/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app-check/index.mdx",
+      "file": "docs/plugins/firebase-app-check/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app/index.mdx",
+      "file": "docs/plugins/firebase-app/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-authentication/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-authentication/index.mdx",
+      "file": "docs/plugins/firebase-authentication/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-crashlytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-crashlytics/index.mdx",
+      "file": "docs/plugins/firebase-crashlytics/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-firestore/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-firestore/index.mdx",
+      "file": "docs/plugins/firebase-firestore/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-functions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-functions/index.mdx",
+      "file": "docs/plugins/firebase-functions/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-messaging/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-messaging/index.mdx",
+      "file": "docs/plugins/firebase-messaging/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-performance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-performance/index.mdx",
+      "file": "docs/plugins/firebase-performance/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-remote-config/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-remote-config/index.mdx",
+      "file": "docs/plugins/firebase-remote-config/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-storage/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-storage/index.mdx",
+      "file": "docs/plugins/firebase-storage/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/flash/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/flash/index.mdx",
+      "file": "docs/plugins/flash/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/gtm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/gtm/index.mdx",
+      "file": "docs/plugins/gtm/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/health/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/health/index.mdx",
+      "file": "docs/plugins/health/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/home-indicator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/home-indicator/index.mdx",
+      "file": "docs/plugins/home-indicator/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ibeacon/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ibeacon/index.mdx",
+      "file": "docs/plugins/ibeacon/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/in-app-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/in-app-review/index.mdx",
+      "file": "docs/plugins/in-app-review/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/incoming-call-kit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/index.mdx",
+      "file": "docs/plugins/incoming-call-kit/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/install-referrer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/install-referrer/index.mdx",
+      "file": "docs/plugins/install-referrer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intent-launcher/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intent-launcher/index.mdx",
+      "file": "docs/plugins/intent-launcher/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intercom/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intercom/index.mdx",
+      "file": "docs/plugins/intercom/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intune/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/index.mdx",
+      "file": "docs/plugins/intune/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/is-root/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/is-root/index.mdx",
+      "file": "docs/plugins/is-root/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ivs-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ivs-player/index.mdx",
+      "file": "docs/plugins/ivs-player/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/jw-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/jw-player/index.mdx",
+      "file": "docs/plugins/jw-player/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/keep-awake/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/keep-awake/index.mdx",
+      "file": "docs/plugins/keep-awake/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/launch-navigator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/launch-navigator/index.mdx",
+      "file": "docs/plugins/launch-navigator/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/light-sensor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/light-sensor/index.mdx",
+      "file": "docs/plugins/light-sensor/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/live-reload/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-reload/index.mdx",
+      "file": "docs/plugins/live-reload/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/llm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/llm/index.mdx",
+      "file": "docs/plugins/llm/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/media-session/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/media-session/index.mdx",
+      "file": "docs/plugins/media-session/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mock-location-detector/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mock-location-detector/index.mdx",
+      "file": "docs/plugins/mock-location-detector/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mqtt/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mqtt/index.mdx",
+      "file": "docs/plugins/mqtt/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mute/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mute/index.mdx",
+      "file": "docs/plugins/mute/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mux-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mux-player/index.mdx",
+      "file": "docs/plugins/mux-player/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-biometric/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-biometric/index.mdx",
+      "file": "docs/plugins/native-biometric/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-map/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/index.mdx",
+      "file": "docs/plugins/native-map/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/index.mdx",
+      "file": "docs/plugins/native-purchases/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/navigation-bar/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/navigation-bar/index.mdx",
+      "file": "docs/plugins/navigation-bar/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/index.mdx",
+      "file": "docs/plugins/network-diagnostics/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/ios.mdx",
+      "file": "docs/plugins/network-diagnostics/ios/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/nfc/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nfc/index.mdx",
+      "file": "docs/plugins/nfc/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/notifications/index.mdx",
+      "file": "docs/plugins/notifications/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pay/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pay/index.mdx",
+      "file": "docs/plugins/pay/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-generator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-generator/index.mdx",
+      "file": "docs/plugins/pdf-generator/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/index.mdx",
+      "file": "docs/plugins/pdf-viewer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/ios.mdx",
+      "file": "docs/plugins/pdf-viewer/ios/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pedometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pedometer/index.mdx",
+      "file": "docs/plugins/pedometer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/permissions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/permissions/index.mdx",
+      "file": "docs/plugins/permissions/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-account/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-account/index.mdx",
+      "file": "docs/plugins/persistent-account/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-uuid/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-uuid/index.mdx",
+      "file": "docs/plugins/persistent-uuid/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persona/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persona/index.mdx",
+      "file": "docs/plugins/persona/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/photo-library/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/photo-library/index.mdx",
+      "file": "docs/plugins/photo-library/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/printer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/printer/index.mdx",
+      "file": "docs/plugins/printer/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/privacy-screen/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/index.mdx",
+      "file": "docs/plugins/privacy-screen/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/realtimekit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/realtimekit/index.mdx",
+      "file": "docs/plugins/realtimekit/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/recaptcha/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/recaptcha/index.mdx",
+      "file": "docs/plugins/recaptcha/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/index.mdx",
+      "file": "docs/plugins/rich-notifications/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/ios.mdx",
+      "file": "docs/plugins/rich-notifications/ios/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rudderstack/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rudderstack/index.mdx",
+      "file": "docs/plugins/rudderstack/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/screen-orientation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-orientation/index.mdx",
+      "file": "docs/plugins/screen-orientation/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/screen-recorder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-recorder/index.mdx",
+      "file": "docs/plugins/screen-recorder/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/shake/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/shake/index.mdx",
+      "file": "docs/plugins/shake/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/share-target/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/share-target/index.mdx",
+      "file": "docs/plugins/share-target/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/sim/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sim/index.mdx",
+      "file": "docs/plugins/sim/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/general.mdx",
+      "file": "docs/plugins/social-login/apple/general/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/speech-recognition/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-recognition/index.mdx",
+      "file": "docs/plugins/speech-recognition/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/speech-synthesis/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-synthesis/index.mdx",
+      "file": "docs/plugins/speech-synthesis/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ssl-pinning/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ssl-pinning/index.mdx",
+      "file": "docs/plugins/ssl-pinning/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/streamcall/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/streamcall/index.mdx",
+      "file": "docs/plugins/streamcall/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-identity/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-identity/index.mdx",
+      "file": "docs/plugins/stripe-identity/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-pay/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-pay/index.mdx",
+      "file": "docs/plugins/stripe-pay/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-terminal/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-terminal/index.mdx",
+      "file": "docs/plugins/stripe-terminal/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/supabase/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/supabase/index.mdx",
+      "file": "docs/plugins/supabase/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/textinteraction/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/textinteraction/index.mdx",
+      "file": "docs/plugins/textinteraction/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/twilio-video/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-video/index.mdx",
+      "file": "docs/plugins/twilio-video/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/twilio-voice/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-voice/index.mdx",
+      "file": "docs/plugins/twilio-voice/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/commonproblems/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/commonProblems.mdx",
+      "file": "docs/plugins/updater/commonproblems/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/contributing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/contributing.mdx",
+      "file": "docs/plugins/updater/local-dev/contributing/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uploader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uploader/index.mdx",
+      "file": "docs/plugins/uploader/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/verisoul/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/verisoul/index.mdx",
+      "file": "docs/plugins/verisoul/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/video-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-player/index.mdx",
+      "file": "docs/plugins/video-player/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/video-thumbnails/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-thumbnails/index.mdx",
+      "file": "docs/plugins/video-thumbnails/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/volume-buttons/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/volume-buttons/index.mdx",
+      "file": "docs/plugins/volume-buttons/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/watch/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/index.mdx",
+      "file": "docs/plugins/watch/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-guardian/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-guardian/index.mdx",
+      "file": "docs/plugins/webview-guardian/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/index.mdx",
+      "file": "docs/plugins/webview-version-checker/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/ios.mdx",
+      "file": "docs/plugins/webview-version-checker/ios/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/wechat/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wechat/index.mdx",
+      "file": "docs/plugins/wechat/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/wifi/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wifi/index.mdx",
+      "file": "docs/plugins/wifi/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/youtube-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/youtube-player/index.mdx",
+      "file": "docs/plugins/youtube-player/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zebra-datawedge/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/index.mdx",
+      "file": "docs/plugins/zebra-datawedge/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zip/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zip/index.mdx",
+      "file": "docs/plugins/zip/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v4-to-v5/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v4-to-v5.md",
+      "file": "docs/upgrade/from-v4-to-v5/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v5-to-v6/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v5-to-v6.md",
+      "file": "docs/upgrade/from-v5-to-v6/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v6-to-v7/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v6-to-v7.md",
+      "file": "docs/upgrade/from-v6-to-v7/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/log-insights/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/log-insights.mdx",
+      "file": "docs/webapp/log-insights/index.html",
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/observe/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/observe.mdx",
+      "file": "docs/webapp/observe/index.html",
+      "matches": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "phase": 6,
+  "status": "in progress",
+  "authoredMdxRoutes": 138,
+  "packageCommit": "22bb53653f47c22defff863e3465e8df9a11da99",
+  "rendering": "Batched Nift MDX package compiler; page wrappers call mdx.html(mdx.prepared(source)). Bodies are generated from authored content, with no golden-body fallback.",
+  "parity": "138 body DOM/text/attribute matches; unchanged page shells and other files retain exact byte parity. Full 1347-route audit passes.",
+  "responsiveWidths": [
+    375,
+    768,
+    1440
+  ],
+  "geometryDifferences": 0,
+  "builds": {
+    "cold": {
+      "seconds": 9.98,
+      "peakRssKiB": 186644
+    },
+    "prepared": {
+      "seconds": 4.42,
+      "peakRssKiB": 182736
+    }
+  },
+  "pending": "Code blocks, rich components, remaining docs/blog/plugin corpus, frontmatter/metadata recovery, agent reconstruction and final audits."
+}
