@@ -1,3 +1,4 @@
+import './render-environment.mjs';
 // Batch the authored pages currently covered by faithful adapters. Never substitute golden bodies.
 import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {parse} from 'parse5';

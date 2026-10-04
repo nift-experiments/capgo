@@ -11,6 +11,9 @@
   ],
   "remarkPlugins": [
     {
+      "path": "components/style.mjs"
+    },
+    {
       "path": "components/faithful/smartypants.mjs"
     },
     {
@@ -26,5 +29,9 @@
     "tools/code-renderer.mjs",
     "tools/prepare-code-cohort.mjs"
   ],
-  "components": "components/faithful/index.mjs"
+  "components": "components/faithful/index.mjs",
+  "imports": {
+    "@astrojs/starlight/components": "components/faithful/index.mjs",
+    "@/config/plugins": "components/plugin-config.mjs"
+  }
 }

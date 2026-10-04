@@ -1,0 +1,3480 @@
+{
+  "prepared": 498,
+  "cached": 0,
+  "eligible": 496,
+  "matched": 496,
+  "results": [
+    {
+      "route": "/docs/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/index.mdx",
+      "file": "docs/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/index.mdx",
+      "file": "docs/builder/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/ai-debug/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ai-debug.mdx",
+      "file": "docs/builder/ai-debug/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/android.mdx",
+      "file": "docs/builder/android/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/ci-ui-trigger/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ci-ui-trigger.mdx",
+      "file": "docs/builder/ci-ui-trigger/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/credentials/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/credentials.mdx",
+      "file": "docs/builder/credentials/index.html",
+      "codeBlocks": 33,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/github-actions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/github-actions.mdx",
+      "file": "docs/builder/github-actions/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/prescan/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/prescan.mdx",
+      "file": "docs/builder/prescan/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/builder/troubleshooting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/troubleshooting.mdx",
+      "file": "docs/builder/troubleshooting/index.html",
+      "codeBlocks": 33,
+      "matches": true
+    },
+    {
+      "route": "/docs/capgo-availability/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/capgo-availability.mdx",
+      "file": "docs/capgo-availability/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/index.mdx",
+      "file": "docs/cli/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/commands/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/commands.mdx",
+      "file": "docs/cli/commands/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/migrations/cli-from-0x-to-1x/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/migrations/cli-from-0x-to-1x.mdx",
+      "file": "docs/cli/migrations/cli-from-0x-to-1x/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/migrations/encryption/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/migrations/encryption.md",
+      "file": "docs/cli/migrations/encryption/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/account/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/account.mdx",
+      "file": "docs/cli/reference/account/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/app.mdx",
+      "file": "docs/cli/reference/app/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/build/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/build.mdx",
+      "file": "docs/cli/reference/build/index.html",
+      "codeBlocks": 22,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/bundle/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/bundle.mdx",
+      "file": "docs/cli/reference/bundle/index.html",
+      "codeBlocks": 19,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/channel/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/channel.mdx",
+      "file": "docs/cli/reference/channel/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/doctor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/doctor.mdx",
+      "file": "docs/cli/reference/doctor/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/get-qr/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/get-qr.mdx",
+      "file": "docs/cli/reference/get-qr/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/init/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/init.mdx",
+      "file": "docs/cli/reference/init/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/key/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/key.mdx",
+      "file": "docs/cli/reference/key/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/login/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/login.mdx",
+      "file": "docs/cli/reference/login/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/mcp/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/mcp.mdx",
+      "file": "docs/cli/reference/mcp/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/notifications.mdx",
+      "file": "docs/cli/reference/notifications/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/organisation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/organisation.mdx",
+      "file": "docs/cli/reference/organisation/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/organization/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/organization.mdx",
+      "file": "docs/cli/reference/organization/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/probe/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/probe.mdx",
+      "file": "docs/cli/reference/probe/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/run/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/run.mdx",
+      "file": "docs/cli/reference/run/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/star-all/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/star-all.mdx",
+      "file": "docs/cli/reference/star-all/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/cli/reference/star/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/star.mdx",
+      "file": "docs/cli/reference/star/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/contributing/adding-plugins/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/contributing/adding-plugins.mdx",
+      "file": "docs/contributing/adding-plugins/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/faq/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/faq.mdx",
+      "file": "docs/faq/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-help/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-help.mdx",
+      "file": "docs/getting-help/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/after-onboarding-setup-checklist/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/after-onboarding-setup-checklist.mdx",
+      "file": "docs/getting-started/after-onboarding-setup-checklist/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/onboarding/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/onboarding.mdx",
+      "file": "docs/getting-started/onboarding/index.html",
+      "codeBlocks": 37,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/quickstart/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/quickstart.mdx",
+      "file": "docs/getting-started/quickstart/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/troubleshooting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/troubleshooting.mdx",
+      "file": "docs/getting-started/troubleshooting/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/wrapping-up/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/wrapping-up.mdx",
+      "file": "docs/getting-started/wrapping-up/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/how-to/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/how-to.mdx",
+      "file": "docs/how-to/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/index.mdx",
+      "file": "docs/live-updates/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/breaking-changes/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/breaking-changes.md",
+      "file": "docs/live-updates/breaking-changes/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/channels/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/channels.mdx",
+      "file": "docs/live-updates/channels/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/china-configuration/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/china-configuration.mdx",
+      "file": "docs/live-updates/china-configuration/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/compatibility/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/compatibility.mdx",
+      "file": "docs/live-updates/compatibility/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/compliance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/compliance.mdx",
+      "file": "docs/live-updates/compliance/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/custom-storage/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/custom-storage.mdx",
+      "file": "docs/live-updates/custom-storage/index.html",
+      "codeBlocks": 18,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/data-location/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/data-location.mdx",
+      "file": "docs/live-updates/data-location/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/differentials/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/differentials.mdx",
+      "file": "docs/live-updates/differentials/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/encryption/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/encryption.mdx",
+      "file": "docs/live-updates/encryption/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/features/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/features.mdx",
+      "file": "docs/live-updates/features/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/hipaa-compliance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/hipaa-compliance.mdx",
+      "file": "docs/live-updates/hipaa-compliance/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/integrations/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/index.mdx",
+      "file": "docs/live-updates/integrations/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/integrations/azure-devops/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/azure-devops.mdx",
+      "file": "docs/live-updates/integrations/azure-devops/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/integrations/bitbucket-pipeline/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/bitbucket-pipeline.mdx",
+      "file": "docs/live-updates/integrations/bitbucket-pipeline/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/integrations/github-actions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/github-actions.mdx",
+      "file": "docs/live-updates/integrations/github-actions/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/integrations/gitlab-ci/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/gitlab-ci.mdx",
+      "file": "docs/live-updates/integrations/gitlab-ci/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/native-ota-channel-workflow/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/native-ota-channel-workflow.mdx",
+      "file": "docs/live-updates/native-ota-channel-workflow/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/progressive-rollouts/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/progressive-rollouts.mdx",
+      "file": "docs/live-updates/progressive-rollouts/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/rollbacks/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/rollbacks.mdx",
+      "file": "docs/live-updates/rollbacks/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/testing-native-builds-without-live-updates/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/testing-native-builds-without-live-updates.mdx",
+      "file": "docs/live-updates/testing-native-builds-without-live-updates/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/update-behavior/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/update-behavior.mdx",
+      "file": "docs/live-updates/update-behavior/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/update-types/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/update-types.mdx",
+      "file": "docs/live-updates/update-types/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/live-updates/version-targeting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/version-targeting.mdx",
+      "file": "docs/live-updates/version-targeting/index.html",
+      "codeBlocks": 31,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/accelerometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/accelerometer/index.mdx",
+      "file": "docs/plugins/accelerometer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/accelerometer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/accelerometer/getting-started.mdx",
+      "file": "docs/plugins/accelerometer/getting-started/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/admob/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/admob/index.mdx",
+      "file": "docs/plugins/admob/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/admob/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/admob/getting-started.mdx",
+      "file": "docs/plugins/admob/getting-started/index.html",
+      "codeBlocks": 19,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/age-range/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-range/index.mdx",
+      "file": "docs/plugins/age-range/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/age-range/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-range/getting-started.mdx",
+      "file": "docs/plugins/age-range/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/age-signals/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-signals/index.mdx",
+      "file": "docs/plugins/age-signals/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/age-signals/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/age-signals/getting-started.mdx",
+      "file": "docs/plugins/age-signals/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/alarm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/alarm/index.mdx",
+      "file": "docs/plugins/alarm/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/alarm/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/alarm/getting-started.mdx",
+      "file": "docs/plugins/alarm/getting-started/index.html",
+      "codeBlocks": 15,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-inline-install/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-inline-install/index.mdx",
+      "file": "docs/plugins/android-inline-install/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-inline-install/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-inline-install/getting-started.mdx",
+      "file": "docs/plugins/android-inline-install/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-kiosk/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-kiosk/index.mdx",
+      "file": "docs/plugins/android-kiosk/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-kiosk/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-kiosk/getting-started.mdx",
+      "file": "docs/plugins/android-kiosk/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-sms-retriever/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-sms-retriever/index.mdx",
+      "file": "docs/plugins/android-sms-retriever/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-sms-retriever/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-sms-retriever/getting-started.mdx",
+      "file": "docs/plugins/android-sms-retriever/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-usagestatsmanager/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-usagestatsmanager/index.mdx",
+      "file": "docs/plugins/android-usagestatsmanager/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/android-usagestatsmanager/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/android-usagestatsmanager/getting-started.mdx",
+      "file": "docs/plugins/android-usagestatsmanager/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-attest/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/index.mdx",
+      "file": "docs/plugins/app-attest/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-attest/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/android.mdx",
+      "file": "docs/plugins/app-attest/android/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-attest/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-attest/ios.mdx",
+      "file": "docs/plugins/app-attest/ios/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-tracking-transparency/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-tracking-transparency/index.mdx",
+      "file": "docs/plugins/app-tracking-transparency/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/app-tracking-transparency/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/app-tracking-transparency/getting-started.mdx",
+      "file": "docs/plugins/app-tracking-transparency/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/appinsights/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appinsights/index.mdx",
+      "file": "docs/plugins/appinsights/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/appinsights/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appinsights/getting-started.mdx",
+      "file": "docs/plugins/appinsights/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/appsflyer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appsflyer/index.mdx",
+      "file": "docs/plugins/appsflyer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/appsflyer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/appsflyer/getting-started.mdx",
+      "file": "docs/plugins/appsflyer/getting-started/index.html",
+      "codeBlocks": 48,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/asset-cache/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/asset-cache/index.mdx",
+      "file": "docs/plugins/asset-cache/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/asset-cache/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/asset-cache/getting-started.mdx",
+      "file": "docs/plugins/asset-cache/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/audio-recorder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audio-recorder/index.mdx",
+      "file": "docs/plugins/audio-recorder/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/audio-recorder/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audio-recorder/getting-started.mdx",
+      "file": "docs/plugins/audio-recorder/getting-started/index.html",
+      "codeBlocks": 24,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/audiosession/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audiosession/index.mdx",
+      "file": "docs/plugins/audiosession/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/audiosession/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/audiosession/getting-started.mdx",
+      "file": "docs/plugins/audiosession/getting-started/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/auto/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/index.mdx",
+      "file": "docs/plugins/auto/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/auto/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/android.mdx",
+      "file": "docs/plugins/auto/android/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/auto/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/ios.mdx",
+      "file": "docs/plugins/auto/ios/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/autofill-save-password/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/autofill-save-password/index.mdx",
+      "file": "docs/plugins/autofill-save-password/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/autofill-save-password/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/autofill-save-password/getting-started.mdx",
+      "file": "docs/plugins/autofill-save-password/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-geolocation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-geolocation/index.mdx",
+      "file": "docs/plugins/background-geolocation/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-geolocation/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-geolocation/getting-started.mdx",
+      "file": "docs/plugins/background-geolocation/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-task/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-task/index.mdx",
+      "file": "docs/plugins/background-task/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-task/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-task/android.mdx",
+      "file": "docs/plugins/background-task/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-task/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-task/getting-started.mdx",
+      "file": "docs/plugins/background-task/getting-started/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/background-task/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/background-task/ios.mdx",
+      "file": "docs/plugins/background-task/ios/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/barometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/barometer/index.mdx",
+      "file": "docs/plugins/barometer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/barometer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/barometer/getting-started.mdx",
+      "file": "docs/plugins/barometer/getting-started/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/bluetooth-low-energy/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/bluetooth-low-energy/index.mdx",
+      "file": "docs/plugins/bluetooth-low-energy/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/bluetooth-low-energy/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/bluetooth-low-energy/getting-started.mdx",
+      "file": "docs/plugins/bluetooth-low-energy/getting-started/index.html",
+      "codeBlocks": 48,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/brightness/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/brightness/index.mdx",
+      "file": "docs/plugins/brightness/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/brightness/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/brightness/getting-started.mdx",
+      "file": "docs/plugins/brightness/getting-started/index.html",
+      "codeBlocks": 25,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/calendar/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/calendar/index.mdx",
+      "file": "docs/plugins/calendar/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/calendar/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/calendar/getting-started.mdx",
+      "file": "docs/plugins/calendar/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/camera-preview/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/camera-preview/index.mdx",
+      "file": "docs/plugins/camera-preview/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/camera-preview/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/camera-preview/getting-started.mdx",
+      "file": "docs/plugins/camera-preview/getting-started/index.html",
+      "codeBlocks": 54,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/capacitor-patch/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-patch/index.mdx",
+      "file": "docs/plugins/capacitor-patch/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/capacitor-patch/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-patch/getting-started.mdx",
+      "file": "docs/plugins/capacitor-patch/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/capacitor-plus/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-plus/index.mdx",
+      "file": "docs/plugins/capacitor-plus/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/compass/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/compass/index.mdx",
+      "file": "docs/plugins/compass/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/compass/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/compass/getting-started.mdx",
+      "file": "docs/plugins/compass/getting-started/index.html",
+      "codeBlocks": 19,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contacts/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contacts/index.mdx",
+      "file": "docs/plugins/contacts/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contacts/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contacts/getting-started.mdx",
+      "file": "docs/plugins/contacts/getting-started/index.html",
+      "codeBlocks": 37,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contentsquare/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/index.mdx",
+      "file": "docs/plugins/contentsquare/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contentsquare/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/android.mdx",
+      "file": "docs/plugins/contentsquare/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/contentsquare/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/contentsquare/ios.mdx",
+      "file": "docs/plugins/contentsquare/ios/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/cordova-updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/cordova-updater/index.mdx",
+      "file": "docs/plugins/cordova-updater/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/crisp/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/crisp/index.mdx",
+      "file": "docs/plugins/crisp/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/crisp/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/crisp/getting-started.mdx",
+      "file": "docs/plugins/crisp/getting-started/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/data-storage-sqlite/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/data-storage-sqlite/index.mdx",
+      "file": "docs/plugins/data-storage-sqlite/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/data-storage-sqlite/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/data-storage-sqlite/getting-started.mdx",
+      "file": "docs/plugins/data-storage-sqlite/getting-started/index.html",
+      "codeBlocks": 37,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/date-picker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/date-picker/index.mdx",
+      "file": "docs/plugins/date-picker/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/date-picker/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/date-picker/getting-started.mdx",
+      "file": "docs/plugins/date-picker/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/device-info/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/device-info/index.mdx",
+      "file": "docs/plugins/device-info/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/device-info/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/device-info/getting-started.mdx",
+      "file": "docs/plugins/device-info/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/document-scanner/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/document-scanner/index.mdx",
+      "file": "docs/plugins/document-scanner/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/document-scanner/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/document-scanner/getting-started.mdx",
+      "file": "docs/plugins/document-scanner/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/downloader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/downloader/index.mdx",
+      "file": "docs/plugins/downloader/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/downloader/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/downloader/getting-started.mdx",
+      "file": "docs/plugins/downloader/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/electron-updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/electron-updater/index.mdx",
+      "file": "docs/plugins/electron-updater/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/electron-updater/api/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/electron-updater/api.mdx",
+      "file": "docs/plugins/electron-updater/api/index.html",
+      "codeBlocks": 31,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/electron-updater/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/electron-updater/getting-started.mdx",
+      "file": "docs/plugins/electron-updater/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/env/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/env/index.mdx",
+      "file": "docs/plugins/env/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/env/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/env/getting-started.mdx",
+      "file": "docs/plugins/env/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/facebook-analytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/facebook-analytics/index.mdx",
+      "file": "docs/plugins/facebook-analytics/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/facebook-analytics/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/facebook-analytics/getting-started.mdx",
+      "file": "docs/plugins/facebook-analytics/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/fast-sql/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/fast-sql/index.mdx",
+      "file": "docs/plugins/fast-sql/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/fast-sql/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/fast-sql/getting-started.mdx",
+      "file": "docs/plugins/fast-sql/getting-started/index.html",
+      "codeBlocks": 18,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ffmpeg/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ffmpeg/index.mdx",
+      "file": "docs/plugins/ffmpeg/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ffmpeg/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ffmpeg/getting-started.mdx",
+      "file": "docs/plugins/ffmpeg/getting-started/index.html",
+      "codeBlocks": 20,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-compressor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-compressor/index.mdx",
+      "file": "docs/plugins/file-compressor/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-compressor/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-compressor/getting-started.mdx",
+      "file": "docs/plugins/file-compressor/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-picker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-picker/index.mdx",
+      "file": "docs/plugins/file-picker/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-picker/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-picker/getting-started.mdx",
+      "file": "docs/plugins/file-picker/getting-started/index.html",
+      "codeBlocks": 24,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-sharer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-sharer/index.mdx",
+      "file": "docs/plugins/file-sharer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file-sharer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file-sharer/getting-started.mdx",
+      "file": "docs/plugins/file-sharer/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file/index.mdx",
+      "file": "docs/plugins/file/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/file/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/file/getting-started.mdx",
+      "file": "docs/plugins/file/getting-started/index.html",
+      "codeBlocks": 40,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-analytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-analytics/index.mdx",
+      "file": "docs/plugins/firebase-analytics/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-analytics/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-analytics/getting-started.mdx",
+      "file": "docs/plugins/firebase-analytics/getting-started/index.html",
+      "codeBlocks": 31,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-app-check/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app-check/index.mdx",
+      "file": "docs/plugins/firebase-app-check/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-app-check/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app-check/getting-started.mdx",
+      "file": "docs/plugins/firebase-app-check/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app/index.mdx",
+      "file": "docs/plugins/firebase-app/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-app/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-app/getting-started.mdx",
+      "file": "docs/plugins/firebase-app/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-authentication/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-authentication/index.mdx",
+      "file": "docs/plugins/firebase-authentication/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-authentication/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-authentication/getting-started.mdx",
+      "file": "docs/plugins/firebase-authentication/getting-started/index.html",
+      "codeBlocks": 75,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-crashlytics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-crashlytics/index.mdx",
+      "file": "docs/plugins/firebase-crashlytics/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-crashlytics/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-crashlytics/getting-started.mdx",
+      "file": "docs/plugins/firebase-crashlytics/getting-started/index.html",
+      "codeBlocks": 25,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-firestore/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-firestore/index.mdx",
+      "file": "docs/plugins/firebase-firestore/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-firestore/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-firestore/getting-started.mdx",
+      "file": "docs/plugins/firebase-firestore/getting-started/index.html",
+      "codeBlocks": 33,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-functions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-functions/index.mdx",
+      "file": "docs/plugins/firebase-functions/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-functions/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-functions/getting-started.mdx",
+      "file": "docs/plugins/firebase-functions/getting-started/index.html",
+      "codeBlocks": 15,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-messaging/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-messaging/index.mdx",
+      "file": "docs/plugins/firebase-messaging/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-messaging/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-messaging/getting-started.mdx",
+      "file": "docs/plugins/firebase-messaging/getting-started/index.html",
+      "codeBlocks": 29,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-performance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-performance/index.mdx",
+      "file": "docs/plugins/firebase-performance/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-performance/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-performance/getting-started.mdx",
+      "file": "docs/plugins/firebase-performance/getting-started/index.html",
+      "codeBlocks": 28,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-remote-config/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-remote-config/index.mdx",
+      "file": "docs/plugins/firebase-remote-config/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-remote-config/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-remote-config/getting-started.mdx",
+      "file": "docs/plugins/firebase-remote-config/getting-started/index.html",
+      "codeBlocks": 27,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-storage/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-storage/index.mdx",
+      "file": "docs/plugins/firebase-storage/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/firebase-storage/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/firebase-storage/getting-started.mdx",
+      "file": "docs/plugins/firebase-storage/getting-started/index.html",
+      "codeBlocks": 24,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/flash/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/flash/index.mdx",
+      "file": "docs/plugins/flash/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/flash/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/flash/getting-started.mdx",
+      "file": "docs/plugins/flash/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/gtm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/gtm/index.mdx",
+      "file": "docs/plugins/gtm/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/gtm/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/gtm/getting-started.mdx",
+      "file": "docs/plugins/gtm/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/health/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/health/index.mdx",
+      "file": "docs/plugins/health/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/health/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/health/getting-started.mdx",
+      "file": "docs/plugins/health/getting-started/index.html",
+      "codeBlocks": 25,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/home-indicator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/home-indicator/index.mdx",
+      "file": "docs/plugins/home-indicator/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/home-indicator/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/home-indicator/getting-started.mdx",
+      "file": "docs/plugins/home-indicator/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ibeacon/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ibeacon/index.mdx",
+      "file": "docs/plugins/ibeacon/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ibeacon/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ibeacon/getting-started.mdx",
+      "file": "docs/plugins/ibeacon/getting-started/index.html",
+      "codeBlocks": 24,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/in-app-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/in-app-review/index.mdx",
+      "file": "docs/plugins/in-app-review/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/in-app-review/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/in-app-review/getting-started.mdx",
+      "file": "docs/plugins/in-app-review/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/inappbrowser/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/inappbrowser/index.mdx",
+      "file": "docs/plugins/inappbrowser/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/inappbrowser/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/inappbrowser/getting-started.mdx",
+      "file": "docs/plugins/inappbrowser/getting-started/index.html",
+      "codeBlocks": 51,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/incoming-call-kit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/index.mdx",
+      "file": "docs/plugins/incoming-call-kit/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/incoming-call-kit/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/android.mdx",
+      "file": "docs/plugins/incoming-call-kit/android/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/incoming-call-kit/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/incoming-call-kit/ios.mdx",
+      "file": "docs/plugins/incoming-call-kit/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/install-referrer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/install-referrer/index.mdx",
+      "file": "docs/plugins/install-referrer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/install-referrer/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/install-referrer/android.mdx",
+      "file": "docs/plugins/install-referrer/android/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/install-referrer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/install-referrer/getting-started.mdx",
+      "file": "docs/plugins/install-referrer/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/install-referrer/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/install-referrer/ios.mdx",
+      "file": "docs/plugins/install-referrer/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intent-launcher/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intent-launcher/index.mdx",
+      "file": "docs/plugins/intent-launcher/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intent-launcher/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intent-launcher/getting-started.mdx",
+      "file": "docs/plugins/intent-launcher/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intercom/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intercom/index.mdx",
+      "file": "docs/plugins/intercom/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intercom/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intercom/getting-started.mdx",
+      "file": "docs/plugins/intercom/getting-started/index.html",
+      "codeBlocks": 39,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intune/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/index.mdx",
+      "file": "docs/plugins/intune/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intune/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/android.mdx",
+      "file": "docs/plugins/intune/android/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/intune/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/intune/ios.mdx",
+      "file": "docs/plugins/intune/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/is-root/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/is-root/index.mdx",
+      "file": "docs/plugins/is-root/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/is-root/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/is-root/getting-started.mdx",
+      "file": "docs/plugins/is-root/getting-started/index.html",
+      "codeBlocks": 37,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ivs-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ivs-player/index.mdx",
+      "file": "docs/plugins/ivs-player/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ivs-player/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ivs-player/getting-started.mdx",
+      "file": "docs/plugins/ivs-player/getting-started/index.html",
+      "codeBlocks": 29,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/jw-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/jw-player/index.mdx",
+      "file": "docs/plugins/jw-player/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/jw-player/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/jw-player/getting-started.mdx",
+      "file": "docs/plugins/jw-player/getting-started/index.html",
+      "codeBlocks": 24,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/keep-awake/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/keep-awake/index.mdx",
+      "file": "docs/plugins/keep-awake/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/keep-awake/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/keep-awake/getting-started.mdx",
+      "file": "docs/plugins/keep-awake/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/launch-navigator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/launch-navigator/index.mdx",
+      "file": "docs/plugins/launch-navigator/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/launch-navigator/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/launch-navigator/getting-started.mdx",
+      "file": "docs/plugins/launch-navigator/getting-started/index.html",
+      "codeBlocks": 15,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/light-sensor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/light-sensor/index.mdx",
+      "file": "docs/plugins/light-sensor/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/light-sensor/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/light-sensor/getting-started.mdx",
+      "file": "docs/plugins/light-sensor/getting-started/index.html",
+      "codeBlocks": 15,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/live-activities/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-activities/index.mdx",
+      "file": "docs/plugins/live-activities/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/live-activities/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-activities/getting-started.mdx",
+      "file": "docs/plugins/live-activities/getting-started/index.html",
+      "codeBlocks": 36,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/live-reload/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-reload/index.mdx",
+      "file": "docs/plugins/live-reload/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/live-reload/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-reload/getting-started.mdx",
+      "file": "docs/plugins/live-reload/getting-started/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/llm/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/llm/index.mdx",
+      "file": "docs/plugins/llm/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/llm/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/llm/getting-started.mdx",
+      "file": "docs/plugins/llm/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/media-session/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/media-session/index.mdx",
+      "file": "docs/plugins/media-session/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/media-session/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/media-session/getting-started.mdx",
+      "file": "docs/plugins/media-session/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mock-location-detector/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mock-location-detector/index.mdx",
+      "file": "docs/plugins/mock-location-detector/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mock-location-detector/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mock-location-detector/android.mdx",
+      "file": "docs/plugins/mock-location-detector/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mock-location-detector/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mock-location-detector/getting-started.mdx",
+      "file": "docs/plugins/mock-location-detector/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mock-location-detector/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mock-location-detector/ios.mdx",
+      "file": "docs/plugins/mock-location-detector/ios/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mqtt/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mqtt/index.mdx",
+      "file": "docs/plugins/mqtt/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mqtt/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mqtt/getting-started.mdx",
+      "file": "docs/plugins/mqtt/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mute/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mute/index.mdx",
+      "file": "docs/plugins/mute/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mute/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mute/getting-started.mdx",
+      "file": "docs/plugins/mute/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mux-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mux-player/index.mdx",
+      "file": "docs/plugins/mux-player/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/mux-player/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/mux-player/getting-started.mdx",
+      "file": "docs/plugins/mux-player/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-audio/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-audio/index.mdx",
+      "file": "docs/plugins/native-audio/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-audio/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-audio/getting-started.mdx",
+      "file": "docs/plugins/native-audio/getting-started/index.html",
+      "codeBlocks": 35,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-biometric/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-biometric/index.mdx",
+      "file": "docs/plugins/native-biometric/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-biometric/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-biometric/getting-started.mdx",
+      "file": "docs/plugins/native-biometric/getting-started/index.html",
+      "codeBlocks": 23,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-loader/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-loader/getting-started.mdx",
+      "file": "docs/plugins/native-loader/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-map/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/index.mdx",
+      "file": "docs/plugins/native-map/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-map/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/android.mdx",
+      "file": "docs/plugins/native-map/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-map/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/getting-started.mdx",
+      "file": "docs/plugins/native-map/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-map/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-map/ios.mdx",
+      "file": "docs/plugins/native-map/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-market/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-market/index.mdx",
+      "file": "docs/plugins/native-market/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-market/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-market/getting-started.mdx",
+      "file": "docs/plugins/native-market/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-navigation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-navigation/index.mdx",
+      "file": "docs/plugins/native-navigation/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/index.mdx",
+      "file": "docs/plugins/native-purchases/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-create-subscription/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-create-subscription.mdx",
+      "file": "docs/plugins/native-purchases/android-create-subscription/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-introductory-offer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-introductory-offer.mdx",
+      "file": "docs/plugins/native-purchases/android-introductory-offer/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-play-store-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-play-store-review.mdx",
+      "file": "docs/plugins/native-purchases/android-play-store-review/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-sandbox-testing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-sandbox-testing.mdx",
+      "file": "docs/plugins/native-purchases/android-sandbox-testing/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-create-subscription/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-create-subscription.mdx",
+      "file": "docs/plugins/native-purchases/ios-create-subscription/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-introductory-offer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-introductory-offer.mdx",
+      "file": "docs/plugins/native-purchases/ios-introductory-offer/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-monthly-commitment/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-monthly-commitment.mdx",
+      "file": "docs/plugins/native-purchases/ios-monthly-commitment/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-sandbox-testing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-sandbox-testing.mdx",
+      "file": "docs/plugins/native-purchases/ios-sandbox-testing/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-subscription-group/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-subscription-group.mdx",
+      "file": "docs/plugins/native-purchases/ios-subscription-group/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/native-purchases/revenue-playbook/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/revenue-playbook.mdx",
+      "file": "docs/plugins/native-purchases/revenue-playbook/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/nativegeocoder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nativegeocoder/index.mdx",
+      "file": "docs/plugins/nativegeocoder/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/nativegeocoder/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nativegeocoder/getting-started.mdx",
+      "file": "docs/plugins/nativegeocoder/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/navigation-bar/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/navigation-bar/index.mdx",
+      "file": "docs/plugins/navigation-bar/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/navigation-bar/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/navigation-bar/getting-started.mdx",
+      "file": "docs/plugins/navigation-bar/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/index.mdx",
+      "file": "docs/plugins/network-diagnostics/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/android.mdx",
+      "file": "docs/plugins/network-diagnostics/android/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/getting-started.mdx",
+      "file": "docs/plugins/network-diagnostics/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/network-diagnostics/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/network-diagnostics/ios.mdx",
+      "file": "docs/plugins/network-diagnostics/ios/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/nfc/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nfc/index.mdx",
+      "file": "docs/plugins/nfc/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/nfc/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nfc/getting-started.mdx",
+      "file": "docs/plugins/nfc/getting-started/index.html",
+      "codeBlocks": 23,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/notifications/index.mdx",
+      "file": "docs/plugins/notifications/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/notifications/debugging/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/notifications/debugging.mdx",
+      "file": "docs/plugins/notifications/debugging/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/notifications/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/notifications/getting-started.mdx",
+      "file": "docs/plugins/notifications/getting-started/index.html",
+      "codeBlocks": 15,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/passkey/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/index.mdx",
+      "file": "docs/plugins/passkey/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/passkey/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/android.mdx",
+      "file": "docs/plugins/passkey/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/passkey/backend/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/backend.mdx",
+      "file": "docs/plugins/passkey/backend/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/passkey/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/ios.mdx",
+      "file": "docs/plugins/passkey/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pay/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pay/index.mdx",
+      "file": "docs/plugins/pay/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pay/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pay/getting-started.mdx",
+      "file": "docs/plugins/pay/getting-started/index.html",
+      "codeBlocks": 18,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-generator/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-generator/index.mdx",
+      "file": "docs/plugins/pdf-generator/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-generator/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-generator/getting-started.mdx",
+      "file": "docs/plugins/pdf-generator/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/index.mdx",
+      "file": "docs/plugins/pdf-viewer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/android.mdx",
+      "file": "docs/plugins/pdf-viewer/android/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/getting-started.mdx",
+      "file": "docs/plugins/pdf-viewer/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pdf-viewer/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pdf-viewer/ios.mdx",
+      "file": "docs/plugins/pdf-viewer/ios/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pedometer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pedometer/index.mdx",
+      "file": "docs/plugins/pedometer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pedometer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pedometer/getting-started.mdx",
+      "file": "docs/plugins/pedometer/getting-started/index.html",
+      "codeBlocks": 15,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/permissions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/permissions/index.mdx",
+      "file": "docs/plugins/permissions/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/permissions/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/permissions/android.mdx",
+      "file": "docs/plugins/permissions/android/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/permissions/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/permissions/getting-started.mdx",
+      "file": "docs/plugins/permissions/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/permissions/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/permissions/ios.mdx",
+      "file": "docs/plugins/permissions/ios/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-account/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-account/index.mdx",
+      "file": "docs/plugins/persistent-account/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-account/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-account/getting-started.mdx",
+      "file": "docs/plugins/persistent-account/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-uuid/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-uuid/index.mdx",
+      "file": "docs/plugins/persistent-uuid/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-uuid/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-uuid/android.mdx",
+      "file": "docs/plugins/persistent-uuid/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-uuid/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-uuid/getting-started.mdx",
+      "file": "docs/plugins/persistent-uuid/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persistent-uuid/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persistent-uuid/ios.mdx",
+      "file": "docs/plugins/persistent-uuid/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persona/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persona/index.mdx",
+      "file": "docs/plugins/persona/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/persona/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/persona/getting-started.mdx",
+      "file": "docs/plugins/persona/getting-started/index.html",
+      "codeBlocks": 26,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/photo-library/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/photo-library/index.mdx",
+      "file": "docs/plugins/photo-library/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/photo-library/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/photo-library/getting-started.mdx",
+      "file": "docs/plugins/photo-library/getting-started/index.html",
+      "codeBlocks": 20,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pretty-toast/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pretty-toast/index.mdx",
+      "file": "docs/plugins/pretty-toast/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/pretty-toast/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pretty-toast/getting-started.mdx",
+      "file": "docs/plugins/pretty-toast/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/printer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/printer/index.mdx",
+      "file": "docs/plugins/printer/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/printer/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/printer/getting-started.mdx",
+      "file": "docs/plugins/printer/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/privacy-screen/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/index.mdx",
+      "file": "docs/plugins/privacy-screen/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/privacy-screen/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/android.mdx",
+      "file": "docs/plugins/privacy-screen/android/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/privacy-screen/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/privacy-screen/ios.mdx",
+      "file": "docs/plugins/privacy-screen/ios/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/proximity/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/proximity/index.mdx",
+      "file": "docs/plugins/proximity/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/proximity/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/proximity/getting-started.mdx",
+      "file": "docs/plugins/proximity/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/realtimekit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/realtimekit/index.mdx",
+      "file": "docs/plugins/realtimekit/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/realtimekit/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/realtimekit/getting-started.mdx",
+      "file": "docs/plugins/realtimekit/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/recaptcha/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/recaptcha/index.mdx",
+      "file": "docs/plugins/recaptcha/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/recaptcha/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/recaptcha/android.mdx",
+      "file": "docs/plugins/recaptcha/android/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/recaptcha/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/recaptcha/getting-started.mdx",
+      "file": "docs/plugins/recaptcha/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/recaptcha/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/recaptcha/ios.mdx",
+      "file": "docs/plugins/recaptcha/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/index.mdx",
+      "file": "docs/plugins/rich-notifications/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/android.mdx",
+      "file": "docs/plugins/rich-notifications/android/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/getting-started.mdx",
+      "file": "docs/plugins/rich-notifications/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rich-notifications/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rich-notifications/ios.mdx",
+      "file": "docs/plugins/rich-notifications/ios/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ricoh360-camera/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ricoh360-camera/index.mdx",
+      "file": "docs/plugins/ricoh360-camera/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ricoh360-camera/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ricoh360-camera/getting-started.mdx",
+      "file": "docs/plugins/ricoh360-camera/getting-started/index.html",
+      "codeBlocks": 22,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rudderstack/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rudderstack/index.mdx",
+      "file": "docs/plugins/rudderstack/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/rudderstack/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/rudderstack/getting-started.mdx",
+      "file": "docs/plugins/rudderstack/getting-started/index.html",
+      "codeBlocks": 24,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/screen-orientation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-orientation/index.mdx",
+      "file": "docs/plugins/screen-orientation/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/screen-orientation/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-orientation/getting-started.mdx",
+      "file": "docs/plugins/screen-orientation/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/screen-recorder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-recorder/index.mdx",
+      "file": "docs/plugins/screen-recorder/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/screen-recorder/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/screen-recorder/getting-started.mdx",
+      "file": "docs/plugins/screen-recorder/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/shake/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/shake/index.mdx",
+      "file": "docs/plugins/shake/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/shake/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/shake/getting-started.mdx",
+      "file": "docs/plugins/shake/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/share-target/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/share-target/index.mdx",
+      "file": "docs/plugins/share-target/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/share-target/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/share-target/getting-started.mdx",
+      "file": "docs/plugins/share-target/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/sheets/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sheets/index.mdx",
+      "file": "docs/plugins/sheets/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/sheets/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sheets/getting-started.mdx",
+      "file": "docs/plugins/sheets/getting-started/index.html",
+      "codeBlocks": 19,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/sim/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sim/index.mdx",
+      "file": "docs/plugins/sim/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/sim/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sim/getting-started.mdx",
+      "file": "docs/plugins/sim/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/general.mdx",
+      "file": "docs/plugins/social-login/apple/general/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/ios.mdx",
+      "file": "docs/plugins/social-login/apple/ios/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/web.mdx",
+      "file": "docs/plugins/social-login/apple/web/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/better-auth/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/better-auth.mdx",
+      "file": "docs/plugins/social-login/better-auth/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/facebook/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/facebook.mdx",
+      "file": "docs/plugins/social-login/facebook/index.html",
+      "codeBlocks": 23,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/android.mdx",
+      "file": "docs/plugins/social-login/firebase/google/android/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/general.mdx",
+      "file": "docs/plugins/social-login/firebase/google/general/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/ios.mdx",
+      "file": "docs/plugins/social-login/firebase/google/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/web.mdx",
+      "file": "docs/plugins/social-login/firebase/google/web/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/introduction/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/introduction.mdx",
+      "file": "docs/plugins/social-login/firebase/introduction/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/getting-started.mdx",
+      "file": "docs/plugins/social-login/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/google/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/android.mdx",
+      "file": "docs/plugins/social-login/google/android/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/google/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/general.mdx",
+      "file": "docs/plugins/social-login/google/general/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/google/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/ios.mdx",
+      "file": "docs/plugins/social-login/google/ios/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/google/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/web.mdx",
+      "file": "docs/plugins/social-login/google/web/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/index.mdx",
+      "file": "docs/plugins/social-login/integrations/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/auth0/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/auth0.mdx",
+      "file": "docs/plugins/social-login/integrations/auth0/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/azure/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/azure.mdx",
+      "file": "docs/plugins/social-login/integrations/azure/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/cognito/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/cognito.mdx",
+      "file": "docs/plugins/social-login/integrations/cognito/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/github/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/github.mdx",
+      "file": "docs/plugins/social-login/integrations/github/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/keycloak/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/keycloak.mdx",
+      "file": "docs/plugins/social-login/integrations/keycloak/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/okta/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/okta.mdx",
+      "file": "docs/plugins/social-login/integrations/okta/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/onelogin/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/onelogin.mdx",
+      "file": "docs/plugins/social-login/integrations/onelogin/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/apple/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/apple.mdx",
+      "file": "docs/plugins/social-login/migrations/apple/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/facebook/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/facebook.mdx",
+      "file": "docs/plugins/social-login/migrations/facebook/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/google/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/google.mdx",
+      "file": "docs/plugins/social-login/migrations/google/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/ionic-auth-connect/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/ionic-auth-connect.mdx",
+      "file": "docs/plugins/social-login/migrations/ionic-auth-connect/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/v7/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/v7.mdx",
+      "file": "docs/plugins/social-login/migrations/v7/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/oauth2/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/oauth2.mdx",
+      "file": "docs/plugins/social-login/oauth2/index.html",
+      "codeBlocks": 21,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/privacy-and-ios-handlers/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/privacy-and-ios-handlers.mdx",
+      "file": "docs/plugins/social-login/privacy-and-ios-handlers/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/apple/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/Apple/android.mdx",
+      "file": "docs/plugins/social-login/supabase/apple/android/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/apple/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/Apple/general.mdx",
+      "file": "docs/plugins/social-login/supabase/apple/general/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/apple/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/Apple/ios.mdx",
+      "file": "docs/plugins/social-login/supabase/apple/ios/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/apple/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/Apple/web.mdx",
+      "file": "docs/plugins/social-login/supabase/apple/web/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/google/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/google/android.mdx",
+      "file": "docs/plugins/social-login/supabase/google/android/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/google/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/google/general.mdx",
+      "file": "docs/plugins/social-login/supabase/google/general/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/google/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/google/ios.mdx",
+      "file": "docs/plugins/social-login/supabase/google/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/google/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/google/web.mdx",
+      "file": "docs/plugins/social-login/supabase/google/web/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/introduction/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/introduction.mdx",
+      "file": "docs/plugins/social-login/supabase/introduction/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/social-login/troubleshooting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/troubleshooting.mdx",
+      "file": "docs/plugins/social-login/troubleshooting/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/speech-recognition/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-recognition/index.mdx",
+      "file": "docs/plugins/speech-recognition/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/speech-recognition/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-recognition/getting-started.mdx",
+      "file": "docs/plugins/speech-recognition/getting-started/index.html",
+      "codeBlocks": 27,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/speech-synthesis/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-synthesis/index.mdx",
+      "file": "docs/plugins/speech-synthesis/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/speech-synthesis/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/speech-synthesis/getting-started.mdx",
+      "file": "docs/plugins/speech-synthesis/getting-started/index.html",
+      "codeBlocks": 28,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ssl-pinning/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ssl-pinning/index.mdx",
+      "file": "docs/plugins/ssl-pinning/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/ssl-pinning/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ssl-pinning/getting-started.mdx",
+      "file": "docs/plugins/ssl-pinning/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/streamcall/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/streamcall/index.mdx",
+      "file": "docs/plugins/streamcall/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/streamcall/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/streamcall/getting-started.mdx",
+      "file": "docs/plugins/streamcall/getting-started/index.html",
+      "codeBlocks": 36,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-identity/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-identity/index.mdx",
+      "file": "docs/plugins/stripe-identity/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-identity/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-identity/getting-started.mdx",
+      "file": "docs/plugins/stripe-identity/getting-started/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-pay/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-pay/index.mdx",
+      "file": "docs/plugins/stripe-pay/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-pay/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-pay/getting-started.mdx",
+      "file": "docs/plugins/stripe-pay/getting-started/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-terminal/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-terminal/index.mdx",
+      "file": "docs/plugins/stripe-terminal/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/stripe-terminal/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/stripe-terminal/getting-started.mdx",
+      "file": "docs/plugins/stripe-terminal/getting-started/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/supabase/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/supabase/index.mdx",
+      "file": "docs/plugins/supabase/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/supabase/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/supabase/getting-started.mdx",
+      "file": "docs/plugins/supabase/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/textinteraction/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/textinteraction/index.mdx",
+      "file": "docs/plugins/textinteraction/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/textinteraction/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/textinteraction/getting-started.mdx",
+      "file": "docs/plugins/textinteraction/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/transitions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/transitions/index.mdx",
+      "file": "docs/plugins/transitions/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/transitions/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/transitions/getting-started.mdx",
+      "file": "docs/plugins/transitions/getting-started/index.html",
+      "codeBlocks": 19,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/twilio-video/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-video/index.mdx",
+      "file": "docs/plugins/twilio-video/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/twilio-video/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-video/getting-started.mdx",
+      "file": "docs/plugins/twilio-video/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/twilio-voice/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-voice/index.mdx",
+      "file": "docs/plugins/twilio-voice/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/twilio-voice/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/twilio-voice/getting-started.mdx",
+      "file": "docs/plugins/twilio-voice/getting-started/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/index.mdx",
+      "file": "docs/plugins/updater/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/commonproblems/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/commonProblems.mdx",
+      "file": "docs/plugins/updater/commonproblems/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/debugging/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/debugging.mdx",
+      "file": "docs/plugins/updater/debugging/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/events/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/events.mdx",
+      "file": "docs/plugins/updater/events/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/known-issues/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/known-issues.mdx",
+      "file": "docs/plugins/updater/known-issues/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/capacitor-updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/capacitor-updater.mdx",
+      "file": "docs/plugins/updater/local-dev/capacitor-updater/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/cli/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/cli.mdx",
+      "file": "docs/plugins/updater/local-dev/cli/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/contributing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/contributing.mdx",
+      "file": "docs/plugins/updater/local-dev/contributing/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/getting-started.mdx",
+      "file": "docs/plugins/updater/local-dev/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/auto-update/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/auto-update.mdx",
+      "file": "docs/plugins/updater/self-hosted/auto-update/index.html",
+      "codeBlocks": 6,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/encrypted-bundles/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/encrypted-bundles.mdx",
+      "file": "docs/plugins/updater/self-hosted/encrypted-bundles/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/getting-started.mdx",
+      "file": "docs/plugins/updater/self-hosted/getting-started/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/handling-channels/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/handling-channels.mdx",
+      "file": "docs/plugins/updater/self-hosted/handling-channels/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/handling-stats/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/handling-stats.mdx",
+      "file": "docs/plugins/updater/self-hosted/handling-stats/index.html",
+      "codeBlocks": 5,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/handling-updates/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/handling-updates.mdx",
+      "file": "docs/plugins/updater/self-hosted/handling-updates/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/manual-update/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/manual-update.mdx",
+      "file": "docs/plugins/updater/self-hosted/manual-update/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/settings/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/settings.mdx",
+      "file": "docs/plugins/updater/settings/index.html",
+      "codeBlocks": 26,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uploader/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uploader/index.mdx",
+      "file": "docs/plugins/uploader/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uploader/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uploader/getting-started.mdx",
+      "file": "docs/plugins/uploader/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uwb/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uwb/index.mdx",
+      "file": "docs/plugins/uwb/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uwb/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uwb/android.mdx",
+      "file": "docs/plugins/uwb/android/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uwb/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uwb/getting-started.mdx",
+      "file": "docs/plugins/uwb/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/uwb/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uwb/ios.mdx",
+      "file": "docs/plugins/uwb/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/verisoul/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/verisoul/index.mdx",
+      "file": "docs/plugins/verisoul/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/verisoul/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/verisoul/android.mdx",
+      "file": "docs/plugins/verisoul/android/index.html",
+      "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/verisoul/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/verisoul/getting-started.mdx",
+      "file": "docs/plugins/verisoul/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/verisoul/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/verisoul/ios.mdx",
+      "file": "docs/plugins/verisoul/ios/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/video-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-player/index.mdx",
+      "file": "docs/plugins/video-player/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/video-player/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-player/getting-started.mdx",
+      "file": "docs/plugins/video-player/getting-started/index.html",
+      "codeBlocks": 33,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/video-thumbnails/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-thumbnails/index.mdx",
+      "file": "docs/plugins/video-thumbnails/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/video-thumbnails/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/video-thumbnails/getting-started.mdx",
+      "file": "docs/plugins/video-thumbnails/getting-started/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/volume-buttons/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/volume-buttons/index.mdx",
+      "file": "docs/plugins/volume-buttons/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/volume-buttons/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/volume-buttons/getting-started.mdx",
+      "file": "docs/plugins/volume-buttons/getting-started/index.html",
+      "codeBlocks": 10,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/watch/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/index.mdx",
+      "file": "docs/plugins/watch/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-crash/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-crash/index.mdx",
+      "file": "docs/plugins/webview-crash/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-crash/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-crash/getting-started.mdx",
+      "file": "docs/plugins/webview-crash/getting-started/index.html",
+      "codeBlocks": 17,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-guardian/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-guardian/index.mdx",
+      "file": "docs/plugins/webview-guardian/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-guardian/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-guardian/getting-started.mdx",
+      "file": "docs/plugins/webview-guardian/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/index.mdx",
+      "file": "docs/plugins/webview-version-checker/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/android.mdx",
+      "file": "docs/plugins/webview-version-checker/android/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/webview-version-checker/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/webview-version-checker/ios.mdx",
+      "file": "docs/plugins/webview-version-checker/ios/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/wechat/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wechat/index.mdx",
+      "file": "docs/plugins/wechat/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/wechat/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wechat/getting-started.mdx",
+      "file": "docs/plugins/wechat/getting-started/index.html",
+      "codeBlocks": 20,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/widget-kit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/widget-kit/index.mdx",
+      "file": "docs/plugins/widget-kit/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/widget-kit/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/widget-kit/getting-started.mdx",
+      "file": "docs/plugins/widget-kit/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/wifi/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wifi/index.mdx",
+      "file": "docs/plugins/wifi/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/wifi/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/wifi/getting-started.mdx",
+      "file": "docs/plugins/wifi/getting-started/index.html",
+      "codeBlocks": 28,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/youtube-player/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/youtube-player/index.mdx",
+      "file": "docs/plugins/youtube-player/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/youtube-player/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/youtube-player/getting-started.mdx",
+      "file": "docs/plugins/youtube-player/getting-started/index.html",
+      "codeBlocks": 59,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zebra-datawedge/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/index.mdx",
+      "file": "docs/plugins/zebra-datawedge/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zebra-datawedge/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zebra-datawedge/android.mdx",
+      "file": "docs/plugins/zebra-datawedge/android/index.html",
+      "codeBlocks": 2,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zip/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zip/index.mdx",
+      "file": "docs/plugins/zip/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/zip/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/zip/getting-started.mdx",
+      "file": "docs/plugins/zip/getting-started/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/index.mdx",
+      "file": "docs/public-api/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/api-keys/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/api-keys.mdx",
+      "file": "docs/public-api/api-keys/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/app.mdx",
+      "file": "docs/public-api/app/index.html",
+      "codeBlocks": 16,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/bundles/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/bundles.mdx",
+      "file": "docs/public-api/bundles/index.html",
+      "codeBlocks": 29,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/channels/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/channels.mdx",
+      "file": "docs/public-api/channels/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/devices/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/devices.mdx",
+      "file": "docs/public-api/devices/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/members/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/members.mdx",
+      "file": "docs/public-api/members/index.html",
+      "codeBlocks": 11,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/organizations/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/organizations.mdx",
+      "file": "docs/public-api/organizations/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/public-api/statistics/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/statistics.mdx",
+      "file": "docs/public-api/statistics/index.html",
+      "codeBlocks": 13,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-appflow-to-capgo/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-appflow-to-capgo.mdx",
+      "file": "docs/upgrade/from-appflow-to-capgo/index.html",
+      "codeBlocks": 7,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-capawesome-to-capgo/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-capawesome-to-capgo.mdx",
+      "file": "docs/upgrade/from-capawesome-to-capgo/index.html",
+      "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-ionic-auth-connect/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-ionic-auth-connect.mdx",
+      "file": "docs/upgrade/from-ionic-auth-connect/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-ionic-identity-vault/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-ionic-identity-vault.mdx",
+      "file": "docs/upgrade/from-ionic-identity-vault/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-ionic-secure-storage/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-ionic-secure-storage.mdx",
+      "file": "docs/upgrade/from-ionic-secure-storage/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v2-to-v3/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v2-to-v3.md",
+      "file": "docs/upgrade/from-v2-to-v3/index.html",
+      "codeBlocks": 8,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v3-to-v4/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v3-to-v4.md",
+      "file": "docs/upgrade/from-v3-to-v4/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v4-to-v5/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v4-to-v5.md",
+      "file": "docs/upgrade/from-v4-to-v5/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v5-to-v6/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v5-to-v6.md",
+      "file": "docs/upgrade/from-v5-to-v6/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v6-to-v7/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v6-to-v7.md",
+      "file": "docs/upgrade/from-v6-to-v7/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/upgrade/from-v7-to-v8/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-v7-to-v8.md",
+      "file": "docs/upgrade/from-v7-to-v8/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/versioning/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/versioning.mdx",
+      "file": "docs/versioning/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/index.mdx",
+      "file": "docs/webapp/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/2fa-enforcement/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/2fa-enforcement.mdx",
+      "file": "docs/webapp/2fa-enforcement/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/api-keys/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/api-keys.mdx",
+      "file": "docs/webapp/api-keys/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/bundles/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/bundles.mdx",
+      "file": "docs/webapp/bundles/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/channels/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/channels.mdx",
+      "file": "docs/webapp/channels/index.html",
+      "codeBlocks": 3,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/devices/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/devices.mdx",
+      "file": "docs/webapp/devices/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/enterprise-sso/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/enterprise-sso.mdx",
+      "file": "docs/webapp/enterprise-sso/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/log-insights/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/log-insights.mdx",
+      "file": "docs/webapp/log-insights/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/logs/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/logs.mdx",
+      "file": "docs/webapp/logs/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/main-app-page/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/main-app-page.mdx",
+      "file": "docs/webapp/main-app-page/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/main-page/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/main-page.mdx",
+      "file": "docs/webapp/main-page/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/mfa/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/mfa.mdx",
+      "file": "docs/webapp/mfa/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/observe/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/observe.mdx",
+      "file": "docs/webapp/observe/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/organization-roles/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/organization-roles.mdx",
+      "file": "docs/webapp/organization-roles/index.html",
+      "codeBlocks": 14,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/organization-security/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/organization-security.mdx",
+      "file": "docs/webapp/organization-security/index.html",
+      "codeBlocks": 1,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/organization-system/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/organization-system.mdx",
+      "file": "docs/webapp/organization-system/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/payment/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/payment.mdx",
+      "file": "docs/webapp/payment/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/webapp/settings/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/settings.mdx",
+      "file": "docs/webapp/settings/index.html",
+      "codeBlocks": 0,
+      "matches": true
+    }
+  ]
+}

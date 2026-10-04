@@ -4,12 +4,13 @@ import {resolve,posix} from 'node:path';
 import {createHash} from 'node:crypto';
 import {parse} from 'parse5';
 import {verify} from './golden.mjs';
+import {canonicalStyle} from './html-parity.mjs';
 import {verifyOutput} from './verify-output.mjs';
 const output=resolve(process.env.PARITY_ROOT??'public'),reference=resolve('golden/site');
 const routes=JSON.parse(await readFile('golden/routes.json')),inventory=JSON.parse(await readFile('golden/files.json'));
 const expected=new Set(inventory.map(x=>x.path));
 async function walk(root,prefix=''){let result=[];for(const x of await readdir(resolve(root,prefix),{withFileTypes:true})){let p=posix.join(prefix,x.name);if(x.isDirectory())result.push(...await walk(root,p));else result.push(p)}return result}
-function semantic(html){let nodes=[],ids=new Set(),refs=[];function visit(n){if(n.nodeName==='#text'){if(n.parentNode&&!['script','style'].includes(n.parentNode.tagName)){const t=n.value.replace(/\s+/g,' ').trim();if(t)nodes.push(['text',t])}}else if(n.tagName){let attrs=Object.fromEntries((n.attrs??[]).map(x=>[x.name,x.value]).sort((a,b)=>a[0].localeCompare(b[0])));nodes.push([n.tagName,attrs]);if(attrs.id)ids.add(attrs.id);for(let key of ['href','src','poster'])if(attrs[key])refs.push({tag:n.tagName,attribute:key,url:attrs[key]});}for(let x of n.childNodes??[])visit(x)}visit(parse(html));return {hash:createHash('sha256').update(JSON.stringify(nodes)).digest('hex'),ids,refs}}
+function semantic(html){let nodes=[],ids=new Set(),refs=[];function visit(n){if(n.nodeName==='#text'){if(n.parentNode&&!['script','style'].includes(n.parentNode.tagName)){const t=n.value.replace(/\s+/g,' ').trim();if(t)nodes.push(['text',t])}}else if(n.tagName){let attrs=Object.fromEntries((n.attrs??[]).map(x=>[x.name,x.name==='style'?canonicalStyle(x.value):x.value]).sort((a,b)=>a[0].localeCompare(b[0])));nodes.push([n.tagName,attrs]);if(attrs.id)ids.add(attrs.id);for(let key of ['href','src','poster'])if(attrs[key])refs.push({tag:n.tagName,attribute:key,url:attrs[key]});}for(let x of n.childNodes??[])visit(x)}visit(parse(html));return {hash:createHash('sha256').update(JSON.stringify(nodes)).digest('hex'),ids,refs}}
 const result={golden:await verify(),files:await verifyOutput(output),unexpectedFiles:(await walk(output)).filter(x=>!expected.has(x)),routes:routes.length,semanticDifferences:[],baselineIssues:[],introducedIssues:[]};
 const goldenPages=new Map(),outputPages=new Map();
 for(const r of routes){goldenPages.set(r.file,semantic(await readFile(resolve(reference,r.file),'utf8')));try{outputPages.set(r.file,semantic(await readFile(resolve(output,r.file),'utf8')))}catch{continue}if(goldenPages.get(r.file).hash!==outputPages.get(r.file).hash)result.semanticDifferences.push(r.route)}

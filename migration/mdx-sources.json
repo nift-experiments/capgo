@@ -2976,6 +2976,1356 @@
       "matches": true,
       "bodyStart": 297709,
       "bodyEnd": 376043
+    },
+    {
+      "route": "/docs/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/index.mdx",
+      "file": "docs/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265241,
+      "bodyEnd": 278576
+    },
+    {
+      "route": "/docs/builder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/index.mdx",
+      "file": "docs/builder/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288495,
+      "bodyEnd": 316964
+    },
+    {
+      "route": "/docs/builder/ci-ui-trigger/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/ci-ui-trigger.mdx",
+      "file": "docs/builder/ci-ui-trigger/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 290290,
+      "bodyEnd": 347223
+    },
+    {
+      "route": "/docs/builder/credentials/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/credentials.mdx",
+      "file": "docs/builder/credentials/index.html",
+      "codeBlocks": 33,
+      "matches": true,
+      "bodyStart": 300616,
+      "bodyEnd": 424463
+    },
+    {
+      "route": "/docs/builder/github-actions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/github-actions.mdx",
+      "file": "docs/builder/github-actions/index.html",
+      "codeBlocks": 13,
+      "matches": true,
+      "bodyStart": 293089,
+      "bodyEnd": 395662
+    },
+    {
+      "route": "/docs/builder/prescan/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/prescan.mdx",
+      "file": "docs/builder/prescan/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 288760,
+      "bodyEnd": 323107
+    },
+    {
+      "route": "/docs/builder/troubleshooting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/troubleshooting.mdx",
+      "file": "docs/builder/troubleshooting/index.html",
+      "codeBlocks": 33,
+      "matches": true,
+      "bodyStart": 301466,
+      "bodyEnd": 380220
+    },
+    {
+      "route": "/docs/cli/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/index.mdx",
+      "file": "docs/cli/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 288448,
+      "bodyEnd": 308939
+    },
+    {
+      "route": "/docs/cli/reference/account/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/account.mdx",
+      "file": "docs/cli/reference/account/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 286235,
+      "bodyEnd": 290612
+    },
+    {
+      "route": "/docs/cli/reference/app/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/app.mdx",
+      "file": "docs/cli/reference/app/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 287705,
+      "bodyEnd": 310359
+    },
+    {
+      "route": "/docs/cli/reference/build/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/build.mdx",
+      "file": "docs/cli/reference/build/index.html",
+      "codeBlocks": 22,
+      "matches": true,
+      "bodyStart": 289743,
+      "bodyEnd": 359377
+    },
+    {
+      "route": "/docs/cli/reference/bundle/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/bundle.mdx",
+      "file": "docs/cli/reference/bundle/index.html",
+      "codeBlocks": 19,
+      "matches": true,
+      "bodyStart": 289145,
+      "bodyEnd": 334888
+    },
+    {
+      "route": "/docs/cli/reference/channel/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/channel.mdx",
+      "file": "docs/cli/reference/channel/index.html",
+      "codeBlocks": 10,
+      "matches": true,
+      "bodyStart": 287455,
+      "bodyEnd": 312714
+    },
+    {
+      "route": "/docs/cli/reference/doctor/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/doctor.mdx",
+      "file": "docs/cli/reference/doctor/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 286097,
+      "bodyEnd": 290270
+    },
+    {
+      "route": "/docs/cli/reference/get-qr/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/get-qr.mdx",
+      "file": "docs/cli/reference/get-qr/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 285648,
+      "bodyEnd": 289099
+    },
+    {
+      "route": "/docs/cli/reference/init/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/init.mdx",
+      "file": "docs/cli/reference/init/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 286008,
+      "bodyEnd": 290938
+    },
+    {
+      "route": "/docs/cli/reference/key/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/key.mdx",
+      "file": "docs/cli/reference/key/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 286871,
+      "bodyEnd": 297090
+    },
+    {
+      "route": "/docs/cli/reference/login/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/login.mdx",
+      "file": "docs/cli/reference/login/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 286048,
+      "bodyEnd": 290652
+    },
+    {
+      "route": "/docs/cli/reference/notifications/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/notifications.mdx",
+      "file": "docs/cli/reference/notifications/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 285989,
+      "bodyEnd": 289678
+    },
+    {
+      "route": "/docs/cli/reference/organisation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/organisation.mdx",
+      "file": "docs/cli/reference/organisation/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 287683,
+      "bodyEnd": 301011
+    },
+    {
+      "route": "/docs/cli/reference/organization/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/organization.mdx",
+      "file": "docs/cli/reference/organization/index.html",
+      "codeBlocks": 10,
+      "matches": true,
+      "bodyStart": 288107,
+      "bodyEnd": 308903
+    },
+    {
+      "route": "/docs/cli/reference/probe/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/probe.mdx",
+      "file": "docs/cli/reference/probe/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 286048,
+      "bodyEnd": 290429
+    },
+    {
+      "route": "/docs/cli/reference/run/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/run.mdx",
+      "file": "docs/cli/reference/run/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 285631,
+      "bodyEnd": 289075
+    },
+    {
+      "route": "/docs/cli/reference/star-all/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/reference/star-all.mdx",
+      "file": "docs/cli/reference/star-all/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 286168,
+      "bodyEnd": 290027
+    },
+    {
+      "route": "/docs/contributing/adding-plugins/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/contributing/adding-plugins.mdx",
+      "file": "docs/contributing/adding-plugins/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 298761,
+      "bodyEnd": 370003
+    },
+    {
+      "route": "/docs/getting-started/after-onboarding-setup-checklist/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/after-onboarding-setup-checklist.mdx",
+      "file": "docs/getting-started/after-onboarding-setup-checklist/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 290343,
+      "bodyEnd": 318867
+    },
+    {
+      "route": "/docs/getting-started/onboarding/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/onboarding.mdx",
+      "file": "docs/getting-started/onboarding/index.html",
+      "codeBlocks": 37,
+      "matches": true,
+      "bodyStart": 299486,
+      "bodyEnd": 398704
+    },
+    {
+      "route": "/docs/getting-started/quickstart/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/quickstart.mdx",
+      "file": "docs/getting-started/quickstart/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 289518,
+      "bodyEnd": 314385
+    },
+    {
+      "route": "/docs/getting-started/troubleshooting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/troubleshooting.mdx",
+      "file": "docs/getting-started/troubleshooting/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 289369,
+      "bodyEnd": 314822
+    },
+    {
+      "route": "/docs/getting-started/wrapping-up/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/wrapping-up.mdx",
+      "file": "docs/getting-started/wrapping-up/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 285890,
+      "bodyEnd": 292512
+    },
+    {
+      "route": "/docs/how-to/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/how-to.mdx",
+      "file": "docs/how-to/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286013,
+      "bodyEnd": 294364
+    },
+    {
+      "route": "/docs/live-updates/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/index.mdx",
+      "file": "docs/live-updates/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 287268,
+      "bodyEnd": 307050
+    },
+    {
+      "route": "/docs/live-updates/china-configuration/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/china-configuration.mdx",
+      "file": "docs/live-updates/china-configuration/index.html",
+      "codeBlocks": 8,
+      "matches": true,
+      "bodyStart": 293070,
+      "bodyEnd": 341047
+    },
+    {
+      "route": "/docs/live-updates/compatibility/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/compatibility.mdx",
+      "file": "docs/live-updates/compatibility/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 292196,
+      "bodyEnd": 331448
+    },
+    {
+      "route": "/docs/live-updates/compliance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/compliance.mdx",
+      "file": "docs/live-updates/compliance/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 298584,
+      "bodyEnd": 344261
+    },
+    {
+      "route": "/docs/live-updates/custom-storage/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/custom-storage.mdx",
+      "file": "docs/live-updates/custom-storage/index.html",
+      "codeBlocks": 18,
+      "matches": true,
+      "bodyStart": 297376,
+      "bodyEnd": 357377
+    },
+    {
+      "route": "/docs/live-updates/data-location/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/data-location.mdx",
+      "file": "docs/live-updates/data-location/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 287855,
+      "bodyEnd": 303373
+    },
+    {
+      "route": "/docs/live-updates/features/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/features.mdx",
+      "file": "docs/live-updates/features/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 309298,
+      "bodyEnd": 369362
+    },
+    {
+      "route": "/docs/live-updates/hipaa-compliance/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/hipaa-compliance.mdx",
+      "file": "docs/live-updates/hipaa-compliance/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 290157,
+      "bodyEnd": 321226
+    },
+    {
+      "route": "/docs/live-updates/integrations/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/index.mdx",
+      "file": "docs/live-updates/integrations/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288189,
+      "bodyEnd": 301181
+    },
+    {
+      "route": "/docs/live-updates/integrations/azure-devops/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/azure-devops.mdx",
+      "file": "docs/live-updates/integrations/azure-devops/index.html",
+      "codeBlocks": 14,
+      "matches": true,
+      "bodyStart": 296345,
+      "bodyEnd": 414260
+    },
+    {
+      "route": "/docs/live-updates/integrations/bitbucket-pipeline/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/bitbucket-pipeline.mdx",
+      "file": "docs/live-updates/integrations/bitbucket-pipeline/index.html",
+      "codeBlocks": 16,
+      "matches": true,
+      "bodyStart": 297463,
+      "bodyEnd": 397274
+    },
+    {
+      "route": "/docs/live-updates/integrations/github-actions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/github-actions.mdx",
+      "file": "docs/live-updates/integrations/github-actions/index.html",
+      "codeBlocks": 16,
+      "matches": true,
+      "bodyStart": 297029,
+      "bodyEnd": 403541
+    },
+    {
+      "route": "/docs/live-updates/integrations/gitlab-ci/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/integrations/gitlab-ci.mdx",
+      "file": "docs/live-updates/integrations/gitlab-ci/index.html",
+      "codeBlocks": 14,
+      "matches": true,
+      "bodyStart": 296212,
+      "bodyEnd": 376482
+    },
+    {
+      "route": "/docs/live-updates/native-ota-channel-workflow/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/native-ota-channel-workflow.mdx",
+      "file": "docs/live-updates/native-ota-channel-workflow/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 291878,
+      "bodyEnd": 323321
+    },
+    {
+      "route": "/docs/live-updates/testing-native-builds-without-live-updates/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/testing-native-builds-without-live-updates.mdx",
+      "file": "docs/live-updates/testing-native-builds-without-live-updates/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 289002,
+      "bodyEnd": 306896
+    },
+    {
+      "route": "/docs/live-updates/update-behavior/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/update-behavior.mdx",
+      "file": "docs/live-updates/update-behavior/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 290128,
+      "bodyEnd": 329034
+    },
+    {
+      "route": "/docs/live-updates/update-types/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/update-types.mdx",
+      "file": "docs/live-updates/update-types/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 288497,
+      "bodyEnd": 313486
+    },
+    {
+      "route": "/docs/live-updates/version-targeting/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/version-targeting.mdx",
+      "file": "docs/live-updates/version-targeting/index.html",
+      "codeBlocks": 31,
+      "matches": true,
+      "bodyStart": 311003,
+      "bodyEnd": 455289
+    },
+    {
+      "route": "/docs/plugins/asset-cache/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/asset-cache/index.mdx",
+      "file": "docs/plugins/asset-cache/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265752,
+      "bodyEnd": 280532
+    },
+    {
+      "route": "/docs/plugins/asset-cache/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/asset-cache/getting-started.mdx",
+      "file": "docs/plugins/asset-cache/getting-started/index.html",
+      "codeBlocks": 16,
+      "matches": true,
+      "bodyStart": 292594,
+      "bodyEnd": 336714
+    },
+    {
+      "route": "/docs/plugins/auto/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/auto/index.mdx",
+      "file": "docs/plugins/auto/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 266871,
+      "bodyEnd": 277460
+    },
+    {
+      "route": "/docs/plugins/capacitor-patch/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-patch/index.mdx",
+      "file": "docs/plugins/capacitor-patch/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265870,
+      "bodyEnd": 279399
+    },
+    {
+      "route": "/docs/plugins/capacitor-patch/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-patch/getting-started.mdx",
+      "file": "docs/plugins/capacitor-patch/getting-started/index.html",
+      "codeBlocks": 9,
+      "matches": true,
+      "bodyStart": 290582,
+      "bodyEnd": 312310
+    },
+    {
+      "route": "/docs/plugins/cordova-updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/cordova-updater/index.mdx",
+      "file": "docs/plugins/cordova-updater/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265836,
+      "bodyEnd": 276945
+    },
+    {
+      "route": "/docs/plugins/electron-updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/electron-updater/index.mdx",
+      "file": "docs/plugins/electron-updater/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 265919,
+      "bodyEnd": 285075
+    },
+    {
+      "route": "/docs/plugins/electron-updater/api/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/electron-updater/api.mdx",
+      "file": "docs/plugins/electron-updater/api/index.html",
+      "codeBlocks": 31,
+      "matches": true,
+      "bodyStart": 305927,
+      "bodyEnd": 395485
+    },
+    {
+      "route": "/docs/plugins/electron-updater/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/electron-updater/getting-started.mdx",
+      "file": "docs/plugins/electron-updater/getting-started/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 293505,
+      "bodyEnd": 345601
+    },
+    {
+      "route": "/docs/plugins/inappbrowser/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/inappbrowser/index.mdx",
+      "file": "docs/plugins/inappbrowser/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267139,
+      "bodyEnd": 286207
+    },
+    {
+      "route": "/docs/plugins/native-audio/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-audio/index.mdx",
+      "file": "docs/plugins/native-audio/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265724,
+      "bodyEnd": 274201
+    },
+    {
+      "route": "/docs/plugins/native-loader/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-loader/getting-started.mdx",
+      "file": "docs/plugins/native-loader/getting-started/index.html",
+      "codeBlocks": 14,
+      "matches": true,
+      "bodyStart": 293297,
+      "bodyEnd": 339642
+    },
+    {
+      "route": "/docs/plugins/native-market/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-market/index.mdx",
+      "file": "docs/plugins/native-market/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267144,
+      "bodyEnd": 274146
+    },
+    {
+      "route": "/docs/plugins/nativegeocoder/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/nativegeocoder/index.mdx",
+      "file": "docs/plugins/nativegeocoder/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267171,
+      "bodyEnd": 273242
+    },
+    {
+      "route": "/docs/plugins/passkey/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/passkey/index.mdx",
+      "file": "docs/plugins/passkey/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 266891,
+      "bodyEnd": 275585
+    },
+    {
+      "route": "/docs/plugins/proximity/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/proximity/index.mdx",
+      "file": "docs/plugins/proximity/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267203,
+      "bodyEnd": 279530
+    },
+    {
+      "route": "/docs/plugins/ricoh360-camera/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/ricoh360-camera/index.mdx",
+      "file": "docs/plugins/ricoh360-camera/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267214,
+      "bodyEnd": 274241
+    },
+    {
+      "route": "/docs/plugins/sheets/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sheets/getting-started.mdx",
+      "file": "docs/plugins/sheets/getting-started/index.html",
+      "codeBlocks": 19,
+      "matches": true,
+      "bodyStart": 293657,
+      "bodyEnd": 376179
+    },
+    {
+      "route": "/docs/plugins/social-login/better-auth/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/better-auth.mdx",
+      "file": "docs/plugins/social-login/better-auth/index.html",
+      "codeBlocks": 17,
+      "matches": true,
+      "bodyStart": 296724,
+      "bodyEnd": 386749
+    },
+    {
+      "route": "/docs/plugins/social-login/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/getting-started.mdx",
+      "file": "docs/plugins/social-login/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 293514,
+      "bodyEnd": 336406
+    },
+    {
+      "route": "/docs/plugins/social-login/integrations/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/integrations/index.mdx",
+      "file": "docs/plugins/social-login/integrations/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288570,
+      "bodyEnd": 301876
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/apple/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/apple.mdx",
+      "file": "docs/plugins/social-login/migrations/apple/index.html",
+      "codeBlocks": 8,
+      "matches": true,
+      "bodyStart": 293423,
+      "bodyEnd": 328816
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/facebook/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/facebook.mdx",
+      "file": "docs/plugins/social-login/migrations/facebook/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 293949,
+      "bodyEnd": 344185
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/google/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/google.mdx",
+      "file": "docs/plugins/social-login/migrations/google/index.html",
+      "codeBlocks": 9,
+      "matches": true,
+      "bodyStart": 294069,
+      "bodyEnd": 334512
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/ionic-auth-connect/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/ionic-auth-connect.mdx",
+      "file": "docs/plugins/social-login/migrations/ionic-auth-connect/index.html",
+      "codeBlocks": 10,
+      "matches": true,
+      "bodyStart": 296005,
+      "bodyEnd": 349976
+    },
+    {
+      "route": "/docs/plugins/social-login/migrations/v7/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/migrations/v7.mdx",
+      "file": "docs/plugins/social-login/migrations/v7/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 289188,
+      "bodyEnd": 297890
+    },
+    {
+      "route": "/docs/plugins/social-login/oauth2/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/oauth2.mdx",
+      "file": "docs/plugins/social-login/oauth2/index.html",
+      "codeBlocks": 21,
+      "matches": true,
+      "bodyStart": 304493,
+      "bodyEnd": 428288
+    },
+    {
+      "route": "/docs/plugins/transitions/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/transitions/getting-started.mdx",
+      "file": "docs/plugins/transitions/getting-started/index.html",
+      "codeBlocks": 19,
+      "matches": true,
+      "bodyStart": 293845,
+      "bodyEnd": 354556
+    },
+    {
+      "route": "/docs/plugins/updater/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/index.mdx",
+      "file": "docs/plugins/updater/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 266876,
+      "bodyEnd": 283083
+    },
+    {
+      "route": "/docs/plugins/updater/events/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/events.mdx",
+      "file": "docs/plugins/updater/events/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 294367,
+      "bodyEnd": 354869
+    },
+    {
+      "route": "/docs/plugins/updater/known-issues/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/known-issues.mdx",
+      "file": "docs/plugins/updater/known-issues/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 294018,
+      "bodyEnd": 318930
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/auto-update/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/auto-update.mdx",
+      "file": "docs/plugins/updater/self-hosted/auto-update/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 290364,
+      "bodyEnd": 309845
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/encrypted-bundles/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/encrypted-bundles.mdx",
+      "file": "docs/plugins/updater/self-hosted/encrypted-bundles/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 291922,
+      "bodyEnd": 305566
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/getting-started.mdx",
+      "file": "docs/plugins/updater/self-hosted/getting-started/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 291613,
+      "bodyEnd": 308333
+    },
+    {
+      "route": "/docs/plugins/updater/self-hosted/handling-stats/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/self-hosted/handling-stats.mdx",
+      "file": "docs/plugins/updater/self-hosted/handling-stats/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 290956,
+      "bodyEnd": 338760
+    },
+    {
+      "route": "/docs/plugins/updater/settings/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/settings.mdx",
+      "file": "docs/plugins/updater/settings/index.html",
+      "codeBlocks": 26,
+      "matches": true,
+      "bodyStart": 299878,
+      "bodyEnd": 380501
+    },
+    {
+      "route": "/docs/plugins/uwb/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/uwb/index.mdx",
+      "file": "docs/plugins/uwb/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265614,
+      "bodyEnd": 275418
+    },
+    {
+      "route": "/docs/public-api/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/index.mdx",
+      "file": "docs/public-api/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 288176,
+      "bodyEnd": 306371
+    },
+    {
+      "route": "/docs/upgrade/from-appflow-to-capgo/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-appflow-to-capgo.mdx",
+      "file": "docs/upgrade/from-appflow-to-capgo/index.html",
+      "codeBlocks": 7,
+      "matches": true,
+      "bodyStart": 297080,
+      "bodyEnd": 341855
+    },
+    {
+      "route": "/docs/upgrade/from-capawesome-to-capgo/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/upgrade/from-capawesome-to-capgo.mdx",
+      "file": "docs/upgrade/from-capawesome-to-capgo/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 293891,
+      "bodyEnd": 343408
+    },
+    {
+      "route": "/docs/versioning/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/versioning.mdx",
+      "file": "docs/versioning/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 290077,
+      "bodyEnd": 309834
+    },
+    {
+      "route": "/docs/webapp/2fa-enforcement/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/2fa-enforcement.mdx",
+      "file": "docs/webapp/2fa-enforcement/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 295945,
+      "bodyEnd": 329172
+    },
+    {
+      "route": "/docs/webapp/enterprise-sso/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/enterprise-sso.mdx",
+      "file": "docs/webapp/enterprise-sso/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 291542,
+      "bodyEnd": 313153
+    },
+    {
+      "route": "/docs/builder/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/builder/android.mdx",
+      "file": "docs/builder/android/index.html",
+      "codeBlocks": 7,
+      "matches": true,
+      "bodyStart": 295095,
+      "bodyEnd": 373321
+    },
+    {
+      "route": "/docs/cli/commands/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/cli/commands.mdx",
+      "file": "docs/cli/commands/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 299819,
+      "bodyEnd": 360804
+    },
+    {
+      "route": "/docs/getting-help/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-help.mdx",
+      "file": "docs/getting-help/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286325,
+      "bodyEnd": 291316
+    },
+    {
+      "route": "/docs/live-updates/channels/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/channels.mdx",
+      "file": "docs/live-updates/channels/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 293991,
+      "bodyEnd": 356518
+    },
+    {
+      "route": "/docs/live-updates/differentials/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/differentials.mdx",
+      "file": "docs/live-updates/differentials/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 289257,
+      "bodyEnd": 307861
+    },
+    {
+      "route": "/docs/live-updates/encryption/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/encryption.mdx",
+      "file": "docs/live-updates/encryption/index.html",
+      "codeBlocks": 14,
+      "matches": true,
+      "bodyStart": 301361,
+      "bodyEnd": 368391
+    },
+    {
+      "route": "/docs/live-updates/progressive-rollouts/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/progressive-rollouts.mdx",
+      "file": "docs/live-updates/progressive-rollouts/index.html",
+      "codeBlocks": 8,
+      "matches": true,
+      "bodyStart": 291630,
+      "bodyEnd": 342471
+    },
+    {
+      "route": "/docs/live-updates/rollbacks/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/live-updates/rollbacks.mdx",
+      "file": "docs/live-updates/rollbacks/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 290579,
+      "bodyEnd": 314122
+    },
+    {
+      "route": "/docs/plugins/calendar/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/calendar/index.mdx",
+      "file": "docs/plugins/calendar/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267034,
+      "bodyEnd": 275784
+    },
+    {
+      "route": "/docs/plugins/calendar/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/calendar/getting-started.mdx",
+      "file": "docs/plugins/calendar/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 293465,
+      "bodyEnd": 330549
+    },
+    {
+      "route": "/docs/plugins/capacitor-plus/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/capacitor-plus/index.mdx",
+      "file": "docs/plugins/capacitor-plus/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265942,
+      "bodyEnd": 278217
+    },
+    {
+      "route": "/docs/plugins/date-picker/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/date-picker/index.mdx",
+      "file": "docs/plugins/date-picker/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267124,
+      "bodyEnd": 278295
+    },
+    {
+      "route": "/docs/plugins/date-picker/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/date-picker/getting-started.mdx",
+      "file": "docs/plugins/date-picker/getting-started/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 293845,
+      "bodyEnd": 324740
+    },
+    {
+      "route": "/docs/plugins/live-activities/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/live-activities/index.mdx",
+      "file": "docs/plugins/live-activities/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 265862,
+      "bodyEnd": 275270
+    },
+    {
+      "route": "/docs/plugins/native-navigation/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-navigation/index.mdx",
+      "file": "docs/plugins/native-navigation/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267370,
+      "bodyEnd": 280766
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-create-subscription/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-create-subscription.mdx",
+      "file": "docs/plugins/native-purchases/android-create-subscription/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 293485,
+      "bodyEnd": 317365
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-introductory-offer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-introductory-offer.mdx",
+      "file": "docs/plugins/native-purchases/android-introductory-offer/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 296825,
+      "bodyEnd": 327209
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-play-store-review/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-play-store-review.mdx",
+      "file": "docs/plugins/native-purchases/android-play-store-review/index.html",
+      "codeBlocks": 13,
+      "matches": true,
+      "bodyStart": 308126,
+      "bodyEnd": 466480
+    },
+    {
+      "route": "/docs/plugins/native-purchases/android-sandbox-testing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/android-sandbox-testing.mdx",
+      "file": "docs/plugins/native-purchases/android-sandbox-testing/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 291874,
+      "bodyEnd": 307025
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-create-subscription/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-create-subscription.mdx",
+      "file": "docs/plugins/native-purchases/ios-create-subscription/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 298135,
+      "bodyEnd": 349608
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-introductory-offer/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-introductory-offer.mdx",
+      "file": "docs/plugins/native-purchases/ios-introductory-offer/index.html",
+      "codeBlocks": 10,
+      "matches": true,
+      "bodyStart": 304673,
+      "bodyEnd": 375146
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-sandbox-testing/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-sandbox-testing.mdx",
+      "file": "docs/plugins/native-purchases/ios-sandbox-testing/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 294151,
+      "bodyEnd": 320399
+    },
+    {
+      "route": "/docs/plugins/native-purchases/ios-subscription-group/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/ios-subscription-group.mdx",
+      "file": "docs/plugins/native-purchases/ios-subscription-group/index.html",
+      "codeBlocks": 7,
+      "matches": true,
+      "bodyStart": 301221,
+      "bodyEnd": 352592
+    },
+    {
+      "route": "/docs/plugins/native-purchases/revenue-playbook/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/native-purchases/revenue-playbook.mdx",
+      "file": "docs/plugins/native-purchases/revenue-playbook/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 294176,
+      "bodyEnd": 326397
+    },
+    {
+      "route": "/docs/plugins/pretty-toast/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/pretty-toast/index.mdx",
+      "file": "docs/plugins/pretty-toast/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267161,
+      "bodyEnd": 275810
+    },
+    {
+      "route": "/docs/plugins/sheets/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/sheets/index.mdx",
+      "file": "docs/plugins/sheets/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 266943,
+      "bodyEnd": 285338
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/ios.mdx",
+      "file": "docs/plugins/social-login/apple/ios/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 287552,
+      "bodyEnd": 298963
+    },
+    {
+      "route": "/docs/plugins/social-login/apple/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/apple/web.mdx",
+      "file": "docs/plugins/social-login/apple/web/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288104,
+      "bodyEnd": 295960
+    },
+    {
+      "route": "/docs/plugins/social-login/facebook/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/facebook.mdx",
+      "file": "docs/plugins/social-login/facebook/index.html",
+      "codeBlocks": 23,
+      "matches": true,
+      "bodyStart": 297441,
+      "bodyEnd": 445157
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/android.mdx",
+      "file": "docs/plugins/social-login/firebase/google/android/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 289498,
+      "bodyEnd": 310892
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/general.mdx",
+      "file": "docs/plugins/social-login/firebase/google/general/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288516,
+      "bodyEnd": 296161
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/ios.mdx",
+      "file": "docs/plugins/social-login/firebase/google/ios/index.html",
+      "codeBlocks": 2,
+      "matches": true,
+      "bodyStart": 288774,
+      "bodyEnd": 313381
+    },
+    {
+      "route": "/docs/plugins/social-login/firebase/google/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/firebase/google/web.mdx",
+      "file": "docs/plugins/social-login/firebase/google/web/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 289768,
+      "bodyEnd": 298689
+    },
+    {
+      "route": "/docs/plugins/social-login/google/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/android.mdx",
+      "file": "docs/plugins/social-login/google/android/index.html",
+      "codeBlocks": 8,
+      "matches": true,
+      "bodyStart": 291420,
+      "bodyEnd": 334773
+    },
+    {
+      "route": "/docs/plugins/social-login/google/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/general.mdx",
+      "file": "docs/plugins/social-login/google/general/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 289785,
+      "bodyEnd": 327640
+    },
+    {
+      "route": "/docs/plugins/social-login/google/ios/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/ios.mdx",
+      "file": "docs/plugins/social-login/google/ios/index.html",
+      "codeBlocks": 8,
+      "matches": true,
+      "bodyStart": 289120,
+      "bodyEnd": 325466
+    },
+    {
+      "route": "/docs/plugins/social-login/google/web/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/google/web.mdx",
+      "file": "docs/plugins/social-login/google/web/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 288051,
+      "bodyEnd": 306432
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/apple/android/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/Apple/android.mdx",
+      "file": "docs/plugins/social-login/supabase/apple/android/index.html",
+      "codeBlocks": 12,
+      "matches": true,
+      "bodyStart": 293055,
+      "bodyEnd": 335725
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/apple/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/Apple/general.mdx",
+      "file": "docs/plugins/social-login/supabase/apple/general/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 290504,
+      "bodyEnd": 307598
+    },
+    {
+      "route": "/docs/plugins/social-login/supabase/google/general/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/social-login/supabase/google/general.mdx",
+      "file": "docs/plugins/social-login/supabase/google/general/index.html",
+      "codeBlocks": 4,
+      "matches": true,
+      "bodyStart": 293134,
+      "bodyEnd": 335286
+    },
+    {
+      "route": "/docs/plugins/transitions/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/transitions/index.mdx",
+      "file": "docs/plugins/transitions/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 267133,
+      "bodyEnd": 280290
+    },
+    {
+      "route": "/docs/plugins/updater/debugging/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/debugging.mdx",
+      "file": "docs/plugins/updater/debugging/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 337345,
+      "bodyEnd": 457562
+    },
+    {
+      "route": "/docs/plugins/updater/local-dev/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/local-dev/getting-started.mdx",
+      "file": "docs/plugins/updater/local-dev/getting-started/index.html",
+      "codeBlocks": 5,
+      "matches": true,
+      "bodyStart": 290584,
+      "bodyEnd": 305890
+    },
+    {
+      "route": "/docs/plugins/widget-kit/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/widget-kit/index.mdx",
+      "file": "docs/plugins/widget-kit/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 273370,
+      "bodyEnd": 288726
+    },
+    {
+      "route": "/docs/public-api/api-keys/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/public-api/api-keys.mdx",
+      "file": "docs/public-api/api-keys/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 289472,
+      "bodyEnd": 314026
+    },
+    {
+      "route": "/docs/webapp/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/index.mdx",
+      "file": "docs/webapp/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286512,
+      "bodyEnd": 292196
+    },
+    {
+      "route": "/docs/webapp/api-keys/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/api-keys.mdx",
+      "file": "docs/webapp/api-keys/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 288974,
+      "bodyEnd": 312275
+    },
+    {
+      "route": "/docs/webapp/bundles/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/bundles.mdx",
+      "file": "docs/webapp/bundles/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 290688,
+      "bodyEnd": 307985
+    },
+    {
+      "route": "/docs/webapp/channels/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/channels.mdx",
+      "file": "docs/webapp/channels/index.html",
+      "codeBlocks": 3,
+      "matches": true,
+      "bodyStart": 292332,
+      "bodyEnd": 328668
+    },
+    {
+      "route": "/docs/webapp/devices/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/devices.mdx",
+      "file": "docs/webapp/devices/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 287927,
+      "bodyEnd": 297735
+    },
+    {
+      "route": "/docs/webapp/logs/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/logs.mdx",
+      "file": "docs/webapp/logs/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 293410,
+      "bodyEnd": 333699
+    },
+    {
+      "route": "/docs/webapp/main-app-page/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/main-app-page.mdx",
+      "file": "docs/webapp/main-app-page/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 289322,
+      "bodyEnd": 306952
+    },
+    {
+      "route": "/docs/webapp/main-page/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/main-page.mdx",
+      "file": "docs/webapp/main-page/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286023,
+      "bodyEnd": 289261
+    },
+    {
+      "route": "/docs/webapp/mfa/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/mfa.mdx",
+      "file": "docs/webapp/mfa/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288248,
+      "bodyEnd": 301134
+    },
+    {
+      "route": "/docs/webapp/organization-security/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/organization-security.mdx",
+      "file": "docs/webapp/organization-security/index.html",
+      "codeBlocks": 1,
+      "matches": true,
+      "bodyStart": 299281,
+      "bodyEnd": 343854
+    },
+    {
+      "route": "/docs/webapp/organization-system/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/organization-system.mdx",
+      "file": "docs/webapp/organization-system/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 299853,
+      "bodyEnd": 344853
+    },
+    {
+      "route": "/docs/webapp/payment/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/payment.mdx",
+      "file": "docs/webapp/payment/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286685,
+      "bodyEnd": 304437
+    },
+    {
+      "route": "/docs/webapp/settings/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/webapp/settings.mdx",
+      "file": "docs/webapp/settings/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 286980,
+      "bodyEnd": 292109
     }
   ]
 }
