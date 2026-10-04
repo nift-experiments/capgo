@@ -17,6 +17,12 @@
       "path": "components/faithful/smartypants.mjs"
     },
     {
+      "path": "components/faithful/tabs.mjs"
+    },
+    {
+      "path": "components/faithful/raw-html.mjs"
+    },
+    {
       "path": "components/faithful/directive-parser.mjs"
     },
     {

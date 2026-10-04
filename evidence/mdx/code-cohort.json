@@ -1,8 +1,8 @@
 {
-  "prepared": 498,
+  "prepared": 502,
   "cached": 0,
-  "eligible": 498,
-  "matched": 496,
+  "eligible": 502,
+  "matched": 502,
   "results": [
     {
       "route": "/docs/",
@@ -254,6 +254,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/after-onboarding-setup-checklist.mdx",
       "file": "docs/getting-started/after-onboarding-setup-checklist/index.html",
       "codeBlocks": 4,
+      "matches": true
+    },
+    {
+      "route": "/docs/getting-started/deploy/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/deploy.mdx",
+      "file": "docs/getting-started/deploy/index.html",
+      "codeBlocks": 7,
       "matches": true
     },
     {
@@ -912,6 +919,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/cordova-updater/index.mdx",
       "file": "docs/plugins/cordova-updater/index.html",
       "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/cordova-updater/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/cordova-updater/getting-started.mdx",
+      "file": "docs/plugins/cordova-updater/getting-started/index.html",
+      "codeBlocks": 6,
       "matches": true
     },
     {
@@ -2844,7 +2858,7 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/api.md",
       "file": "docs/plugins/updater/api/index.html",
       "codeBlocks": 40,
-      "matches": false
+      "matches": true
     },
     {
       "route": "/docs/plugins/updater/commonproblems/",
@@ -2858,7 +2872,7 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/cordova.md",
       "file": "docs/plugins/updater/cordova/index.html",
       "codeBlocks": 0,
-      "matches": false
+      "matches": true
     },
     {
       "route": "/docs/plugins/updater/debugging/",
@@ -2872,6 +2886,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/events.mdx",
       "file": "docs/plugins/updater/events/index.html",
       "codeBlocks": 12,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/updater/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/getting-started.mdx",
+      "file": "docs/plugins/updater/getting-started/index.html",
+      "codeBlocks": 21,
       "matches": true
     },
     {
@@ -3082,6 +3103,13 @@
       "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/index.mdx",
       "file": "docs/plugins/watch/index.html",
       "codeBlocks": 0,
+      "matches": true
+    },
+    {
+      "route": "/docs/plugins/watch/examples/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/examples.mdx",
+      "file": "docs/plugins/watch/examples/index.html",
+      "codeBlocks": 11,
       "matches": true
     },
     {
@@ -3490,5 +3518,7 @@
       "codeBlocks": 0,
       "matches": true
     }
-  ]
+  ],
+  "domNestingCompared": true,
+  "finalVerification": "evidence/parity/static.json"
 }

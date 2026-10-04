@@ -1,7 +1,7 @@
 {
   "phase": 6,
   "status": "in progress",
-  "authoredMdxRoutes": 496,
+  "authoredMdxRoutes": 502,
   "installedNift": "4.5.0",
   "directRepair": "pass",
   "directAll": "pass",
@@ -13,14 +13,30 @@
     "introducedIssues": 0
   },
   "preparedFullBuild": {
-    "seconds": 3.3,
-    "peakRssKiB": 209664
+    "seconds": 16.55,
+    "peakRssKiB": 212520,
+    "cachedPages": 502,
+    "hostCpuContentionObserved": true,
+    "earlierSequentialSample": {
+      "seconds": 4.04,
+      "peakRssKiB": 211492
+    }
   },
   "remaining": [
-    "33 docs",
+    "27 docs",
     "authored web corpus",
     "metadata/source cleanup",
     "agent vanilla runtime",
     "final audits and benchmarks"
-  ]
+  ],
+  "domNestingCompared": true,
+  "browserTabs": {
+    "widths": [
+      375,
+      1440
+    ],
+    "visibleGeometryDifferences": 0,
+    "mouseSelection": "pass",
+    "keyboardSelection": "pass"
+  }
 }

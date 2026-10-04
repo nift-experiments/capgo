@@ -4326,6 +4326,60 @@
       "matches": true,
       "bodyStart": 286980,
       "bodyEnd": 292109
+    },
+    {
+      "route": "/docs/plugins/updater/api/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/api.md",
+      "file": "docs/plugins/updater/api/index.html",
+      "codeBlocks": 40,
+      "matches": true,
+      "bodyStart": 324728,
+      "bodyEnd": 495986
+    },
+    {
+      "route": "/docs/plugins/updater/cordova/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/cordova.md",
+      "file": "docs/plugins/updater/cordova/index.html",
+      "codeBlocks": 0,
+      "matches": true,
+      "bodyStart": 288912,
+      "bodyEnd": 293493
+    },
+    {
+      "route": "/docs/getting-started/deploy/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/getting-started/deploy.mdx",
+      "file": "docs/getting-started/deploy/index.html",
+      "codeBlocks": 7,
+      "matches": true,
+      "bodyStart": 287785,
+      "bodyEnd": 315242
+    },
+    {
+      "route": "/docs/plugins/cordova-updater/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/cordova-updater/getting-started.mdx",
+      "file": "docs/plugins/cordova-updater/getting-started/index.html",
+      "codeBlocks": 6,
+      "matches": true,
+      "bodyStart": 290126,
+      "bodyEnd": 311041
+    },
+    {
+      "route": "/docs/plugins/updater/getting-started/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/updater/getting-started.mdx",
+      "file": "docs/plugins/updater/getting-started/index.html",
+      "codeBlocks": 21,
+      "matches": true,
+      "bodyStart": 300960,
+      "bodyEnd": 368919
+    },
+    {
+      "route": "/docs/plugins/watch/examples/",
+      "source": "corpus/authored/apps/docs/src/content/docs/docs/plugins/watch/examples.mdx",
+      "file": "docs/plugins/watch/examples/index.html",
+      "codeBlocks": 11,
+      "matches": true,
+      "bodyStart": 293542,
+      "bodyEnd": 488467
     }
   ]
 }
