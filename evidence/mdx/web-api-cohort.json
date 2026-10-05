@@ -1,0 +1,213 @@
+{
+  "eligible": 23,
+  "matched": 23,
+  "results": [
+    {
+      "route": "/about/",
+      "file": "about/index.html",
+      "source": "corpus/authored/apps/web/src/pages/about.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113671,
+      "bodyEnd": 152703
+    },
+    {
+      "route": "/affiliate/",
+      "file": "affiliate/index.html",
+      "source": "corpus/authored/apps/web/src/pages/affiliate.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111978,
+      "bodyEnd": 129809
+    },
+    {
+      "route": "/android-distribution-chart/",
+      "file": "android-distribution-chart/index.html",
+      "source": "corpus/authored/apps/web/src/pages/android-distribution-chart.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116575,
+      "bodyEnd": 160908
+    },
+    {
+      "route": "/builder-data/",
+      "file": "builder-data/index.html",
+      "source": "corpus/authored/apps/web/src/pages/builder-data.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113014,
+      "bodyEnd": 136909
+    },
+    {
+      "route": "/data/",
+      "file": "data/index.html",
+      "source": "corpus/authored/apps/web/src/pages/data.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112914,
+      "bodyEnd": 148047
+    },
+    {
+      "route": "/enterprise/",
+      "file": "enterprise/index.html",
+      "source": "corpus/authored/apps/web/src/pages/enterprise.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 121847,
+      "bodyEnd": 217164
+    },
+    {
+      "route": "/ios-distribution-chart/",
+      "file": "ios-distribution-chart/index.html",
+      "source": "corpus/authored/apps/web/src/pages/ios-distribution-chart.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116114,
+      "bodyEnd": 158850
+    },
+    {
+      "route": "/live-update/",
+      "file": "live-update/index.html",
+      "source": "corpus/authored/apps/web/src/pages/live-update.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114370,
+      "bodyEnd": 238735
+    },
+    {
+      "route": "/native-build/",
+      "file": "native-build/index.html",
+      "source": "corpus/authored/apps/web/src/pages/native-build.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114198,
+      "bodyEnd": 196122
+    },
+    {
+      "route": "/notifications/",
+      "file": "notifications/index.html",
+      "source": "corpus/authored/apps/web/src/pages/notifications.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114165,
+      "bodyEnd": 155654
+    },
+    {
+      "route": "/observe/",
+      "file": "observe/index.html",
+      "source": "corpus/authored/apps/web/src/pages/observe.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114072,
+      "bodyEnd": 153322
+    },
+    {
+      "route": "/plugins/",
+      "file": "plugins/index.html",
+      "source": "corpus/authored/apps/web/src/pages/plugins.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 150200,
+      "bodyEnd": 883649
+    },
+    {
+      "route": "/pricing/",
+      "file": "pricing/index.html",
+      "source": "corpus/authored/apps/web/src/pages/pricing.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 117745,
+      "bodyEnd": 355305
+    },
+    {
+      "route": "/register/",
+      "file": "register/index.html",
+      "source": "corpus/authored/apps/web/src/pages/register.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113601,
+      "bodyEnd": 162255
+    },
+    {
+      "route": "/semver_tester/",
+      "file": "semver_tester/index.html",
+      "source": "corpus/authored/apps/web/src/pages/semver_tester.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112116,
+      "bodyEnd": 149680
+    },
+    {
+      "route": "/sponsor/",
+      "file": "sponsor/index.html",
+      "source": "corpus/authored/apps/web/src/pages/sponsor.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112038,
+      "bodyEnd": 112744
+    },
+    {
+      "route": "/top_capacitor_app/",
+      "file": "top_capacitor_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_capacitor_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112129,
+      "bodyEnd": 334276
+    },
+    {
+      "route": "/top_capgo_app/",
+      "file": "top_capgo_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_capgo_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112057,
+      "bodyEnd": 333167
+    },
+    {
+      "route": "/top_cordova_app/",
+      "file": "top_cordova_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_cordova_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112093,
+      "bodyEnd": 337639
+    },
+    {
+      "route": "/top_flutter_app/",
+      "file": "top_flutter_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_flutter_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112093,
+      "bodyEnd": 336071
+    },
+    {
+      "route": "/top_kotlin_app/",
+      "file": "top_kotlin_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_kotlin_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112075,
+      "bodyEnd": 114689
+    },
+    {
+      "route": "/top_native_script_app/",
+      "file": "top_native_script_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_native_script_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112201,
+      "bodyEnd": 291884
+    },
+    {
+      "route": "/top_react_native_app/",
+      "file": "top_react_native_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_react_native_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112183,
+      "bodyEnd": 335312
+    }
+  ]
+}

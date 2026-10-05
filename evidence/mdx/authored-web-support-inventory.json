@@ -31,6 +31,14 @@
       "sha256": "25bb6ad97261941e0a658b20775ec962e0347eb848e8fe95a25c4582a84aee65"
     },
     {
+      "source": "corpus/authored/apps/web/src/components/DistributionRefreshPanel.astro",
+      "sha256": "00016927444f2928eac8abf9d343098d348ec13e92990f5c12c1d533094df76b"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/DistributionTargetChart.astro",
+      "sha256": "07b4f0f7ccc98bb397a9bc63d2ae305e93c881cd2ae8e0cce0163475ac520b25"
+    },
+    {
       "source": "corpus/authored/apps/web/src/components/GlobalInfrastructure.astro",
       "sha256": "42060aadc84187c07315fa36f60ca302287b10b9371d8141336f339d3a9097f0"
     },
@@ -55,6 +63,10 @@
       "sha256": "eeb3e480f2a721cb0cb8e1215abfc64da110a59fe249555af1c4e5066f59172f"
     },
     {
+      "source": "corpus/authored/apps/web/src/components/PluginIcon.astro",
+      "sha256": "24fb4c33ba09f0bb89fa1f749226d61a584de510e65ccaf4bd64befce13f6fac"
+    },
+    {
       "source": "corpus/authored/apps/web/src/components/ProblemSolution.astro",
       "sha256": "34fd40173666c94ccc68cec527af0785e828e873c2247c0ed89345a9dc8f8431"
     },
@@ -77,6 +89,10 @@
     {
       "source": "corpus/authored/apps/web/src/components/SharedNumbers.astro",
       "sha256": "7f1c7f3331a2a0ad32ab847f0741350ffc00072e34ae5173754fec20c10d80c9"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/SponsorLogo.astro",
+      "sha256": "4c154e66bf69008f2b3135433db903d1dcdadac52baa88abd3fcca19587bf53e"
     },
     {
       "source": "corpus/authored/apps/web/src/components/StackChips.astro",
@@ -117,6 +133,70 @@
     {
       "source": "corpus/authored/apps/web/src/components/conversion/ConversionRelatedLinks.astro",
       "sha256": "8318bfd6c9c4fe3c121427f19a616fcf38873fe9397bcc38c2059b825ac32d47"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/enterprise/GovernedRollout.astro",
+      "sha256": "61788e97ed7932c1951a2cb4423ed4976a6ec5719105e493a3deb65839f8391f"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/enterprise.astro",
+      "sha256": "563d2809bd2ea11ac93f990da8eb9df7fe3a132bd8f62a9904eb4de8960f2037"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/explainers/ReleaseExplainers.astro",
+      "sha256": "a25df92659e03f2dc23177a918b7affc665fc319d77db44ef9f11a8ceeef6d2b"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/explainers/SceneDeltaUpdate.astro",
+      "sha256": "d8b87e95c8df96677c4d6ead1f57271c85c65d221f6331e7b3f4d989a6ca7704"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/explainers/SceneNextLaunch.astro",
+      "sha256": "6745a921a3ad30a59ecd7c8832ef301b629dfde75139ea372d65aea4c2995675"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/explainers/SceneOtaBoundary.astro",
+      "sha256": "105c80442753be77e2c11c2722958cfd0cc1f4a7525ea089b6b504cbbf66f4cd"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/explainers/SceneRollout.astro",
+      "sha256": "584a1f7eceb46ea5c0090933463d54e65f8223fcbc7188d58dde8ca56dcb6b13"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/landing/UpdateTypesSection.astro",
+      "sha256": "9d6d5e326460a8e0934f2e6e9ed195aed86a30119eeec8a1d08c196a7f4d300d"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/notifications/NotificationsStory.astro",
+      "sha256": "88f83d5462e455ae6306f1c1bd57f352b45f266357959d84c50444a34fde478f"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/observe/ObserveReleaseHealthDemo.astro",
+      "sha256": "7e7e90ef18c05ae0dc76345eb9fd7bbf0825c4ca2ad74902a7c7968ace5ff8dd"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/pricing/ComparePlans.astro",
+      "sha256": "13277a24a29b46f8582bf25631fa9adfbbb4a7c9a28fc90eda9aa5784c6b5352"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/pricing/CreditPricing.astro",
+      "sha256": "e1b4524a61b9210a2356ed87c738d1f42e90b8027dc14937ede0a186f35cc61d"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/pricing/Faq.astro",
+      "sha256": "9831e2bfb8d175df93643329ac1c7f94893073a8e86e62c2de4976d9b20f4f55"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/pricing/Plans.astro",
+      "sha256": "b0ad01808837fbfb4124625aa662adadcd48a06b8f8e1f03d0d72b9679f2cab8"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/pricing/PricingCalculator.astro",
+      "sha256": "5a599f4cc4463468b38524e8ee05654925bfac84f405963450cf3ceb091155e7"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/pricing/PricingExplainer.astro",
+      "sha256": "d5741e96b0f5db07eb86682972d6e271c287acf0cc585d19a8e9f198680744c5"
     },
     {
       "source": "corpus/authored/apps/web/src/components/solutions/ABTestIllustration.astro",
@@ -163,16 +243,44 @@
       "sha256": "e2becb4085d12b933784053436b2ed133d64c551651c5c202b47f94a4779d405"
     },
     {
+      "source": "corpus/authored/apps/web/src/components/tools/ToolFaq.astro",
+      "sha256": "d5cdc144fd8156d492b1418e7b41fb45bf8127f3930e5eb837421d5aed5ae00b"
+    },
+    {
       "source": "corpus/authored/apps/web/src/lib/blog.ts",
       "sha256": "b4d4d75d6c278369f3a9eff743b2952c297756abd40cfba2ee9e79d3da70d164"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/builderFailureReasons.ts",
+      "sha256": "79a0e920b90215221f8dd2f2f346481c0ced794ceb4625ebc970e79f82e11a6a"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/builderMetrics.ts",
+      "sha256": "41626bd82b406a34dea26eb795e45741b5e97952c467e92e71fde8a75d0c70df"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/formatPercent.ts",
+      "sha256": "44acdbfb0e34fa6232be1ef740a9ae65730ef4f512f86891fda6350db28a44ae"
     },
     {
       "source": "corpus/authored/apps/web/src/lib/ldJson.ts",
       "sha256": "d7440ce7701534e08a418ffaa6d46a0c6f5f90d1761b3c75c111f21e2778cadf"
     },
     {
+      "source": "corpus/authored/apps/web/src/lib/liveUpdateFailureReasons.ts",
+      "sha256": "a412192a1fcd7d3b6f147060f225e0433ce7f29632679a3570feec5959da55ea"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/liveUpdateMetrics.ts",
+      "sha256": "bd8d4134a04a345fb8af93a24783f0e72e18d79b69406f51fe6ed97cf50a1fa1"
+    },
+    {
       "source": "corpus/authored/apps/web/src/lib/metricsTrendChart.ts",
       "sha256": "f5b926ff44f887476f74a51e4eb75d99680c6c83a3c75e107b8ab8c0431e55d6"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/planCopy.ts",
+      "sha256": "91b545bb31406cd26d2f7ef8ab6124b9db270d7820adf7fc2b16408910253b66"
     },
     {
       "source": "corpus/authored/apps/web/src/lib/publicBuilderMetrics.ts",
@@ -247,6 +355,10 @@
       "sha256": "a6cb30101ca44764218450f59ebf58e87b7127eaacfdef1829d8c26dd2ef15f4"
     },
     {
+      "source": "corpus/authored/apps/web/src/services/pluginDocs.ts",
+      "sha256": "a02b72fcdf1c55408cc6ffade2d530d1a17808550b6fa81e30fe0607d6d4e3d8"
+    },
+    {
       "source": "corpus/authored/apps/web/src/styles/cli-product.css",
       "sha256": "249f420dc7d90d60a17d4161a0abe64a889050781b818b58b04eb10485d4ea34"
     },
@@ -267,6 +379,10 @@
       "sha256": "ac341a43219fc452f4a3747f6d30a89aab57d88f1b3f7e250de85f7ecc647958"
     },
     {
+      "source": "corpus/authored/apps/web/src/data/android-distribution.json",
+      "sha256": "2ba5feeb9e2962adec4bba92be117779593e2252fcbdfab0a70fb0a31ff48542"
+    },
+    {
       "source": "corpus/authored/apps/web/src/data/appStoreRefusalStories.ts",
       "sha256": "e457d62dd77feb145d5d4a15d736d421e40fd5dd14ac844ea63cad2d17e148c9"
     },
@@ -279,12 +395,40 @@
       "sha256": "59140c9b1d14c84b0499e0696bef9e46e54eec2892f9489d55178d113b2efa39"
     },
     {
+      "source": "corpus/authored/apps/web/src/data/ios-distribution.json",
+      "sha256": "21b62b8bf339508db5050dee0029a2b3843a905f79b951e490def93303413b8e"
+    },
+    {
       "source": "corpus/authored/apps/web/src/data/npm-downloads.json",
       "sha256": "47e0da7e50434012bad9207e0c557571df135839740a23f7f49e0a9593bfac0b"
     },
     {
       "source": "corpus/authored/apps/web/src/data/transparency.json",
       "sha256": "abce358e2c54013f992b2a4e43f9ee46b2d75bc3150983b1d00899d3ba3f6b68"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/icons/ai-claude.svg",
+      "sha256": "de3631ff0c33142a76242dd2e6dd47fd55a9243e5f58392387df5c4d0e8b0b9a"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/icons/ai-codex.svg",
+      "sha256": "5361f232b2abf87fc94d16de153c504a68e4d4ecc66d3d9bf624872121bc4ee7"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/icons/ai-cursor.svg",
+      "sha256": "3cba736e56d60127c2e3e814575e69f748e664cc1fb562ec136ed9377e3c7255"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/icons/ai-vscode.svg",
+      "sha256": "eaa769fde4c77687eca1956a6397c8436d23a2ce930f78eb57464b09a22f9f3d"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/icons/ai-windsurf.svg",
+      "sha256": "179e622d2165217f2e5387ef8dded09b515753535acf657fdb4c4e9ab417e491"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/icons/ai-zed.svg",
+      "sha256": "d2e18847e744e7c6bda5aebe3a029226bafbeb6825f1f12b93a864deca590226"
     }
   ]
 }

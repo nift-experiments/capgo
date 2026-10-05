@@ -1,0 +1,43 @@
+Browser tab: 11, Title: "Capgo | Pricing - Capacitor live update plans", URL: "http://localhost:4175/pricing/".
+1 AXWebArea Capgo | Pricing - Capacitor live update plans, URL: localhost:4175/pricing/
+	2 container Calculate your credits usage, ID: pricing-calculator-modal
+		3 heading Calculate your credits usage, Value: 2, ID: pricing-calculator-title
+			4 text Calculate your credits usage
+		5 text Enter your estimated monthly active users, updates per month and update size to get your estimated credits cost.
+		6 button Close calculator
+		7 container
+			8 container Your Configuration
+				9 text Your Configuration
+				10 text Monthly Active Users (MAU)
+				11 stepper (settable, integer) Monthly Active Users (MAU), Value: 100000, ID: pricing-calculator-mau
+				12 text Updates per Month
+				13 stepper (settable, integer) Updates per Month, Value: 1, ID: pricing-calculator-updates
+				14 text Update Size (MB)
+				15 stepper (settable, integer) Update Size (MB), Value: 4, ID: pricing-calculator-size
+			16 container Billing period
+				17 text Billing period
+				18 Billing period
+					19 container
+						20 text Monthly Plan
+						21 radio button (settable, integer) Description: Monthly Plan, Value: 1
+					22 container
+						23 text Yearly Plan -20%
+						24 radio button (settable, integer) Description: Yearly Plan -20%, Value: 0
+			25 container Include a subscription plan
+				26 text Include a subscription plan
+				27 container
+					28 radio button (settable, integer) Description: Include a subscription plan, Value: 1
+					29 text Include a subscription plan
+				30 container
+					31 radio button (settable, integer) Description: Credits only (no plan), Value: 0
+					32 text Credits only (no plan)
+			41 text RECOMMENDED PLAN Team $99.00/mo Change plan
+			34 pop up button (collapsed, settable) Change plan, Value: Team, ID: pricing-calculator-plan-select, Secondary Actions: Expand
+				35 menu
+					36 Solo
+					37 Maker
+					38 (selected) Team
+					39 Enterprise
+			40 text Your usage Included in plan Billable overage MAU 100k 100k 0 Bandwidth 391 GiB 391 GiB 0.00 GiB Storage (GiB) 0.00 GiB 0.00 GiB 0.00 GiB PLAN SUBSCRIPTION $99.00/mo OVERAGE CREDITS $0.00/mo ESTIMATED MONTHLY TOTAL $99.00/mo Monthly total
+
+The focused UI element is 11 stepper (settable, integer) Monthly Active Users (MAU), Value: 100000, ID: pricing-calculator-mau

@@ -1,6 +1,6 @@
 // One-time Nift recovery: extract shell boundaries, never source body content.
 import{readFile,writeFile}from'node:fs/promises';import{semantic}from'./html-parity.mjs';import{renderWeb}from'./web-renderer.mjs';import{mkdir}from'node:fs/promises';import{dirname}from'node:path';
-const paths=['web-blog','web-plugin','web-legal','web-listing','web-conversion','web-simple-marketing','web-solutions','web-additional-marketing','web-comparison','web-home','web-product'];
+const paths=['web-blog','web-plugin','web-legal','web-listing','web-conversion','web-simple-marketing','web-solutions','web-additional-marketing','web-comparison','web-home','web-product','web-api'];
 const reports=await Promise.all(paths.map(async p=>JSON.parse(await readFile('evidence/mdx/'+p+'-cohort.json'))));if(reports.some(r=>r.results.some(p=>!p.matches)))throw Error('All web bodies must pass strict parity before recovery');
 let sources=[];try{sources=JSON.parse(await readFile('migration/web-sources.json')).sources}catch(e){if(e.code!=='ENOENT')throw e}const connected=new Set(sources.map(r=>r.file)),plans=[];
 const string='"(?:[^"\\\\]|\\\\.)*"',token=new RegExp('\\$\\[open\\(('+string+')\\)((?:\\.replace\\('+string+','+string+'\\))*)\\]','g');

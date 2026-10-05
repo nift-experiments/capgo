@@ -1,0 +1,52 @@
+{
+  "upstreamCommit": "7d5b69d6ba8a6630384dffc7d012431ee3ed22ec",
+  "counts": {
+    "routes": 1347,
+    "distinctInventoryAuthoredSourcePages": 1285,
+    "knownSupplementalAuthoredPageTemplates": 5,
+    "connectedAuthoredBodies": 1285,
+    "connectedDocsBodies": 529,
+    "connectedWebBodies": 756,
+    "connectedMarketingBodies": 93,
+    "remainingMarketingBodies": 0,
+    "remainingInventoryAuthoredBodies": 0,
+    "sourceBackedListingLayouts": 51,
+    "sourceBackedRenderedRegions": 1336,
+    "retainedGeneratedRoutes": 7,
+    "legacyReferenceRoutes": 4,
+    "localeExpandedRoutes": 0
+  },
+  "reconciliation": [
+    {
+      "reported": 1202,
+      "definition": "Combined authored docs and web bodies at the legal-body checkpoint",
+      "docs": 529,
+      "web": 673,
+      "webBreakdown": {
+        "blog": 514,
+        "plugin": 149,
+        "legal": 10
+      },
+      "correction": "Any description of 1,202 as web-only was a reporting error. HANDOVER.md recorded it as authored bodies; preserve the historical entry."
+    },
+    {
+      "reported": 733,
+      "definition": "Connected authored web bodies at checkpoint 6b5ada2b",
+      "docsExcluded": 529,
+      "webBreakdown": {
+        "blog": 514,
+        "plugin": 149,
+        "marketingIncludingLegal": 70
+      },
+      "combinedAuthoredBodies": 1262
+    }
+  ],
+  "remainingAuthoredRoutes": [],
+  "notes": [
+    "Body counts exclude the generated listing layouts. Source-backed rendered regions include those layouts once; listing grids are nested within them and must not be added again.",
+    "Five routes previously labelled generated have supplemental authored templates; these are not silently counted as migrated or folded into the initial source inventory.",
+    "Every manifest authored source currently maps to one English route. No locale expansion is present.",
+    "Source-backed bodies still retain generated shell/metadata and upstream runtime; these counts do not mean fully migrated pages.",
+    "Retained generated and legacy route groups are identified, but individual architecture classifications remain pending."
+  ]
+}

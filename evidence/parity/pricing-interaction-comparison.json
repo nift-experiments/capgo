@@ -1,0 +1,16 @@
+{
+  "route": "/pricing/",
+  "viewport": [
+    1280,
+    720
+  ],
+  "actions": [
+    "Select Monthly Plan",
+    "Open Calculate your price",
+    "Set Monthly Active Users to 100000"
+  ],
+  "result": "Both select Team at $99.00/mo; totals remain ... in both frozen builds. Runtime API completion is not certified.",
+  "differentPixels": 3904,
+  "totalPixels": 921600,
+  "scope": "One representative desktop interaction, not all-route or all-viewport certification."
+}

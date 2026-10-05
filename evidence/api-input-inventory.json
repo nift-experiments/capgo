@@ -1,0 +1,65 @@
+{
+  "notes": "Runtime fetches remain separate. Corpus source renders structure; API responses are visible JSON inputs.",
+  "records": [
+    {
+      "file": "data/api-snapshots/0b70c229f3993a09.json",
+      "sha256": "6e7d6093216513460772974a1b160fb93349fcf5e70a2adccdd0afa85e49e97d",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/5d449d1c572466bf.json",
+      "sha256": "cb65e8b619faf39c4eaf8c9896e312b4bbf6886a4609b5c8552a6b0f22732668",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/6574738c9b9f3625.json",
+      "sha256": "6eb4b2df0ebbfc5c3ebe3c51dc9bee5e6f393c95438df1100db6a49a9998ab6f",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/72a7cd08ab03f562.json",
+      "sha256": "14295479a6767ad7e1157a941f7e8140b36e5af7553d973d909f053ef347c5c3",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/884a970899ddefb8.json",
+      "sha256": "bddd7bc908f23657916e48bb755eb448609039e7cec5bebba05743114e173854",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/99e6820499c7c7a2.json",
+      "sha256": "8d067c5f74cb7e3db64a34926e7f81e6680d7ef647494fdab85d339acb76886b",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/credits.json",
+      "sha256": "1ddf0dcbecddfaf6f257adaf52e9620981565d41c680a9a557467ebce6915310",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/e4879a454cf7a186.json",
+      "sha256": "631f5513ad361d00c8de0a59ac2a8bd3d6e0bbebc49d9060e7d36847286d91e8",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/github-sponsors-fixture.json",
+      "sha256": "ebe471cc62a0e81e02642c33410c2df9d39e758737e53b6035acb21e75a59e29",
+      "kind": "deterministic credentialless fixture, not a captured response"
+    },
+    {
+      "file": "data/api-snapshots/kotlin-404.json",
+      "sha256": "c13a7b7d4cffa682647eb63df57e58e89022e2387bd1a4a2752349eca02a0e58",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/plans.json",
+      "sha256": "8d6f83be263bc5d253e435b539dc36690cdfefe6123609e4630f72917d05c9d4",
+      "kind": "reference-build recorded input"
+    },
+    {
+      "file": "data/api-snapshots/ranking-index.json",
+      "sha256": "185e104a3f8d3566345647c8afc75776c374231fd501b002b380f9061c832eb9",
+      "kind": "reference-build recorded input"
+    }
+  ]
+}

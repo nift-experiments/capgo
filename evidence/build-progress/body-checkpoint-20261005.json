@@ -1,0 +1,135 @@
+{
+  "status": "Provisional checkpoint observations, not final controlled benchmarks. Peak RSS is maximum process RSS, not aggregate concurrent memory.",
+  "observations": [
+    {
+      "name": "refresh",
+      "command": "nift build --all",
+      "elapsed": "0:11.59",
+      "peakProcessRssKiB": 667856,
+      "phases": {
+        "startedAt": "2026-10-05T06:51:36.992Z",
+        "node": "v22.22.1",
+        "niftVersion": "Nift v4.6.0",
+        "niftCommit": "not exposed by installed binary",
+        "mdxPackage": {
+          "source": "https://github.com/nift-packages/mdx",
+          "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+          "requirements": {}
+        },
+        "logicalCpus": 20,
+        "availableParallelism": 20,
+        "buildThreads": -1,
+        "preparedCache": ".nift/mdx-prepared",
+        "mdxContentCache": ".nift/mdx-cache",
+        "mdxCachePolicy": "content",
+        "codeCache": "build/faithful/code-blocks.json",
+        "webCache": "build/faithful/web",
+        "phases": [
+          {
+            "tool": "tools/prepare-code-cohort.mjs",
+            "elapsedSeconds": 0.624,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529,
+                "codeBlocks": 3701
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-faithful.mjs",
+            "elapsedSeconds": 1.123,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-web.mjs",
+            "elapsedSeconds": 8.975,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 807,
+                "cached": 0,
+                "pages": 807
+              }
+            ]
+          }
+        ],
+        "note": "Preparation phase timings and conversion/cache counts; overall peak RSS is recorded separately with GNU time. No core instrumentation."
+      }
+    },
+    {
+      "name": "warm",
+      "command": "nift build --all",
+      "elapsed": "0:04.33",
+      "peakProcessRssKiB": 241488,
+      "phases": {
+        "startedAt": "2026-10-05T06:53:46.052Z",
+        "node": "v22.22.1",
+        "niftVersion": "Nift v4.6.0",
+        "niftCommit": "not exposed by installed binary",
+        "mdxPackage": {
+          "source": "https://github.com/nift-packages/mdx",
+          "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+          "requirements": {}
+        },
+        "logicalCpus": 20,
+        "availableParallelism": 20,
+        "buildThreads": -1,
+        "preparedCache": ".nift/mdx-prepared",
+        "mdxContentCache": ".nift/mdx-cache",
+        "mdxCachePolicy": "content",
+        "codeCache": "build/faithful/code-blocks.json",
+        "webCache": "build/faithful/web",
+        "phases": [
+          {
+            "tool": "tools/prepare-code-cohort.mjs",
+            "elapsedSeconds": 0.586,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529,
+                "codeBlocks": 3701
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-faithful.mjs",
+            "elapsedSeconds": 1.292,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-web.mjs",
+            "elapsedSeconds": 0.452,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 807,
+                "pages": 807
+              }
+            ]
+          }
+        ],
+        "note": "Preparation phase timings and conversion/cache counts; overall peak RSS is recorded separately with GNU time. No core instrumentation."
+      }
+    }
+  ]
+}

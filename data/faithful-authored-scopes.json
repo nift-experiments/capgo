@@ -23,6 +23,42 @@
       "scope": "data-astro-cid-nbm37sxk",
       "sourceSha256": "7f1c7f3331a2a0ad32ab847f0741350ffc00072e34ae5173754fec20c10d80c9"
     },
+    "corpus/authored/apps/web/src/components/enterprise/GovernedRollout.astro": {
+      "scope": "data-astro-cid-snwsuiko",
+      "sourceSha256": "61788e97ed7932c1951a2cb4423ed4976a6ec5719105e493a3deb65839f8391f"
+    },
+    "corpus/authored/apps/web/src/components/explainers/ReleaseExplainers.astro": {
+      "scope": "data-astro-cid-fcw3x4hr",
+      "sourceSha256": "a25df92659e03f2dc23177a918b7affc665fc319d77db44ef9f11a8ceeef6d2b"
+    },
+    "corpus/authored/apps/web/src/components/explainers/SceneDeltaUpdate.astro": {
+      "scope": "data-astro-cid-uzx54irv",
+      "sourceSha256": "d8b87e95c8df96677c4d6ead1f57271c85c65d221f6331e7b3f4d989a6ca7704"
+    },
+    "corpus/authored/apps/web/src/components/explainers/SceneNextLaunch.astro": {
+      "scope": "data-astro-cid-fnqjiv4p",
+      "sourceSha256": "6745a921a3ad30a59ecd7c8832ef301b629dfde75139ea372d65aea4c2995675"
+    },
+    "corpus/authored/apps/web/src/components/explainers/SceneOtaBoundary.astro": {
+      "scope": "data-astro-cid-y4epavlj",
+      "sourceSha256": "105c80442753be77e2c11c2722958cfd0cc1f4a7525ea089b6b504cbbf66f4cd"
+    },
+    "corpus/authored/apps/web/src/components/explainers/SceneRollout.astro": {
+      "scope": "data-astro-cid-t7lbu633",
+      "sourceSha256": "584a1f7eceb46ea5c0090933463d54e65f8223fcbc7188d58dde8ca56dcb6b13"
+    },
+    "corpus/authored/apps/web/src/components/notifications/NotificationsStory.astro": {
+      "scope": "data-astro-cid-lhy3z7ys",
+      "sourceSha256": "88f83d5462e455ae6306f1c1bd57f352b45f266357959d84c50444a34fde478f"
+    },
+    "corpus/authored/apps/web/src/components/observe/ObserveReleaseHealthDemo.astro": {
+      "scope": "data-astro-cid-j5mzlkar",
+      "sourceSha256": "7e7e90ef18c05ae0dc76345eb9fd7bbf0825c4ca2ad74902a7c7968ace5ff8dd"
+    },
+    "corpus/authored/apps/web/src/components/pricing/PricingCalculator.astro": {
+      "scope": "data-astro-cid-y6yaq3j5",
+      "sourceSha256": "5a599f4cc4463468b38524e8ee05654925bfac84f405963450cf3ceb091155e7"
+    },
     "corpus/authored/apps/web/src/pages/builder-data.astro": {
       "scope": "data-astro-cid-ebmaqv3d",
       "sourceSha256": "eabb755a348726ab8240f7c80f92bd49803859dcaa1464f2ab30dc80e08ad375"
