@@ -1,0 +1,44 @@
+{
+  "projectArchitectureRevision": "ba9be82a",
+  "correctnessFix": "tools/prepare-rich-components.mjs creates build/faithful before writing fingerprint",
+  "upstreamRevision": "7d5b69d6ba8a6630384dffc7d012431ee3ed22ec",
+  "niftVersion": "4.6.0",
+  "niftCommit": "not exposed by installed executable",
+  "niftBinarySha256": "03ed5ed8344280c736e78a18f4ad80c6e92e3f45e63ff3784523aa122f0ac0b6",
+  "mdxPackageCommit": "22bb53653f47c22defff863e3465e8df9a11da99",
+  "niftNode": "22.22.1",
+  "upstreamNode": "24.21.0",
+  "bun": "1.4.2",
+  "buildThreads": -1,
+  "logicalCpus": 20,
+  "cpu": "Intel Core i7-12700H",
+  "os": "Ubuntu 26.04.1 LTS",
+  "kernel": "7.0.0-29-generic",
+  "memoryStatistic": "GNU time -v maximum RSS, KiB; not sum of concurrent process RSS",
+  "execution": "Serial builds, no overlapping benchmark workloads; dependency installation excluded",
+  "cacheClasses": {
+    "warm-full": "All prepared docs, code, web, metadata and Nift output caches present; nift build --all",
+    "no-op": "Same caches and unchanged authored sources; nift build",
+    "web-regeneration": "Delete build/faithful/web-fingerprints.json only; code/docs and metadata caches retained; nift build --all",
+    "cold-intermediates": "Remove build/faithful, .nift/mdx-prepared and .nift/mdx-cache; retain installed dependencies, public assets and Nift output state; nift build --all",
+    "clean-checkout": "Separately measured from fresh clone with no copied caches; tools/build.mjs --all initializes assets; installation excluded",
+    "incremental": "Edit actual authored docs/rich MDX text, marketing title or blog text; nift build; restore source then rebuild unmeasured after each class",
+    "upstream-astro": "bun run build explicitly clears per-app output/Astro/deploy caches every run; dependencies and committed data/script snapshots retained; recorded fetch preload for plans/credits/rankings. Other optional external requests preserve upstream behavior."
+  },
+  "upstreamEnvironment": {
+    "NODE_OPTIONS": "--max-old-space-size=16384 --import <repo>/golden/snapshot-fetch.mjs",
+    "BUILD_CONCURRENCY": "upstream default 1",
+    "UV_THREADPOOL_SIZE": "upstream default 16"
+  },
+  "historicalUpstream": {
+    "seconds": 78.1,
+    "peakRssKiB": 3634760,
+    "superseded": true
+  },
+  "failedPreFixRun": "Preserved in pre-fix; excluded from successful benchmark medians",
+  "priming": "Final Nift suite runs an unmeasured full build before warm samples. The earlier partial-cache recovery sample is retained only in before-inline-space-fix.",
+  "sourceClosureRevision": "7bb03eecc49e142367cb4451a3dcd6fcb4b18b4e",
+  "finalNiftSuite": "Post inline-spacing fix; all classes repeated. Earlier data retained under before-inline-space-fix and pre-fix.",
+  "upstreamRuns": 5,
+  "niftRunsPerClass": 3
+}

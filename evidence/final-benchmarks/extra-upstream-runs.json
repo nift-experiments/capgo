@@ -1,0 +1,26 @@
+[
+  {
+    "class": "upstream-astro",
+    "run": 4,
+    "command": [
+      "bun",
+      "run",
+      "build"
+    ],
+    "seconds": 97.19,
+    "peakRssKiB": 3624128,
+    "exitCode": 0
+  },
+  {
+    "class": "upstream-astro",
+    "run": 5,
+    "command": [
+      "bun",
+      "run",
+      "build"
+    ],
+    "seconds": 108.53999999999999,
+    "peakRssKiB": 3554192,
+    "exitCode": 0
+  }
+]

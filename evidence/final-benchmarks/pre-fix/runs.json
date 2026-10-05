@@ -1,0 +1,119 @@
+[
+  {
+    "class": "warm-full",
+    "run": 1,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 9.03,
+    "peakRssKiB": 238940,
+    "exitCode": 0
+  },
+  {
+    "class": "warm-full",
+    "run": 2,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 5.25,
+    "peakRssKiB": 241116,
+    "exitCode": 0
+  },
+  {
+    "class": "warm-full",
+    "run": 3,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 4.57,
+    "peakRssKiB": 239440,
+    "exitCode": 0
+  },
+  {
+    "class": "no-op",
+    "run": 1,
+    "command": [
+      "nift",
+      "build"
+    ],
+    "seconds": 4.09,
+    "peakRssKiB": 241304,
+    "exitCode": 0
+  },
+  {
+    "class": "no-op",
+    "run": 2,
+    "command": [
+      "nift",
+      "build"
+    ],
+    "seconds": 4.75,
+    "peakRssKiB": 240580,
+    "exitCode": 0
+  },
+  {
+    "class": "no-op",
+    "run": 3,
+    "command": [
+      "nift",
+      "build"
+    ],
+    "seconds": 4.26,
+    "peakRssKiB": 238792,
+    "exitCode": 0
+  },
+  {
+    "class": "web-regeneration",
+    "run": 1,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 18.16,
+    "peakRssKiB": 676800,
+    "exitCode": 0
+  },
+  {
+    "class": "web-regeneration",
+    "run": 2,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 18.28,
+    "peakRssKiB": 657720,
+    "exitCode": 0
+  },
+  {
+    "class": "web-regeneration",
+    "run": 3,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 19.17,
+    "peakRssKiB": 647272,
+    "exitCode": 0
+  },
+  {
+    "class": "cold-intermediates",
+    "run": 1,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 15.55,
+    "peakRssKiB": 676920,
+    "exitCode": 1
+  }
+]

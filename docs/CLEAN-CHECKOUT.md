@@ -22,8 +22,12 @@ The tested npm installations additionally used `--offline`, resolving lockfile p
 
 The first `tools/build.mjs --all` initializes non-HTML assets from the committed reference and generates all source intermediates. Subsequent normal commands are `nift build --all` or `nift build`; normal preparation uses the authored corpus and committed data, without an external Astro checkout. The committed golden reference is needed for initial assets and validation, and is inside this repository.
 
+A later direct cold-cache benchmark exposed a missing directory creation in rich-component preparation, masked by the bootstrap asset step. `prepare-rich-components.mjs` now creates `build/faithful` itself; repeated direct cold builds validate that correction separately in final benchmark evidence.
+
 Generated `build/faithful`, `.nift/mdx-prepared`, Nift hashes and locks are optional caches and are ignored. Removing 3,810 tracked generated state files was necessary to exercise a truly empty initial state. Six Nift configuration/package source files remain tracked. The audit confirms all 1,347 route wrappers and 7,775 distinct required source includes are tracked. The CLI `docs/cli/reference/build/` source directory is preserved by the rooted `/build/` ignore rule.
 
 The clean first build measured 79.71 seconds and 652,656 KiB maximum RSS (637.4 MiB), including asset initialization and all intermediate generation, excluding installations and validation. This is one reproduction measurement, not the final repeated cold-cache benchmark. Maximum RSS is the GNU time process statistic, not summed concurrent resident memory.
 
 The static preview binds localhost:4176. Original backend endpoints and external integrations have separate requirements; successful reproduction does not certify them. See `RUNTIME-INTEGRATIONS.md`.
+
+Corrected source revision `7bb03eec` also passes a second independent clone: 123.11s / 665.4 MiB bootstrap, all output and head gates passing. See `evidence/clean-checkout-final/`; this is a distinct observation from repeated cold-intermediate timings.

@@ -1,0 +1,21 @@
+Preparing authored MDX before Nift page rendering...
+Preparing tools/prepare-web.mjs...
+Preparing tools/prepare-docs-metadata.mjs...
+Preparing tools/prepare-code-cohort.mjs...
+Still preparing authored content (10s); page rendering starts afterward.
+Still preparing authored content (10s); page rendering starts afterward.
+Still preparing authored content (20s); page rendering starts afterward.
+Still preparing authored content (20s); page rendering starts afterward.
+Preparing tools/prepare-faithful.mjs...
+Still preparing authored content (10s); page rendering starts afterward.
+Still preparing authored content (20s); page rendering starts afterward.
+Still preparing authored content (30s); page rendering starts afterward.
+Still preparing authored content (40s); page rendering starts afterward.
+Still preparing authored content (50s); page rendering starts afterward.
+Still preparing authored content (60s); page rendering starts afterward.
+Still preparing authored content (70s); page rendering starts afterward.
+
+MDX preparation complete; starting Nift page rendering.
+📦 1347 files built successfully
+time taken: 102.378944 seconds
+{"htmlRoutes":1347,"files":3876,"parityErrors":0,"mdxSemanticMatches":1192}

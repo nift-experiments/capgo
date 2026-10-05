@@ -1,0 +1,290 @@
+Browser tab: 12, Title: "Capgo | Plugins — Open-source Capacitor plugins and SDK", URL: "http://localhost:4176/plugins/".
+1 AXWebArea Capgo | Plugins — Open-source Capacitor plugins and SDK, URL: localhost:4176/plugins/
+	2 link Description: Skip to main content, Value: localhost:4176/plugins/#main-content
+	3 container
+		4 text Login and register links available
+		5 container
+			6 link Description: Capgo home, Value: localhost:4176/
+			7 link Description: Docs, Value: localhost:4176/docs/
+			8 button Products
+			9 button Solutions
+			10 link Description: Pricing, Value: localhost:4176/pricing/
+			11 link Description: Login, Value: console.capgo.app/login/
+		12 button Register
+	13 container
+		14 text 154+ Plugins
+		15 heading Capacitor Plugins & SDK Bridges, Value: 1
+			16 text Capacitor Plugins & SDK Bridges
+		17 text Stop burning sprints on native bridge code. Pick production-ready Capacitor plugins and SDK wrappers backed by real npm usage, GitHub signal, and open-source maintenance.
+		18 text 154+ Total plugins 3.2M npm monthly 2.6k+ GitHub Stars 541+ OSS contributors 12.6k+ Versions shipped 6.0k+ PRs/issues resolved
+		19 heading Free and open source, Value: 2
+			20 text Free and open source
+		21 text Every Capgo plugin is free to use under the Mozilla Public License 2.0, including in commercial apps. Read, fork, and audit the source on GitHub.
+		22 link Description: Browse the source, Value: github.com/Cap-go
+		23 heading Priority support with a Capgo plan, Value: 2
+			24 text Priority support with a Capgo plan
+		25 text Customers on any Capgo plan get their plugin bug fixes and feature requests handled first by the team that maintains them.
+		26 link Description: See plans, Value: localhost:4176/pricing/
+		27 container plugins
+			28 heading Find the Native Capability You Need, Value: 2
+				29 text Find the Native Capability You Need
+			30 text Ship auth, payments, biometrics, background tasks, and SDK wrappers without rebuilding the native bridge from scratch.
+			31 container
+				32 search text field (settable) Description: Search plugins by name or description, ID: plugin-search
+				33 container Filter plugins by category
+					34 checkbox All plugins 154, Value: 0
+					35 checkbox Updates 6, Value: 1
+					36 checkbox Auth & Security 22, Value: 0
+					37 checkbox Analytics 13, Value: 0
+					38 checkbox Commerce 8, Value: 0
+					39 checkbox Media 19, Value: 0
+					40 checkbox Files & Storage 15, Value: 0
+					41 checkbox Device APIs 32, Value: 0
+					42 checkbox UI & System 11, Value: 0
+					43 checkbox Location 5, Value: 0
+					44 checkbox Communication 13, Value: 0
+					45 checkbox Integrations 4, Value: 0
+					46 checkbox Developer Tools 6, Value: 0
+			3746 text Showing 6 of 154 plugins
+			47 pop up button (collapsed) Description: Sort plugins by, ID: plugin-sort-button, Secondary Actions: Expand
+				48 text Sort:
+				49 text Downloads
+			2085 container plugins-grid
+				2086 container
+					2087 image Updater plugin icon
+					2088 text Updates
+					2089 heading Updater, Value: 3
+						2090 text Updater
+					2091 text Deploy Ionic and Capacitor live updates instantly to your users without app store review delays @capgo/capacitor-updater
+					2092 image
+					2093 text 562.0k/m
+					2094 image
+					2095 text 769
+					2096 link Description: Documentation, Value: localhost:4176/plugins/capacitor-updater/
+					2097 link Description: GitHub, Value: github.com/Cap-go/capacitor-updater/
+				2644 container
+					2645 image Android Inline Install plugin icon
+					2646 text Updates
+					2647 heading Android Inline Install, Value: 3
+						2648 text Android Inline Install
+					2649 text Install app updates directly within the app without leaving to Play Store @capgo/capacitor-android-inline-install
+					2650 image
+					2651 text 10.2k/m
+					2652 image
+					2653 text 7
+					2654 link Description: Documentation, Value: localhost:4176/plugins/capacitor-android-inline-install/
+					2655 link Description: GitHub, Value: github.com/Cap-go/capacitor-android-inline-install/
+				3062 container
+					3063 image Live Reload plugin icon
+					3064 text Updates
+					3065 heading Live Reload, Value: 3
+						3066 text Live Reload
+					3067 text Connect to your dev server for instant hot reloading during development @capgo/capacitor-live-reload
+					3068 image
+					3069 text 2.5k/m
+					3070 image
+					3071 text 8
+					3072 link Description: Documentation, Value: localhost:4176/plugins/capacitor-live-reload/
+					3073 link Description: GitHub, Value: github.com/Cap-go/capacitor-live-reload/
+				3294 container
+					3295 image Capacitor Patch plugin icon
+					3296 text Updates
+					3297 heading Capacitor Patch, Value: 3
+						3298 text Capacitor Patch
+					3299 text Apply version-gated Capacitor core, CLI, plugin, and native project patches during cap sync and update
+					3300 text @capgo/capacitor-patch
+					3301 image
+					3302 text 683/m
+					3303 image
+					3304 text 2
+					3305 link Description: Documentation, Value: localhost:4176/plugins/capacitor-patch/
+					3306 link Description: GitHub, Value: github.com/Cap-go/capacitor-patch/
+				3468 container
+					3469 image Electron Updater plugin icon
+					3470 text Updates
+					3471 heading Electron Updater, Value: 3
+						3472 text Electron Updater
+					3473 text OTA live updates for Electron apps with the same API surface as capacitor-updater @capgo/electron-updater
+					3474 image
+					3475 text 293/m
+					3476 image
+					3477 text 3
+					3478 link Description: Documentation, Value: localhost:4176/plugins/electron-updater/
+					3479 link Description: GitHub, Value: github.com/Cap-go/electron-updater/
+				3736 container
+					3737 image Cordova Updater plugin icon
+					3738 text Updates
+					3739 heading Cordova Updater, Value: 3
+						3740 text Cordova Updater
+					3741 text OTA live updates for Cordova iOS and Android with the same API as capacitor-updater @capgo/cordova-updater
+					3742 image
+					3743 text 0
+					3744 link Description: Documentation, Value: localhost:4176/plugins/cordova-updater/
+					3745 link Description: GitHub, Value: github.com/Cap-go/cordova-updater/
+		1920 container product-testimonials
+			1921 text PLUGIN PROOF
+			1922 heading Capacitor teams often start with plugins and stay for the release workflow, Value: 2
+				1923 text Capacitor teams often start with plugins and stay for the release workflow
+			1924 text Short reviews from developers using Capgo plugins and updater workflows in production Capacitor apps.
+			1925 image Rated 5.0 out of 5 by developer teams using Capgo
+			1926 text 5.0/5
+			1927 text rated by developer teams
+			1928 text 9,400+
+			1929 text teams
+			1930 link Description: Read reviews, Value: localhost:4176/#testimonials
+			1931 container
+				1932 image Portrait of Mikołaj Wilczek
+				1933 heading Mikołaj Wilczek, Value: 3
+					1934 text Mikołaj Wilczek
+				1935 text Principal Mobile Platform Engineer, Tellent
+				1936 image 5 out of 5 stars
+				1937 text “We originally discovered Capgo through its plugins, and that turned out to be a great entry point into a much more efficient release process for our team.”
+			1938 container
+				1939 image Portrait of Michael Haberler
+				1940 heading Michael Haberler, Value: 3
+					1941 text Michael Haberler
+				1942 text nethead emeritors
+				1943 image 5 out of 5 stars
+				1944 text “Great job on the updater plugin. It works flawlessly for me, and live updates are a super accelerator for quick testing turnaround.”
+			1945 container
+				1946 image Portrait of Sergiu S
+				1947 heading Sergiu S, Value: 3
+					1948 text Sergiu S
+				1949 text Lead Developer, drivolino GmbH
+				1950 image 5 out of 5 stars
+				1951 text “The Capgo Capacitor Updater plugin completely transformed how we ship updates. What used to take days now takes just minutes.”
+		1952 text 154+ Plugins available
+		1953 heading Ship Native Features Without the Native Rewrite, Value: 2
+			1954 text Ship Native Features Without the Native Rewrite
+		1955 text Production-ready plugins, SDK bridges, examples, updates, and paid support when your team needs native capability in the app now, not after another bridge rewrite.
+		1956 link Description: Find the Native Capability You Need, Value: localhost:4176/plugins/#plugins
+		1957 link Description: GitHub, Value: github.com/Cap-go
+		1958 link Description: Need Something Custom?, Value: localhost:4176/plugins/#custom-development
+		1959 text 154+
+		1960 text Ready-to-use plugins
+		1961 text 3.2M
+		1962 text Downloads/month
+		1963 text 2.6k+
+		1964 text GitHub Stars
+		1965 text 541+
+		1966 text OSS contributors
+		1967 text 12.6k+
+		1968 text Versions shipped
+		1969 text 6.0k+
+		1970 text PRs/issues resolved
+		1971 container product-video
+			1972 text FROM MARTIN
+			1973 heading Why Capgo maintains production plugins, Value: 2
+				1974 text Why Capgo maintains production plugins
+			1975 text Capgo founder Martin on the native gaps teams hit in production Capacitor apps, and why we keep a maintained plugin catalog instead of leaving you to guess.
+			1976 text Martin, Founder, Capgo
+			1977 link Description: Play video: Why Capgo maintains production plugins — video message from Martin, Capgo founder, Value: youtube.com/watch?v=p2hc5pzsHAY
+		1978 image
+		1979 heading Need a plugin we have not listed yet?, Value: 3
+			1980 text Need a plugin we have not listed yet?
+		1981 text Check the Capgo GitHub org for more open-source bridges, experiments, and community-maintained plugin work.
+		1982 link Description: Browse Capgo GitHub, Value: github.com/Cap-go
+		1983 image
+		1984 heading Need a custom SDK bridge?, Value: 3
+			1985 text Need a custom SDK bridge?
+		1986 text Bring the vendor SDK or native capability. We turn it into a documented Capacitor plugin your team can ship and maintain.
+		1987 link Description: Build My Plugin, Value: localhost:4176/consulting/
+	1988 container Footer
+		1989 heading Footer, Value: 2, ID: footer-heading
+			1990 text Footer
+		1991 link Description: Capgo home, Value: localhost:4176/
+		1992 text Live updates, native builds, and release tooling for Capacitor apps.
+		1993 link Description: ALL SYSTEMS NORMAL, Value: status.capgo.app/
+		1994 image SOC 2 Type II (Enterprise plan)
+		1995 image ISO 27001 Compliant
+		1996 image GDPR Compliant
+		1997 heading PRODUCTS, Value: 3
+			1998 text PRODUCTS
+		1999 content list
+			2000 link Description: Live Update, Value: localhost:4176/live-update/
+			2001 link Description: Native Build, Value: localhost:4176/native-build/
+			2002 link Description: Observe, Value: localhost:4176/observe/
+			2003 link Description: Notifications, Value: localhost:4176/notifications/
+			2004 link Description: App mobile, Value: localhost:4176/app_mobile/
+			2005 link Description: Plugins, Value: localhost:4176/plugins/
+			2006 link Description: Integrations, Value: localhost:4176/integrations/
+			2007 link Description: CLI & API, Value: localhost:4176/docs/cli/
+			2008 link Description: Mobile CI/CD, Value: localhost:4176/ci_cd/
+			2009 link Description: Pricing, Value: localhost:4176/pricing/
+			2010 link Description: Enterprise, Value: localhost:4176/enterprise/
+		2011 heading RESOURCES, Value: 3
+			2012 text RESOURCES
+		2013 content list
+			2014 link Description: Documentation, Value: localhost:4176/docs/
+			2015 link Description: Blog, Value: localhost:4176/blog/
+			2016 link Description: Articles, Value: localhost:4176/articles/
+			2017 link Description: Capacitor Skills, Value: localhost:4176/skills/
+			2018 link Description: Community, Value: discord.capgo.app/
+			2019 link Description: Chat, Value: support.capgo.app/
+			2020 link Description: Premium Support, Value: localhost:4176/premium-support/
+			2021 link Description: Status, Value: status.capgo.app/
+			2022 link Description: App store publishing costs, Value: localhost:4176/cost/cost-to-publish-app-on-app-store/
+			2023 link Description: App store refusal stories, Value: localhost:4176/app-store-refusal-horror-story/
+			2024 link Description: Awesome Capacitor, Value: github.com/riderx/awesome-capacitor/
+			2025 link Description: Top App by Framework, Value: localhost:4176/top_app/
+		2026 heading FREE TOOLS, Value: 3
+			2027 text FREE TOOLS
+		2028 content list
+			2029 link Description: Free Mobile Tools, Value: localhost:4176/tools/
+			2030 link Description: Security Scanner, Value: localhost:4176/security-scanner/
+			2031 link Description: AASA Tester, Value: aasa-tester.capgo.app/
+			2032 link Description: SemVer Tester, Value: localhost:4176/semver_tester/
+			2033 link Description: Live Update data, Value: localhost:4176/data/
+			2034 link Description: Native Build data, Value: localhost:4176/builder-data/
+			2035 link Description: Android distribution chart, Value: localhost:4176/android-distribution-chart/
+			2036 link Description: iOS distribution chart, Value: localhost:4176/ios-distribution-chart/
+		2037 heading COMPARE, Value: 3
+			2038 text COMPARE
+		2039 content list
+			2040 link Description: Alternatives, Value: localhost:4176/alternatives/
+			2041 link Description: Ionic AppFlow vs Capgo, Value: localhost:4176/alternatives/ionic-appflow/
+			2042 link Description: EAS vs Capgo, Value: localhost:4176/alternatives/expo/
+			2043 link Description: Median vs Capgo, Value: localhost:4176/alternatives/median/
+			2044 link Description: Capawesome vs Capgo, Value: localhost:4176/alternatives/capawesome/
+			2045 link Description: CodePush alternative, Value: localhost:4176/alternatives/codepush/
+			2046 link Description: VoltBuilder vs Capgo, Value: localhost:4176/alternatives/voltbuilder/
+			2047 link Description: Best Capacitor live update tools, Value: localhost:4176/best/capacitor-live-updates/
+			2048 link Description: Migrate from Appflow, Value: localhost:4176/migrate/from-appflow/
+			2049 link Description: MCP server, Value: localhost:4176/mcp/
+			2050 link Description: AI Migration Guide (2026), Value: localhost:4176/solutions/cordova-to-capacitor-ai/
+			2051 link Description: Web App to Mobile, Value: localhost:4176/solutions/webapp-to-mobile/
+		2052 heading COMPANY, Value: 3
+			2053 text COMPANY
+		2054 content list
+			2055 link Description: About, Value: localhost:4176/about/
+			2056 link Description: Contact, Value: localhost:4176/contact/
+			2057 link Description: Trust, Value: localhost:4176/trust/
+			2058 link Description: HIPAA compliance, Value: localhost:4176/hipaa-compliance/
+			2059 link Description: Consulting, Value: localhost:4176/consulting/
+			2060 link Description: Affiliate program, Value: localhost:4176/affiliate/
+			2061 link Description: Jobs, Value: console.algora.io/org/capgo/bounties?status=open/
+			2062 link Description: Contributing, Value: localhost:4176/contributing/
+			2063 link Description: Sponsoring, Value: localhost:4176/sponsor/
+			2064 link Description: Imprint, Value: localhost:4176/imprint/
+		2065 heading LEGAL, Value: 3
+			2066 text LEGAL
+		2067 content list
+			2068 link Description: Privacy, Value: localhost:4176/privacy/
+			2069 link Description: Terms of Service, Value: localhost:4176/tos/
+			2070 link Description: Service Level Agreement, Value: localhost:4176/sla/
+			2071 link Description: Support Policy, Value: localhost:4176/support-policy/
+			2072 link Description: Acceptable Use Policy, Value: localhost:4176/aup/
+			2073 link Description: Security.txt, Value: localhost:4176/security/
+			2074 link Description: Bug Bounty, Value: localhost:4176/bug-bounty/
+			2075 link Description: Data Policy, Value: localhost:4176/dp/
+			2076 link Description: Data Protection Agreement, Value: localhost:4176/dpa/
+			2077 link Description: Subprocessors, Value: localhost:4176/subprocessors/
+			2078 link Description: End-User License Agreement, Value: localhost:4176/eula/
+			2079 link Description: Return Policy, Value: localhost:4176/return/
+		2080 text © Capgo 2026 · Digital Shift OÜ
+		2081 pop up button (collapsed) Description: English, Change language, ID: language-dropdown-button, Secondary Actions: Expand
+		2082 link Description: llms.txt, Value: localhost:4176/llms.txt
+		2083 link Description: llms-full.txt, Value: localhost:4176/llms-full.txt
+		2084 link Description: Sitemap, Value: localhost:4176/sitemap-index.xml
+
+The focused UI element is 35 checkbox Updates 6, Value: 1

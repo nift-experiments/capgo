@@ -1,0 +1,65 @@
+{
+  "startedAt": "2026-10-05T12:42:45.702Z",
+  "node": "v22.22.1",
+  "niftVersion": "Nift v4.6.0",
+  "niftCommit": "not exposed by installed binary",
+  "mdxPackage": {
+    "source": "https://github.com/nift-packages/mdx",
+    "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+    "requirements": {}
+  },
+  "logicalCpus": 20,
+  "availableParallelism": 20,
+  "buildThreads": -1,
+  "preparedCache": ".nift/mdx-prepared",
+  "mdxContentCache": ".nift/mdx-cache",
+  "mdxCachePolicy": "content",
+  "codeCache": "build/faithful/code-blocks.json",
+  "webCache": "build/faithful/web",
+  "phases": [
+    {
+      "tool": "tools/prepare-code-cohort.mjs",
+      "elapsedSeconds": 11.709,
+      "exitCode": 0,
+      "reports": [
+        {
+          "prepared": 529,
+          "cached": 0,
+          "pages": 529,
+          "codeBlocks": 3701
+        }
+      ]
+    },
+    {
+      "tool": "tools/prepare-faithful.mjs",
+      "elapsedSeconds": 54.919,
+      "exitCode": 0,
+      "reports": [
+        {
+          "prepared": 529,
+          "cached": 0,
+          "pages": 529
+        }
+      ]
+    },
+    {
+      "tool": "tools/prepare-web.mjs",
+      "elapsedSeconds": 15.792,
+      "exitCode": 0,
+      "reports": [
+        {
+          "prepared": 812,
+          "cached": 0,
+          "pages": 812
+        }
+      ]
+    },
+    {
+      "tool": "tools/prepare-docs-metadata.mjs",
+      "elapsedSeconds": 1.667,
+      "exitCode": 0,
+      "reports": []
+    }
+  ],
+  "note": "Preparation phase timings and conversion/cache counts; overall peak RSS is recorded separately with GNU time. No core instrumentation."
+}

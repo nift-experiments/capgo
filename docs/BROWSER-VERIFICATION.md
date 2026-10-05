@@ -8,12 +8,14 @@ The closure pass uses the rendered faithful preview, default desktop 1280×720 a
 | Mobile navigation | At 390px menu expands, Products submenu expands and Live Updates navigation lands on the correct rendered product page. |
 | Product/controller | Live Updates Delta tab selects its matching panel. Pause becomes Play. ArrowRight moves focus and selection to Rollout & rollback. Mobile screenshot/state retained. |
 | Desktop navigation | Products menu and actual navigation work; keyboard Escape was exercised. Do not infer complete focus trapping from one key check. |
-| Pricing | Earlier calculator control/plan-selection evidence retained. Remote totals stayed loading; backend success is a declared limitation. |
+| Pricing | Earlier calculator control/plan-selection evidence retained. A later settled-state check matched the reference at $99/month Team for 100,000 MAU, one update/month and 4 MB. Other combinations/backend failure paths are not exhaustive. |
 | Solution/comparison | Webapp-to-mobile and Ionic Appflow comparison render expected headings on desktop and mobile, with no horizontal page overflow. |
 | Docs landing/search | Landing renders original sections/navigation. Algolia search `rollback` returns five live results; Escape closes search. Search hits retain upstream official-site URLs. |
 | Ordinary/rich docs | Deploy a Live Update has expressive code, nested tips and rich tabs. Copy puts `npm run build` on clipboard. Github Actions selects its YAML panel; ArrowRight selects Gitlab and moves focus. Earlier rich MDX and questionnaire checks remain in cohort evidence. |
 | Sidebar/TOC | Earlier desktop/mobile geometry evidence preserved; sidebar/TOC markup unchanged in full semantic parity. New docs tab-state evidence retained. This does not certify every scroll position on every browser. |
 | Blog listing/filter/search | Alternatives category navigation lands on its canonical category. Search for a nonexistent phrase shows 0 of 17 and explicit no-match message; clearing restores articles. |
+| Plugin directory | Nonexistent search shows 0 of 154; clearing and selecting Updates shows 6 of 154 with selected-category state. |
+| Browser-local tool | Semver 1.0.0 → 1.0.1 reports update applied. Invalid remote version reports invalid format and prevents comparison. |
 | Blog article | Contacts-alternative article renders title, credits, image, code and TOC; desktop screenshot inspected. Earlier article mobile geometry covers the same article shell. |
 | API/data page | `/data/` renders its explicit remote-unavailable states; selecting 1W changes selected range from 1M. Successful remote statistics not claimed. |
 | Legal | Privacy renders original headings/content and mobile width stays inside viewport. |
@@ -25,3 +27,5 @@ The closure pass uses the rendered faithful preview, default desktop 1280×720 a
 Mobile solution, comparison, privacy, docs, blog-category and registration pages all measured scroll width 375px within the 390px viewport (scrollbar accounted for). Page titles/headings and widths are recorded in `page-classes.json`. Temporary viewport override was reset.
 
 No upstream visual/controller redesign occurred during closure. Browser-only conversion success, remote calculation/auth/signing, translated routes and exhaustive accessibility testing remain residual limitations. Architecture is frozen with these limitations disclosed; any later change must address correctness or reproduction and rerun the affected checks.
+
+Final visual comparison found missing whitespace before an inline homepage link, invisible to the text-trimming semantic check. The authored renderer now preserves inline-boundary whitespace outside JavaScript expressions; focused literal/expression/ternary tests pass. Head and full parity remain green.

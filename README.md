@@ -3,15 +3,15 @@
 Reference Capgo recreation designed for pleasant human+agent maintenance,
 with familiar MD/MDX/frontmatter authoring where practical.
 
-**Migration in progress.** All 1,285 initial authored bodies, five supplemental templates and 51 listing layouts are connected. All 1,347 routes / 3,876 files pass structural parity. Runtime integrations, clean-checkout reproduction and final benchmarks remain unfinished. See [closure status](docs/CLOSURE-STATUS.md), [canonical accounting](docs/MIGRATION-ACCOUNTING.md), and HANDOVER.md.
+**Faithful frontend closure complete, with documented runtime limitations.** All 1,290 authored bodies and 51 listing layouts are source-connected; all 1,347 routes / 3,876 files pass parity. Metadata, browser coverage, independent reproduction and final repeated benchmarks are recorded in the [final report](docs/FAITHFUL-FINAL-REPORT.md). Architecture is frozen; Capgo Agent is now the primary implementation project.
 
-Build directly with the installed Nift 4.6.0 or newer:
+For a fresh checkout, follow [clean reproduction](docs/CLEAN-CHECKOUT.md) to install locked dependencies and initialize assets. Subsequent builds use installed Nift 4.6.0:
 
 ```sh
 nift build --all
 ```
 
-The project pre-build hook prepares authored MDX automatically. After a failed or interrupted build, use `nift build --repair` once. Three sequential cached full builds with installed Nift 4.6.0 measured **4.35–5.15 seconds (median 4.64s)**, with **185.7 MiB maximum peak RSS** across the runs, including the preparation hook. The earlier 16.55-second result did not repeat; see evidence/build-progress/build-time-recheck-20261005.json. Interactive builds now show preparation status before Nift’s existing page progress. The MDX renderer uses a deterministic environment, so switching terminals does not invalidate all prepared pages; source, dependency and Node-version changes still invalidate the cache. The migration remains in progress.
+The project pre-build hook prepares authored MDX automatically. After a failed or interrupted build, use `nift build --repair` once. Final repeated builds measured a 5.67s warm-full median (235.8 MiB maximum peak RSS), 81.29s cold-intermediate median (667.1 MiB), and 4.60s no-op median. Cache definitions, raw evidence and higher timings relative to the earlier checkpoint are explained in the final report. Interactive builds show preparation status before Nift’s page progress. The renderer uses a deterministic environment; source, dependency and Node-version changes invalidate caches.
 
 
 Both experiments use the same pinned [Capgo source](https://github.com/Cap-go/website/tree/7d5b69d6ba8a6630384dffc7d012431ee3ed22ec),

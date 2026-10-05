@@ -116,3 +116,7 @@ Every non-redirect head is now source/deterministically generated: 814 web/listi
 Explicit local/UTC calendar inputs preserve production date behavior. Seven MDX blogs have no rendered collection HTML upstream and therefore empty articleBody structured-data fields; this upstream behavior is preserved. Missing roles/imports fail closed. Source connection counts remain 1,290 bodies + 51 listing layouts, not increased by metadata/includes.
 
 A repository audit removed 3,809 tracked hash/lock cache files from Git (files remain local, ignored). Nift config, tracked routes and package lock remain source. Clean-checkout reproduction is next; runtime/browser gates remain pending. Metadata refresh all-build observation 13.11s / 676416 KiB; warm 4.04s / 243044 KiB (237.3 MiB), threads -1. Provisional, not final benchmark. No core/package edits.
+
+## Faithful closure, 6 October 2026
+
+The source architecture is frozen. Final metadata, runtime residual classification, browser coverage, two clean-checkout runs and repeated benchmarks are documented in `docs/FAITHFUL-FINAL-REPORT.md`. Capgo Agent is now primary; do not resume optional faithful extraction.

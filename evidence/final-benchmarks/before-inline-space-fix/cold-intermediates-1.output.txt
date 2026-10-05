@@ -1,0 +1,16 @@
+Preparing authored MDX before Nift page rendering...
+Preparing tools/prepare-web.mjs...
+Preparing tools/prepare-docs-metadata.mjs...
+Preparing tools/prepare-code-cohort.mjs...
+Still preparing authored content (10s); page rendering starts afterward.
+Still preparing authored content (10s); page rendering starts afterward.
+Preparing tools/prepare-faithful.mjs...
+Still preparing authored content (10s); page rendering starts afterward.
+Still preparing authored content (20s); page rendering starts afterward.
+Still preparing authored content (30s); page rendering starts afterward.
+Still preparing authored content (40s); page rendering starts afterward.
+Still preparing authored content (50s); page rendering starts afterward.
+
+MDX preparation complete; starting Nift page rendering.
+📦 1347 files built successfully
+time taken: 75.802055 seconds

@@ -1,0 +1,38 @@
+[
+  {
+    "class": "warm-full",
+    "run": 4,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 5.17,
+    "peakRssKiB": 238932,
+    "exitCode": 0
+  },
+  {
+    "class": "warm-full",
+    "run": 5,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 5.34,
+    "peakRssKiB": 241560,
+    "exitCode": 0
+  },
+  {
+    "class": "warm-full",
+    "run": 6,
+    "command": [
+      "nift",
+      "build",
+      "--all"
+    ],
+    "seconds": 5.09,
+    "peakRssKiB": 241472,
+    "exitCode": 0
+  }
+]

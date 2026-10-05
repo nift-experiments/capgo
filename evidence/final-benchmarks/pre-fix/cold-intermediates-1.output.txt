@@ -1,0 +1,24 @@
+Preparing authored MDX before Nift page rendering...
+Preparing tools/prepare-web.mjs...
+Preparing tools/prepare-docs-metadata.mjs...
+Preparing tools/prepare-code-cohort.mjs...
+Still preparing authored content (10s); page rendering starts afterward.
+
+error: build hook 'tools/pre-build.f' failed: MDX preparation failed; see preparation diagnostics. node:internal/fs/promises:636
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open 'build/faithful/rich-components-fingerprint.json'
+    at async open (node:internal/fs/promises:636:25)
+    at async writeFile (node:internal/fs/promises:1205:14)
+    at async prepare (file:///home/nick/Repositories/nift/nift-experiments/capgo/tools/prepare-rich-components.mjs:15:175)
+    at async file:///home/nick/Repositories/nift/nift-experiments/capgo/tools/prepare-rich-components.mjs:18:1 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'build/faithful/rich-components-fingerprint.json'
+}
+
+Node.js v22.22.1
+
+time taken: 15.553515 seconds

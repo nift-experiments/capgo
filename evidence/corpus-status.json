@@ -3,6 +3,8 @@
   "initialInventorySourceConnectedBodies": 1285,
   "supplementalSourceConnectedBodies": 5,
   "sourceConnectedBodies": 1290,
+  "sourceGeneratedHeads": 1343,
+  "retainedCompatibilityHeads": 4,
   "sourceBackedListingGrids": 51,
   "sourceBackedListingLayouts": 51,
   "verifiedListingLayouts": 51,
@@ -16,7 +18,7 @@
     "Counts overlap: source-backed bodies still use retained generated shell fragments and runtime assets.",
     "Route/body/metadata/assets gates live in separate parity evidence; representative browser checks do not certify every route.",
     "Agent remains the recovered baseline until native reconstruction checkpoints are completed.",
-    "Blog bodies use pinned Satteri 0.10.5; tutorials use pinned Marked 18.0.14; seven declarative blog CTA imports and ten legal templates are source-adapted. All 51 listing layouts regenerate their cards and category controls from authored frontmatter and a recovered shared Nift template. Nine conversion landing bodies regenerate from their authored component family; global metadata and runtime remain retained."
+    "Blog bodies use pinned Satteri 0.10.5; tutorials use pinned Marked 18.0.14; seven declarative blog CTA imports and ten legal templates are source-adapted. All 51 listing layouts regenerate their cards and category controls from authored frontmatter and a recovered shared Nift template. Nine conversion landing bodies regenerate from their authored component family; All 1,343 content/listing/registry heads now regenerate from authored/deterministic sources. Generated shell fragments and production runtime assets remain retained."
   ],
   "pages": [
     {

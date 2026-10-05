@@ -1,0 +1,402 @@
+{
+  "classes": {
+    "warm-full": {
+      "runs": 3,
+      "medianSeconds": 5.67,
+      "minSeconds": 5.56,
+      "maxSeconds": 5.67,
+      "maxPeakRssKiB": 241444
+    },
+    "no-op": {
+      "runs": 3,
+      "medianSeconds": 4.6,
+      "minSeconds": 4.13,
+      "maxSeconds": 4.63,
+      "maxPeakRssKiB": 241044
+    },
+    "web-regeneration": {
+      "runs": 3,
+      "medianSeconds": 20.68,
+      "minSeconds": 19.81,
+      "maxSeconds": 20.78,
+      "maxPeakRssKiB": 683572
+    },
+    "cold-intermediates": {
+      "runs": 3,
+      "medianSeconds": 81.28999999999999,
+      "minSeconds": 80.09,
+      "maxSeconds": 82.85,
+      "maxPeakRssKiB": 683136
+    },
+    "incremental-docs": {
+      "runs": 3,
+      "medianSeconds": 5.78,
+      "minSeconds": 5.78,
+      "maxSeconds": 6.24,
+      "maxPeakRssKiB": 260548
+    },
+    "incremental-rich-mdx": {
+      "runs": 3,
+      "medianSeconds": 6.41,
+      "minSeconds": 6.2,
+      "maxSeconds": 6.54,
+      "maxPeakRssKiB": 282168
+    },
+    "incremental-marketing": {
+      "runs": 3,
+      "medianSeconds": 4.28,
+      "minSeconds": 4.23,
+      "maxSeconds": 4.35,
+      "maxPeakRssKiB": 241988
+    },
+    "incremental-blog-listing": {
+      "runs": 3,
+      "medianSeconds": 4.35,
+      "minSeconds": 4.3,
+      "maxSeconds": 4.51,
+      "maxPeakRssKiB": 257752
+    },
+    "upstream-astro": {
+      "runs": 5,
+      "medianSeconds": 106.09,
+      "minSeconds": 92.18,
+      "maxSeconds": 124.61,
+      "maxPeakRssKiB": 3783900
+    }
+  },
+  "runs": [
+    {
+      "class": "warm-full",
+      "run": 1,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 5.56,
+      "peakRssKiB": 241444,
+      "exitCode": 0
+    },
+    {
+      "class": "warm-full",
+      "run": 2,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 5.67,
+      "peakRssKiB": 240628,
+      "exitCode": 0
+    },
+    {
+      "class": "warm-full",
+      "run": 3,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 5.67,
+      "peakRssKiB": 239452,
+      "exitCode": 0
+    },
+    {
+      "class": "no-op",
+      "run": 1,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.6,
+      "peakRssKiB": 240016,
+      "exitCode": 0
+    },
+    {
+      "class": "no-op",
+      "run": 2,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.13,
+      "peakRssKiB": 238824,
+      "exitCode": 0
+    },
+    {
+      "class": "no-op",
+      "run": 3,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.63,
+      "peakRssKiB": 241044,
+      "exitCode": 0
+    },
+    {
+      "class": "web-regeneration",
+      "run": 1,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 20.78,
+      "peakRssKiB": 679408,
+      "exitCode": 0
+    },
+    {
+      "class": "web-regeneration",
+      "run": 2,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 20.68,
+      "peakRssKiB": 683572,
+      "exitCode": 0
+    },
+    {
+      "class": "web-regeneration",
+      "run": 3,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 19.81,
+      "peakRssKiB": 667652,
+      "exitCode": 0
+    },
+    {
+      "class": "cold-intermediates",
+      "run": 1,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 81.28999999999999,
+      "peakRssKiB": 683136,
+      "exitCode": 0
+    },
+    {
+      "class": "cold-intermediates",
+      "run": 2,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 82.85,
+      "peakRssKiB": 659628,
+      "exitCode": 0
+    },
+    {
+      "class": "cold-intermediates",
+      "run": 3,
+      "command": [
+        "nift",
+        "build",
+        "--all"
+      ],
+      "seconds": 80.09,
+      "peakRssKiB": 682684,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-docs",
+      "run": 1,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 5.78,
+      "peakRssKiB": 257020,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-docs",
+      "run": 2,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 5.78,
+      "peakRssKiB": 260548,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-docs",
+      "run": 3,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 6.24,
+      "peakRssKiB": 256376,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-rich-mdx",
+      "run": 1,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 6.41,
+      "peakRssKiB": 280772,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-rich-mdx",
+      "run": 2,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 6.2,
+      "peakRssKiB": 281272,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-rich-mdx",
+      "run": 3,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 6.54,
+      "peakRssKiB": 282168,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-marketing",
+      "run": 1,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.23,
+      "peakRssKiB": 240508,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-marketing",
+      "run": 2,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.35,
+      "peakRssKiB": 241164,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-marketing",
+      "run": 3,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.28,
+      "peakRssKiB": 241988,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-blog-listing",
+      "run": 1,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.35,
+      "peakRssKiB": 255044,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-blog-listing",
+      "run": 2,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.3,
+      "peakRssKiB": 257752,
+      "exitCode": 0
+    },
+    {
+      "class": "incremental-blog-listing",
+      "run": 3,
+      "command": [
+        "nift",
+        "build"
+      ],
+      "seconds": 4.51,
+      "peakRssKiB": 253916,
+      "exitCode": 0
+    },
+    {
+      "class": "upstream-astro",
+      "run": 1,
+      "command": [
+        "bun",
+        "run",
+        "build"
+      ],
+      "seconds": 92.18,
+      "peakRssKiB": 3643240,
+      "exitCode": 0
+    },
+    {
+      "class": "upstream-astro",
+      "run": 2,
+      "command": [
+        "bun",
+        "run",
+        "build"
+      ],
+      "seconds": 124.61,
+      "peakRssKiB": 3783900,
+      "exitCode": 0
+    },
+    {
+      "class": "upstream-astro",
+      "run": 3,
+      "command": [
+        "bun",
+        "run",
+        "build"
+      ],
+      "seconds": 106.09,
+      "peakRssKiB": 3738204,
+      "exitCode": 0
+    },
+    {
+      "class": "upstream-astro",
+      "run": 4,
+      "command": [
+        "bun",
+        "run",
+        "build"
+      ],
+      "seconds": 97.19,
+      "peakRssKiB": 3624128,
+      "exitCode": 0
+    },
+    {
+      "class": "upstream-astro",
+      "run": 5,
+      "command": [
+        "bun",
+        "run",
+        "build"
+      ],
+      "seconds": 108.53999999999999,
+      "peakRssKiB": 3554192,
+      "exitCode": 0
+    }
+  ]
+}
