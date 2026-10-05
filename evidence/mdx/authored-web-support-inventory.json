@@ -87,6 +87,10 @@
       "sha256": "8f6eb9ab262e21fdebc143dfb7a7aed6bf5531dbd10c0b06bf13594f349a4499"
     },
     {
+      "source": "corpus/authored/apps/web/src/components/SEO.astro",
+      "sha256": "64afcdff98bcec38f1e733f9d849c98da9d19fd457c21e7b42c4f55004e7611a"
+    },
+    {
       "source": "corpus/authored/apps/web/src/components/SharedNumbers.astro",
       "sha256": "7f1c7f3331a2a0ad32ab847f0741350ffc00072e34ae5173754fec20c10d80c9"
     },
@@ -263,8 +267,16 @@
       "sha256": "af5a8a0fb1b42dfe516d4a742d332aa67d13e6efb1cd79251034d6f27d3d14b8"
     },
     {
+      "source": "corpus/authored/apps/web/src/lib/alternateVersions.ts",
+      "sha256": "fe8e8e118952b64dd5cd847c9cee78b9e6a0253984db6fd399acd0a5e040b953"
+    },
+    {
       "source": "corpus/authored/apps/web/src/lib/blog.ts",
       "sha256": "b4d4d75d6c278369f3a9eff743b2952c297756abd40cfba2ee9e79d3da70d164"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/blogOrigin.ts",
+      "sha256": "860b6e890ddf0358e697ed3c3e091cb42b46609ac53fab7cfb92924792a2a1a3"
     },
     {
       "source": "corpus/authored/apps/web/src/lib/builderFailureReasons.ts",
@@ -319,12 +331,24 @@
       "sha256": "fa60013a926fc5dd9e5c807ed8208de28b0db49519c9498018c145eb3021f8f1"
     },
     {
+      "source": "corpus/authored/apps/web/src/config/blogEditorialTeam.ts",
+      "sha256": "6a647639740f98d4857490eaa1a47e41c132af15b11d2225d5b9c767196dacbc"
+    },
+    {
       "source": "corpus/authored/apps/web/src/config/customerApps.ts",
       "sha256": "735a56c5978439638638962a6567c992a8a68d66043f1b1d306ca61a27c36a10"
     },
     {
       "source": "corpus/authored/apps/web/src/config/integrations.ts",
       "sha256": "44b96d1391f6cb7895a14c7b293a48567c815a6d8a2e5fc94d87029b009250be"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/pluginDemos.ts",
+      "sha256": "c763473830e4b14d3dcc5b7201d0d9080e2a584fdb7cab541f5ff22d283902a8"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/pluginPreviewQrs.ts",
+      "sha256": "a97b45346a9f54ad628b1b5d8c4e00f460089813b349f96cdd0e73bb36444750"
     },
     {
       "source": "corpus/authored/apps/web/src/config/plugins.ts",

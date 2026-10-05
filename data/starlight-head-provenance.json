@@ -1,0 +1,22 @@
+{
+  "package": "@astrojs/starlight",
+  "version": "0.42.3",
+  "sourceSha256": "e248f9491aef0dd43842a5cb10dceb273f4d28a72facab13e6d55aab84a759bf",
+  "config": {
+    "titleDelimiter": "|",
+    "favicon": {
+      "href": "/favicon.svg",
+      "type": "image/svg+xml"
+    },
+    "head": [],
+    "social": [],
+    "isMultilingual": false
+  },
+  "project": {
+    "build": {
+      "format": "directory"
+    },
+    "trailingSlash": "always"
+  },
+  "note": "Pinned upstream head algorithm and schema, with global reference configuration. Per-page input comes from authored MDX frontmatter and route; custom authored Head.astro runs afterward."
+}

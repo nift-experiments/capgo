@@ -5,7 +5,7 @@ with familiar MD/MDX/frontmatter authoring where practical.
 
 **Migration in progress.** All 1,285 initial authored bodies, five supplemental templates and 51 listing layouts are connected. All 1,347 routes / 3,876 files pass structural parity. Runtime integrations, clean-checkout reproduction and final benchmarks remain unfinished. See [closure status](docs/CLOSURE-STATUS.md), [canonical accounting](docs/MIGRATION-ACCOUNTING.md), and HANDOVER.md.
 
-Build directly with the installed Nift 4.5 or newer:
+Build directly with the installed Nift 4.6.0 or newer:
 
 ```sh
 nift build --all

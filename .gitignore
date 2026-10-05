@@ -14,3 +14,8 @@ config/public.json
 
 # Nift dependency/hash cache for migrated pages
 .nift/migration/
+
+# Reproducible Nift hash/state caches (never source inputs)
+/.nift/**/*.hash
+/.nift/.lock
+/.nift/.packages-transaction.lock

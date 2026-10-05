@@ -1,0 +1,22 @@
+{
+  "status": "Authored/deterministic metadata recovered and connected for all content/listing/registry pages; compatibility redirect metadata intentionally retained.",
+  "counts": {
+    "web": 814,
+    "docs": 529,
+    "sourceGeneratedHeads": 1343,
+    "compatibilityRedirectHeads": 4,
+    "totalRoutes": 1347
+  },
+  "inputs": {
+    "marketing": "Authored page/component Layout.content -> actual SEO.astro",
+    "legal": "Authored English legal page Layout.content -> actual SEO.astro",
+    "blog": "Original blog page frontmatter evaluated against authored content schema. Markdown entry.rendered is present; MDX entry.rendered is absent exactly as upstream.",
+    "plugin": "Original registry/tutoral page frontmatter including authored SEO overrides and schema",
+    "listing": "Original shared BlogListing.astro frontmatter, origin and runtime config. Card data is irrelevant to its head expressions.",
+    "docs": "Pinned Starlight getHead algorithm/schema + authored Capgo Head.astro with source frontmatter",
+    "generated": "Compiler labels, stylesheets, compiled module links and global script assets retained by design",
+    "redirect": "Four canonical/refresh metadata artifacts intentionally retained; no content body"
+  },
+  "clock": "Explicit reference local display date and UTC calendar date; exact upstream timestamp not claimed",
+  "headParity": "All 1347 head outputs byte-identical in head audit; full gate passes."
+}

@@ -1,4 +1,6 @@
 {
   "referenceDate": "2026-10-05",
-  "note": "Calendar date printed by the pinned local golden reference build. Used to reproduce authored build-time date labels deterministically; not a live-data claim."
+  "note": "Calendar date printed by the pinned local golden reference build. Used to reproduce authored build-time date labels deterministically; not a live-data claim.",
+  "referenceUtcDate": "2026-10-04",
+  "utcDateNote": "UTC calendar day observed in golden enterprise priceValidUntil (2027-10-04 minus authored 365 days). Only calendar day is pinned; no exact capture timestamp is claimed."
 }

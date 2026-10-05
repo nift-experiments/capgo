@@ -1,0 +1,2 @@
+import{renderConversion}from'./render-conversion.mjs';import{Fragment}from'./authored-template.mjs';import{slug}from'../vendor/github-slugger/index.mjs';
+export async function renderListingMetadata(row){const metadata={};await renderConversion('corpus/authored/apps/web/src/components/BlogListing.astro',row.route,{frontmatterOnly:true,props:{allPosts:[],listingOrigin:row.route.startsWith('/articles/')?'ai':'human'},metadata,modules:{'@/components/Blog.astro':{default:Fragment},'github-slugger':{slug}}});return metadata.html}
