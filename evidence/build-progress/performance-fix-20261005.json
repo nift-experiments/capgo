@@ -1,0 +1,217 @@
+{
+  "runs": [
+    {
+      "wallSeconds": 4.72,
+      "peakRssKiB": 242532,
+      "preparation": {
+        "startedAt": "2026-10-05T01:41:52.882Z",
+        "node": "v22.22.1",
+        "niftVersion": "Nift v4.6.0",
+        "niftCommit": "not exposed by installed binary",
+        "mdxPackage": {
+          "source": "https://github.com/nift-packages/mdx",
+          "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+          "requirements": {}
+        },
+        "logicalCpus": 20,
+        "availableParallelism": 20,
+        "buildThreads": -1,
+        "preparedCache": ".nift/mdx-prepared",
+        "mdxContentCache": ".nift/mdx-cache",
+        "mdxCachePolicy": "content",
+        "codeCache": "build/faithful/code-blocks.json",
+        "webCache": "build/faithful/web",
+        "phases": [
+          {
+            "tool": "tools/prepare-code-cohort.mjs",
+            "elapsedSeconds": 0.643,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529,
+                "codeBlocks": 3701
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-faithful.mjs",
+            "elapsedSeconds": 1.35,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-web.mjs",
+            "elapsedSeconds": 0.393,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 740,
+                "pages": 740
+              }
+            ]
+          }
+        ],
+        "note": "Preparation phase timings and conversion/cache counts; overall peak RSS is recorded separately with GNU time. No core instrumentation."
+      }
+    },
+    {
+      "wallSeconds": 4.66,
+      "peakRssKiB": 242360,
+      "preparation": {
+        "startedAt": "2026-10-05T01:41:57.609Z",
+        "node": "v22.22.1",
+        "niftVersion": "Nift v4.6.0",
+        "niftCommit": "not exposed by installed binary",
+        "mdxPackage": {
+          "source": "https://github.com/nift-packages/mdx",
+          "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+          "requirements": {}
+        },
+        "logicalCpus": 20,
+        "availableParallelism": 20,
+        "buildThreads": -1,
+        "preparedCache": ".nift/mdx-prepared",
+        "mdxContentCache": ".nift/mdx-cache",
+        "mdxCachePolicy": "content",
+        "codeCache": "build/faithful/code-blocks.json",
+        "webCache": "build/faithful/web",
+        "phases": [
+          {
+            "tool": "tools/prepare-code-cohort.mjs",
+            "elapsedSeconds": 0.578,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529,
+                "codeBlocks": 3701
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-faithful.mjs",
+            "elapsedSeconds": 1.227,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-web.mjs",
+            "elapsedSeconds": 0.311,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 740,
+                "pages": 740
+              }
+            ]
+          }
+        ],
+        "note": "Preparation phase timings and conversion/cache counts; overall peak RSS is recorded separately with GNU time. No core instrumentation."
+      }
+    },
+    {
+      "wallSeconds": 4.57,
+      "peakRssKiB": 242116,
+      "preparation": {
+        "startedAt": "2026-10-05T01:42:02.272Z",
+        "node": "v22.22.1",
+        "niftVersion": "Nift v4.6.0",
+        "niftCommit": "not exposed by installed binary",
+        "mdxPackage": {
+          "source": "https://github.com/nift-packages/mdx",
+          "commit": "22bb53653f47c22defff863e3465e8df9a11da99",
+          "requirements": {}
+        },
+        "logicalCpus": 20,
+        "availableParallelism": 20,
+        "buildThreads": -1,
+        "preparedCache": ".nift/mdx-prepared",
+        "mdxContentCache": ".nift/mdx-cache",
+        "mdxCachePolicy": "content",
+        "codeCache": "build/faithful/code-blocks.json",
+        "webCache": "build/faithful/web",
+        "phases": [
+          {
+            "tool": "tools/prepare-code-cohort.mjs",
+            "elapsedSeconds": 0.613,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529,
+                "codeBlocks": 3701
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-faithful.mjs",
+            "elapsedSeconds": 1.295,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 529,
+                "pages": 529
+              }
+            ]
+          },
+          {
+            "tool": "tools/prepare-web.mjs",
+            "elapsedSeconds": 0.395,
+            "exitCode": 0,
+            "reports": [
+              {
+                "prepared": 0,
+                "cached": 740,
+                "pages": 740
+              }
+            ]
+          }
+        ],
+        "note": "Preparation phase timings and conversion/cache counts; overall peak RSS is recorded separately with GNU time. No core instrumentation."
+      }
+    }
+  ],
+  "medianWallSeconds": 4.66,
+  "rangeWallSeconds": [
+    4.57,
+    4.72
+  ],
+  "priorReportedWarmSeconds": [
+    4.64,
+    7.46,
+    12.13
+  ],
+  "unchangedCurrentPreFixSeconds": 5.74,
+  "niftBinarySha256": "c22da3487a900a867a87a0db4e153418313b45e97cc166909de4c6f4684afcbc",
+  "changes": [
+    "Defer docs rendering imports until a code cache miss.",
+    "Defer web rendering imports until a web cache miss.",
+    "Preserve the code-block cache file when its content is unchanged.",
+    "Prepare independent web content concurrently with the ordered code-then-MDX docs pipeline."
+  ],
+  "limits": [
+    "Historical runs used earlier migration states; their differences are not an isolated causal comparison.",
+    "The first three post-fix sequential runs overlapped a separate parity audit; the final three recorded here ran after that audit completed.",
+    "No Nift core or package changes; cache validation and shared extraction retained.",
+    "GNU time reports peak process RSS, not aggregate simultaneous process memory."
+  ]
+}

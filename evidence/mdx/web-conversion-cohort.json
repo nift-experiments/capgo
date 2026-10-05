@@ -1,0 +1,87 @@
+{
+  "eligible": 9,
+  "matched": 9,
+  "results": [
+    {
+      "route": "/best/appflow-alternative/",
+      "file": "best/appflow-alternative/index.html",
+      "source": "corpus/authored/apps/web/src/pages/best/appflow-alternative.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111575,
+      "bodyEnd": 114775
+    },
+    {
+      "route": "/best/capacitor-live-updates/",
+      "file": "best/capacitor-live-updates/index.html",
+      "source": "corpus/authored/apps/web/src/pages/best/capacitor-live-updates.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111653,
+      "bodyEnd": 115025
+    },
+    {
+      "route": "/best/codepush-alternative/",
+      "file": "best/codepush-alternative/index.html",
+      "source": "corpus/authored/apps/web/src/pages/best/codepush-alternative.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111548,
+      "bodyEnd": 114800
+    },
+    {
+      "route": "/migrate/from-appflow/",
+      "file": "migrate/from-appflow/index.html",
+      "source": "corpus/authored/apps/web/src/pages/migrate/from-appflow.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111485,
+      "bodyEnd": 114811
+    },
+    {
+      "route": "/migrate/from-capawesome/",
+      "file": "migrate/from-capawesome/index.html",
+      "source": "corpus/authored/apps/web/src/pages/migrate/from-capawesome.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111540,
+      "bodyEnd": 114675
+    },
+    {
+      "route": "/migrate/from-codepush/",
+      "file": "migrate/from-codepush/index.html",
+      "source": "corpus/authored/apps/web/src/pages/migrate/from-codepush.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111520,
+      "bodyEnd": 114755
+    },
+    {
+      "route": "/reviews/appflow/",
+      "file": "reviews/appflow/index.html",
+      "source": "corpus/authored/apps/web/src/pages/reviews/appflow.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111480,
+      "bodyEnd": 115599
+    },
+    {
+      "route": "/reviews/capawesome/",
+      "file": "reviews/capawesome/index.html",
+      "source": "corpus/authored/apps/web/src/pages/reviews/capawesome.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111479,
+      "bodyEnd": 114917
+    },
+    {
+      "route": "/reviews/codepush/",
+      "file": "reviews/codepush/index.html",
+      "source": "corpus/authored/apps/web/src/pages/reviews/codepush.astro",
+      "family": "conversion",
+      "matches": true,
+      "bodyStart": 111410,
+      "bodyEnd": 115268
+    }
+  ]
+}

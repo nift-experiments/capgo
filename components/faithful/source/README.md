@@ -10,3 +10,6 @@ Normal builds regenerate reusable questionnaire data, inline controllers,
 framework labels, and registry entries with tools/prepare-rich-components.mjs.
 The production directory's repository fallback choices are explicitly pinned
 in data/faithful-plugin-directory.json; this preserves published behavior.
+
+- BlogMidArticleCta.astro: apps/web/src/components/BlogMidArticleCta.astro.
+  Its declarative markup and shared English copy regenerate the seven authored blog MDX CTA uses.

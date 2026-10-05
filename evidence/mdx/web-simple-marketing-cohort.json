@@ -1,0 +1,69 @@
+{
+  "eligible": 7,
+  "matched": 7,
+  "results": [
+    {
+      "route": "/bug-bounty/",
+      "file": "bug-bounty/index.html",
+      "source": "corpus/authored/apps/web/src/pages/bug-bounty.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112050,
+      "bodyEnd": 122818
+    },
+    {
+      "route": "/capacitor-app/",
+      "file": "capacitor-app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/capacitor-app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112086,
+      "bodyEnd": 136461
+    },
+    {
+      "route": "/consulting/",
+      "file": "consulting/index.html",
+      "source": "corpus/authored/apps/web/src/pages/consulting.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114972,
+      "bodyEnd": 159851
+    },
+    {
+      "route": "/hipaa-compliance/",
+      "file": "hipaa-compliance/index.html",
+      "source": "corpus/authored/apps/web/src/pages/hipaa-compliance.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111992,
+      "bodyEnd": 125080
+    },
+    {
+      "route": "/premium-support/",
+      "file": "premium-support/index.html",
+      "source": "corpus/authored/apps/web/src/pages/premium-support.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113386,
+      "bodyEnd": 139281
+    },
+    {
+      "route": "/security/",
+      "file": "security/index.html",
+      "source": "corpus/authored/apps/web/src/pages/security.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111997,
+      "bodyEnd": 119495
+    },
+    {
+      "route": "/trust/",
+      "file": "trust/index.html",
+      "source": "corpus/authored/apps/web/src/pages/trust.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112037,
+      "bodyEnd": 127821
+    }
+  ]
+}

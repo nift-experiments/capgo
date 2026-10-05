@@ -1,0 +1,2285 @@
+{
+  "reference": "https://capgo.app/blog/",
+  "note": "Official/local same-tab identical viewport checks; upstream has desktop nested category scrolling. Tablet empty-state rechecked after load; initial sample retained.",
+  "checks": [
+    {
+      "size": {
+        "width": 1265,
+        "height": 720
+      },
+      "search": "",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 608,
+            "gap": "normal",
+            "height": 608,
+            "maxHeight": "608px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 608,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 542,
+            "gap": "normal",
+            "height": 544,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 33192,
+            "gap": "8px",
+            "height": 33192.25,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 33192,
+            "selector": "#blog-grid",
+            "width": 850,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 384,
+            "gap": "normal",
+            "height": 383.8125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 384,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 421,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1265,
+          720
+        ],
+        "visibleCards": 168
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 608,
+            "gap": "normal",
+            "height": 608,
+            "maxHeight": "608px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 608,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 542,
+            "gap": "normal",
+            "height": 544,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 33192,
+            "gap": "8px",
+            "height": 33192.25,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 33192,
+            "selector": "#blog-grid",
+            "width": 850,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 384,
+            "gap": "normal",
+            "height": 383.8125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 384,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 421,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1265,
+          720
+        ],
+        "visibleCards": 168
+      }
+    },
+    {
+      "size": {
+        "width": 1265,
+        "height": 720
+      },
+      "search": "nift-nonexistent-article",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 608,
+            "gap": "normal",
+            "height": 608,
+            "maxHeight": "608px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 608,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 542,
+            "gap": "normal",
+            "height": 544,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 850,
+            "x": 352,
+            "y": 298
+          },
+          null
+        ],
+        "viewport": [
+          1265,
+          720
+        ],
+        "visibleCards": 0
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 608,
+            "gap": "normal",
+            "height": 608,
+            "maxHeight": "608px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 608,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 542,
+            "gap": "normal",
+            "height": 544,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 850,
+            "x": 352,
+            "y": 298
+          },
+          null
+        ],
+        "viewport": [
+          1265,
+          720
+        ],
+        "visibleCards": 0
+      }
+    },
+    {
+      "size": {
+        "width": 1265,
+        "height": 720
+      },
+      "search": "Capacitor",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 608,
+            "gap": "normal",
+            "height": 608,
+            "maxHeight": "608px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 608,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 542,
+            "gap": "normal",
+            "height": 544,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 21406,
+            "gap": "8px",
+            "height": 21405.875,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 21406,
+            "selector": "#blog-grid",
+            "width": 850,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 384,
+            "gap": "normal",
+            "height": 383.8125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 384,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 421,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1265,
+          720
+        ],
+        "visibleCards": 108
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 608,
+            "gap": "normal",
+            "height": 608,
+            "maxHeight": "608px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 608,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 542,
+            "gap": "normal",
+            "height": 544,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 21406,
+            "gap": "8px",
+            "height": 21405.875,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 21406,
+            "selector": "#blog-grid",
+            "width": 850,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 384,
+            "gap": "normal",
+            "height": 383.8125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 384,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 421,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1265,
+          720
+        ],
+        "visibleCards": 108
+      }
+    },
+    {
+      "size": {
+        "width": 1440,
+        "height": 900
+      },
+      "search": "",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 788,
+            "gap": "normal",
+            "height": 788,
+            "maxHeight": "788px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 788,
+            "selector": "aside",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 722,
+            "gap": "normal",
+            "height": 724,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 96.5,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 20488,
+            "gap": "8px",
+            "height": 20488,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 20488,
+            "selector": "#blog-grid",
+            "width": 928,
+            "x": 400.5,
+            "y": 298
+          },
+          {
+            "clientHeight": 350,
+            "gap": "normal",
+            "height": 350,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 350,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 304,
+            "x": 400.5,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "visibleCards": 168
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 788,
+            "gap": "normal",
+            "height": 788,
+            "maxHeight": "788px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 788,
+            "selector": "aside",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 722,
+            "gap": "normal",
+            "height": 724,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 96.5,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 20488,
+            "gap": "8px",
+            "height": 20488,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 20488,
+            "selector": "#blog-grid",
+            "width": 928,
+            "x": 400.5,
+            "y": 298
+          },
+          {
+            "clientHeight": 350,
+            "gap": "normal",
+            "height": 350,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 350,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 304,
+            "x": 400.5,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "visibleCards": 168
+      }
+    },
+    {
+      "size": {
+        "width": 1440,
+        "height": 900
+      },
+      "search": "nift-nonexistent-article",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 788,
+            "gap": "normal",
+            "height": 788,
+            "maxHeight": "788px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 788,
+            "selector": "aside",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 722,
+            "gap": "normal",
+            "height": 724,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 96.5,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 928,
+            "x": 400.5,
+            "y": 298
+          },
+          null
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "visibleCards": 0
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 788,
+            "gap": "normal",
+            "height": 788,
+            "maxHeight": "788px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 788,
+            "selector": "aside",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 722,
+            "gap": "normal",
+            "height": 724,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 96.5,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 928,
+            "x": 400.5,
+            "y": 298
+          },
+          null
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "visibleCards": 0
+      }
+    },
+    {
+      "size": {
+        "width": 1440,
+        "height": 900
+      },
+      "search": "Capacitor",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 788,
+            "gap": "normal",
+            "height": 788,
+            "maxHeight": "788px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 788,
+            "selector": "aside",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 722,
+            "gap": "normal",
+            "height": 724,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 96.5,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 13232,
+            "gap": "8px",
+            "height": 13232,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 13232,
+            "selector": "#blog-grid",
+            "width": 928,
+            "x": 400.5,
+            "y": 298
+          },
+          {
+            "clientHeight": 350,
+            "gap": "normal",
+            "height": 350,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 350,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 304,
+            "x": 400.5,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "visibleCards": 108
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 788,
+            "gap": "normal",
+            "height": 788,
+            "maxHeight": "788px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 788,
+            "selector": "aside",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 722,
+            "gap": "normal",
+            "height": 724,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 96.5,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 96.5,
+            "y": 262
+          },
+          {
+            "clientHeight": 13232,
+            "gap": "8px",
+            "height": 13232,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 13232,
+            "selector": "#blog-grid",
+            "width": 928,
+            "x": 400.5,
+            "y": 298
+          },
+          {
+            "clientHeight": 350,
+            "gap": "normal",
+            "height": 350,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 350,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 304,
+            "x": 400.5,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "visibleCards": 108
+      }
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "search": "",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 488,
+            "gap": "normal",
+            "height": 488,
+            "maxHeight": "488px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 488,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 422,
+            "gap": "normal",
+            "height": 424,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 30283,
+            "gap": "8px",
+            "height": 30282.625,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 30283,
+            "selector": "#blog-grid",
+            "width": 609,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 348,
+            "gap": "normal",
+            "height": 348.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 348,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 300.5,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1024,
+          600
+        ],
+        "visibleCards": 168
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 488,
+            "gap": "normal",
+            "height": 488,
+            "maxHeight": "488px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 488,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 422,
+            "gap": "normal",
+            "height": 424,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 30283,
+            "gap": "8px",
+            "height": 30282.625,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 30283,
+            "selector": "#blog-grid",
+            "width": 609,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 348,
+            "gap": "normal",
+            "height": 348.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 348,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 300.5,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1024,
+          600
+        ],
+        "visibleCards": 168
+      }
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "search": "nift-nonexistent-article",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 488,
+            "gap": "normal",
+            "height": 488,
+            "maxHeight": "488px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 488,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 422,
+            "gap": "normal",
+            "height": 424,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 609,
+            "x": 352,
+            "y": 298
+          },
+          null
+        ],
+        "viewport": [
+          1024,
+          600
+        ],
+        "visibleCards": 0
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 488,
+            "gap": "normal",
+            "height": 488,
+            "maxHeight": "488px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 488,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 422,
+            "gap": "normal",
+            "height": 424,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 609,
+            "x": 352,
+            "y": 298
+          },
+          null
+        ],
+        "viewport": [
+          1024,
+          600
+        ],
+        "visibleCards": 0
+      }
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "search": "Capacitor",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 488,
+            "gap": "normal",
+            "height": 488,
+            "maxHeight": "488px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 488,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 422,
+            "gap": "normal",
+            "height": 424,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 19602,
+            "gap": "8px",
+            "height": 19601.6875,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 19602,
+            "selector": "#blog-grid",
+            "width": 609,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 348,
+            "gap": "normal",
+            "height": 348.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 348,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 300.5,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1024,
+          600
+        ],
+        "visibleCards": 108
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 488,
+            "gap": "normal",
+            "height": 488,
+            "maxHeight": "488px",
+            "overflowY": "hidden",
+            "position": "sticky",
+            "scrollHeight": 488,
+            "selector": "aside",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 422,
+            "gap": "normal",
+            "height": 424,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 1332,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 272,
+            "x": 48,
+            "y": 326
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 272,
+            "x": 48,
+            "y": 262
+          },
+          {
+            "clientHeight": 19602,
+            "gap": "8px",
+            "height": 19601.6875,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 19602,
+            "selector": "#blog-grid",
+            "width": 609,
+            "x": 352,
+            "y": 298
+          },
+          {
+            "clientHeight": 348,
+            "gap": "normal",
+            "height": 348.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 348,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 300.5,
+            "x": 352,
+            "y": 298
+          }
+        ],
+        "viewport": [
+          1024,
+          600
+        ],
+        "visibleCards": 108
+      }
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 900
+      },
+      "search": "",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 30899,
+            "gap": "8px",
+            "height": 30898.625,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 30899,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          {
+            "clientHeight": 366,
+            "gap": "normal",
+            "height": 366.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 366,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 332.5,
+            "x": 40,
+            "y": 445
+          }
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 168
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 30899,
+            "gap": "8px",
+            "height": 30898.625,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 30899,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          {
+            "clientHeight": 366,
+            "gap": "normal",
+            "height": 366.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 366,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 332.5,
+            "x": 40,
+            "y": 445
+          }
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 168
+      }
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 900
+      },
+      "search": "nift-nonexistent-article",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          null
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 0
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          null
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 0
+      },
+      "initialOfficialBeforeLoad": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 30899,
+            "gap": "8px",
+            "height": 30898.625,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 30899,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          {
+            "clientHeight": 366,
+            "gap": "normal",
+            "height": 366.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 366,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 332.5,
+            "x": 40,
+            "y": 445
+          }
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 168
+      }
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 900
+      },
+      "search": "Capacitor",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 19902,
+            "gap": "8px",
+            "height": 19901.6875,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 19902,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          {
+            "clientHeight": 366,
+            "gap": "normal",
+            "height": 366.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 366,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 332.5,
+            "x": 40,
+            "y": 445
+          }
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 108
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 673,
+            "x": 40,
+            "y": 247
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 655,
+            "x": 49,
+            "y": 256
+          },
+          {
+            "clientHeight": 19902,
+            "gap": "8px",
+            "height": 19901.6875,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 19902,
+            "selector": "#blog-grid",
+            "width": 673,
+            "x": 40,
+            "y": 445
+          },
+          {
+            "clientHeight": 366,
+            "gap": "normal",
+            "height": 366.03125,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 366,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 332.5,
+            "x": 40,
+            "y": 445
+          }
+        ],
+        "viewport": [
+          768,
+          900
+        ],
+        "visibleCards": 108
+      }
+    },
+    {
+      "size": {
+        "width": 375,
+        "height": 900
+      },
+      "search": "",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 296,
+            "x": 32,
+            "y": 285.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 278,
+            "x": 41,
+            "y": 294.5
+          },
+          {
+            "clientHeight": 58996,
+            "gap": "8px",
+            "height": 58996,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 58996,
+            "selector": "#blog-grid",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          },
+          {
+            "clientHeight": 346,
+            "gap": "normal",
+            "height": 345.5,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 346,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          }
+        ],
+        "viewport": [
+          375,
+          900
+        ],
+        "visibleCards": 168
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 296,
+            "x": 32,
+            "y": 285.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 278,
+            "x": 41,
+            "y": 294.5
+          },
+          {
+            "clientHeight": 58996,
+            "gap": "8px",
+            "height": 58996,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 58996,
+            "selector": "#blog-grid",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          },
+          {
+            "clientHeight": 346,
+            "gap": "normal",
+            "height": 345.5,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 346,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          }
+        ],
+        "viewport": [
+          375,
+          900
+        ],
+        "visibleCards": 168
+      }
+    },
+    {
+      "size": {
+        "width": 375,
+        "height": 900
+      },
+      "search": "nift-nonexistent-article",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 296,
+            "x": 32,
+            "y": 285.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 278,
+            "x": 41,
+            "y": 294.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          },
+          null
+        ],
+        "viewport": [
+          375,
+          900
+        ],
+        "visibleCards": 0
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 296,
+            "x": 32,
+            "y": 285.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 278,
+            "x": 41,
+            "y": 294.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "8px",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "#blog-grid",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          },
+          null
+        ],
+        "viewport": [
+          375,
+          900
+        ],
+        "visibleCards": 0
+      }
+    },
+    {
+      "size": {
+        "width": 375,
+        "height": 900
+      },
+      "search": "Capacitor",
+      "official": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 296,
+            "x": 32,
+            "y": 285.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 278,
+            "x": 41,
+            "y": 294.5
+          },
+          {
+            "clientHeight": 38330,
+            "gap": "8px",
+            "height": 38330,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 38330,
+            "selector": "#blog-grid",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          },
+          {
+            "clientHeight": 346,
+            "gap": "normal",
+            "height": 345.5,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 346,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          }
+        ],
+        "viewport": [
+          375,
+          900
+        ],
+        "visibleCards": 108
+      },
+      "local": {
+        "elements": [
+          {
+            "clientHeight": 128,
+            "gap": "normal",
+            "height": 130,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "sticky",
+            "scrollHeight": 128,
+            "selector": "aside",
+            "width": 296,
+            "x": 32,
+            "y": 285.5
+          },
+          {
+            "clientHeight": 0,
+            "gap": "normal",
+            "height": 0,
+            "maxHeight": "none",
+            "overflowY": "auto",
+            "position": "static",
+            "scrollHeight": 0,
+            "selector": "nav[aria-label=\"Blog categories\"]",
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "clientHeight": 46,
+            "gap": "normal",
+            "height": 48,
+            "maxHeight": "none",
+            "overflowY": "clip",
+            "position": "static",
+            "scrollHeight": 46,
+            "selector": "#blog-search",
+            "width": 278,
+            "x": 41,
+            "y": 294.5
+          },
+          {
+            "clientHeight": 38330,
+            "gap": "8px",
+            "height": 38330,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 38330,
+            "selector": "#blog-grid",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          },
+          {
+            "clientHeight": 346,
+            "gap": "normal",
+            "height": 345.5,
+            "maxHeight": "none",
+            "overflowY": "visible",
+            "position": "static",
+            "scrollHeight": 346,
+            "selector": "[data-blog-card]:not([hidden])",
+            "width": 296,
+            "x": 32,
+            "y": 483.5
+          }
+        ],
+        "viewport": [
+          375,
+          900
+        ],
+        "visibleCards": 108
+      }
+    }
+  ]
+}

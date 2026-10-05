@@ -1,0 +1,63 @@
+{
+  "command": "/usr/bin/time -v nift build --all",
+  "nift": "4.6.0 /usr/local/bin/nift",
+  "threads": -1,
+  "node": "22.22.1",
+  "scope": "opportunistic integration observations; migration incomplete, not final benchmark",
+  "runs": [
+    {
+      "run": "web-body-build",
+      "elapsedSeconds": 67.15,
+      "peakRssKiB": 622088,
+      "peakRssMiB": 607.51,
+      "cacheState": "docs cold after dependency change; new 663 web bodies",
+      "contention": "not observed during execution; sandbox process inventory cannot certify host contention",
+      "exitCode": 0
+    },
+    {
+      "run": "web-body-warm",
+      "elapsedSeconds": 5.2,
+      "peakRssKiB": 246556,
+      "peakRssMiB": 240.78,
+      "cacheState": "529 docs cached; 663 web bodies cached",
+      "contention": "not observed during execution; sandbox process inventory cannot certify host contention",
+      "exitCode": 0
+    },
+    {
+      "run": "web-legal-build",
+      "elapsedSeconds": 13.37,
+      "peakRssKiB": 555496,
+      "peakRssMiB": 542.48,
+      "cacheState": "529 docs cached; 673 web bodies regenerated after adapter change",
+      "contention": "not observed during execution; sandbox process inventory cannot certify host contention",
+      "exitCode": 0
+    },
+    {
+      "run": "web-legal-warm",
+      "elapsedSeconds": 12.8,
+      "peakRssKiB": 246788,
+      "peakRssMiB": 241.0,
+      "cacheState": "529 docs cached; 673 web bodies cached",
+      "contention": "not observed during execution; sandbox process inventory cannot certify host contention",
+      "exitCode": 0
+    },
+    {
+      "run": "listing-build",
+      "elapsedSeconds": 109.75,
+      "peakRssKiB": 626756,
+      "peakRssMiB": 612.07,
+      "cacheState": "docs cold after lock change; 724 web regions regenerated",
+      "contention": "not observed during execution; sandbox process inventory cannot certify host contention",
+      "exitCode": 0
+    },
+    {
+      "run": "listing-warm",
+      "elapsedSeconds": 6.68,
+      "peakRssKiB": 227932,
+      "peakRssMiB": 222.59,
+      "cacheState": "529 docs cached; 724 web regions cached",
+      "contention": "not observed during execution; sandbox process inventory cannot certify host contention",
+      "exitCode": 0
+    }
+  ]
+}

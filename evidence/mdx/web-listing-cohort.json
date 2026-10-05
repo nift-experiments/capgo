@@ -1,0 +1,465 @@
+{
+  "eligible": 51,
+  "matched": 51,
+  "results": [
+    {
+      "route": "/articles/category/alternatives/",
+      "file": "articles/category/alternatives/index.html",
+      "matches": true,
+      "bodyStart": 124409,
+      "bodyEnd": 138977,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/android/",
+      "file": "articles/category/android/index.html",
+      "matches": true,
+      "bodyStart": 124344,
+      "bodyEnd": 131738,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/app-store/",
+      "file": "articles/category/app-store/index.html",
+      "matches": true,
+      "bodyStart": 124370,
+      "bodyEnd": 128027,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/best-practices/",
+      "file": "articles/category/best-practices/index.html",
+      "matches": true,
+      "bodyStart": 124435,
+      "bodyEnd": 139518,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/capacitor/",
+      "file": "articles/category/capacitor/index.html",
+      "matches": true,
+      "bodyStart": 124370,
+      "bodyEnd": 234701,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/cicd/",
+      "file": "articles/category/cicd/index.html",
+      "matches": true,
+      "bodyStart": 124305,
+      "bodyEnd": 202821,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/cloud/",
+      "file": "articles/category/cloud/index.html",
+      "matches": true,
+      "bodyStart": 124318,
+      "bodyEnd": 128023,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/development/",
+      "file": "articles/category/development/index.html",
+      "matches": true,
+      "bodyStart": 124396,
+      "bodyEnd": 463418,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/guides/",
+      "file": "articles/category/guides/index.html",
+      "matches": true,
+      "bodyStart": 124331,
+      "bodyEnd": 181502,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/mobile/",
+      "file": "articles/category/mobile/index.html",
+      "matches": true,
+      "bodyStart": 124331,
+      "bodyEnd": 688578,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/news/",
+      "file": "articles/category/news/index.html",
+      "matches": true,
+      "bodyStart": 124305,
+      "bodyEnd": 125808,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/open-source/",
+      "file": "articles/category/open-source/index.html",
+      "matches": true,
+      "bodyStart": 124396,
+      "bodyEnd": 126197,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/product/",
+      "file": "articles/category/product/index.html",
+      "matches": true,
+      "bodyStart": 124344,
+      "bodyEnd": 145955,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/security/",
+      "file": "articles/category/security/index.html",
+      "matches": true,
+      "bodyStart": 124357,
+      "bodyEnd": 291193,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/technology/",
+      "file": "articles/category/technology/index.html",
+      "matches": true,
+      "bodyStart": 124383,
+      "bodyEnd": 155588,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/tutorial/",
+      "file": "articles/category/tutorial/index.html",
+      "matches": true,
+      "bodyStart": 124357,
+      "bodyEnd": 160812,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/category/updates/",
+      "file": "articles/category/updates/index.html",
+      "matches": true,
+      "bodyStart": 124344,
+      "bodyEnd": 497913,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/articles/",
+      "file": "articles/index.html",
+      "matches": true,
+      "bodyStart": 124123,
+      "bodyEnd": 749318,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/alternatives/",
+      "file": "blog/category/alternatives/index.html",
+      "matches": true,
+      "bodyStart": 131843,
+      "bodyEnd": 159916,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/android/",
+      "file": "blog/category/android/index.html",
+      "matches": true,
+      "bodyStart": 131778,
+      "bodyEnd": 156498,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/app-store/",
+      "file": "blog/category/app-store/index.html",
+      "matches": true,
+      "bodyStart": 131804,
+      "bodyEnd": 144632,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/aso/",
+      "file": "blog/category/aso/index.html",
+      "matches": true,
+      "bodyStart": 131726,
+      "bodyEnd": 133530,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/best-practices/",
+      "file": "blog/category/best-practices/index.html",
+      "matches": true,
+      "bodyStart": 131869,
+      "bodyEnd": 140872,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/capacitor/",
+      "file": "blog/category/capacitor/index.html",
+      "matches": true,
+      "bodyStart": 131804,
+      "bodyEnd": 232264,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/case-study/",
+      "file": "blog/category/case-study/index.html",
+      "matches": true,
+      "bodyStart": 131817,
+      "bodyEnd": 133366,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/cicd/",
+      "file": "blog/category/cicd/index.html",
+      "matches": true,
+      "bodyStart": 131739,
+      "bodyEnd": 160302,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/cloud/",
+      "file": "blog/category/cloud/index.html",
+      "matches": true,
+      "bodyStart": 131752,
+      "bodyEnd": 135330,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/company/",
+      "file": "blog/category/company/index.html",
+      "matches": true,
+      "bodyStart": 131778,
+      "bodyEnd": 133661,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/configuration/",
+      "file": "blog/category/configuration/index.html",
+      "matches": true,
+      "bodyStart": 131856,
+      "bodyEnd": 137267,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/deeplinking/",
+      "file": "blog/category/deeplinking/index.html",
+      "matches": true,
+      "bodyStart": 131830,
+      "bodyEnd": 133325,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/development/",
+      "file": "blog/category/development/index.html",
+      "matches": true,
+      "bodyStart": 131830,
+      "bodyEnd": 192735,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/google-play/",
+      "file": "blog/category/google-play/index.html",
+      "matches": true,
+      "bodyStart": 131830,
+      "bodyEnd": 141011,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/guides/",
+      "file": "blog/category/guides/index.html",
+      "matches": true,
+      "bodyStart": 131765,
+      "bodyEnd": 152784,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/iap/",
+      "file": "blog/category/iap/index.html",
+      "matches": true,
+      "bodyStart": 131726,
+      "bodyEnd": 135334,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/ios/",
+      "file": "blog/category/ios/index.html",
+      "matches": true,
+      "bodyStart": 131726,
+      "bodyEnd": 158111,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/marketing/",
+      "file": "blog/category/marketing/index.html",
+      "matches": true,
+      "bodyStart": 131804,
+      "bodyEnd": 133608,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/migration/",
+      "file": "blog/category/migration/index.html",
+      "matches": true,
+      "bodyStart": 131804,
+      "bodyEnd": 155803,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/mobile/",
+      "file": "blog/category/mobile/index.html",
+      "matches": true,
+      "bodyStart": 131765,
+      "bodyEnd": 169808,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/monetization/",
+      "file": "blog/category/monetization/index.html",
+      "matches": true,
+      "bodyStart": 131843,
+      "bodyEnd": 133614,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/news/",
+      "file": "blog/category/news/index.html",
+      "matches": true,
+      "bodyStart": 131739,
+      "bodyEnd": 133192,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/open-source/",
+      "file": "blog/category/open-source/index.html",
+      "matches": true,
+      "bodyStart": 131830,
+      "bodyEnd": 134661,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/optimisation/",
+      "file": "blog/category/optimisation/index.html",
+      "matches": true,
+      "bodyStart": 131843,
+      "bodyEnd": 133218,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/product/",
+      "file": "blog/category/product/index.html",
+      "matches": true,
+      "bodyStart": 131778,
+      "bodyEnd": 133310,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/security/",
+      "file": "blog/category/security/index.html",
+      "matches": true,
+      "bodyStart": 131791,
+      "bodyEnd": 153293,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/solution/",
+      "file": "blog/category/solution/index.html",
+      "matches": true,
+      "bodyStart": 131791,
+      "bodyEnd": 138461,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/story/",
+      "file": "blog/category/story/index.html",
+      "matches": true,
+      "bodyStart": 131752,
+      "bodyEnd": 134369,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/technology/",
+      "file": "blog/category/technology/index.html",
+      "matches": true,
+      "bodyStart": 131817,
+      "bodyEnd": 133670,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/tutorial/",
+      "file": "blog/category/tutorial/index.html",
+      "matches": true,
+      "bodyStart": 131791,
+      "bodyEnd": 252802,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/updates/",
+      "file": "blog/category/updates/index.html",
+      "matches": true,
+      "bodyStart": 131778,
+      "bodyEnd": 157410,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/category/web-development/",
+      "file": "blog/category/web-development/index.html",
+      "matches": true,
+      "bodyStart": 131882,
+      "bodyEnd": 133350,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    },
+    {
+      "route": "/blog/",
+      "file": "blog/index.html",
+      "matches": true,
+      "bodyStart": 131557,
+      "bodyEnd": 403340,
+      "family": "blog-grid",
+      "source": "corpus/authored/apps/web/src/components/Blog.astro"
+    }
+  ]
+}

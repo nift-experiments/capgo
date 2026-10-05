@@ -1,0 +1,22 @@
+{
+  "listing": "/blog/",
+  "searchEmptyState": true,
+  "searchResult": "Showing 0 of 168 articles",
+  "restoredVisibleCards": 168,
+  "legalVisual": {
+    "route": "/privacy/",
+    "viewport": [
+      1265,
+      712
+    ],
+    "differentPixels": 2587,
+    "differenceBounds": [
+      608,
+      31,
+      832,
+      49
+    ],
+    "bodyBelow80PixelDifferences": 0,
+    "note": "Differences confined to retained navigation; authored legal body pixels match. No full-site visual certification."
+  }
+}

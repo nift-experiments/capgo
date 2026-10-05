@@ -1,0 +1,103 @@
+---
+import ComparisonPage from '@/components/comparison/ComparisonPage.astro'
+import Layout from '@/layouts/Layout.astro'
+import { productTestimonials } from '@/config/productTestimonials'
+import m from '@/copy/messages'
+import { createFAQPageLdJson, createLdJsonGraph, createServiceLdJson } from '@/lib/ldJson'
+import { getRelativeLocaleUrl } from '@/services/links'
+
+const locale = Astro.locals.locale
+const config = Astro.locals.runtimeConfig.public
+const title = m.capwesome_title({}, { locale })
+const description = m.capwesome_meta_description({}, { locale })
+const competitor = 'Capawesome Cloud'
+const faq = [{ question: m.appflow_faq_q6({}, { locale }), answer: m.appflow_faq_a6({}, { locale }) }]
+
+const ldJSON = createLdJsonGraph(
+  config,
+  createServiceLdJson(config, {
+    name: title,
+    description,
+    url: Astro.url.href,
+    serviceType: 'Software Development Service',
+    areaServed: ['Worldwide'],
+  }),
+  {
+    includeOrganization: true,
+    additionalEntities: [createFAQPageLdJson(config, { url: Astro.url.href, questions: faq })],
+  },
+)
+
+const content = {
+  title,
+  description,
+  image: `${config.baseUrl}/capgo_social.png`,
+  keywords: 'Capawesome alternative, Capawesome Cloud vs Capgo, Capacitor live updates, Capgo',
+  ldJSON,
+}
+
+const sources = [
+  { label: m.compare_capawesome_source_pricing({}, { locale }), href: 'https://capawesome.io/cloud/pricing/' },
+  { label: m.compare_capawesome_source_cloud({}, { locale }), href: 'https://capawesome.io/cloud/' },
+  { label: m.compare_capawesome_source_live_updates({}, { locale }), href: 'https://capawesome.io/cloud/live-updates/' },
+  { label: m.compare_capawesome_source_github({}, { locale }), href: 'https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/live-update' },
+  { label: m.compare_capawesome_source_about({}, { locale }), href: 'https://capawesome.io/about/' },
+]
+
+const rows = {
+  pricing: { text: m.compare_capawesome_pricing({}, { locale }), sources: [1] },
+  ota: { text: m.compare_capawesome_ota({}, { locale }), sources: [3] },
+  native_builds: { text: m.compare_capawesome_native_builds({}, { locale }), sources: [1, 2] },
+  frameworks: { text: m.compare_capawesome_frameworks({}, { locale }), sources: [2] },
+  open_source: { text: m.compare_capawesome_open_source({}, { locale }), sources: [4, 3] },
+  rollback: { text: m.compare_capawesome_rollback({}, { locale }), sources: [3] },
+  support: { text: m.compare_capawesome_support({}, { locale }), sources: [1] },
+  company: { text: m.compare_capawesome_company({}, { locale }), sources: [5, 2] },
+}
+
+const better = [
+  { title: m.compare_capawesome_better_1_title({}, { locale }), text: m.compare_capawesome_better_1_text({}, { locale }), sources: [1] },
+  { title: m.compare_capawesome_better_2_title({}, { locale }), text: m.compare_capawesome_better_2_text({}, { locale }), sources: [3] },
+  { title: m.compare_capawesome_better_3_title({}, { locale }), text: m.compare_capawesome_better_3_text({}, { locale }), sources: [2] },
+]
+
+const migration = {
+  title: m.capwesome_migration_title({}, { locale }),
+  lead: m.capwesome_migration_intro({}, { locale }),
+  steps: [
+    { title: m.capwesome_migration_step1({}, { locale }), html: m.compare_capawesome_step1_text({}, { locale }) },
+    { title: m.capwesome_migration_step2({}, { locale }), html: m.compare_capawesome_step2_text({}, { locale }) },
+    { title: m.capwesome_migration_step3({}, { locale }), html: m.compare_capawesome_step3_text({}, { locale }) },
+  ],
+  links: [
+    { label: m.compare_migration_docs_cta({}, { locale }), href: getRelativeLocaleUrl(locale, 'docs/upgrade/from-capawesome-to-capgo/') },
+    { label: m.migrate_from_capawesome_title({}, { locale }), href: getRelativeLocaleUrl(locale, 'migrate/from-capawesome') },
+  ],
+}
+
+const related = [
+  { label: m.review_capawesome_title({}, { locale }), href: getRelativeLocaleUrl(locale, 'reviews/capawesome') },
+  { label: m.migrate_from_capawesome_title({}, { locale }), href: getRelativeLocaleUrl(locale, 'migrate/from-capawesome') },
+  { label: m.best_capacitor_live_updates_title({}, { locale }), href: getRelativeLocaleUrl(locale, 'best/capacitor-live-updates') },
+  { label: m.alternatives({}, { locale }), href: getRelativeLocaleUrl(locale, 'alternatives') },
+]
+---
+
+<Layout content={content}>
+  <ComparisonPage
+    competitor={competitor}
+    eyebrow={m.compare_capawesome_eyebrow({}, { locale })}
+    heading={m.capwesome_hero_title({}, { locale })}
+    lead={m.compare_capawesome_lead({}, { locale })}
+    verdict={m.compare_capawesome_verdict({}, { locale })}
+    rows={rows}
+    sources={sources}
+    better={better}
+    migration={migration}
+    testimonials={productTestimonials.liveUpdate}
+    reviewWall
+    related={related}
+    faq={faq}
+    secondaryCta={{ label: m.compare_migration_docs_cta({}, { locale }), href: getRelativeLocaleUrl(locale, 'docs/upgrade/from-capawesome-to-capgo/') }}
+  />
+</Layout>

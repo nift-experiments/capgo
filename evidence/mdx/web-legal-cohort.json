@@ -1,0 +1,106 @@
+{
+  "eligible": 10,
+  "matched": 10,
+  "results": [
+    {
+      "route": "/aup/",
+      "source": "corpus/authored/apps/web/src/pages/aup.astro",
+      "sourceSha256": "3974363a9ca84c9e710f4ef4cc0ccaa96921fe42e222e402ea7a92a4f9ffb7c2",
+      "file": "aup/index.html",
+      "bodyStart": 111974,
+      "bodyEnd": 118697,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/disclaimer/",
+      "source": "corpus/authored/apps/web/src/pages/disclaimer.astro",
+      "sourceSha256": "702e4b6021413bce56d3592f345941162c3a6d8ccc19209feff9cd72bab3ead0",
+      "file": "disclaimer/index.html",
+      "bodyStart": 112010,
+      "bodyEnd": 117981,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/dp/",
+      "source": "corpus/authored/apps/web/src/pages/dp.astro",
+      "sourceSha256": "66471d6a957fb575b4f2f2dbe1e183ff0de993150d39df0281b876c0ebea395b",
+      "file": "dp/index.html",
+      "bodyStart": 111797,
+      "bodyEnd": 139173,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/dpa/",
+      "source": "corpus/authored/apps/web/src/pages/dpa.astro",
+      "sourceSha256": "bb54d55f6a04a426fb5c9032b388673d668da5bfaa6dd30f4338f3ceb733d3bd",
+      "file": "dpa/index.html",
+      "bodyStart": 111994,
+      "bodyEnd": 122880,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/eula/",
+      "source": "corpus/authored/apps/web/src/pages/eula.astro",
+      "sourceSha256": "c8a6a829d6af34b109e4bdf31ea8a133ab7befeb37027359bcac4070f58c49fe",
+      "file": "eula/index.html",
+      "bodyStart": 112012,
+      "bodyEnd": 129604,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/return/",
+      "source": "corpus/authored/apps/web/src/pages/return.astro",
+      "sourceSha256": "a8293e8ac2ba3d5979e1eeb80981c32409415f944030a4169d04837652e599c0",
+      "file": "return/index.html",
+      "bodyStart": 111973,
+      "bodyEnd": 117411,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/sla/",
+      "source": "corpus/authored/apps/web/src/pages/sla.astro",
+      "sourceSha256": "2653d5956d767eb6bbfae0da60774bac2351071c5049f36fe226d3817608c0b0",
+      "file": "sla/index.html",
+      "bodyStart": 111919,
+      "bodyEnd": 120165,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/support-policy/",
+      "source": "corpus/authored/apps/web/src/pages/support-policy.astro",
+      "sourceSha256": "cc7bf1095d5eb6fd8a1ef4546b4563bc0a8759557af14e5baa46fea1fe7772d7",
+      "file": "support-policy/index.html",
+      "bodyStart": 112050,
+      "bodyEnd": 117305,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/tos/",
+      "source": "corpus/authored/apps/web/src/pages/tos.astro",
+      "sourceSha256": "3ba06d2497f71fb7df40bee080d3815f402d8a11b600a18fb5000a3cfc57c53e",
+      "file": "tos/index.html",
+      "bodyStart": 111886,
+      "bodyEnd": 132932,
+      "matches": true,
+      "family": "legal"
+    },
+    {
+      "route": "/privacy/",
+      "source": "corpus/authored/apps/web/src/pages/privacy.astro",
+      "sourceSha256": "15b3ca66fa67fbce941a4a719b628240f679a345f2fead155f324dee2114ddbb",
+      "file": "privacy/index.html",
+      "bodyStart": 111889,
+      "bodyEnd": 127856,
+      "matches": true,
+      "family": "legal"
+    }
+  ]
+}

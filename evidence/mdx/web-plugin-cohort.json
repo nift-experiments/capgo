@@ -1,0 +1,1198 @@
+{
+  "eligible": 149,
+  "matched": 149,
+  "results": [
+    {
+      "route": "/plugins/analytics/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/analytics.md",
+      "file": "plugins/analytics/index.html",
+      "bodyStart": 126901,
+      "bodyEnd": 132876,
+      "matches": true
+    },
+    {
+      "route": "/plugins/app-check/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/app-check.md",
+      "file": "plugins/app-check/index.html",
+      "bodyStart": 126943,
+      "bodyEnd": 130408,
+      "matches": true
+    },
+    {
+      "route": "/plugins/app/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/app.md",
+      "file": "plugins/app/index.html",
+      "bodyStart": 126353,
+      "bodyEnd": 128966,
+      "matches": true
+    },
+    {
+      "route": "/plugins/authentication/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/authentication.md",
+      "file": "plugins/authentication/index.html",
+      "bodyStart": 127123,
+      "bodyEnd": 138798,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-accelerometer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-accelerometer.md",
+      "file": "plugins/capacitor-accelerometer/index.html",
+      "bodyStart": 129746,
+      "bodyEnd": 134536,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-admob/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-admob.md",
+      "file": "plugins/capacitor-admob/index.html",
+      "bodyStart": 129073,
+      "bodyEnd": 133710,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-age-range/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-age-range.md",
+      "file": "plugins/capacitor-age-range/index.html",
+      "bodyStart": 126926,
+      "bodyEnd": 129247,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-alarm/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-alarm.md",
+      "file": "plugins/capacitor-alarm/index.html",
+      "bodyStart": 128855,
+      "bodyEnd": 134876,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-android-age-signals/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-android-age-signals.md",
+      "file": "plugins/capacitor-android-age-signals/index.html",
+      "bodyStart": 130062,
+      "bodyEnd": 132401,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-android-inline-install/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-android-inline-install.md",
+      "file": "plugins/capacitor-android-inline-install/index.html",
+      "bodyStart": 130034,
+      "bodyEnd": 132887,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-android-kiosk/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-android-kiosk.md",
+      "file": "plugins/capacitor-android-kiosk/index.html",
+      "bodyStart": 126689,
+      "bodyEnd": 132254,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-android-sms-retriever/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-android-sms-retriever.md",
+      "file": "plugins/capacitor-android-sms-retriever/index.html",
+      "bodyStart": 130087,
+      "bodyEnd": 133084,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-android-usagestatsmanager/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-android-usagestatsmanager.md",
+      "file": "plugins/capacitor-android-usagestatsmanager/index.html",
+      "bodyStart": 130262,
+      "bodyEnd": 134457,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-app-attest/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-app-attest.md",
+      "file": "plugins/capacitor-app-attest/index.html",
+      "bodyStart": 129426,
+      "bodyEnd": 132735,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-app-tracking-transparency/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-app-tracking-transparency.md",
+      "file": "plugins/capacitor-app-tracking-transparency/index.html",
+      "bodyStart": 127796,
+      "bodyEnd": 131357,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-appinsights/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-appinsights.md",
+      "file": "plugins/capacitor-appinsights/index.html",
+      "bodyStart": 129393,
+      "bodyEnd": 132491,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-appsflyer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-appsflyer.md",
+      "file": "plugins/capacitor-appsflyer/index.html",
+      "bodyStart": 129366,
+      "bodyEnd": 141731,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-asset-cache/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-asset-cache.md",
+      "file": "plugins/capacitor-asset-cache/index.html",
+      "bodyStart": 125768,
+      "bodyEnd": 129653,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-audio-recorder/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-audio-recorder.md",
+      "file": "plugins/capacitor-audio-recorder/index.html",
+      "bodyStart": 129477,
+      "bodyEnd": 134840,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-audiosession/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-audiosession.md",
+      "file": "plugins/capacitor-audiosession/index.html",
+      "bodyStart": 126847,
+      "bodyEnd": 129858,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-auto/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-auto.md",
+      "file": "plugins/capacitor-auto/index.html",
+      "bodyStart": 129027,
+      "bodyEnd": 132693,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-autofill-save-password/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-autofill-save-password.md",
+      "file": "plugins/capacitor-autofill-save-password/index.html",
+      "bodyStart": 130146,
+      "bodyEnd": 133227,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-background-geolocation/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-background-geolocation.md",
+      "file": "plugins/capacitor-background-geolocation/index.html",
+      "bodyStart": 130101,
+      "bodyEnd": 136254,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-background-task/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-background-task.md",
+      "file": "plugins/capacitor-background-task/index.html",
+      "bodyStart": 129526,
+      "bodyEnd": 133883,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-barometer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-barometer.md",
+      "file": "plugins/capacitor-barometer/index.html",
+      "bodyStart": 129275,
+      "bodyEnd": 133882,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-bluetooth-low-energy/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-bluetooth-low-energy.md",
+      "file": "plugins/capacitor-bluetooth-low-energy/index.html",
+      "bodyStart": 132020,
+      "bodyEnd": 140194,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-brightness/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-brightness.md",
+      "file": "plugins/capacitor-brightness/index.html",
+      "bodyStart": 129571,
+      "bodyEnd": 135377,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-calendar/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-calendar.md",
+      "file": "plugins/capacitor-calendar/index.html",
+      "bodyStart": 132448,
+      "bodyEnd": 136026,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-camera-preview/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-camera-preview.md",
+      "file": "plugins/capacitor-camera-preview/index.html",
+      "bodyStart": 129543,
+      "bodyEnd": 141714,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-compass/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-compass.md",
+      "file": "plugins/capacitor-compass/index.html",
+      "bodyStart": 129055,
+      "bodyEnd": 136510,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-contacts/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-contacts.md",
+      "file": "plugins/capacitor-contacts/index.html",
+      "bodyStart": 129411,
+      "bodyEnd": 135190,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-contentsquare/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-contentsquare.md",
+      "file": "plugins/capacitor-contentsquare/index.html",
+      "bodyStart": 129540,
+      "bodyEnd": 134693,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-crisp/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-crisp.md",
+      "file": "plugins/capacitor-crisp/index.html",
+      "bodyStart": 128957,
+      "bodyEnd": 132226,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-data-storage-sqlite/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-data-storage-sqlite.md",
+      "file": "plugins/capacitor-data-storage-sqlite/index.html",
+      "bodyStart": 130191,
+      "bodyEnd": 136350,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-date-picker/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-date-picker.md",
+      "file": "plugins/capacitor-date-picker/index.html",
+      "bodyStart": 129376,
+      "bodyEnd": 133025,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-device-info/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-device-info.md",
+      "file": "plugins/capacitor-device-info/index.html",
+      "bodyStart": 129679,
+      "bodyEnd": 133725,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-document-scanner/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-document-scanner.md",
+      "file": "plugins/capacitor-document-scanner/index.html",
+      "bodyStart": 129676,
+      "bodyEnd": 132058,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-downloader/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-downloader.md",
+      "file": "plugins/capacitor-downloader/index.html",
+      "bodyStart": 129261,
+      "bodyEnd": 132383,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-env/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-env.md",
+      "file": "plugins/capacitor-env/index.html",
+      "bodyStart": 130489,
+      "bodyEnd": 132697,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-facebook-analytics/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-facebook-analytics.md",
+      "file": "plugins/capacitor-facebook-analytics/index.html",
+      "bodyStart": 129864,
+      "bodyEnd": 133364,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-fast-sql/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-fast-sql.md",
+      "file": "plugins/capacitor-fast-sql/index.html",
+      "bodyStart": 129619,
+      "bodyEnd": 134967,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-ffmpeg/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-ffmpeg.md",
+      "file": "plugins/capacitor-ffmpeg/index.html",
+      "bodyStart": 125689,
+      "bodyEnd": 129449,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-file-compressor/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-file-compressor.md",
+      "file": "plugins/capacitor-file-compressor/index.html",
+      "bodyStart": 129576,
+      "bodyEnd": 132311,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-file-picker/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-file-picker.md",
+      "file": "plugins/capacitor-file-picker/index.html",
+      "bodyStart": 126682,
+      "bodyEnd": 132874,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-file-sharer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-file-sharer.md",
+      "file": "plugins/capacitor-file-sharer/index.html",
+      "bodyStart": 129179,
+      "bodyEnd": 132595,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-file/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-file.md",
+      "file": "plugins/capacitor-file/index.html",
+      "bodyStart": 128768,
+      "bodyEnd": 135377,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-flash/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-flash.md",
+      "file": "plugins/capacitor-flash/index.html",
+      "bodyStart": 128790,
+      "bodyEnd": 132486,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-gtm/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-gtm.md",
+      "file": "plugins/capacitor-gtm/index.html",
+      "bodyStart": 128890,
+      "bodyEnd": 133028,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-health/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-health.md",
+      "file": "plugins/capacitor-health/index.html",
+      "bodyStart": 129031,
+      "bodyEnd": 134328,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-home-indicator/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-home-indicator.md",
+      "file": "plugins/capacitor-home-indicator/index.html",
+      "bodyStart": 129290,
+      "bodyEnd": 132527,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-ibeacon/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-ibeacon.md",
+      "file": "plugins/capacitor-ibeacon/index.html",
+      "bodyStart": 131086,
+      "bodyEnd": 137554,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-in-app-review/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-in-app-review.md",
+      "file": "plugins/capacitor-in-app-review/index.html",
+      "bodyStart": 126767,
+      "bodyEnd": 129293,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-inappbrowser/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-inappbrowser.md",
+      "file": "plugins/capacitor-inappbrowser/index.html",
+      "bodyStart": 131074,
+      "bodyEnd": 136726,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-incoming-call-kit/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-incoming-call-kit.md",
+      "file": "plugins/capacitor-incoming-call-kit/index.html",
+      "bodyStart": 129774,
+      "bodyEnd": 134795,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-install-referrer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-install-referrer.md",
+      "file": "plugins/capacitor-install-referrer/index.html",
+      "bodyStart": 129616,
+      "bodyEnd": 132695,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-intent-launcher/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-intent-launcher.md",
+      "file": "plugins/capacitor-intent-launcher/index.html",
+      "bodyStart": 129851,
+      "bodyEnd": 134004,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-intercom/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-intercom.md",
+      "file": "plugins/capacitor-intercom/index.html",
+      "bodyStart": 126485,
+      "bodyEnd": 132923,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-intune/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-intune.md",
+      "file": "plugins/capacitor-intune/index.html",
+      "bodyStart": 126500,
+      "bodyEnd": 132547,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-is-root/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-is-root.md",
+      "file": "plugins/capacitor-is-root/index.html",
+      "bodyStart": 129182,
+      "bodyEnd": 136960,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-ivs-player/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-ivs-player.md",
+      "file": "plugins/capacitor-ivs-player/index.html",
+      "bodyStart": 128995,
+      "bodyEnd": 135238,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-jw-player/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-jw-player.md",
+      "file": "plugins/capacitor-jw-player/index.html",
+      "bodyStart": 129135,
+      "bodyEnd": 134324,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-keep-awake/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-keep-awake.md",
+      "file": "plugins/capacitor-keep-awake/index.html",
+      "bodyStart": 129574,
+      "bodyEnd": 133257,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-launch-navigator/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-launch-navigator.md",
+      "file": "plugins/capacitor-launch-navigator/index.html",
+      "bodyStart": 129754,
+      "bodyEnd": 134580,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-light-sensor/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-light-sensor.md",
+      "file": "plugins/capacitor-light-sensor/index.html",
+      "bodyStart": 129410,
+      "bodyEnd": 134182,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-live-activities/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-live-activities.md",
+      "file": "plugins/capacitor-live-activities/index.html",
+      "bodyStart": 125827,
+      "bodyEnd": 133622,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-live-reload/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-live-reload.md",
+      "file": "plugins/capacitor-live-reload/index.html",
+      "bodyStart": 129050,
+      "bodyEnd": 133594,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-llm/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-llm.md",
+      "file": "plugins/capacitor-llm/index.html",
+      "bodyStart": 129129,
+      "bodyEnd": 132161,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-media-session/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-media-session.md",
+      "file": "plugins/capacitor-media-session/index.html",
+      "bodyStart": 129335,
+      "bodyEnd": 132821,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-mock-location-detector/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-mock-location-detector.md",
+      "file": "plugins/capacitor-mock-location-detector/index.html",
+      "bodyStart": 126300,
+      "bodyEnd": 127873,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-mqtt/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-mqtt.md",
+      "file": "plugins/capacitor-mqtt/index.html",
+      "bodyStart": 129289,
+      "bodyEnd": 133091,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-mute/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-mute.md",
+      "file": "plugins/capacitor-mute/index.html",
+      "bodyStart": 128973,
+      "bodyEnd": 131106,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-mux-player/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-mux-player.md",
+      "file": "plugins/capacitor-mux-player/index.html",
+      "bodyStart": 129188,
+      "bodyEnd": 132479,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-audio/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-audio.md",
+      "file": "plugins/capacitor-native-audio/index.html",
+      "bodyStart": 127818,
+      "bodyEnd": 131359,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-biometric/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-biometric.md",
+      "file": "plugins/capacitor-native-biometric/index.html",
+      "bodyStart": 130245,
+      "bodyEnd": 136541,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-loader/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-loader.md",
+      "file": "plugins/capacitor-native-loader/index.html",
+      "bodyStart": 129061,
+      "bodyEnd": 134126,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-map/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-map.md",
+      "file": "plugins/capacitor-native-map/index.html",
+      "bodyStart": 125610,
+      "bodyEnd": 128164,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-market/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-market.md",
+      "file": "plugins/capacitor-native-market/index.html",
+      "bodyStart": 130533,
+      "bodyEnd": 134095,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-navigation/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-navigation.md",
+      "file": "plugins/capacitor-native-navigation/index.html",
+      "bodyStart": 134171,
+      "bodyEnd": 143164,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-native-purchases/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-native-purchases.md",
+      "file": "plugins/capacitor-native-purchases/index.html",
+      "bodyStart": 130073,
+      "bodyEnd": 135927,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-nativegeocoder/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-nativegeocoder.md",
+      "file": "plugins/capacitor-nativegeocoder/index.html",
+      "bodyStart": 130526,
+      "bodyEnd": 132878,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-navigation-bar/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-navigation-bar.md",
+      "file": "plugins/capacitor-navigation-bar/index.html",
+      "bodyStart": 129450,
+      "bodyEnd": 132380,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-network-diagnostics/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-network-diagnostics.md",
+      "file": "plugins/capacitor-network-diagnostics/index.html",
+      "bodyStart": 130399,
+      "bodyEnd": 132896,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-nfc/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-nfc.md",
+      "file": "plugins/capacitor-nfc/index.html",
+      "bodyStart": 128773,
+      "bodyEnd": 133562,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-notifications/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-notifications.md",
+      "file": "plugins/capacitor-notifications/index.html",
+      "bodyStart": 126962,
+      "bodyEnd": 131815,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-passkey/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-passkey.md",
+      "file": "plugins/capacitor-passkey/index.html",
+      "bodyStart": 129211,
+      "bodyEnd": 136264,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-patch/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-patch.md",
+      "file": "plugins/capacitor-patch/index.html",
+      "bodyStart": 127122,
+      "bodyEnd": 129915,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-pay/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-pay.md",
+      "file": "plugins/capacitor-pay/index.html",
+      "bodyStart": 128748,
+      "bodyEnd": 131949,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-pdf-generator/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-pdf-generator.md",
+      "file": "plugins/capacitor-pdf-generator/index.html",
+      "bodyStart": 129700,
+      "bodyEnd": 132485,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-pdf-viewer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-pdf-viewer.md",
+      "file": "plugins/capacitor-pdf-viewer/index.html",
+      "bodyStart": 125589,
+      "bodyEnd": 127399,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-pedometer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-pedometer.md",
+      "file": "plugins/capacitor-pedometer/index.html",
+      "bodyStart": 129683,
+      "bodyEnd": 134292,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-permissions/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-permissions.md",
+      "file": "plugins/capacitor-permissions/index.html",
+      "bodyStart": 125830,
+      "bodyEnd": 128213,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-persistent-account/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-persistent-account.md",
+      "file": "plugins/capacitor-persistent-account/index.html",
+      "bodyStart": 129846,
+      "bodyEnd": 132847,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-persistent-uuid/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-persistent-uuid.md",
+      "file": "plugins/capacitor-persistent-uuid/index.html",
+      "bodyStart": 126416,
+      "bodyEnd": 129366,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-persona/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-persona.md",
+      "file": "plugins/capacitor-persona/index.html",
+      "bodyStart": 126490,
+      "bodyEnd": 132543,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-photo-library/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-photo-library.md",
+      "file": "plugins/capacitor-photo-library/index.html",
+      "bodyStart": 129480,
+      "bodyEnd": 134887,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-plus/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-plus.md",
+      "file": "plugins/capacitor-plus/index.html",
+      "bodyStart": 126515,
+      "bodyEnd": 135275,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-printer/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-printer.md",
+      "file": "plugins/capacitor-printer/index.html",
+      "bodyStart": 129572,
+      "bodyEnd": 133884,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-privacy-screen/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-privacy-screen.md",
+      "file": "plugins/capacitor-privacy-screen/index.html",
+      "bodyStart": 129835,
+      "bodyEnd": 132291,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-proximity/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-proximity.md",
+      "file": "plugins/capacitor-proximity/index.html",
+      "bodyStart": 129720,
+      "bodyEnd": 132597,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-realtimekit/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-realtimekit.md",
+      "file": "plugins/capacitor-realtimekit/index.html",
+      "bodyStart": 129212,
+      "bodyEnd": 131998,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-recaptcha/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-recaptcha.md",
+      "file": "plugins/capacitor-recaptcha/index.html",
+      "bodyStart": 129358,
+      "bodyEnd": 131840,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-rich-notifications/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-rich-notifications.md",
+      "file": "plugins/capacitor-rich-notifications/index.html",
+      "bodyStart": 126147,
+      "bodyEnd": 129095,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-ricoh360-camera-plugin/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-ricoh360-camera-plugin.md",
+      "file": "plugins/capacitor-ricoh360-camera-plugin/index.html",
+      "bodyStart": 130751,
+      "bodyEnd": 133854,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-rudderstack/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-rudderstack.md",
+      "file": "plugins/capacitor-rudderstack/index.html",
+      "bodyStart": 129485,
+      "bodyEnd": 134440,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-screen-orientation/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-screen-orientation.md",
+      "file": "plugins/capacitor-screen-orientation/index.html",
+      "bodyStart": 129971,
+      "bodyEnd": 136284,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-screen-recorder/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-screen-recorder.md",
+      "file": "plugins/capacitor-screen-recorder/index.html",
+      "bodyStart": 129462,
+      "bodyEnd": 131928,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-shake/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-shake.md",
+      "file": "plugins/capacitor-shake/index.html",
+      "bodyStart": 129099,
+      "bodyEnd": 132045,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-share-target/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-share-target.md",
+      "file": "plugins/capacitor-share-target/index.html",
+      "bodyStart": 129211,
+      "bodyEnd": 132774,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-sim/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-sim.md",
+      "file": "plugins/capacitor-sim/index.html",
+      "bodyStart": 129292,
+      "bodyEnd": 132617,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-social-login/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-social-login.md",
+      "file": "plugins/capacitor-social-login/index.html",
+      "bodyStart": 126765,
+      "bodyEnd": 129909,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-speech-recognition/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-speech-recognition.md",
+      "file": "plugins/capacitor-speech-recognition/index.html",
+      "bodyStart": 129739,
+      "bodyEnd": 132958,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-speech-synthesis/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-speech-synthesis.md",
+      "file": "plugins/capacitor-speech-synthesis/index.html",
+      "bodyStart": 129841,
+      "bodyEnd": 135795,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-ssl-pinning/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-ssl-pinning.md",
+      "file": "plugins/capacitor-ssl-pinning/index.html",
+      "bodyStart": 129455,
+      "bodyEnd": 131714,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-streamcall/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-streamcall.md",
+      "file": "plugins/capacitor-streamcall/index.html",
+      "bodyStart": 126445,
+      "bodyEnd": 132185,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-stripe-identity/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-stripe-identity.md",
+      "file": "plugins/capacitor-stripe-identity/index.html",
+      "bodyStart": 125962,
+      "bodyEnd": 127482,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-stripe-pay/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-stripe-pay.md",
+      "file": "plugins/capacitor-stripe-pay/index.html",
+      "bodyStart": 125400,
+      "bodyEnd": 127063,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-stripe-terminal/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-stripe-terminal.md",
+      "file": "plugins/capacitor-stripe-terminal/index.html",
+      "bodyStart": 125723,
+      "bodyEnd": 127370,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-supabase/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-supabase.md",
+      "file": "plugins/capacitor-supabase/index.html",
+      "bodyStart": 129523,
+      "bodyEnd": 135149,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-textinteraction/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-textinteraction.md",
+      "file": "plugins/capacitor-textinteraction/index.html",
+      "bodyStart": 133418,
+      "bodyEnd": 141142,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-transitions/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-transitions.md",
+      "file": "plugins/capacitor-transitions/index.html",
+      "bodyStart": 131544,
+      "bodyEnd": 139290,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-twilio-video/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-twilio-video.md",
+      "file": "plugins/capacitor-twilio-video/index.html",
+      "bodyStart": 125542,
+      "bodyEnd": 131313,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-twilio-voice/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-twilio-voice.md",
+      "file": "plugins/capacitor-twilio-voice/index.html",
+      "bodyStart": 129447,
+      "bodyEnd": 135823,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-updater/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-updater.md",
+      "file": "plugins/capacitor-updater/index.html",
+      "bodyStart": 129193,
+      "bodyEnd": 132952,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-uploader/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-uploader.md",
+      "file": "plugins/capacitor-uploader/index.html",
+      "bodyStart": 129101,
+      "bodyEnd": 131508,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-uwb/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-uwb.md",
+      "file": "plugins/capacitor-uwb/index.html",
+      "bodyStart": 125642,
+      "bodyEnd": 128278,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-verisoul/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-verisoul.md",
+      "file": "plugins/capacitor-verisoul/index.html",
+      "bodyStart": 128227,
+      "bodyEnd": 130628,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-video-player/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-video-player.md",
+      "file": "plugins/capacitor-video-player/index.html",
+      "bodyStart": 129330,
+      "bodyEnd": 135406,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-video-thumbnails/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-video-thumbnails.md",
+      "file": "plugins/capacitor-video-thumbnails/index.html",
+      "bodyStart": 130491,
+      "bodyEnd": 133230,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-volume-buttons/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-volume-buttons.md",
+      "file": "plugins/capacitor-volume-buttons/index.html",
+      "bodyStart": 129711,
+      "bodyEnd": 133215,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-watch/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-watch.md",
+      "file": "plugins/capacitor-watch/index.html",
+      "bodyStart": 128850,
+      "bodyEnd": 132952,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-webview-crash/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-webview-crash.md",
+      "file": "plugins/capacitor-webview-crash/index.html",
+      "bodyStart": 129700,
+      "bodyEnd": 134995,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-webview-guardian/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-webview-guardian.md",
+      "file": "plugins/capacitor-webview-guardian/index.html",
+      "bodyStart": 129886,
+      "bodyEnd": 133778,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-webview-version-checker/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-webview-version-checker.md",
+      "file": "plugins/capacitor-webview-version-checker/index.html",
+      "bodyStart": 130385,
+      "bodyEnd": 135317,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-wechat/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-wechat.md",
+      "file": "plugins/capacitor-wechat/index.html",
+      "bodyStart": 128983,
+      "bodyEnd": 134354,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-widget-kit/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-widget-kit.md",
+      "file": "plugins/capacitor-widget-kit/index.html",
+      "bodyStart": 131264,
+      "bodyEnd": 137836,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-wifi/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-wifi.md",
+      "file": "plugins/capacitor-wifi/index.html",
+      "bodyStart": 129116,
+      "bodyEnd": 133279,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-youtube-player/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-youtube-player.md",
+      "file": "plugins/capacitor-youtube-player/index.html",
+      "bodyStart": 129429,
+      "bodyEnd": 133707,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-zebra-datawedge/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-zebra-datawedge.md",
+      "file": "plugins/capacitor-zebra-datawedge/index.html",
+      "bodyStart": 130905,
+      "bodyEnd": 138923,
+      "matches": true
+    },
+    {
+      "route": "/plugins/capacitor-zip/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/capacitor-zip.md",
+      "file": "plugins/capacitor-zip/index.html",
+      "bodyStart": 128844,
+      "bodyEnd": 131549,
+      "matches": true
+    },
+    {
+      "route": "/plugins/cordova-updater/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/cordova-updater.md",
+      "file": "plugins/cordova-updater/index.html",
+      "bodyStart": 124473,
+      "bodyEnd": 126635,
+      "matches": true
+    },
+    {
+      "route": "/plugins/crashlytics/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/crashlytics.md",
+      "file": "plugins/crashlytics/index.html",
+      "bodyStart": 126915,
+      "bodyEnd": 132482,
+      "matches": true
+    },
+    {
+      "route": "/plugins/electron-updater/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/electron-updater.md",
+      "file": "plugins/electron-updater/index.html",
+      "bodyStart": 125593,
+      "bodyEnd": 129516,
+      "matches": true
+    },
+    {
+      "route": "/plugins/firestore/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/firestore.md",
+      "file": "plugins/firestore/index.html",
+      "bodyStart": 127255,
+      "bodyEnd": 130518,
+      "matches": true
+    },
+    {
+      "route": "/plugins/functions/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/functions.md",
+      "file": "plugins/functions/index.html",
+      "bodyStart": 126814,
+      "bodyEnd": 130031,
+      "matches": true
+    },
+    {
+      "route": "/plugins/messaging/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/messaging.md",
+      "file": "plugins/messaging/index.html",
+      "bodyStart": 126791,
+      "bodyEnd": 132830,
+      "matches": true
+    },
+    {
+      "route": "/plugins/performance/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/performance.md",
+      "file": "plugins/performance/index.html",
+      "bodyStart": 127148,
+      "bodyEnd": 132629,
+      "matches": true
+    },
+    {
+      "route": "/plugins/purchases-capacitor/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/purchases-capacitor.md",
+      "file": "plugins/purchases-capacitor/index.html",
+      "bodyStart": 126125,
+      "bodyEnd": 129281,
+      "matches": true
+    },
+    {
+      "route": "/plugins/remote-config/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/remote-config.md",
+      "file": "plugins/remote-config/index.html",
+      "bodyStart": 128783,
+      "bodyEnd": 134224,
+      "matches": true
+    },
+    {
+      "route": "/plugins/storage/",
+      "source": "corpus/authored/apps/web/src/content/plugins-tutorials/en/storage.md",
+      "file": "plugins/storage/index.html",
+      "bodyStart": 126558,
+      "bodyEnd": 131360,
+      "matches": true
+    }
+  ]
+}

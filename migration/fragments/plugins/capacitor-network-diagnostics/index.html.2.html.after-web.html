@@ -1,0 +1,239 @@
+</div>
+            </article>
+
+            <nav aria-labelledby="plugin-toc-heading" class="hidden lg:sticky lg:top-28 lg:block">
+                <p id="plugin-toc-heading" class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">
+                  On this page
+                </p>
+                <ol class="mt-4 space-y-2 border-l border-white/10 text-sm">
+                  <li>
+                      <a href="#using-capgocapacitor-network-diagnostics" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Using @capgo/capacitor-network-diagnostics
+                      </a>
+                    </li><li>
+                      <a href="#install" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Install
+                      </a>
+                    </li><li>
+                      <a href="#what-this-plugin-exposes" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        What This Plugin Exposes
+                      </a>
+                    </li><li>
+                      <a href="#example-usage" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Example Usage
+                      </a>
+                    </li><li>
+                      <a href="#support-workflow" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Support Workflow
+                      </a>
+                    </li><li>
+                      <a href="#full-reference" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Full Reference
+                      </a>
+                    </li>
+                  <li>
+                    <a href="#plugin-faq-heading" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                      FAQ
+                    </a>
+                  </li>
+                </ol>
+              </nav>
+          </div>
+        </section>
+
+    <section class="px-6 pb-16 lg:px-8" aria-labelledby="plugin-faq-heading">
+      <div class="mx-auto max-w-6xl">
+        <p class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">FAQ</p>
+        <h2 id="plugin-faq-heading" class="mt-2 scroll-mt-28 text-2xl font-semibold text-white sm:text-3xl">Network Diagnostics plugin FAQ</h2>
+        <div class="mt-6 divide-y divide-white/10 overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
+          <details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>How do I install the Network Diagnostics plugin in a Capacitor app?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <symbol id="ai:heroicons:chevron-down"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m19.5 8.25l-7.5 7.5l-7.5-7.5"/></symbol><use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Run &quot;bun add @capgo/capacitor-network-diagnostics&quot; (or &quot;npm install @capgo/capacitor-network-diagnostics&quot;), then run &quot;bunx cap sync&quot; so the iOS and Android projects pick up the native code. Import it from &quot;@capgo/capacitor-network-diagnostics&quot; in your app code.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Does @capgo/capacitor-network-diagnostics work with React, Vue and Angular?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Yes. Network Diagnostics is a Capacitor package, so it works with any web framework that runs inside Capacitor, including Ionic, React, Vue, Angular, Svelte and plain JavaScript.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Which Capacitor version does @capgo/capacitor-network-diagnostics support?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Capgo plugins follow Capacitor&#39;s major version: use the plugin major version that matches your Capacitor major version (for example plugin v8 with Capacitor 8). The compatibility table in the GitHub README lists the maintained versions.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Is @capgo/capacitor-network-diagnostics free and open source?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Yes. The source code is public on GitHub at https://github.com/Cap-go/capacitor-network-diagnostics/ and the package is free to install from npm. Bug reports and pull requests are welcome.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Can I update code that uses Network Diagnostics without an App Store review?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Installing or upgrading the plugin changes native code, so it needs a new store build. After that, JavaScript, HTML and CSS changes that call the plugin can ship instantly with Capgo live updates.</p>
+              </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="px-6 pb-16 lg:px-8" aria-labelledby="plugin-related-heading">
+          <div class="mx-auto max-w-6xl">
+            <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+              <div>
+                <p class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">Developer Tools</p>
+                <h2 id="plugin-related-heading" class="mt-2 text-2xl font-semibold text-white sm:text-3xl">
+                  Related plugins
+                </h2>
+              </div>
+              <a href="/plugins/" class="text-sm font-semibold text-blue-300 transition hover:text-blue-200">
+                Browse all plugins →
+              </a>
+            </div>
+            <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              <li>
+                  <a href="/plugins/capacitor-env/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Env plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:cog-solid">
+  
+  
+  <symbol id="ai:heroicons:cog-solid"><g fill="currentColor"><path d="M17.004 10.407c.138.435-.216.842-.672.842h-3.465a.75.75 0 0 1-.65-.375l-1.732-3c-.229-.396-.053-.907.393-1.004a5.25 5.25 0 0 1 6.126 3.537M8.12 8.464c.307-.338.838-.235 1.066.16l1.732 3a.75.75 0 0 1 0 .75l-1.732 3c-.229.397-.76.5-1.067.161A5.23 5.23 0 0 1 6.75 12a5.23 5.23 0 0 1 1.37-3.536m2.758 8.666c-.447-.098-.623-.608-.394-1.004l1.733-3.002a.75.75 0 0 1 .65-.375h3.465c.457 0 .81.407.672.842a5.25 5.25 0 0 1-6.126 3.539"/><path fill-rule="evenodd" d="M21 12.75a.75.75 0 1 0 0-1.5h-.783a8 8 0 0 0-.237-1.357l.734-.267a.75.75 0 1 0-.513-1.41l-.735.268a8 8 0 0 0-.689-1.192l.6-.503a.75.75 0 1 0-.964-1.149l-.6.504a8.3 8.3 0 0 0-1.054-.885l.391-.678a.75.75 0 1 0-1.299-.75l-.39.676a8 8 0 0 0-1.295-.47l.136-.77a.75.75 0 0 0-1.477-.26l-.136.77a8.4 8.4 0 0 0-1.377 0l-.136-.77a.75.75 0 1 0-1.477.26l.136.77q-.673.183-1.294.47l-.39-.676a.75.75 0 0 0-1.3.75l.392.678a8.3 8.3 0 0 0-1.054.885l-.6-.504a.75.75 0 1 0-.965 1.149l.6.503a8 8 0 0 0-.689 1.192L3.8 8.216a.75.75 0 1 0-.513 1.41l.735.267a8 8 0 0 0-.238 1.356h-.783a.75.75 0 0 0 0 1.5h.783q.063.697.238 1.356l-.735.268a.75.75 0 0 0 .513 1.41l.735-.268q.296.627.69 1.191l-.6.504a.75.75 0 0 0 .963 1.15l.601-.505q.49.486 1.054.885l-.392.68a.75.75 0 0 0 1.3.75l.39-.679q.622.289 1.294.471l-.136.77a.75.75 0 0 0 1.477.261l.137-.772a8.3 8.3 0 0 0 1.376 0l.136.772a.75.75 0 1 0 1.477-.26l-.136-.771a8 8 0 0 0 1.294-.47l.391.677a.75.75 0 0 0 1.3-.75l-.393-.679a8.3 8.3 0 0 0 1.054-.885l.601.504a.75.75 0 0 0 .964-1.15l-.6-.503q.392-.564.69-1.191l.735.267a.75.75 0 1 0 .512-1.41l-.734-.267q.173-.66.237-1.356zm-2.657-3.06l-.016-.05a6.7 6.7 0 0 0-1.174-2.002a6.8 6.8 0 0 0-1.82-1.51A6.7 6.7 0 0 0 12 5.248a7 7 0 0 0-1.225.11a6.7 6.7 0 0 0-2.15.793A6.8 6.8 0 0 0 5.673 9.64a1 1 0 0 1-.036.098A6.7 6.7 0 0 0 5.251 12a6.74 6.74 0 0 0 3.366 5.842l.009.005l.02.012a6.7 6.7 0 0 0 2.159.785l.024.004l.021.005a6.8 6.8 0 0 0 2.346-.008a6.7 6.7 0 0 0 2.205-.812a6.8 6.8 0 0 0 1.762-1.484l.009-.01l.009-.01a6.7 6.7 0 0 0 1.18-2.065c.253-.708.39-1.47.39-2.264a6.7 6.7 0 0 0-.408-2.309" clip-rule="evenodd"/></g></symbol><use href="#ai:heroicons:cog-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Env</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Securely manage environment variables and configuration across different build environments</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        5.5k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-plus/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Capacitor+ Android plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:device-phone-mobile-solid">
+  
+  
+  <symbol id="ai:heroicons:device-phone-mobile-solid"><g fill="currentColor"><path d="M10.5 18.75a.75.75 0 0 0 0 1.5h3a.75.75 0 0 0 0-1.5z"/><path fill-rule="evenodd" d="M8.625.75A3.375 3.375 0 0 0 5.25 4.125v15.75a3.375 3.375 0 0 0 3.375 3.375h6.75a3.375 3.375 0 0 0 3.375-3.375V4.125A3.375 3.375 0 0 0 15.375.75zM7.5 4.125C7.5 3.504 8.004 3 8.625 3H9.75v.375c0 .621.504 1.125 1.125 1.125h2.25c.621 0 1.125-.504 1.125-1.125V3h1.125c.621 0 1.125.504 1.125 1.125v15.75c0 .621-.504 1.125-1.125 1.125h-6.75A1.125 1.125 0 0 1 7.5 19.875z" clip-rule="evenodd"/></g></symbol><use href="#ai:heroicons:device-phone-mobile-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Capacitor+ Android</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Capacitor+ Android runtime - Drop-in replacement with merged community fixes</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        599 downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-plus/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Capacitor+ CLI plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:command-line-solid">
+  
+  
+  <symbol id="ai:heroicons:command-line-solid"><path fill="currentColor" fill-rule="evenodd" d="M2.25 6a3 3 0 0 1 3-3h13.5a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H5.25a3 3 0 0 1-3-3zm3.97.97a.75.75 0 0 1 1.06 0l2.25 2.25a.75.75 0 0 1 0 1.06l-2.25 2.25a.75.75 0 0 1-1.06-1.06l1.72-1.72l-1.72-1.72a.75.75 0 0 1 0-1.06m4.28 4.28a.75.75 0 0 0 0 1.5h3a.75.75 0 0 0 0-1.5z" clip-rule="evenodd"/></symbol><use href="#ai:heroicons:command-line-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Capacitor+ CLI</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Capacitor+ CLI - Same as official CLI but with community improvements merged faster</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        132 downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-plus/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Capacitor+ Core plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:arrows-right-left-solid">
+  
+  
+  <symbol id="ai:heroicons:arrows-right-left-solid"><path fill="currentColor" fill-rule="evenodd" d="M15.97 2.47a.75.75 0 0 1 1.06 0l4.5 4.5a.75.75 0 0 1 0 1.06l-4.5 4.5a.75.75 0 1 1-1.06-1.06l3.22-3.22H7.5a.75.75 0 0 1 0-1.5h11.69l-3.22-3.22a.75.75 0 0 1 0-1.06m-7.94 9a.75.75 0 0 1 0 1.06l-3.22 3.22H16.5a.75.75 0 0 1 0 1.5H4.81l3.22 3.22a.75.75 0 1 1-1.06 1.06l-4.5-4.5a.75.75 0 0 1 0-1.06l4.5-4.5a.75.75 0 0 1 1.06 0" clip-rule="evenodd"/></symbol><use href="#ai:heroicons:arrows-right-left-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Capacitor+ Core</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Capacitor+ is an automated, always-synced fork of Capacitor with merged community PRs and rapid releases</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        121 downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-plus/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Capacitor+ iOS plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:device-phone-mobile-solid">
+  
+  
+  <use href="#ai:heroicons:device-phone-mobile-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Capacitor+ iOS</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Capacitor+ iOS runtime - Drop-in replacement with merged community fixes</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        85 downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li>
+            </ul>
+          </div>
+        </section>
+
+    <section class="px-6 pb-16 lg:px-8 lg:pb-24">
+      <div class="mx-auto flex max-w-6xl flex-col gap-6 rounded-[2rem] border border-blue-400/20 bg-linear-to-r from-blue-600/20 to-cyan-500/10 p-8 sm:flex-row sm:items-center sm:justify-between">
+        <div>
+          <h2 class="text-xl font-semibold text-white sm:text-2xl">Ship Network Diagnostics changes without waiting for app review</h2>
+          <p class="mt-2 max-w-2xl text-sm leading-6 text-gray-300">
+            Once the plugin is in your store build, Capgo live updates push your JavaScript, HTML and CSS changes to users in minutes.
+          </p>
+        </div>
+        <a href="/docs/getting-started/quickstart/" class="inline-flex shrink-0 cursor-pointer items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-gray-950 transition hover:bg-gray-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+          Start with Capgo
+        </a>
+      </div>
+    </section>
+  </div>
+
+      </main>
+      

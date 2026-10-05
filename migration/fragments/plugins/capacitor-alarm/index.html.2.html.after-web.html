@@ -1,0 +1,262 @@
+</div>
+            </article>
+
+            <nav aria-labelledby="plugin-toc-heading" class="hidden lg:sticky lg:top-28 lg:block">
+                <p id="plugin-toc-heading" class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">
+                  On this page
+                </p>
+                <ol class="mt-4 space-y-2 border-l border-white/10 text-sm">
+                  <li>
+                      <a href="#using-capgocapacitor-alarm" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Using @capgo/capacitor-alarm
+                      </a>
+                    </li><li>
+                      <a href="#install" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Install
+                      </a>
+                    </li><li>
+                      <a href="#import" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Import
+                      </a>
+                    </li><li>
+                      <a href="#api-at-a-glance" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        API at a glance
+                      </a>
+                    </li><li>
+                      <a href="#examples" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Examples
+                      </a>
+                    </li><li>
+                      <a href="#full-reference" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Full reference
+                      </a>
+                    </li><li>
+                      <a href="#keep-going-from-using-capgocapacitor-alarm" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Keep going from Using @capgo/capacitor-alarm
+                      </a>
+                    </li>
+                  <li>
+                    <a href="#plugin-faq-heading" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                      FAQ
+                    </a>
+                  </li>
+                </ol>
+              </nav>
+          </div>
+        </section>
+
+    <section class="px-6 pb-16 lg:px-8" aria-labelledby="plugin-faq-heading">
+      <div class="mx-auto max-w-6xl">
+        <p class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">FAQ</p>
+        <h2 id="plugin-faq-heading" class="mt-2 scroll-mt-28 text-2xl font-semibold text-white sm:text-3xl">Alarm plugin FAQ</h2>
+        <div class="mt-6 divide-y divide-white/10 overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
+          <details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>How do I install the Alarm plugin in a Capacitor app?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <symbol id="ai:heroicons:chevron-down"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m19.5 8.25l-7.5 7.5l-7.5-7.5"/></symbol><use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Run &quot;bun add @capgo/capacitor-alarm&quot; (or &quot;npm install @capgo/capacitor-alarm&quot;), then run &quot;bunx cap sync&quot; so the iOS and Android projects pick up the native code. Import it from &quot;@capgo/capacitor-alarm&quot; in your app code.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Does @capgo/capacitor-alarm work with React, Vue and Angular?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Yes. Alarm is a Capacitor package, so it works with any web framework that runs inside Capacitor, including Ionic, React, Vue, Angular, Svelte and plain JavaScript.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Which Capacitor version does @capgo/capacitor-alarm support?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Capgo plugins follow Capacitor&#39;s major version: use the plugin major version that matches your Capacitor major version (for example plugin v8 with Capacitor 8). The compatibility table in the GitHub README lists the maintained versions.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Is @capgo/capacitor-alarm free and open source?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Yes. The source code is public on GitHub at https://github.com/Cap-go/capacitor-alarm/ and the package is free to install from npm. Bug reports and pull requests are welcome.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Can I update code that uses Alarm without an App Store review?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Installing or upgrading the plugin changes native code, so it needs a new store build. After that, JavaScript, HTML and CSS changes that call the plugin can ship instantly with Capgo live updates.</p>
+              </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="px-6 pb-16 lg:px-8" aria-labelledby="plugin-related-heading">
+          <div class="mx-auto max-w-6xl">
+            <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+              <div>
+                <p class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">Device APIs</p>
+                <h2 id="plugin-related-heading" class="mt-2 text-2xl font-semibold text-white sm:text-3xl">
+                  Related plugins
+                </h2>
+              </div>
+              <a href="/plugins/" class="text-sm font-semibold text-blue-300 transition hover:text-blue-200">
+                Browse all plugins →
+              </a>
+            </div>
+            <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              <li>
+                  <a href="/plugins/capacitor-health/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Health plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:heart-solid">
+  
+  
+  <symbol id="ai:heroicons:heart-solid"><path fill="currentColor" d="m11.645 20.91l-.007-.003l-.022-.012l-.082-.045q-.108-.06-.301-.173a25.2 25.2 0 0 1-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25C2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0 1 12 5.052A5.5 5.5 0 0 1 16.313 3c2.973 0 5.437 2.322 5.437 5.25c0 3.925-2.438 7.111-4.739 9.256a25 25 0 0 1-4.244 3.17a15 15 0 0 1-.383.219l-.022.012l-.007.004l-.003.001a.75.75 0 0 1-.704 0z"/></symbol><use href="#ai:heroicons:heart-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Health</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Access health and fitness data from native health platforms</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        129.3k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-nfc/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="NFC plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:tag-solid">
+  
+  
+  <symbol id="ai:heroicons:tag-solid"><path fill="currentColor" fill-rule="evenodd" d="M5.25 2.25a3 3 0 0 0-3 3v4.318a3 3 0 0 0 .879 2.121l9.58 9.581c.92.92 2.39 1.186 3.548.428a18.85 18.85 0 0 0 5.441-5.44c.758-1.16.492-2.629-.428-3.548l-9.58-9.581a3 3 0 0 0-2.122-.879zM6.375 7.5a1.125 1.125 0 1 0 0-2.25a1.125 1.125 0 0 0 0 2.25" clip-rule="evenodd"/></symbol><use href="#ai:heroicons:tag-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">NFC</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Native NFC tag discovery, reading and writing for Capacitor apps on iOS and Android</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        30.3k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-mute/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Mute plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:speaker-x-mark-solid">
+  
+  
+  <symbol id="ai:heroicons:speaker-x-mark-solid"><path fill="currentColor" d="M13.5 4.06c0-1.336-1.616-2.005-2.56-1.06l-4.5 4.5H4.508c-1.141 0-2.318.664-2.66 1.905A9.8 9.8 0 0 0 1.5 12c0 .898.121 1.768.35 2.595c.341 1.24 1.518 1.905 2.659 1.905h1.93l4.5 4.5c.945.945 2.561.276 2.561-1.06zm4.28 5.16a.75.75 0 1 0-1.06 1.06L18.44 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06l1.72-1.72l1.72 1.72a.75.75 0 1 0 1.06-1.06L20.56 12l1.72-1.72a.75.75 0 1 0-1.06-1.06l-1.72 1.72z"/></symbol><use href="#ai:heroicons:speaker-x-mark-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Mute</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Detect device mute switch state for iOS devices to handle audio playback appropriately</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        27.0k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-shake/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Shake plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:device-phone-mobile-solid">
+  
+  
+  <symbol id="ai:heroicons:device-phone-mobile-solid"><g fill="currentColor"><path d="M10.5 18.75a.75.75 0 0 0 0 1.5h3a.75.75 0 0 0 0-1.5z"/><path fill-rule="evenodd" d="M8.625.75A3.375 3.375 0 0 0 5.25 4.125v15.75a3.375 3.375 0 0 0 3.375 3.375h6.75a3.375 3.375 0 0 0 3.375-3.375V4.125A3.375 3.375 0 0 0 15.375.75zM7.5 4.125C7.5 3.504 8.004 3 8.625 3H9.75v.375c0 .621.504 1.125 1.125 1.125h2.25c.621 0 1.125-.504 1.125-1.125V3h1.125c.621 0 1.125.504 1.125 1.125v15.75c0 .621-.504 1.125-1.125 1.125h-6.75A1.125 1.125 0 0 1 7.5 19.875z" clip-rule="evenodd"/></g></symbol><use href="#ai:heroicons:device-phone-mobile-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Shake</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Detect shake gestures on device for triggering actions like undo or feedback</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        24.2k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-screen-orientation/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Screen Orientation plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:device-phone-mobile-solid">
+  
+  
+  <use href="#ai:heroicons:device-phone-mobile-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Screen Orientation</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Screen orientation plugin with support for bypassing orientation lock</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        21.6k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-keep-awake/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Keep Awake plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:sun-solid">
+  
+  
+  <symbol id="ai:heroicons:sun-solid"><path fill="currentColor" d="M12 2.25a.75.75 0 0 1 .75.75v2.25a.75.75 0 0 1-1.5 0V3a.75.75 0 0 1 .75-.75M7.5 12a4.5 4.5 0 1 1 9 0a4.5 4.5 0 0 1-9 0m11.394-5.834a.75.75 0 0 0-1.06-1.06l-1.591 1.59a.75.75 0 1 0 1.06 1.061zM21.75 12a.75.75 0 0 1-.75.75h-2.25a.75.75 0 0 1 0-1.5H21a.75.75 0 0 1 .75.75m-3.916 6.894a.75.75 0 0 0 1.06-1.06l-1.59-1.591a.75.75 0 1 0-1.061 1.06zM12 18a.75.75 0 0 1 .75.75V21a.75.75 0 0 1-1.5 0v-2.25A.75.75 0 0 1 12 18m-4.242-.697a.75.75 0 0 0-1.061-1.06l-1.591 1.59a.75.75 0 0 0 1.06 1.061zM6 12a.75.75 0 0 1-.75.75H3a.75.75 0 0 1 0-1.5h2.25A.75.75 0 0 1 6 12m.697-4.243a.75.75 0 0 0 1.06-1.06l-1.59-1.591a.75.75 0 0 0-1.061 1.06z"/></symbol><use href="#ai:heroicons:sun-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Keep Awake</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Prevent device screen from dimming or sleeping for video players, navigation, and presentations</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        16.0k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li>
+            </ul>
+          </div>
+        </section>
+
+    <section class="px-6 pb-16 lg:px-8 lg:pb-24">
+      <div class="mx-auto flex max-w-6xl flex-col gap-6 rounded-[2rem] border border-blue-400/20 bg-linear-to-r from-blue-600/20 to-cyan-500/10 p-8 sm:flex-row sm:items-center sm:justify-between">
+        <div>
+          <h2 class="text-xl font-semibold text-white sm:text-2xl">Ship Alarm changes without waiting for app review</h2>
+          <p class="mt-2 max-w-2xl text-sm leading-6 text-gray-300">
+            Once the plugin is in your store build, Capgo live updates push your JavaScript, HTML and CSS changes to users in minutes.
+          </p>
+        </div>
+        <a href="/docs/getting-started/quickstart/" class="inline-flex shrink-0 cursor-pointer items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-gray-950 transition hover:bg-gray-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+          Start with Capgo
+        </a>
+      </div>
+    </section>
+  </div>
+
+      </main>
+      

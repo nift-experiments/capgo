@@ -1,0 +1,258 @@
+</div>
+            </article>
+
+            <nav aria-labelledby="plugin-toc-heading" class="hidden lg:sticky lg:top-28 lg:block">
+                <p id="plugin-toc-heading" class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">
+                  On this page
+                </p>
+                <ol class="mt-4 space-y-2 border-l border-white/10 text-sm">
+                  <li>
+                      <a href="#using-capgocapacitor-app-attest" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Using @capgo/capacitor-app-attest
+                      </a>
+                    </li><li>
+                      <a href="#install" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Install
+                      </a>
+                    </li><li>
+                      <a href="#what-this-plugin-exposes" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        What This Plugin Exposes
+                      </a>
+                    </li><li>
+                      <a href="#example-usage" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Example Usage
+                      </a>
+                    </li><li>
+                      <a href="#full-reference" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Full Reference
+                      </a>
+                    </li><li>
+                      <a href="#keep-going-from-using-capgocapacitor-app-attest" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                        Keep going from Using @capgo/capacitor-app-attest
+                      </a>
+                    </li>
+                  <li>
+                    <a href="#plugin-faq-heading" class="-ml-px block border-l border-transparent py-0.5 pl-4 text-gray-400 transition hover:border-blue-400 hover:text-white">
+                      FAQ
+                    </a>
+                  </li>
+                </ol>
+              </nav>
+          </div>
+        </section>
+
+    <section class="px-6 pb-16 lg:px-8" aria-labelledby="plugin-faq-heading">
+      <div class="mx-auto max-w-6xl">
+        <p class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">FAQ</p>
+        <h2 id="plugin-faq-heading" class="mt-2 scroll-mt-28 text-2xl font-semibold text-white sm:text-3xl">App Attest plugin FAQ</h2>
+        <div class="mt-6 divide-y divide-white/10 overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
+          <details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>How do I install the App Attest plugin in a Capacitor app?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <symbol id="ai:heroicons:chevron-down"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m19.5 8.25l-7.5 7.5l-7.5-7.5"/></symbol><use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Run &quot;bun add @capgo/capacitor-app-attest&quot; (or &quot;npm install @capgo/capacitor-app-attest&quot;), then run &quot;bunx cap sync&quot; so the iOS and Android projects pick up the native code. Import it from &quot;@capgo/capacitor-app-attest&quot; in your app code.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Does @capgo/capacitor-app-attest work with React, Vue and Angular?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Yes. App Attest is a Capacitor package, so it works with any web framework that runs inside Capacitor, including Ionic, React, Vue, Angular, Svelte and plain JavaScript.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Which Capacitor version does @capgo/capacitor-app-attest support?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Capgo plugins follow Capacitor&#39;s major version: use the plugin major version that matches your Capacitor major version (for example plugin v8 with Capacitor 8). The compatibility table in the GitHub README lists the maintained versions.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Is @capgo/capacitor-app-attest free and open source?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Yes. The source code is public on GitHub at https://github.com/Cap-go/capacitor-app-attest/ and the package is free to install from npm. Bug reports and pull requests are welcome.</p>
+              </details><details class="group px-6 py-5 sm:px-8">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+                  <span>Can I update code that uses App Attest without an App Store review?</span>
+                  <svg width="1em" height="1em" viewBox="0 0 24 24" class="size-5 shrink-0 text-gray-400 transition group-open:rotate-180" aria-hidden="true" data-icon="heroicons:chevron-down">
+  
+  
+  <use href="#ai:heroicons:chevron-down"></use>
+      
+</svg>
+                </summary>
+                <p class="mt-3 text-sm leading-6 text-gray-300">Installing or upgrading the plugin changes native code, so it needs a new store build. After that, JavaScript, HTML and CSS changes that call the plugin can ship instantly with Capgo live updates.</p>
+              </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="px-6 pb-16 lg:px-8" aria-labelledby="plugin-related-heading">
+          <div class="mx-auto max-w-6xl">
+            <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+              <div>
+                <p class="text-[0.7rem] font-semibold tracking-[0.28em] text-blue-200/70 uppercase">Auth &amp; Security</p>
+                <h2 id="plugin-related-heading" class="mt-2 text-2xl font-semibold text-white sm:text-3xl">
+                  Related plugins
+                </h2>
+              </div>
+              <a href="/plugins/" class="text-sm font-semibold text-blue-300 transition hover:text-blue-200">
+                Browse all plugins →
+              </a>
+            </div>
+            <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              <li>
+                  <a href="/plugins/capacitor-social-login/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Social Login plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:user-circle-solid">
+  
+  
+  <symbol id="ai:heroicons:user-circle-solid"><path fill="currentColor" fill-rule="evenodd" d="M18.685 19.097A9.72 9.72 0 0 0 21.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12a9.72 9.72 0 0 0 3.065 7.097A9.72 9.72 0 0 0 12 21.75a9.72 9.72 0 0 0 6.685-2.653m-12.54-1.285A7.49 7.49 0 0 1 12 15a7.49 7.49 0 0 1 5.855 2.812A8.22 8.22 0 0 1 12 20.25a8.22 8.22 0 0 1-5.855-2.438M15.75 9a3.75 3.75 0 1 1-7.5 0a3.75 3.75 0 0 1 7.5 0" clip-rule="evenodd"/></symbol><use href="#ai:heroicons:user-circle-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Social Login</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Authenticate users with Google, Facebook, and Apple Sign-In for easy social login</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        382.9k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-native-biometric/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Native Biometric plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:finger-print-solid">
+  
+  
+  <symbol id="ai:heroicons:finger-print-solid"><path fill="currentColor" fill-rule="evenodd" d="M12 3.75a6.7 6.7 0 0 0-3.722 1.118a.75.75 0 1 1-.828-1.25a8.25 8.25 0 0 1 12.8 6.883a23.2 23.2 0 0 1-1.62 8.543a.75.75 0 0 1-1.395-.551A21.7 21.7 0 0 0 18.75 10.5A6.75 6.75 0 0 0 12 3.75M6.157 5.739a.75.75 0 0 1 .21 1.04A6.7 6.7 0 0 0 5.25 10.5c0 1.613-.463 3.12-1.265 4.393a.75.75 0 0 1-1.27-.8A6.7 6.7 0 0 0 3.75 10.5c0-1.68.503-3.246 1.367-4.55a.75.75 0 0 1 1.04-.211M12 7.5a3 3 0 0 0-3 3c0 3.1-1.176 5.927-3.105 8.056a.75.75 0 1 1-1.112-1.008A10.46 10.46 0 0 0 7.5 10.5a4.5 4.5 0 1 1 9 0q0 .821-.067 1.626a.75.75 0 0 1-1.495-.123Q15 11.26 15 10.5a3 3 0 0 0-3-3m0 2.25a.75.75 0 0 1 .75.75a15.7 15.7 0 0 1-3.781 10.238a.75.75 0 0 1-1.14-.975A14.2 14.2 0 0 0 11.25 10.5a.75.75 0 0 1 .75-.75m3.239 5.183a.75.75 0 0 1 .515.927a19.4 19.4 0 0 1-2.585 5.544a.75.75 0 0 1-1.243-.84a17.9 17.9 0 0 0 2.386-5.116a.75.75 0 0 1 .927-.515" clip-rule="evenodd"/></symbol><use href="#ai:heroicons:finger-print-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Native Biometric</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Secure authentication using Face ID, Touch ID, and Android biometric APIs</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        287.9k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-autofill-save-password/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Autofill Save Password plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:user-circle-solid">
+  
+  
+  <use href="#ai:heroicons:user-circle-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Autofill Save Password</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Prompt users to save passwords to device autofill for seamless login experience</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        27.6k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-persistent-account/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Persistent Account plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:user-circle-solid">
+  
+  
+  <use href="#ai:heroicons:user-circle-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Persistent Account</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Preserve user authentication and account data across app reinstalls and updates</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        23.6k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-is-root/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="Is Root plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:shield-check-solid">
+  
+  
+  <use href="#ai:heroicons:shield-check-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">Is Root</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Detect rooted Android or jailbroken iOS devices to enhance app security</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        20.8k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li><li>
+                  <a href="/plugins/capacitor-webview-guardian/" class="rounded-2xl border border-white/10 bg-white/[0.03] flex h-full cursor-pointer gap-4 p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+                    <div role="img" aria-label="WebView Guardian plugin icon" class="relative flex h-14 w-14 items-center justify-center rounded-xl bg-azure-500 shadow-lg shrink-0">
+  <div class="absolute inset-0 rounded-xl bg-white opacity-20" aria-hidden="true"></div>
+  <svg width="1em" height="1em" viewBox="0 0 24 24" class="relative h-8 w-8 text-white drop-shadow-md" aria-hidden="true" data-icon="heroicons:shield-exclamation-solid">
+  
+  
+  <symbol id="ai:heroicons:shield-exclamation-solid"><path fill="currentColor" fill-rule="evenodd" d="M11.484 2.17a.75.75 0 0 1 1.032 0a11.2 11.2 0 0 0 7.877 3.08a.75.75 0 0 1 .722.515a12.7 12.7 0 0 1 .635 3.985c0 5.942-4.064 10.933-9.563 12.348a.75.75 0 0 1-.374 0C6.314 20.683 2.25 15.692 2.25 9.75c0-1.39.223-2.73.635-3.985a.75.75 0 0 1 .722-.516l.143.001c2.996 0 5.718-1.17 7.734-3.08M12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75M12 15a.75.75 0 0 0-.75.75v.008c0 .414.336.75.75.75h.008a.75.75 0 0 0 .75-.75v-.008a.75.75 0 0 0-.75-.75z" clip-rule="evenodd"/></symbol><use href="#ai:heroicons:shield-exclamation-solid"></use>
+      
+</svg>
+</div>
+                    <span class="min-w-0">
+                      <span class="block font-semibold text-white">WebView Guardian</span>
+                      <span class="mt-1 line-clamp-2 block text-sm leading-6 text-gray-400">Detect when the WebView was killed in the background and relaunch it on foreground</span>
+                      <span class="mt-2 block text-xs text-gray-500 tabular-nums">
+                        15.4k downloads/month
+                      </span>
+                    </span>
+                  </a>
+                </li>
+            </ul>
+          </div>
+        </section>
+
+    <section class="px-6 pb-16 lg:px-8 lg:pb-24">
+      <div class="mx-auto flex max-w-6xl flex-col gap-6 rounded-[2rem] border border-blue-400/20 bg-linear-to-r from-blue-600/20 to-cyan-500/10 p-8 sm:flex-row sm:items-center sm:justify-between">
+        <div>
+          <h2 class="text-xl font-semibold text-white sm:text-2xl">Ship App Attest changes without waiting for app review</h2>
+          <p class="mt-2 max-w-2xl text-sm leading-6 text-gray-300">
+            Once the plugin is in your store build, Capgo live updates push your JavaScript, HTML and CSS changes to users in minutes.
+          </p>
+        </div>
+        <a href="/docs/getting-started/quickstart/" class="inline-flex shrink-0 cursor-pointer items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-gray-950 transition hover:bg-gray-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400">
+          Start with Capgo
+        </a>
+      </div>
+    </section>
+  </div>
+
+      </main>
+      

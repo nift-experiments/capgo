@@ -1,0 +1,4800 @@
+{
+  "eligible": 51,
+  "matched": 51,
+  "results": [
+    {
+      "route": "/articles/category/alternatives/",
+      "file": "articles/category/alternatives/index.html",
+      "app": "web",
+      "sha256": "8a37717dbb6001ae3f0739873b8613cdd45c8eba2f87e5ace15091e399182a29",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/alternatives/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112310,
+      "bodyEnd": 139190,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/android/",
+      "file": "articles/category/android/index.html",
+      "app": "web",
+      "sha256": "7a5ae131111491aed7354af8bfbfe978c251b41cacef613c3fa8ff224e206b52",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/android/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112245,
+      "bodyEnd": 131951,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/app-store/",
+      "file": "articles/category/app-store/index.html",
+      "app": "web",
+      "sha256": "8def82717453c24216d9e02be40aad28315b64bd7ba8af85aea95688e502c56d",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/app-store/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112271,
+      "bodyEnd": 128240,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/best-practices/",
+      "file": "articles/category/best-practices/index.html",
+      "app": "web",
+      "sha256": "5128717bfac4bb6c3ca9742c2a751472f68054c01dab02a42c4893f093f83d45",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/best-practices/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112336,
+      "bodyEnd": 139731,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/capacitor/",
+      "file": "articles/category/capacitor/index.html",
+      "app": "web",
+      "sha256": "0f0f316a40229f9110f58b2570bba999b6e388be8fd2969738d5991b4d776a2a",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/capacitor/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112271,
+      "bodyEnd": 234914,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/cicd/",
+      "file": "articles/category/cicd/index.html",
+      "app": "web",
+      "sha256": "f567f5e8cb3ccbb8e45863f6cbe39a8b40f9ba48249776eb3803784bfbe9cfc4",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/cicd/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112206,
+      "bodyEnd": 203034,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/cloud/",
+      "file": "articles/category/cloud/index.html",
+      "app": "web",
+      "sha256": "35d78364ea8bf1948b85b118e3d3b5982c3a7d674a4efeabbdba85ec9f5af909",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/cloud/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112219,
+      "bodyEnd": 128236,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/development/",
+      "file": "articles/category/development/index.html",
+      "app": "web",
+      "sha256": "9600226876fd0ba41e00dc063f330a80f913cc3c6870ae104d6b30853d150623",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/development/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112297,
+      "bodyEnd": 463631,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/guides/",
+      "file": "articles/category/guides/index.html",
+      "app": "web",
+      "sha256": "12230bfaff2cde310fb2d58adcd07c4be7a14482bb585fa428aa5244852e518e",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/guides/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112232,
+      "bodyEnd": 181715,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/mobile/",
+      "file": "articles/category/mobile/index.html",
+      "app": "web",
+      "sha256": "b5817f45bce0d3378bb27796d8f2b18fee1542d14779b36e25f5e0fadb7b101c",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/mobile/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112232,
+      "bodyEnd": 688791,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/news/",
+      "file": "articles/category/news/index.html",
+      "app": "web",
+      "sha256": "bab30ec17ff653ed37c1ec3483ed77915f9c17889c47915b0d243f9058c08699",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/news/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112206,
+      "bodyEnd": 126021,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/open-source/",
+      "file": "articles/category/open-source/index.html",
+      "app": "web",
+      "sha256": "d61709d750649399afd3808df08f204503da49fefeed1b9a299d6a1089168642",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/open-source/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112297,
+      "bodyEnd": 126410,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/product/",
+      "file": "articles/category/product/index.html",
+      "app": "web",
+      "sha256": "bda077c71a8c3c51208b98ff30f3ef49830cbf0e9c2a071fb26e4236ff44dbc0",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/product/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112245,
+      "bodyEnd": 146168,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/security/",
+      "file": "articles/category/security/index.html",
+      "app": "web",
+      "sha256": "dba4feb0dfde8ffc15e01a4aef5ea5b39e87ffe7c13bde6f7d533e6f382b2047",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/security/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112258,
+      "bodyEnd": 291406,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/technology/",
+      "file": "articles/category/technology/index.html",
+      "app": "web",
+      "sha256": "771f7a00e4fb225bdd1c6a0bb76acf0117cf2d2f48dbe20b973ddb22ca6a3061",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/technology/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112284,
+      "bodyEnd": 155801,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/tutorial/",
+      "file": "articles/category/tutorial/index.html",
+      "app": "web",
+      "sha256": "c92e839c76ba6565a12c288a9757a339dea751f19c492d02ce9c057638bfdb02",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/tutorial/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112258,
+      "bodyEnd": 161025,
+      "matches": true
+    },
+    {
+      "route": "/articles/category/updates/",
+      "file": "articles/category/updates/index.html",
+      "app": "web",
+      "sha256": "1202b4c35e1de238076b88e96e71ebc7d60e2beb8f8a96ffe08b473f976a0550",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/category/updates/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112245,
+      "bodyEnd": 498126,
+      "matches": true
+    },
+    {
+      "route": "/articles/",
+      "file": "articles/index.html",
+      "app": "web",
+      "sha256": "e0878c38ec773647d286e0891719a193fbfcdeadc5723e81fc1a48c78ef33392",
+      "title": "Capgo | Capacitor Articles",
+      "canonical": "https://capgo.app/articles/",
+      "description": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps. - Manage updates in realtime for your capacitor app without...",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest articles"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "Capacitor and mobile development guides, tutorials, and best practices for building modern apps."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112024,
+      "bodyEnd": 749531,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/alternatives/",
+      "file": "blog/category/alternatives/index.html",
+      "app": "web",
+      "sha256": "c4384b8e7eed951e6711e4c3e4fceb6faef4d39cb010469991409ca856a9b8e8",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/alternatives/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112217,
+      "bodyEnd": 160129,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/android/",
+      "file": "blog/category/android/index.html",
+      "app": "web",
+      "sha256": "6dbda4617fbb413daf06c4f50bf9e0bf070807283c9fa9aa2d51d7359c6fea9a",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/android/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112152,
+      "bodyEnd": 156711,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/app-store/",
+      "file": "blog/category/app-store/index.html",
+      "app": "web",
+      "sha256": "720a10148b48069de722c78b2b8109331570f7c4da45991b1e9a222fac9e521b",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/app-store/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112178,
+      "bodyEnd": 144845,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/aso/",
+      "file": "blog/category/aso/index.html",
+      "app": "web",
+      "sha256": "3e622e08d540c9a7db621ac784cb98f554f0ab470ef429a1b9c4cda8e50edf45",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/aso/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112100,
+      "bodyEnd": 133743,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/best-practices/",
+      "file": "blog/category/best-practices/index.html",
+      "app": "web",
+      "sha256": "fd5f4bc79aca690151796a44b48415312d03d4530dfc6ee85c915813791e090b",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/best-practices/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112243,
+      "bodyEnd": 141085,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/capacitor/",
+      "file": "blog/category/capacitor/index.html",
+      "app": "web",
+      "sha256": "a1307c0937b06608aabada6fc124771c5c4767bfc7ff1638883169adeb26d52d",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/capacitor/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112178,
+      "bodyEnd": 232477,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/case-study/",
+      "file": "blog/category/case-study/index.html",
+      "app": "web",
+      "sha256": "860405708b692f57ec60b0cf63c013adaaade966159478e6eaa59c5188d96589",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/case-study/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112191,
+      "bodyEnd": 133579,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/cicd/",
+      "file": "blog/category/cicd/index.html",
+      "app": "web",
+      "sha256": "e83920b5f677ce02e792d39b8f5df14cafb40a56758fea426712489a6dbb4617",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/cicd/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112113,
+      "bodyEnd": 160515,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/cloud/",
+      "file": "blog/category/cloud/index.html",
+      "app": "web",
+      "sha256": "3f75a398fe9550bef8585f2301962102c69b4150cff72d11e9951b4349f81e96",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/cloud/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112126,
+      "bodyEnd": 135543,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/company/",
+      "file": "blog/category/company/index.html",
+      "app": "web",
+      "sha256": "1e934223801d1e81635ef8c322f9348b6ef3079eb1dda95f28368903903b71d3",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/company/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112152,
+      "bodyEnd": 133874,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/configuration/",
+      "file": "blog/category/configuration/index.html",
+      "app": "web",
+      "sha256": "996e9a48c29adc7ee3180466e0da2300e109eccaecd43bc1c0a154798da952e5",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/configuration/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112230,
+      "bodyEnd": 137480,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/deeplinking/",
+      "file": "blog/category/deeplinking/index.html",
+      "app": "web",
+      "sha256": "ef9be776593d7176705d8398e386eff8f6d1f7204572b36cada55a046cad5c29",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/deeplinking/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112204,
+      "bodyEnd": 133538,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/development/",
+      "file": "blog/category/development/index.html",
+      "app": "web",
+      "sha256": "7f13a9c0004cefcdbc3b038d7aa0b7ed69b5d14fdf8bde52f1d549007c0938a3",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/development/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112204,
+      "bodyEnd": 192948,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/google-play/",
+      "file": "blog/category/google-play/index.html",
+      "app": "web",
+      "sha256": "56eb71abbde092767350415422f6612302cd9347070b434ea69605cb29f70fcd",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/google-play/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112204,
+      "bodyEnd": 141224,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/guides/",
+      "file": "blog/category/guides/index.html",
+      "app": "web",
+      "sha256": "92f1728aa846156fc91dae0b5673ec96d5406400d91f4380666b1fe6a8278ba8",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/guides/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112139,
+      "bodyEnd": 152997,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/iap/",
+      "file": "blog/category/iap/index.html",
+      "app": "web",
+      "sha256": "0fbf953173292f86317cf0c420137ad422282f9d7acb14acf6a02a3cbdf28514",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/iap/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112100,
+      "bodyEnd": 135547,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/ios/",
+      "file": "blog/category/ios/index.html",
+      "app": "web",
+      "sha256": "643b76f90315b47d48a1155e4d88b9c3b61cd614e2c2ac29564c856a6393d87c",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/ios/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112100,
+      "bodyEnd": 158324,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/marketing/",
+      "file": "blog/category/marketing/index.html",
+      "app": "web",
+      "sha256": "911c01a0d8009b412229946efc4adf4bfc15859ffe031342487b4d931a92367b",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/marketing/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112178,
+      "bodyEnd": 133821,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/migration/",
+      "file": "blog/category/migration/index.html",
+      "app": "web",
+      "sha256": "1df0002e925920be66ef485896a5a96d22fdc7159f808f4221ff331c45459715",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/migration/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112178,
+      "bodyEnd": 156016,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/mobile/",
+      "file": "blog/category/mobile/index.html",
+      "app": "web",
+      "sha256": "eb38cec50c762274164400670a2b77c2c818c845a679113d8c63b9f3f3bbded6",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/mobile/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112139,
+      "bodyEnd": 170021,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/monetization/",
+      "file": "blog/category/monetization/index.html",
+      "app": "web",
+      "sha256": "5f0a240da29a2b90223f1868b16ddf03cbb300f0fa1b67002454967b1dcb3d58",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/monetization/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112217,
+      "bodyEnd": 133827,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/news/",
+      "file": "blog/category/news/index.html",
+      "app": "web",
+      "sha256": "56fc74520b17703a9b929f7c42e320bf84e1cba4d9eb21ee1d727ba0591aab2f",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/news/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112113,
+      "bodyEnd": 133405,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/open-source/",
+      "file": "blog/category/open-source/index.html",
+      "app": "web",
+      "sha256": "6cd700272f193e7cb768fff57ba2f6f972b330f586f9a103c6296fa6a337f51e",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/open-source/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112204,
+      "bodyEnd": 134874,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/optimisation/",
+      "file": "blog/category/optimisation/index.html",
+      "app": "web",
+      "sha256": "1ff1f111cefa5a4415110e44305b1b259efe54eda522eff27b8653e6af128e31",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/optimisation/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112217,
+      "bodyEnd": 133431,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/product/",
+      "file": "blog/category/product/index.html",
+      "app": "web",
+      "sha256": "4f6eec14030a968b70b2c6af31fcbcc3e8e38bac98fae7dc379bdd8cfbc247cf",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/product/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112152,
+      "bodyEnd": 133523,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/security/",
+      "file": "blog/category/security/index.html",
+      "app": "web",
+      "sha256": "b7bc9d873dc6a915851b2abd03ab1dfe519707a9c39a73b12b7556d0692a1fb0",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/security/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112165,
+      "bodyEnd": 153506,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/solution/",
+      "file": "blog/category/solution/index.html",
+      "app": "web",
+      "sha256": "f5171490b89f7c2099db60244fa5f48be5b03e5be6a848fa94d3587725bda6a7",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/solution/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112165,
+      "bodyEnd": 138674,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/story/",
+      "file": "blog/category/story/index.html",
+      "app": "web",
+      "sha256": "d72145d01658022e22e44429cf29b440d59bbd832c9380dc6d80dd99babd0b3a",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/story/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112126,
+      "bodyEnd": 134582,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/technology/",
+      "file": "blog/category/technology/index.html",
+      "app": "web",
+      "sha256": "21cc4ac71583e9ccf80470226858542680c78efebf0f12dc37943b2efefe8e8a",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/technology/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112191,
+      "bodyEnd": 133883,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/tutorial/",
+      "file": "blog/category/tutorial/index.html",
+      "app": "web",
+      "sha256": "10abf8306c037720f8bf61bb601cde0da50a67d8ab8f00cd0ca75091283750f3",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/tutorial/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112165,
+      "bodyEnd": 253015,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/updates/",
+      "file": "blog/category/updates/index.html",
+      "app": "web",
+      "sha256": "eb11241aec36510aa8f49e09f6a0ba5966afbe3477d50786777dad7aa4623580",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/updates/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112152,
+      "bodyEnd": 157623,
+      "matches": true
+    },
+    {
+      "route": "/blog/category/web-development/",
+      "file": "blog/category/web-development/index.html",
+      "app": "web",
+      "sha256": "d5237c7797781f59175c3c8c374afcf5e32ddfa864d745e32dd61cce37db7368",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/category/web-development/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 112256,
+      "bodyEnd": 133563,
+      "matches": true
+    },
+    {
+      "route": "/blog/",
+      "file": "blog/index.html",
+      "app": "web",
+      "sha256": "14013d568fa9d08f3ba256fc9c7a8053a9848b8b3bc17a92a7f14a8e6c08df48",
+      "title": "Capgo | Capacitor Blog",
+      "canonical": "https://capgo.app/blog/",
+      "description": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor.",
+      "headings": [
+        {
+          "level": 1,
+          "id": null,
+          "text": "Latest from the blog"
+        },
+        {
+          "level": 2,
+          "id": null,
+          "text": "The best articles to enhance your Capacitor app. Do more with Capacitor and Capgo. Learn how to build a modern app with Capacitor."
+        }
+      ],
+      "scripts": [
+        {
+          "src": null,
+          "type": "application/ld+json",
+          "inlineSha256": "9015d5e58ad07fd9cfc17cd6f8b03377234fe8f6a2b8948f3ca9c3bb9f68cbae"
+        },
+        {
+          "src": null,
+          "type": null,
+          "inlineSha256": "45afdbaac1798fdfbe4498574bc732fba195e18eab727899d3a733763a9e6465"
+        },
+        {
+          "src": "https://aff.capgo.app/r/pixel.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "e28fa8f80fabb14aa3bde32b2025fb4db9b4d5dd639b51d03a7abfc3122bc8f4"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "a1515a6fcb4fd93a6519315a38f57ce2fd62bc2317e2679424911aa49685da75"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "32e34977738d55915ddb2c164282655c6b04043d9584b5e35d4b397f3460d615"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "abe5ffca0d69def43c9239b2023e402fb582e8f89f4322b66425fe21eb49f74c"
+        },
+        {
+          "src": null,
+          "type": "module",
+          "inlineSha256": "af624458f1c53c695a0a214d59c0951f0988ee0988e4839b59f8e56c238a09a4"
+        },
+        {
+          "src": "https://pls.digitalshift-ee.workers.dev/js/script.outbound-links.js",
+          "type": null,
+          "inlineSha256": null
+        },
+        {
+          "src": "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+          "type": "module",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://widget.senja.io/js/iframeResizer.min.js",
+          "type": "text/javascript",
+          "inlineSha256": null
+        },
+        {
+          "src": "https://dtf.capgo.app/js/script.js",
+          "type": null,
+          "inlineSha256": null
+        }
+      ],
+      "styles": [
+        "/_astro/global.css",
+        "/_astro/product-surface.Di-IHi69.css",
+        "/_astro/Layout.CBLfVTiz.css"
+      ],
+      "lang": "en",
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "family": "blog-listing",
+      "bodyStart": 111931,
+      "bodyEnd": 403553,
+      "matches": true
+    }
+  ]
+}

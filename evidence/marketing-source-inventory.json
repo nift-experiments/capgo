@@ -1,0 +1,2600 @@
+{
+  "upstreamCommit": "7d5b69d6ba8a6630384dffc7d012431ee3ed22ec",
+  "pages": [
+    {
+      "route": "/",
+      "source": "corpus/authored/apps/web/src/pages/index.astro",
+      "sourceSha256": "f7412f851116c2710f71878db33d19efb105ff0ee22223ca7271583c58e73ab2",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "../layouts/Layout.astro"
+        },
+        {
+          "name": "ProblemSolution",
+          "module": "@/components/ProblemSolution.astro"
+        },
+        {
+          "name": "Testimonials",
+          "module": "@/components/Testimonials.astro"
+        },
+        {
+          "name": "WhyCapgo",
+          "module": "@/components/WhyCapgo.astro"
+        },
+        {
+          "name": "SharedNumbers",
+          "module": "@/components/SharedNumbers.astro"
+        },
+        {
+          "name": "TransparencySection",
+          "module": "@/components/TransparencySection.astro"
+        },
+        {
+          "name": "Hero",
+          "module": "@/components/Hero.astro"
+        },
+        {
+          "name": "HowItWorks",
+          "module": "@/components/HowItWorks.astro"
+        },
+        {
+          "name": "PlatformOverview",
+          "module": "@/components/PlatformOverview.astro"
+        },
+        {
+          "name": "GlobalInfrastructure",
+          "module": "@/components/GlobalInfrastructure.astro"
+        },
+        {
+          "name": "AppflowShutdown",
+          "module": "@/components/AppflowShutdown.astro"
+        },
+        {
+          "name": "AskAiSection",
+          "module": "@/components/AskAiSection.astro"
+        },
+        {
+          "name": "StorePolicySection",
+          "module": "@/components/StorePolicySection.astro"
+        },
+        {
+          "name": "AgentReadySection",
+          "module": "@/components/AgentReadySection.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/about/",
+      "source": "corpus/authored/apps/web/src/pages/about.astro",
+      "sourceSha256": "6356706c42320a5b10a4abd5fd34c58d8ae9a1619f3ed7528201721b4c23e8d9",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/affiliate/",
+      "source": "corpus/authored/apps/web/src/pages/affiliate.astro",
+      "sourceSha256": "be98e0df49928ade90d82c97e124eee3801aaac374444c65a0336c6a188c34a7",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives.astro",
+      "sourceSha256": "7ffc47a6148960dd0c98a50e0a4668e2caaee7e96131bf9868e6a43f35c3c18b",
+      "imports": [
+        {
+          "name": "AppLogoStrip",
+          "module": "@/components/AppLogoStrip.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/capawesome/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/capawesome.astro",
+      "sourceSha256": "2c44bc27395ed4f03a66926c4ff79289a6b363528598b499bde9f0ee06575443",
+      "imports": [
+        {
+          "name": "ComparisonPage",
+          "module": "@/components/comparison/ComparisonPage.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/codepush/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/codepush.astro",
+      "sourceSha256": "d68e21b04dac2bc0d31790e7724607329af434b62ea0251ea53e9f0c4a26322b",
+      "imports": [
+        {
+          "name": "ComparisonPage",
+          "module": "@/components/comparison/ComparisonPage.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/expo/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/expo.astro",
+      "sourceSha256": "f6291a0bf0ddbb6e20a129a39ea7c244b68c602202da2d295885cd69261ffe95",
+      "imports": [
+        {
+          "name": "ComparisonPage",
+          "module": "@/components/comparison/ComparisonPage.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/ionic-appflow/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/ionic-appflow.astro",
+      "sourceSha256": "ed1b78f5239f7e0db9d6a559f4f1c29a095984630b63d54312f75a4689177eda",
+      "imports": [
+        {
+          "name": "ComparisonPage",
+          "module": "@/components/comparison/ComparisonPage.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/median/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/median.astro",
+      "sourceSha256": "97d762c381a74c6bcdefc6237b09a8d01e878301a8f358f07aa6b0f001735ed9",
+      "imports": [
+        {
+          "name": "ComparisonPage",
+          "module": "@/components/comparison/ComparisonPage.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/alternatives/voltbuilder/",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/voltbuilder.astro",
+      "sourceSha256": "6a1b524d7e1457538808aaf27512726ba37acb6e72cd67699bd6ec8a8ec7ea12",
+      "imports": [
+        {
+          "name": "ComparisonPage",
+          "module": "@/components/comparison/ComparisonPage.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/android-distribution-chart/",
+      "source": "corpus/authored/apps/web/src/pages/android-distribution-chart.astro",
+      "sourceSha256": "d538718162b848a4eb36ae3987e566b994b446fd61544ebb8ad515d7d03312ec",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "DistributionRefreshPanel",
+          "module": "@/components/DistributionRefreshPanel.astro"
+        },
+        {
+          "name": "DistributionTargetChart",
+          "module": "@/components/DistributionTargetChart.astro"
+        },
+        {
+          "name": "ToolFaq",
+          "module": "@/components/tools/ToolFaq.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/app-store-refusal-horror-story/",
+      "source": "corpus/authored/apps/web/src/pages/app-store-refusal-horror-story.astro",
+      "sourceSha256": "89d04943e4cbe99fedbd976b846f040191d53899afab9e603b35bd0e1444b234",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/app_mobile/",
+      "source": "corpus/authored/apps/web/src/pages/app_mobile.astro",
+      "sourceSha256": "014c9962d8d0f8a06a574a5cbd59b064138f37145470cec9ab642c3f2b48b310",
+      "imports": [
+        {
+          "name": "ProductAppExamples",
+          "module": "@/components/ProductAppExamples.astro"
+        },
+        {
+          "name": "ProductVideoSection",
+          "module": "@/components/ProductVideoSection.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/aup/",
+      "source": "corpus/authored/apps/web/src/pages/aup.astro",
+      "sourceSha256": "3974363a9ca84c9e710f4ef4cc0ccaa96921fe42e222e402ea7a92a4f9ffb7c2",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/best/appflow-alternative/",
+      "source": "corpus/authored/apps/web/src/pages/best/appflow-alternative.astro",
+      "sourceSha256": "370b9e113e9ceb764f6d4f58dde8da0583f82296e9b14b2bfaf1adea4a614243",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/best/capacitor-live-updates/",
+      "source": "corpus/authored/apps/web/src/pages/best/capacitor-live-updates.astro",
+      "sourceSha256": "6bba799a1bfba929d8ce9029b459b2a451fb5285a08f5f81ad395e1b63588a78",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/best/codepush-alternative/",
+      "source": "corpus/authored/apps/web/src/pages/best/codepush-alternative.astro",
+      "sourceSha256": "c8912e9e3c7ec893961736088861e0074b6d5581aa2db521b5d7f43798f7a091",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/bug-bounty/",
+      "source": "corpus/authored/apps/web/src/pages/bug-bounty.astro",
+      "sourceSha256": "577fa933c73e595253b5f3c57c53cff88580eea64e1cbf4ab7db558f842be2f2",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    },
+    {
+      "route": "/builder-data/",
+      "source": "corpus/authored/apps/web/src/pages/builder-data.astro",
+      "sourceSha256": "eabb755a348726ab8240f7c80f92bd49803859dcaa1464f2ab30dc80e08ad375",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/capacitor-app/",
+      "source": "corpus/authored/apps/web/src/pages/capacitor-app.astro",
+      "sourceSha256": "69bb3687d66b756c858a354cba2df2fc3c5536467e2a27644bda7020ebe58ec8",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    },
+    {
+      "route": "/capgo-cli/",
+      "source": "corpus/authored/apps/web/src/pages/capgo-cli.astro",
+      "sourceSha256": "13049af51d12145997219985a109fbd694acc0ba95dc13077e9404f48858b29e",
+      "imports": [
+        {
+          "name": "CommandCode",
+          "module": "@/components/CommandCode.astro"
+        },
+        {
+          "name": "ProductAppExamples",
+          "module": "@/components/ProductAppExamples.astro"
+        },
+        {
+          "name": "ProductVideoSection",
+          "module": "@/components/ProductVideoSection.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/ci_cd/",
+      "source": "corpus/authored/apps/web/src/pages/ci_cd.astro",
+      "sourceSha256": "80d9cf17b82fd1783c93f110d0322c88c720e3c1310043e0e8f17aefa431388e",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/consulting/",
+      "source": "corpus/authored/apps/web/src/pages/consulting.astro",
+      "sourceSha256": "4e0dd4856fc040de9ecf46488e82658afeb5636cda77fd3502526142a7325618",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    },
+    {
+      "route": "/contact/",
+      "source": "corpus/authored/apps/web/src/pages/contact.astro",
+      "sourceSha256": "0376401d60785577460a403253f39ffa1cb883b50be87077c78796bfdb20f2a3",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/contributing/",
+      "source": "corpus/authored/apps/web/src/pages/contributing.astro",
+      "sourceSha256": "9fb4eb5e19b423f1f58cedb7b17dc1a5a0bd254db098473027853dbc628060a2",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/cost/cost-to-publish-app-on-app-store/",
+      "source": "corpus/authored/apps/web/src/pages/cost/cost-to-publish-app-on-app-store.astro",
+      "sourceSha256": "4c5281e8d1b08d4ba3b17f04286aff7b3934502bc11f7cf21bb1afc212efedf4",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/data/",
+      "source": "corpus/authored/apps/web/src/pages/data.astro",
+      "sourceSha256": "edce77f0b6f3d72c7e2bfbaa47eec15eced66067a0c496d05ac5da68ca7e5627",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/disclaimer/",
+      "source": "corpus/authored/apps/web/src/pages/disclaimer.astro",
+      "sourceSha256": "702e4b6021413bce56d3592f345941162c3a6d8ccc19209feff9cd72bab3ead0",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/dp/",
+      "source": "corpus/authored/apps/web/src/pages/dp.astro",
+      "sourceSha256": "66471d6a957fb575b4f2f2dbe1e183ff0de993150d39df0281b876c0ebea395b",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/dpa/",
+      "source": "corpus/authored/apps/web/src/pages/dpa.astro",
+      "sourceSha256": "bb54d55f6a04a426fb5c9032b388673d668da5bfaa6dd30f4338f3ceb733d3bd",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/enterprise/",
+      "source": "corpus/authored/apps/web/src/pages/enterprise.astro",
+      "sourceSha256": "86c4d91b3ee101476eae90ac84213b6e434d5b14c0fa9ef5726ed7721e6708c9",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "TeamAvatars",
+          "module": "@/components/TeamAvatars.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "GovernedRollout",
+          "module": "@/components/enterprise/GovernedRollout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/eula/",
+      "source": "corpus/authored/apps/web/src/pages/eula.astro",
+      "sourceSha256": "c8a6a829d6af34b109e4bdf31ea8a133ab7befeb37027359bcac4070f58c49fe",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/hipaa-compliance/",
+      "source": "corpus/authored/apps/web/src/pages/hipaa-compliance.astro",
+      "sourceSha256": "10ad58da5003ea4610245187a176e5c09dee18146c94f1c80bb6f7d2cf85e46a",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    },
+    {
+      "route": "/imprint/",
+      "source": "corpus/authored/apps/web/src/pages/imprint.astro",
+      "sourceSha256": "03bad669581ee66e901f61939ecb2902c430e6b075aa267b738a2578b3dd3770",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/integrations/",
+      "source": "corpus/authored/apps/web/src/pages/integrations.astro",
+      "sourceSha256": "0a492e91fc9c5865c2a77a73cd40ad7f02dfd176a66530342a66097699cade69",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/ionic-enterprise-plugins/",
+      "source": "corpus/authored/apps/web/src/pages/ionic-enterprise-plugins.astro",
+      "sourceSha256": "c3866afa21629bdb0b0da089ec9401b807465cff208333c75934ec881ecbd220",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "TeamAvatars",
+          "module": "@/components/TeamAvatars.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/ios-distribution-chart/",
+      "source": "corpus/authored/apps/web/src/pages/ios-distribution-chart.astro",
+      "sourceSha256": "001ced7d4cd9d10e21dc10eeda2f0c08cbe85cb36da71f6efba2996fc64101e2",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "DistributionRefreshPanel",
+          "module": "@/components/DistributionRefreshPanel.astro"
+        },
+        {
+          "name": "DistributionTargetChart",
+          "module": "@/components/DistributionTargetChart.astro"
+        },
+        {
+          "name": "ToolFaq",
+          "module": "@/components/tools/ToolFaq.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/live-update/",
+      "source": "corpus/authored/apps/web/src/pages/live-update.astro",
+      "sourceSha256": "d41d3f007bb946303b0bf46a011352cbc0da0e36589ff8081c73893fca245c18",
+      "imports": [
+        {
+          "name": "ReleaseExplainers",
+          "module": "@/components/explainers/ReleaseExplainers.astro"
+        },
+        {
+          "name": "UpdateTypesSection",
+          "module": "@/components/landing/UpdateTypesSection.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "ProductVideoSection",
+          "module": "@/components/ProductVideoSection.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        },
+        {
+          "name": "StorePolicySection",
+          "module": "@/components/StorePolicySection.astro"
+        },
+        {
+          "name": "AgentReadySection",
+          "module": "@/components/AgentReadySection.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/mcp/",
+      "source": "corpus/authored/apps/web/src/pages/mcp.astro",
+      "sourceSha256": "0fc2e8324748833514bc65ae7e4f858967cce0349a4adf964d54efda0e1474ee",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "CommandCode",
+          "module": "@/components/CommandCode.astro"
+        },
+        {
+          "name": "ConversionRelatedLinks",
+          "module": "@/components/conversion/ConversionRelatedLinks.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/migrate/from-appflow/",
+      "source": "corpus/authored/apps/web/src/pages/migrate/from-appflow.astro",
+      "sourceSha256": "1932b2127f33f9d09708cefe6a309f3ed07a8b7682a78c1a42ef99365de5df21",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/migrate/from-capawesome/",
+      "source": "corpus/authored/apps/web/src/pages/migrate/from-capawesome.astro",
+      "sourceSha256": "9b608e0f764d92e112188498ff4f3faf92bb5a2c5a25b37177efb2fa3397a97f",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/migrate/from-codepush/",
+      "source": "corpus/authored/apps/web/src/pages/migrate/from-codepush.astro",
+      "sourceSha256": "3b82eb4187fe36a56c3c79eaede5e8b73fd21ef86c70f8ffeda87dde25c5b3a6",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/native-build/",
+      "source": "corpus/authored/apps/web/src/pages/native-build.astro",
+      "sourceSha256": "7ce9461328995abc3eac7040b4c6da2d82cdaad7e9b79fb2dd06b8d6dd27e74f",
+      "imports": [
+        {
+          "name": "CommandCode",
+          "module": "@/components/CommandCode.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "ProductVideoSection",
+          "module": "@/components/ProductVideoSection.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/notifications/",
+      "source": "corpus/authored/apps/web/src/pages/notifications.astro",
+      "sourceSha256": "706389d4cd55437b135e94397373757bb3c01f576f1b7ab6ba3d86fb5755a826",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        },
+        {
+          "name": "NotificationsStory",
+          "module": "@/components/notifications/NotificationsStory.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/observe/",
+      "source": "corpus/authored/apps/web/src/pages/observe.astro",
+      "sourceSha256": "0c3619fc88abb098f7433f375f7a88a8c521e80ffcb1f3c1cb3626e95ebca895",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        },
+        {
+          "name": "ObserveReleaseHealthDemo",
+          "module": "@/components/observe/ObserveReleaseHealthDemo.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/plugins/",
+      "source": "corpus/authored/apps/web/src/pages/plugins.astro",
+      "sourceSha256": "c4371bc3246b068b9ba5919e92b28d2ad9bbf7b6cb540a2e9ee37db2a44bb874",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "ProductVideoSection",
+          "module": "@/components/ProductVideoSection.astro"
+        },
+        {
+          "name": "PluginIcon",
+          "module": "@/components/PluginIcon.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/premium-support/",
+      "source": "corpus/authored/apps/web/src/pages/premium-support.astro",
+      "sourceSha256": "b99e130cf3636c87c7562f75d4e4064654664e3be5414fad9da8a8bd51e748c0",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    },
+    {
+      "route": "/pricing/",
+      "source": "corpus/authored/apps/web/src/pages/pricing.astro",
+      "sourceSha256": "753bf6fe66da46928edf896bf7dad569699b39b93763d976397fd7b3644cf7e5",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "PricingCalculator",
+          "module": "@/components/pricing/PricingCalculator.astro"
+        },
+        {
+          "name": "ComparePlans",
+          "module": "@/components/pricing/ComparePlans.astro"
+        },
+        {
+          "name": "CreditPricing",
+          "module": "@/components/pricing/CreditPricing.astro"
+        },
+        {
+          "name": "Faq",
+          "module": "@/components/pricing/Faq.astro"
+        },
+        {
+          "name": "Plans",
+          "module": "@/components/pricing/Plans.astro"
+        },
+        {
+          "name": "PricingExplainer",
+          "module": "@/components/pricing/PricingExplainer.astro"
+        },
+        {
+          "name": "Enterprise",
+          "module": "@/components/enterprise.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/privacy/",
+      "source": "corpus/authored/apps/web/src/pages/privacy.astro",
+      "sourceSha256": "15b3ca66fa67fbce941a4a719b628240f679a345f2fead155f324dee2114ddbb",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/register/",
+      "source": "corpus/authored/apps/web/src/pages/register.astro",
+      "sourceSha256": "4efef086d2ccfb8ca4ee3ac933dcce3b7accc053455e07759c144561837e5a14",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "RatingSummary",
+          "module": "@/components/RatingSummary.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/return/",
+      "source": "corpus/authored/apps/web/src/pages/return.astro",
+      "sourceSha256": "a8293e8ac2ba3d5979e1eeb80981c32409415f944030a4169d04837652e599c0",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/reviews/appflow/",
+      "source": "corpus/authored/apps/web/src/pages/reviews/appflow.astro",
+      "sourceSha256": "ddef96da95aef6b7d9628a6066ca526024c05359e277add7ec7d06381e339610",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/reviews/capawesome/",
+      "source": "corpus/authored/apps/web/src/pages/reviews/capawesome.astro",
+      "sourceSha256": "b357c215677a001c9baf030ef9ec3a8491ddb8b183c2e50e9e3273076387a41a",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/reviews/codepush/",
+      "source": "corpus/authored/apps/web/src/pages/reviews/codepush.astro",
+      "sourceSha256": "72b5a01a78e144619cb938b72fa2a165ce6d9fd9946a36fc47580b3fe642e651",
+      "imports": [
+        {
+          "name": "ConversionLandingLayout",
+          "module": "@/components/conversion/ConversionLandingLayout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "conversion"
+    },
+    {
+      "route": "/security-scanner/",
+      "source": "corpus/authored/apps/web/src/pages/security-scanner.astro",
+      "sourceSha256": "56410293c817db2ad852887464329b389a7ec7126e365cc150ade631abf30567",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/security/",
+      "source": "corpus/authored/apps/web/src/pages/security.astro",
+      "sourceSha256": "e9eba665c9bca43263e5812af9025137d685097ed2ed847fe7b536b974b9c597",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    },
+    {
+      "route": "/semver_tester/",
+      "source": "corpus/authored/apps/web/src/pages/semver_tester.astro",
+      "sourceSha256": "771e5db4f92985af26a22190e80dae1f9393d8fa8fdb6acd7b4bb048ef643a9a",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "../layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/skills/",
+      "source": "corpus/authored/apps/web/src/pages/skills.astro",
+      "sourceSha256": "65cbb3509766b22e64dadf094d14f3bb61f50120c701bf28fe2c159b4ebfdf9b",
+      "imports": [
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "CommandCode",
+          "module": "@/components/CommandCode.astro"
+        },
+        {
+          "name": "ProductVideoSection",
+          "module": "@/components/ProductVideoSection.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/sla/",
+      "source": "corpus/authored/apps/web/src/pages/sla.astro",
+      "sourceSha256": "2653d5956d767eb6bbfae0da60774bac2351071c5049f36fe226d3817608c0b0",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/solutions/agencies/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/agencies.astro",
+      "sourceSha256": "580ca6fd4d80b872b6498a57fe728c41dfe049961074a826475170fed6ae404a",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "AgencyDashboardIllustration",
+          "module": "@/components/solutions/AgencyDashboardIllustration.astro"
+        },
+        {
+          "name": "RolloutIllustration",
+          "module": "@/components/solutions/RolloutIllustration.astro"
+        },
+        {
+          "name": "HandoffIllustration",
+          "module": "@/components/solutions/HandoffIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/beta-testing/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/beta-testing.astro",
+      "sourceSha256": "ef44a27b41ec7a9fff5181f555ab3eafa98fcaf42a2fb4ba9f34c98c1787ba20",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/build-without-mac/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/build-without-mac.astro",
+      "sourceSha256": "118f6515a91f631b8216db29e75e4ed1ddedc09cf308a0b18791cbd517122389",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/cordova-to-capacitor-ai/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/cordova-to-capacitor-ai.astro",
+      "sourceSha256": "b6767f0457a36c4174a38771b9636848db1af82af40d2f4275a4ddfa7a2a78ab",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/cordova-to-capacitor/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/cordova-to-capacitor.astro",
+      "sourceSha256": "9e2e65e55b0a1c65d3de7bb0337d8ef83328e56770b06d9650798e8b58452719",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HandoffIllustration",
+          "module": "@/components/solutions/HandoffIllustration.astro"
+        },
+        {
+          "name": "BugFixIllustration",
+          "module": "@/components/solutions/BugFixIllustration.astro"
+        },
+        {
+          "name": "RolloutIllustration",
+          "module": "@/components/solutions/RolloutIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/direct-updates/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/direct-updates.astro",
+      "sourceSha256": "b1bd6b1953a1781f30431b6f78b2889d26e2bfdce157420b0ea84bf41c700275",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/ecommerce/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/ecommerce.astro",
+      "sourceSha256": "7920df46c4392dc3ff1f821539e21fd55416bdc2db55b2cdc2c03f6a672aef2c",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "RolloutIllustration",
+          "module": "@/components/solutions/RolloutIllustration.astro"
+        },
+        {
+          "name": "ABTestIllustration",
+          "module": "@/components/solutions/ABTestIllustration.astro"
+        },
+        {
+          "name": "BugFixIllustration",
+          "module": "@/components/solutions/BugFixIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/fintech/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/fintech.astro",
+      "sourceSha256": "d87ffadaff03e4ac619889a9c4f8eb026d87e59874b283cfa649e4c0ba873c36",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "RolloutIllustration",
+          "module": "@/components/solutions/RolloutIllustration.astro"
+        },
+        {
+          "name": "BugFixIllustration",
+          "module": "@/components/solutions/BugFixIllustration.astro"
+        },
+        {
+          "name": "SecurityIllustration",
+          "module": "@/components/solutions/SecurityIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/healthcare/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/healthcare.astro",
+      "sourceSha256": "fcc0a02aa9f79886d7218939d97545fcc34e33575b422cd738fa4d1d101b46f9",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/ionic-enterprise-plugins/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/ionic-enterprise-plugins.astro",
+      "sourceSha256": "5e3fb81be99c55e3f85c32e3bbec077774b971e9659c1960a0ef016b4f2bd2a7",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/lovable-vibecoding-to-mobile/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/lovable-vibecoding-to-mobile.astro",
+      "sourceSha256": "f36858cde4d2aa8388d7a8877ce7e67777bf7c379a0fb7732a4bef0299b34391",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/pr-preview/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/pr-preview.astro",
+      "sourceSha256": "cdfa04995b4aee9fe4f459a3006f4419cc6f59bb200cfdd4b3713b63588f9256",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/production-updates/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/production-updates.astro",
+      "sourceSha256": "81fc6c04f9f32a4d1f31b70394618ba2416d2d36aaf24d850cdebb4a46fa9bf3",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/qsr/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/qsr.astro",
+      "sourceSha256": "1902aec4bbc20e054290c38ef2f3d37a9d57e368032d7b088d2647272686c898",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/set-and-forget/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/set-and-forget.astro",
+      "sourceSha256": "032d9e390bfad01a80bbe6316874266e0748e864c805d8171548a64cd1a31b67",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/solo-developers/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/solo-developers.astro",
+      "sourceSha256": "49ad9c9cbfa59f13997850abc2b77c960ad7ca6cf7a861d1ec3c9734f5811577",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "RolloutIllustration",
+          "module": "@/components/solutions/RolloutIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/startups/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/startups.astro",
+      "sourceSha256": "8066ab001362036b63d5c5a5d19f5c841e44a71afb9941a6d82e0d9c35237d9a",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "RolloutIllustration",
+          "module": "@/components/solutions/RolloutIllustration.astro"
+        },
+        {
+          "name": "BugFixIllustration",
+          "module": "@/components/solutions/BugFixIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/version-targeting/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/version-targeting.astro",
+      "sourceSha256": "c14f12f8daab6c4bfe8a8e65a8075769d12b3b43d087ac40ca5c97ea061fc772",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/webapp-to-mobile/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/webapp-to-mobile.astro",
+      "sourceSha256": "1697347d40d50e119bcc049d51dd69dbee1556d3d22d17f59ca3844ab1ad2ddd",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/solutions/white-label/",
+      "source": "corpus/authored/apps/web/src/pages/solutions/white-label.astro",
+      "sourceSha256": "860450f74d4394123b76eeeb3a35c84dd1306ba6772d4e89d3e25a75cd243c45",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SolutionAppExample",
+          "module": "@/components/solutions/SolutionAppExample.astro"
+        },
+        {
+          "name": "SolutionHowItWorks",
+          "module": "@/components/solutions/SolutionHowItWorks.astro"
+        },
+        {
+          "name": "SolutionFaq",
+          "module": "@/components/solutions/SolutionFaq.astro"
+        },
+        {
+          "name": "ProductTestimonials",
+          "module": "@/components/ProductTestimonials.astro"
+        },
+        {
+          "name": "WhiteLabelIllustration",
+          "module": "@/components/solutions/WhiteLabelIllustration.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/sponsor/",
+      "source": "corpus/authored/apps/web/src/pages/sponsor.astro",
+      "sourceSha256": "8e459219f958072b7539a51af11b635cbe9533a47cd6c9b907851c71cff043a5",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "SponsorLogo",
+          "module": "@/components/SponsorLogo.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/subprocessors/",
+      "source": "corpus/authored/apps/web/src/pages/subprocessors.astro",
+      "sourceSha256": "207c5d304e14a76bfd94f0cd103d33a87296d0f6dcabaa6c160a533255db511f",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/support-policy/",
+      "source": "corpus/authored/apps/web/src/pages/support-policy.astro",
+      "sourceSha256": "cc7bf1095d5eb6fd8a1ef4546b4563bc0a8759557af14e5baa46fea1fe7772d7",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/tools/ios-udid-finder/result/",
+      "source": "corpus/authored/apps/web/src/pages/tools/ios-udid-finder/result.astro",
+      "sourceSha256": "604bc1b3df8b4fbd853c558ff994fe682d5b242be52127621efab856d9b37c18",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_app.astro",
+      "sourceSha256": "6dd4a88c3cc2078af0d23ef2aa4e0a47f5000df3e24daaba2811ad28ab52f643",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_capacitor_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_capacitor_app.astro",
+      "sourceSha256": "2de42d3778711163f288fb6a8819b5591584aafb6bb643d97314fdc7dcd4af98",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_capgo_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_capgo_app.astro",
+      "sourceSha256": "4526c8f57d8a879370db9725216b84afd41d3135eb63396bf0ee8d0c96dd124c",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_cordova_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_cordova_app.astro",
+      "sourceSha256": "95da63af6002e9731af5ac3dc9126e5dc2a0dc651c49bff5bdce8d7aa58098d2",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        },
+        {
+          "name": "HumanSupport",
+          "module": "@/components/HumanSupport.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_flutter_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_flutter_app.astro",
+      "sourceSha256": "7b67ac96bd6c9d84e618c555d41c3a5437856258e45ae3559605ff3a40d70761",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_kotlin_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_kotlin_app.astro",
+      "sourceSha256": "55db140b66419f1e0b355ec6358405e05ea9c97cc271f4de0b57bd7e162b9ffa",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_native_script_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_native_script_app.astro",
+      "sourceSha256": "2e9492ad5ab46814a3fcf6e012fb8f465d2f18e9ee9b72f2fb05704160ca56ef",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/top_react_native_app/",
+      "source": "corpus/authored/apps/web/src/pages/top_react_native_app.astro",
+      "sourceSha256": "79c425513cb1a129bb2b5fa7634c4a0eb29e5a3da54716c5c65affac97b0ccb8",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source preserved; body connection pending"
+    },
+    {
+      "route": "/tos/",
+      "source": "corpus/authored/apps/web/src/pages/tos.astro",
+      "sourceSha256": "3ba06d2497f71fb7df40bee080d3815f402d8a11b600a18fb5000a3cfc57c53e",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "legal"
+    },
+    {
+      "route": "/trust/",
+      "source": "corpus/authored/apps/web/src/pages/trust.astro",
+      "sourceSha256": "ca7bf50949bc89b2998004041f234c59b70e7afe67d94528bf419970da83040f",
+      "imports": [
+        {
+          "name": "Layout",
+          "module": "@/layouts/Layout.astro"
+        }
+      ],
+      "status": "source body connected; strict semantic parity verified",
+      "connectedFamily": "authored-template"
+    }
+  ],
+  "componentGroups": [
+    {
+      "component": "@/layouts/Layout.astro",
+      "pageCount": 82,
+      "routes": [
+        "/about/",
+        "/affiliate/",
+        "/alternatives/",
+        "/alternatives/capawesome/",
+        "/alternatives/codepush/",
+        "/alternatives/expo/",
+        "/alternatives/ionic-appflow/",
+        "/alternatives/median/",
+        "/alternatives/voltbuilder/",
+        "/android-distribution-chart/",
+        "/app-store-refusal-horror-story/",
+        "/app_mobile/",
+        "/aup/",
+        "/bug-bounty/",
+        "/builder-data/",
+        "/capacitor-app/",
+        "/capgo-cli/",
+        "/ci_cd/",
+        "/consulting/",
+        "/contact/",
+        "/contributing/",
+        "/cost/cost-to-publish-app-on-app-store/",
+        "/data/",
+        "/disclaimer/",
+        "/dp/",
+        "/dpa/",
+        "/enterprise/",
+        "/eula/",
+        "/hipaa-compliance/",
+        "/imprint/",
+        "/integrations/",
+        "/ionic-enterprise-plugins/",
+        "/ios-distribution-chart/",
+        "/live-update/",
+        "/mcp/",
+        "/native-build/",
+        "/notifications/",
+        "/observe/",
+        "/plugins/",
+        "/premium-support/",
+        "/pricing/",
+        "/privacy/",
+        "/register/",
+        "/return/",
+        "/security-scanner/",
+        "/security/",
+        "/skills/",
+        "/sla/",
+        "/solutions/agencies/",
+        "/solutions/beta-testing/",
+        "/solutions/build-without-mac/",
+        "/solutions/cordova-to-capacitor-ai/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/direct-updates/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/healthcare/",
+        "/solutions/ionic-enterprise-plugins/",
+        "/solutions/lovable-vibecoding-to-mobile/",
+        "/solutions/pr-preview/",
+        "/solutions/production-updates/",
+        "/solutions/qsr/",
+        "/solutions/set-and-forget/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/",
+        "/solutions/version-targeting/",
+        "/solutions/webapp-to-mobile/",
+        "/solutions/white-label/",
+        "/sponsor/",
+        "/subprocessors/",
+        "/support-policy/",
+        "/tools/ios-udid-finder/result/",
+        "/top_app/",
+        "/top_capacitor_app/",
+        "/top_capgo_app/",
+        "/top_cordova_app/",
+        "/top_flutter_app/",
+        "/top_kotlin_app/",
+        "/top_native_script_app/",
+        "/top_react_native_app/",
+        "/tos/",
+        "/trust/"
+      ]
+    },
+    {
+      "component": "@/components/HumanSupport.astro",
+      "pageCount": 37,
+      "routes": [
+        "/about/",
+        "/affiliate/",
+        "/alternatives/",
+        "/app-store-refusal-horror-story/",
+        "/app_mobile/",
+        "/capacitor-app/",
+        "/consulting/",
+        "/contact/",
+        "/cost/cost-to-publish-app-on-app-store/",
+        "/enterprise/",
+        "/ionic-enterprise-plugins/",
+        "/live-update/",
+        "/native-build/",
+        "/notifications/",
+        "/observe/",
+        "/premium-support/",
+        "/solutions/agencies/",
+        "/solutions/beta-testing/",
+        "/solutions/build-without-mac/",
+        "/solutions/cordova-to-capacitor-ai/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/direct-updates/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/healthcare/",
+        "/solutions/ionic-enterprise-plugins/",
+        "/solutions/lovable-vibecoding-to-mobile/",
+        "/solutions/pr-preview/",
+        "/solutions/production-updates/",
+        "/solutions/qsr/",
+        "/solutions/set-and-forget/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/",
+        "/solutions/version-targeting/",
+        "/solutions/webapp-to-mobile/",
+        "/solutions/white-label/",
+        "/top_cordova_app/"
+      ]
+    },
+    {
+      "component": "@/components/ProductTestimonials.astro",
+      "pageCount": 35,
+      "routes": [
+        "/alternatives/",
+        "/app_mobile/",
+        "/builder-data/",
+        "/capgo-cli/",
+        "/ci_cd/",
+        "/data/",
+        "/enterprise/",
+        "/ionic-enterprise-plugins/",
+        "/live-update/",
+        "/native-build/",
+        "/notifications/",
+        "/observe/",
+        "/plugins/",
+        "/pricing/",
+        "/skills/",
+        "/solutions/agencies/",
+        "/solutions/beta-testing/",
+        "/solutions/build-without-mac/",
+        "/solutions/cordova-to-capacitor-ai/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/direct-updates/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/healthcare/",
+        "/solutions/ionic-enterprise-plugins/",
+        "/solutions/lovable-vibecoding-to-mobile/",
+        "/solutions/pr-preview/",
+        "/solutions/production-updates/",
+        "/solutions/qsr/",
+        "/solutions/set-and-forget/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/",
+        "/solutions/version-targeting/",
+        "/solutions/webapp-to-mobile/",
+        "/solutions/white-label/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/SolutionAppExample.astro",
+      "pageCount": 22,
+      "routes": [
+        "/enterprise/",
+        "/ionic-enterprise-plugins/",
+        "/solutions/agencies/",
+        "/solutions/beta-testing/",
+        "/solutions/build-without-mac/",
+        "/solutions/cordova-to-capacitor-ai/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/direct-updates/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/healthcare/",
+        "/solutions/ionic-enterprise-plugins/",
+        "/solutions/lovable-vibecoding-to-mobile/",
+        "/solutions/pr-preview/",
+        "/solutions/production-updates/",
+        "/solutions/qsr/",
+        "/solutions/set-and-forget/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/",
+        "/solutions/version-targeting/",
+        "/solutions/webapp-to-mobile/",
+        "/solutions/white-label/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/SolutionHowItWorks.astro",
+      "pageCount": 20,
+      "routes": [
+        "/solutions/agencies/",
+        "/solutions/beta-testing/",
+        "/solutions/build-without-mac/",
+        "/solutions/cordova-to-capacitor-ai/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/direct-updates/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/healthcare/",
+        "/solutions/ionic-enterprise-plugins/",
+        "/solutions/lovable-vibecoding-to-mobile/",
+        "/solutions/pr-preview/",
+        "/solutions/production-updates/",
+        "/solutions/qsr/",
+        "/solutions/set-and-forget/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/",
+        "/solutions/version-targeting/",
+        "/solutions/webapp-to-mobile/",
+        "/solutions/white-label/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/SolutionFaq.astro",
+      "pageCount": 20,
+      "routes": [
+        "/solutions/agencies/",
+        "/solutions/beta-testing/",
+        "/solutions/build-without-mac/",
+        "/solutions/cordova-to-capacitor-ai/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/direct-updates/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/healthcare/",
+        "/solutions/ionic-enterprise-plugins/",
+        "/solutions/lovable-vibecoding-to-mobile/",
+        "/solutions/pr-preview/",
+        "/solutions/production-updates/",
+        "/solutions/qsr/",
+        "/solutions/set-and-forget/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/",
+        "/solutions/version-targeting/",
+        "/solutions/webapp-to-mobile/",
+        "/solutions/white-label/"
+      ]
+    },
+    {
+      "component": "@/components/conversion/ConversionLandingLayout.astro",
+      "pageCount": 9,
+      "routes": [
+        "/best/appflow-alternative/",
+        "/best/capacitor-live-updates/",
+        "/best/codepush-alternative/",
+        "/migrate/from-appflow/",
+        "/migrate/from-capawesome/",
+        "/migrate/from-codepush/",
+        "/reviews/appflow/",
+        "/reviews/capawesome/",
+        "/reviews/codepush/"
+      ]
+    },
+    {
+      "component": "@/components/comparison/ComparisonPage.astro",
+      "pageCount": 6,
+      "routes": [
+        "/alternatives/capawesome/",
+        "/alternatives/codepush/",
+        "/alternatives/expo/",
+        "/alternatives/ionic-appflow/",
+        "/alternatives/median/",
+        "/alternatives/voltbuilder/"
+      ]
+    },
+    {
+      "component": "@/components/ProductVideoSection.astro",
+      "pageCount": 6,
+      "routes": [
+        "/app_mobile/",
+        "/capgo-cli/",
+        "/live-update/",
+        "/native-build/",
+        "/plugins/",
+        "/skills/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/RolloutIllustration.astro",
+      "pageCount": 6,
+      "routes": [
+        "/solutions/agencies/",
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/solo-developers/",
+        "/solutions/startups/"
+      ]
+    },
+    {
+      "component": "@/components/CommandCode.astro",
+      "pageCount": 4,
+      "routes": [
+        "/capgo-cli/",
+        "/mcp/",
+        "/native-build/",
+        "/skills/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/BugFixIllustration.astro",
+      "pageCount": 4,
+      "routes": [
+        "/solutions/cordova-to-capacitor/",
+        "/solutions/ecommerce/",
+        "/solutions/fintech/",
+        "/solutions/startups/"
+      ]
+    },
+    {
+      "component": "../layouts/Layout.astro",
+      "pageCount": 2,
+      "routes": [
+        "/",
+        "/semver_tester/"
+      ]
+    },
+    {
+      "component": "@/components/StorePolicySection.astro",
+      "pageCount": 2,
+      "routes": [
+        "/",
+        "/live-update/"
+      ]
+    },
+    {
+      "component": "@/components/AgentReadySection.astro",
+      "pageCount": 2,
+      "routes": [
+        "/",
+        "/live-update/"
+      ]
+    },
+    {
+      "component": "@/components/DistributionRefreshPanel.astro",
+      "pageCount": 2,
+      "routes": [
+        "/android-distribution-chart/",
+        "/ios-distribution-chart/"
+      ]
+    },
+    {
+      "component": "@/components/DistributionTargetChart.astro",
+      "pageCount": 2,
+      "routes": [
+        "/android-distribution-chart/",
+        "/ios-distribution-chart/"
+      ]
+    },
+    {
+      "component": "@/components/tools/ToolFaq.astro",
+      "pageCount": 2,
+      "routes": [
+        "/android-distribution-chart/",
+        "/ios-distribution-chart/"
+      ]
+    },
+    {
+      "component": "@/components/ProductAppExamples.astro",
+      "pageCount": 2,
+      "routes": [
+        "/app_mobile/",
+        "/capgo-cli/"
+      ]
+    },
+    {
+      "component": "@/components/TeamAvatars.astro",
+      "pageCount": 2,
+      "routes": [
+        "/enterprise/",
+        "/ionic-enterprise-plugins/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/HandoffIllustration.astro",
+      "pageCount": 2,
+      "routes": [
+        "/solutions/agencies/",
+        "/solutions/cordova-to-capacitor/"
+      ]
+    },
+    {
+      "component": "@/components/ProblemSolution.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/Testimonials.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/WhyCapgo.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/SharedNumbers.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/TransparencySection.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/Hero.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/HowItWorks.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/PlatformOverview.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/GlobalInfrastructure.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/AppflowShutdown.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/AskAiSection.astro",
+      "pageCount": 1,
+      "routes": [
+        "/"
+      ]
+    },
+    {
+      "component": "@/components/AppLogoStrip.astro",
+      "pageCount": 1,
+      "routes": [
+        "/alternatives/"
+      ]
+    },
+    {
+      "component": "@/components/enterprise/GovernedRollout.astro",
+      "pageCount": 1,
+      "routes": [
+        "/enterprise/"
+      ]
+    },
+    {
+      "component": "@/components/explainers/ReleaseExplainers.astro",
+      "pageCount": 1,
+      "routes": [
+        "/live-update/"
+      ]
+    },
+    {
+      "component": "@/components/landing/UpdateTypesSection.astro",
+      "pageCount": 1,
+      "routes": [
+        "/live-update/"
+      ]
+    },
+    {
+      "component": "@/components/conversion/ConversionRelatedLinks.astro",
+      "pageCount": 1,
+      "routes": [
+        "/mcp/"
+      ]
+    },
+    {
+      "component": "@/components/notifications/NotificationsStory.astro",
+      "pageCount": 1,
+      "routes": [
+        "/notifications/"
+      ]
+    },
+    {
+      "component": "@/components/observe/ObserveReleaseHealthDemo.astro",
+      "pageCount": 1,
+      "routes": [
+        "/observe/"
+      ]
+    },
+    {
+      "component": "@/components/PluginIcon.astro",
+      "pageCount": 1,
+      "routes": [
+        "/plugins/"
+      ]
+    },
+    {
+      "component": "@/components/pricing/PricingCalculator.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/pricing/ComparePlans.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/pricing/CreditPricing.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/pricing/Faq.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/pricing/Plans.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/pricing/PricingExplainer.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/enterprise.astro",
+      "pageCount": 1,
+      "routes": [
+        "/pricing/"
+      ]
+    },
+    {
+      "component": "@/components/RatingSummary.astro",
+      "pageCount": 1,
+      "routes": [
+        "/register/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/AgencyDashboardIllustration.astro",
+      "pageCount": 1,
+      "routes": [
+        "/solutions/agencies/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/ABTestIllustration.astro",
+      "pageCount": 1,
+      "routes": [
+        "/solutions/ecommerce/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/SecurityIllustration.astro",
+      "pageCount": 1,
+      "routes": [
+        "/solutions/fintech/"
+      ]
+    },
+    {
+      "component": "@/components/solutions/WhiteLabelIllustration.astro",
+      "pageCount": 1,
+      "routes": [
+        "/solutions/white-label/"
+      ]
+    },
+    {
+      "component": "@/components/SponsorLogo.astro",
+      "pageCount": 1,
+      "routes": [
+        "/sponsor/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+// Authored web-content rendering, preserving the upstream renderer choices.
+import{createSatteriMarkdownProcessor}from'@astrojs/markdown-satteri';import{marked}from'../vendor/marked.mjs';import{blogMarkdown,restoreBlogCta}from'./render-blog-cta.mjs';
+import{renderConversion}from'./render-conversion.mjs';
+import{renderLegal}from'./render-legal.mjs';
+import{blogPosts,renderBlogGrid,renderBlogListing}from'./render-blog-listing.mjs';
+let blogProcessor,listingPosts;
+function stripTags(html){return html.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").trim()}
+export async function renderWeb(body,source,family,route){if(family==='blog-listing'){listingPosts??=await blogPosts();return renderBlogListing(listingPosts,route)}if(family==='blog-grid'){listingPosts??=await blogPosts();return renderBlogGrid(listingPosts,route)}if(['conversion','authored-template'].includes(family))return renderConversion(source,route);if(family==='legal')return renderLegal(body,source);if(family==='blog'){blogProcessor??=await createSatteriMarkdownProcessor();return restoreBlogCta((await blogProcessor.render(blogMarkdown(body,source))).code)}if(family!=='plugin')throw Error('Unsupported web content family '+family);let html=marked.parse(body).replace(/^(\s*)<h1(\b[^>]*)>([\s\S]*?)<\/h1>/i,'$1<h2$2>$3</h2>'),used=new Set();return html.replace(/<h2(\b[^>]*)>([\s\S]*?)<\/h2>/gi,(match,attributes,inner)=>{if(/\bid=/.test(attributes))return match;let anchor=stripTags(inner).toLowerCase().replace(/[`'"@/]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')||'section';while(used.has(anchor))anchor+='-2';used.add(anchor);return `<h2${attributes} id="${anchor}">${inner}</h2>`})}

@@ -1,0 +1,9 @@
+</div>
+          <p id="blog-empty-state" class="hidden rounded-lg border border-gray-800 bg-gray-950/40 px-5 py-6 text-gray-300">No articles match your search.</p>
+        </main>
+      </div>
+    </div>
+  </div>
+  <script type="module">document.addEventListener("DOMContentLoaded",()=>{const o=document.getElementById("blog-search"),e=document.getElementById("blog-category-select"),s=Array.from(document.querySelectorAll("[data-blog-card]")),c=document.getElementById("blog-search-results-count"),d=document.getElementById("blog-empty-state"),r=s.length;function i(){const t=o?.value.toLowerCase().trim()??"";let n=0;s.forEach(a=>{const l=t===""||(a.dataset.search??"").includes(t);a.hidden=!l,l&&n++}),c&&(c.textContent=t?`Showing ${n} of ${r} articles`:""),d?.classList.toggle("hidden",n>0)}o?.addEventListener("input",i),e?.addEventListener("change",()=>{e.value&&(window.location.href=e.value)})});</script>
+      </main>
+      

@@ -1,0 +1,227 @@
+</article>
+        </div>
+        <div class="right-0 hidden px-10 md:block">
+          <div class="flex flex-col gap-y-4 relative pb-5">
+  <p class="text-sm text-gray-400">Written by</p>
+  <a class="group flex items-center space-x-3" href="https://github.com/riderx">
+    <img width="36" height="36" loading="lazy" decoding="async" alt="Martin Donadieu" src="https://avatars.githubusercontent.com/u/4084527?v=4" class="blur-0 rounded-full transition-all group-hover:brightness-90">
+    <div class="flex flex-col">
+      <p class="text-sm font-medium whitespace-nowrap text-gray-400">Martin Donadieu</p>
+      <p class="text-sm text-gray-400">Content Marketer</p>
+    </div>
+  </a>
+</div>
+          <div id="staticToc" class="sticky top-16 pt-4 pb-8">
+                <div>
+                  <p class="-ml-0.5 flex items-center gap-1.5 text-sm text-gray-400">
+                    <svg width="24" height="24" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" class="lucide lucide-align-left h-4 w-4">
+                      <line x1="21" x2="3" y1="6" y2="6"></line>
+                      <line x1="15" x2="3" y1="12" y2="12"></line>
+                      <line x1="17" x2="3" y1="18" y2="18"></line>
+                    </svg>
+                    Table of Contents
+                  </p>
+                  <div class="mt-4 grid gap-4 border-l border-gray-600">
+                    <a id="table-of-contents-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#table-of-contents">
+                        Table of Contents
+                      </a><a id="what-are-webhooks-and-why-use-them-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#what-are-webhooks-and-why-use-them">
+                        What Are Webhooks and Why Use Them
+                      </a><a id="the-mental-model-that-helps-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#the-mental-model-that-helps">
+                        The mental model that helps
+                      </a><a id="what-works-and-what-fails-in-production-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#what-works-and-what-fails-in-production">
+                        What works and what fails in production
+                      </a><a id="anatomy-of-a-webhook-http-request-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#anatomy-of-a-webhook-http-request">
+                        Anatomy of a Webhook HTTP Request
+                      </a><a id="a-simple-raw-request-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#a-simple-raw-request">
+                        A simple raw request
+                      </a><a id="why-the-body-shape-matters-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#why-the-body-shape-matters">
+                        Why the body shape matters
+                      </a><a id="how-to-securely-verify-webhook-signatures-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#how-to-securely-verify-webhook-signatures">
+                        How to Securely Verify Webhook Signatures
+                      </a><a id="the-verification-flow-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#the-verification-flow">
+                        The verification flow
+                      </a><a id="what-to-watch-for-in-real-code-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#what-to-watch-for-in-real-code">
+                        What to watch for in real code
+                      </a><a id="a-generic-verification-example-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#a-generic-verification-example">
+                        A generic verification example
+                      </a><a id="protecting-against-replay-attacks-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#protecting-against-replay-attacks">
+                        Protecting Against Replay Attacks
+                      </a><a id="the-minimum-check-that-actually-matters-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#the-minimum-check-that-actually-matters">
+                        The minimum check that actually matters
+                      </a><a id="what-to-choose-for-the-tolerance-window-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#what-to-choose-for-the-tolerance-window">
+                        What to choose for the tolerance window
+                      </a><a id="replay-defense-is-not-just-a-timestamp-check-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#replay-defense-is-not-just-a-timestamp-check">
+                        Replay defense is not just a timestamp check
+                      </a><a id="building-a-webhook-receiver-in-nodejs-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#building-a-webhook-receiver-in-nodejs">
+                        Building a Webhook Receiver in Node.js
+                      </a><a id="a-production-minded-express-example-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#a-production-minded-express-example">
+                        A production-minded Express example
+                      </a><a id="why-this-structure-holds-up-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#why-this-structure-holds-up">
+                        Why this structure holds up
+                      </a><a id="what-id-change-for-a-live-system-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#what-id-change-for-a-live-system">
+                        What I’d change for a live system
+                      </a><a id="building-a-webhook-receiver-in-python-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#building-a-webhook-receiver-in-python">
+                        Building a Webhook Receiver in Python
+                      </a><a id="a-flask-example-with-signature-and-timestamp-checks-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#a-flask-example-with-signature-and-timestamp-checks">
+                        A Flask example with signature and timestamp checks
+                      </a><a id="flask-specific-details-that-matter-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#flask-specific-details-that-matter">
+                        Flask-specific details that matter
+                      </a><a id="where-teams-usually-get-stuck-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#where-teams-usually-get-stuck">
+                        Where teams usually get stuck
+                      </a><a id="building-a-webhook-receiver-in-go-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#building-a-webhook-receiver-in-go">
+                        Building a Webhook Receiver in Go
+                      </a><a id="a-standard-library-example-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#a-standard-library-example">
+                        A standard library example
+                      </a><a id="why-go-feels-solid-here-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#why-go-feels-solid-here">
+                        Why Go feels solid here
+                      </a><a id="operational-notes-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#operational-notes">
+                        Operational notes
+                      </a><a id="essential-debugging-techniques-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#essential-debugging-techniques">
+                        Essential Debugging Techniques
+                      </a><a id="a-practical-debugging-toolkit-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#a-practical-debugging-toolkit">
+                        A practical debugging toolkit
+                      </a><a id="logging-that-actually-helps-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#logging-that-actually-helps">
+                        Logging that actually helps
+                      </a><a id="reproduce-failures-with-the-original-inputs-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#reproduce-failures-with-the-original-inputs">
+                        Reproduce failures with the original inputs
+                      </a><a id="a-checklist-for-production-ready-webhooks-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#a-checklist-for-production-ready-webhooks">
+                        A Checklist for Production-Ready Webhooks
+                      </a><a id="security-and-correctness-checks-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#security-and-correctness-checks">
+                        Security and correctness checks
+                      </a><a id="reliability-checks-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#reliability-checks">
+                        Reliability checks
+                      </a><a id="observability-checks-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#observability-checks">
+                        Observability checks
+                      </a><a id="frequently-asked-questions-about-webhooks-link" class="ml-4 pl-2 truncate text-sm text-gray-400" href="#frequently-asked-questions-about-webhooks">
+                        Frequently Asked Questions About Webhooks
+                      </a><a id="what-status-code-should-i-return-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#what-status-code-should-i-return">
+                        What status code should I return?
+                      </a><a id="should-i-process-the-webhook-synchronously-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#should-i-process-the-webhook-synchronously">
+                        Should I process the webhook synchronously?
+                      </a><a id="how-should-i-handle-retries-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#how-should-i-handle-retries">
+                        How should I handle retries?
+                      </a><a id="what-if-events-arrive-out-of-order-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#what-if-events-arrive-out-of-order">
+                        What if events arrive out of order?
+                      </a><a id="how-do-i-deal-with-webhook-version-changes-link" class="ml-4 pl-4 truncate text-sm text-gray-400" href="#how-do-i-deal-with-webhook-version-changes">
+                        How do I deal with webhook version changes?
+                      </a>
+                  </div>
+                </div>
+              </div>
+        </div>
+      </div>
+      <div>
+  <div class="relative mx-4 my-6 max-w-4xl p-4 sm:mx-auto sm:my-10 sm:p-8 md:my-14 md:p-12">
+    <!-- Border design -->
+    <div class="absolute inset-0 rounded-[20px] border border-gray-700 sm:rounded-[40px]"></div>
+
+    <div class="relative">
+      <span class="mb-4 text-3xl leading-tight font-normal text-white sm:mb-6 sm:text-4xl md:text-[44px]">
+        Live updates for Capacitor apps
+      </span>
+
+      <p class="mb-6 max-w-3xl text-lg leading-relaxed font-normal text-gray-300 sm:mb-8 sm:text-xl md:mb-12">
+        When a web-layer bug is live, ship the fix through Capgo instead of waiting days for app store approval. Users get the update in the background while native changes stay in the normal review path.
+      </p>
+
+      <div class="flex flex-col items-start gap-3">
+        <p class="font-inter inline-flex items-center text-sm gap-1.5 text-gray-400 justify-start">
+  <span>human support from Martin</span>
+  <img src="/avatars/martin-96.webp" alt="" width="20" height="20" class="h-5 w-5 rounded-full object-cover ring-2 ring-white/15" loading="lazy" decoding="async" aria-hidden="true">
+</p>
+        <a href="/register/" class="inline-flex w-full items-center justify-center rounded-lg bg-black px-6 py-3 text-lg text-white transition-colors duration-200 hover:bg-gray-800 sm:w-auto sm:px-10 sm:py-4 sm:text-xl">
+          Get Started Now
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+      <div class="mx-auto max-w-xl text-center">
+        <p class="text-3xl font-semibold tracking-tight text-white sm:text-4xl lg:text-5xl">Latest from our Blog</p>
+        <p class="mt-4 text-base leading-7 font-normal text-gray-400 lg:mt-6 lg:text-lg lg:leading-8">
+          Capgo gives you the best insights you need to create a truly professional mobile app.
+        </p>
+      </div>
+      <div class="mt-8 grid grid-cols-1 gap-2 md:grid-cols-2 lg:grid-cols-3">
+            <a href="/blog/2-way-communication-in-capacitor-apps/" aria-label="2-Way Communication in Capacitor Apps" class="block pb-8 bg-gray-700 rounded-lg transition-transform duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-900">
+  <div>
+    <div class="relative p-2">
+      <img width="1536" height="1024" decoding="async" src="/blog-images/2-way-communication-in-capacitor-apps.webp" alt="2-Way Communication in Capacitor Apps" loading="lazy" class="object-contain w-full h-full text-transparent bg-center bg-no-repeat bg-cover rounded-lg border border-gray-600 z-2 aspect-video bg-linear-to-br from-gray-600/50 to-gray-700/50">
+      <div class="absolute top-4 left-4 right-4 flex flex-wrap gap-1.5 pointer-events-none">
+        <span class="max-w-full truncate py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white rounded-full shadow-lg">
+            Development
+          </span><span class="max-w-full truncate py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white rounded-full shadow-lg">
+            Mobile
+          </span>
+        <span class="shrink-0 py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white/90 rounded-full shadow-lg">
+            +1
+          </span>
+      </div>
+    </div>
+    <span class="block px-5 mt-3 text-sm font-semibold tracking-widest text-gray-300 uppercase">
+      April 26, 2025
+    </span>
+    <p class="px-5 mt-3 text-2xl font-semibold text-gray-100">
+      2-Way Communication in Capacitor Apps
+    </p>
+  </div>
+</a><a href="/blog/5-common-ota-update-mistakes-to-avoid/" aria-label="5 Common OTA Update Mistakes to Avoid" class="block pb-8 bg-gray-700 rounded-lg transition-transform duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-900">
+  <div>
+    <div class="relative p-2">
+      <img width="1536" height="1024" decoding="async" src="/blog-images/5-common-ota-update-mistakes-to-avoid.webp" alt="5 Common OTA Update Mistakes to Avoid" loading="lazy" class="object-contain w-full h-full text-transparent bg-center bg-no-repeat bg-cover rounded-lg border border-gray-600 z-2 aspect-video bg-linear-to-br from-gray-600/50 to-gray-700/50">
+      <div class="absolute top-4 left-4 right-4 flex flex-wrap gap-1.5 pointer-events-none">
+        <span class="max-w-full truncate py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white rounded-full shadow-lg">
+            Development
+          </span><span class="max-w-full truncate py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white rounded-full shadow-lg">
+            Security
+          </span>
+        <span class="shrink-0 py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white/90 rounded-full shadow-lg">
+            +1
+          </span>
+      </div>
+    </div>
+    <span class="block px-5 mt-3 text-sm font-semibold tracking-widest text-gray-300 uppercase">
+      April 13, 2025
+    </span>
+    <p class="px-5 mt-3 text-2xl font-semibold text-gray-100">
+      5 Common OTA Update Mistakes to Avoid
+    </p>
+  </div>
+</a><a href="/blog/5-security-best-practices-for-mobile-app-live-updates/" aria-label="5 Security Best Practices for Mobile App Live Updates" class="block pb-8 bg-gray-700 rounded-lg transition-transform duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-900">
+  <div>
+    <div class="relative p-2">
+      <img width="1536" height="1024" decoding="async" src="/blog-images/5-security-best-practices-for-mobile-app-live-updates.webp" alt="5 Security Best Practices for Mobile App Live Updates" loading="lazy" class="object-contain w-full h-full text-transparent bg-center bg-no-repeat bg-cover rounded-lg border border-gray-600 z-2 aspect-video bg-linear-to-br from-gray-600/50 to-gray-700/50">
+      <div class="absolute top-4 left-4 right-4 flex flex-wrap gap-1.5 pointer-events-none">
+        <span class="max-w-full truncate py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white rounded-full shadow-lg">
+            Development
+          </span><span class="max-w-full truncate py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white rounded-full shadow-lg">
+            Mobile
+          </span>
+        <span class="shrink-0 py-1.5 px-3 text-xs font-semibold tracking-widest text-gray-900 uppercase bg-white/90 rounded-full shadow-lg">
+            +1
+          </span>
+      </div>
+    </div>
+    <span class="block px-5 mt-3 text-sm font-semibold tracking-widest text-gray-300 uppercase">
+      January 14, 2025
+    </span>
+    <p class="px-5 mt-3 text-2xl font-semibold text-gray-100">
+      5 Security Best Practices for Mobile App Live Updates
+    </p>
+  </div>
+</a>
+          </div>
+      <div class="my-12 text-center">
+        <a href="/blog/" class="group inline-flex items-center text-sm font-semibold text-white transition-all duration-200 hover:text-gray-200 hover:underline">
+          See all from our blog
+          <svg class="ml-1 h-5 w-5 transition-all duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="7" y1="17" x2="17" y2="7"></line>
+            <polyline points="7 7 17 7 17 17"></polyline>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+      </main>
+      

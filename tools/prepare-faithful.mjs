@@ -8,7 +8,7 @@ let connected;try{connected=JSON.parse(await readFile('migration/mdx-sources.jso
 if(connected&&!process.argv.includes('--probe')){
  const options=JSON.parse(await readFile('.nift/mdx-render.json'));
  const result=await preparePaths(connected.sources.map(row=>row.source),options);
- console.log(JSON.stringify({prepared:result.prepared,cached:result.cached,pages:connected.sources.length}));
+ await mkdir('build/faithful',{recursive:true});const observation={prepared:result.prepared,cached:result.cached,pages:connected.sources.length};await writeFile('build/faithful/mdx-preparation.json',JSON.stringify(observation)+'\n');console.log(JSON.stringify(observation));
 }else {
 const manifest=JSON.parse(await readFile('data/corpus-manifest.json')),options=JSON.parse(await readFile('.nift/mdx-faithful.json')),eligible=[];
 for(const row of manifest.records.filter(x=>x.family==='docs')){const source='corpus/authored/'+row.source,body=await readFile(source,'utf8');if(!/^import /m.test(body)&&!body.includes('```')&&!body.includes('~~~')&&!/<[A-Za-z]/.test(body))eligible.push({...row,source});}
