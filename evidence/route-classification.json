@@ -1,8 +1,7 @@
 {
-  "status": "Migration in progress; all routes explicitly classified, five supplemental authored sources still pending.",
+  "status": "Migration in progress; all routes explicitly classified, five supplemental authored bodies connected; shell/runtime closure pending.",
   "counts": {
-    "unresolved/source connection pending": 5,
-    "source-backed plus retained browser/runtime controller": 1285,
+    "source-backed plus retained browser/runtime controller": 1290,
     "Nift-template-generated": 51,
     "intentionally retained generated/reference route": 4,
     "upstream-generated artifact with no distinct authored body": 2
@@ -11,10 +10,10 @@
     {
       "route": "/404.html",
       "file": "404.html",
-      "status": "unresolved/source connection pending",
+      "status": "source-backed plus retained browser/runtime controller",
       "source": "apps/web/src/pages/404.astro",
-      "reason": "The earlier manifest labelled this generated, but an authored page exists upstream. It is not counted among the 93 marketing sources; it requires explicit supplemental recovery.",
-      "nextStep": "Copy pinned authored page/components, connect source body, validate output and browser behavior.",
+      "reason": "Supplemental authored template body connected and strictly verified. Shell/metadata and upstream browser controllers remain retained.",
+      "nextStep": null,
       "wholePageMigrationComplete": false
     },
     {
@@ -11999,37 +11998,37 @@
     {
       "route": "/tools/android-keystore-generator/",
       "file": "tools/android-keystore-generator/index.html",
-      "status": "unresolved/source connection pending",
+      "status": "source-backed plus retained browser/runtime controller",
       "source": "apps/web/src/pages/tools/android-keystore-generator/index.astro",
-      "reason": "The earlier manifest labelled this generated, but an authored page exists upstream. It is not counted among the 93 marketing sources; it requires explicit supplemental recovery.",
-      "nextStep": "Copy pinned authored page/components, connect source body, validate output and browser behavior.",
+      "reason": "Supplemental authored template body connected and strictly verified. Shell/metadata and upstream browser controllers remain retained.",
+      "nextStep": null,
       "wholePageMigrationComplete": false
     },
     {
       "route": "/tools/",
       "file": "tools/index.html",
-      "status": "unresolved/source connection pending",
+      "status": "source-backed plus retained browser/runtime controller",
       "source": "apps/web/src/pages/tools/index.astro",
-      "reason": "The earlier manifest labelled this generated, but an authored page exists upstream. It is not counted among the 93 marketing sources; it requires explicit supplemental recovery.",
-      "nextStep": "Copy pinned authored page/components, connect source body, validate output and browser behavior.",
+      "reason": "Supplemental authored template body connected and strictly verified. Shell/metadata and upstream browser controllers remain retained.",
+      "nextStep": null,
       "wholePageMigrationComplete": false
     },
     {
       "route": "/tools/ios-certificate-generator/",
       "file": "tools/ios-certificate-generator/index.html",
-      "status": "unresolved/source connection pending",
+      "status": "source-backed plus retained browser/runtime controller",
       "source": "apps/web/src/pages/tools/ios-certificate-generator/index.astro",
-      "reason": "The earlier manifest labelled this generated, but an authored page exists upstream. It is not counted among the 93 marketing sources; it requires explicit supplemental recovery.",
-      "nextStep": "Copy pinned authored page/components, connect source body, validate output and browser behavior.",
+      "reason": "Supplemental authored template body connected and strictly verified. Shell/metadata and upstream browser controllers remain retained.",
+      "nextStep": null,
       "wholePageMigrationComplete": false
     },
     {
       "route": "/tools/ios-udid-finder/",
       "file": "tools/ios-udid-finder/index.html",
-      "status": "unresolved/source connection pending",
+      "status": "source-backed plus retained browser/runtime controller",
       "source": "apps/web/src/pages/tools/ios-udid-finder/index.astro",
-      "reason": "The earlier manifest labelled this generated, but an authored page exists upstream. It is not counted among the 93 marketing sources; it requires explicit supplemental recovery.",
-      "nextStep": "Copy pinned authored page/components, connect source body, validate output and browser behavior.",
+      "reason": "Supplemental authored template body connected and strictly verified. Shell/metadata and upstream browser controllers remain retained.",
+      "nextStep": null,
       "wholePageMigrationComplete": false
     },
     {

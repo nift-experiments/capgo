@@ -1,0 +1,76 @@
+{
+  "initialInventoryBodies": 1285,
+  "supplementalBodies": 5,
+  "pages": [
+    {
+      "route": "/404.html",
+      "source": "apps/web/src/pages/404.astro",
+      "sha256": "e63658b69a45b3c6d9668149c70fb26b426cb94646686a3956b41d3d07f27b98",
+      "roles": {
+        "body": true,
+        "metadata": true,
+        "listingStructure": false,
+        "pageShell": "Uses shared Layout.astro; generated shell currently retained",
+        "runtimeControllerBehavior": false
+      },
+      "niftRepresentation": "authored-template renderer -> build/faithful/web; connected Nift wrapper; metadata presently pinned in shared head templates",
+      "runtime": "Compiled original module retained where present; UDID download uses external/server endpoint. Runtime endpoint completion remains separate."
+    },
+    {
+      "route": "/tools/",
+      "source": "apps/web/src/pages/tools/index.astro",
+      "sha256": "554e0c64c9bda3c5e456edf6fbb9f923889e06fb8bc97c06a2a0aad503cf6f9d",
+      "roles": {
+        "body": true,
+        "metadata": true,
+        "listingStructure": true,
+        "pageShell": "Uses shared Layout.astro; generated shell currently retained",
+        "runtimeControllerBehavior": false
+      },
+      "niftRepresentation": "authored-template renderer -> build/faithful/web; connected Nift wrapper; metadata presently pinned in shared head templates",
+      "runtime": "Compiled original module retained where present; UDID download uses external/server endpoint. Runtime endpoint completion remains separate."
+    },
+    {
+      "route": "/tools/android-keystore-generator/",
+      "source": "apps/web/src/pages/tools/android-keystore-generator/index.astro",
+      "sha256": "ff76f284950cea76b55d95fd0abf9f30e3ab520ef3a7631192c9980e836985b4",
+      "roles": {
+        "body": true,
+        "metadata": true,
+        "listingStructure": false,
+        "pageShell": "Uses shared Layout.astro; generated shell currently retained",
+        "runtimeControllerBehavior": true
+      },
+      "niftRepresentation": "authored-template renderer -> build/faithful/web; connected Nift wrapper; metadata presently pinned in shared head templates",
+      "runtime": "Compiled original module retained where present; UDID download uses external/server endpoint. Runtime endpoint completion remains separate."
+    },
+    {
+      "route": "/tools/ios-certificate-generator/",
+      "source": "apps/web/src/pages/tools/ios-certificate-generator/index.astro",
+      "sha256": "c119583ef06816aeb40ec5f9b8ab07c1d1fa3c6b3f5b401931163cbd5f3da3a8",
+      "roles": {
+        "body": true,
+        "metadata": true,
+        "listingStructure": false,
+        "pageShell": "Uses shared Layout.astro; generated shell currently retained",
+        "runtimeControllerBehavior": true
+      },
+      "niftRepresentation": "authored-template renderer -> build/faithful/web; connected Nift wrapper; metadata presently pinned in shared head templates",
+      "runtime": "Compiled original module retained where present; UDID download uses external/server endpoint. Runtime endpoint completion remains separate."
+    },
+    {
+      "route": "/tools/ios-udid-finder/",
+      "source": "apps/web/src/pages/tools/ios-udid-finder/index.astro",
+      "sha256": "c0817bdc2a65f091fc1858c78e7269cb3e3e8f2948e60f797c787581cc5cabb4",
+      "roles": {
+        "body": true,
+        "metadata": true,
+        "listingStructure": false,
+        "pageShell": "Uses shared Layout.astro; generated shell currently retained",
+        "runtimeControllerBehavior": true
+      },
+      "niftRepresentation": "authored-template renderer -> build/faithful/web; connected Nift wrapper; metadata presently pinned in shared head templates",
+      "runtime": "Compiled original module retained where present; UDID download uses external/server endpoint. Runtime endpoint completion remains separate."
+    }
+  ]
+}

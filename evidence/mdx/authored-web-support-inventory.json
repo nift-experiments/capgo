@@ -243,8 +243,24 @@
       "sha256": "e2becb4085d12b933784053436b2ed133d64c551651c5c202b47f94a4779d405"
     },
     {
+      "source": "corpus/authored/apps/web/src/components/tools/ToolCatalog.astro",
+      "sha256": "a01311b0ce0e398b716c85222b1740909aad22d195b1b4f8bc6e134136fff46f"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/tools/ToolCodeBlock.astro",
+      "sha256": "277b4026c3902115201197f7186764f7227a4f397006391590bdf2f073195138"
+    },
+    {
       "source": "corpus/authored/apps/web/src/components/tools/ToolFaq.astro",
       "sha256": "d5cdc144fd8156d492b1418e7b41fb45bf8127f3930e5eb837421d5aed5ae00b"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/tools/ToolHowTo.astro",
+      "sha256": "f3a2134f62c9bbbf9e6d39a8c63654aeaef7d32b76b467d17318b31188548446"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/tools/ToolRelatedLinks.astro",
+      "sha256": "af5a8a0fb1b42dfe516d4a742d332aa67d13e6efb1cd79251034d6f27d3d14b8"
     },
     {
       "source": "corpus/authored/apps/web/src/lib/blog.ts",
@@ -289,6 +305,10 @@
     {
       "source": "corpus/authored/apps/web/src/lib/publicLiveUpdateMetrics.ts",
       "sha256": "860148827268a2191fba694ac98284a6d408d045503505bf2d8bc85e4398fbc7"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/tools/catalog.ts",
+      "sha256": "07ae56ab13528740dcac8b1e5d9aed789ab5a3a8da45754d8ece4ad96b2e8d41"
     },
     {
       "source": "corpus/authored/apps/web/src/lib/transparencyMetrics.ts",

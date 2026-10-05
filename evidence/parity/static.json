@@ -7,6 +7,7 @@
     "checked": 3876,
     "errors": [],
     "semanticMatches": [
+      "404.html",
       "docs/builder/ai-debug/index.html",
       "docs/builder/android/index.html",
       "docs/builder/ci-ota-or-native/index.html",
@@ -1183,6 +1184,10 @@
       "sponsor/index.html",
       "subprocessors/index.html",
       "support-policy/index.html",
+      "tools/android-keystore-generator/index.html",
+      "tools/index.html",
+      "tools/ios-certificate-generator/index.html",
+      "tools/ios-udid-finder/index.html",
       "tools/ios-udid-finder/result/index.html",
       "top_app/index.html",
       "top_capacitor_app/index.html",

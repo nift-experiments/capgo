@@ -1,0 +1,51 @@
+{
+  "eligible": 5,
+  "matched": 5,
+  "results": [
+    {
+      "route": "/404.html",
+      "file": "404.html",
+      "source": "corpus/authored/apps/web/src/pages/404.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111949,
+      "bodyEnd": 114130
+    },
+    {
+      "route": "/tools/",
+      "file": "tools/index.html",
+      "source": "corpus/authored/apps/web/src/pages/tools/index.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112178,
+      "bodyEnd": 121636
+    },
+    {
+      "route": "/tools/android-keystore-generator/",
+      "file": "tools/android-keystore-generator/index.html",
+      "source": "corpus/authored/apps/web/src/pages/tools/android-keystore-generator/index.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 119081,
+      "bodyEnd": 159306
+    },
+    {
+      "route": "/tools/ios-certificate-generator/",
+      "file": "tools/ios-certificate-generator/index.html",
+      "source": "corpus/authored/apps/web/src/pages/tools/ios-certificate-generator/index.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 119155,
+      "bodyEnd": 164596
+    },
+    {
+      "route": "/tools/ios-udid-finder/",
+      "file": "tools/ios-udid-finder/index.html",
+      "source": "corpus/authored/apps/web/src/pages/tools/ios-udid-finder/index.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 117357,
+      "bodyEnd": 143475
+    }
+  ]
+}

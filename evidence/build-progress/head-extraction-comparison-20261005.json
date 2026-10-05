@@ -1,0 +1,47 @@
+{
+  "method": "Three alternating old-head/extracted-head normal nift build --all runs. Same authored tree, preparation caches and installed dependencies; only head include expressions switched. Not final frozen-architecture benchmark.",
+  "threads": -1,
+  "nift": "4.6.0",
+  "samples": [
+    {
+      "state": "baseline",
+      "run": 1,
+      "elapsedSeconds": 4.49,
+      "peakProcessRssKiB": 242552
+    },
+    {
+      "state": "baseline",
+      "run": 2,
+      "elapsedSeconds": 4.5,
+      "peakProcessRssKiB": 241200
+    },
+    {
+      "state": "baseline",
+      "run": 3,
+      "elapsedSeconds": 4.18,
+      "peakProcessRssKiB": 241496
+    },
+    {
+      "state": "extracted",
+      "run": 1,
+      "elapsedSeconds": 4.4,
+      "peakProcessRssKiB": 241872
+    },
+    {
+      "state": "extracted",
+      "run": 2,
+      "elapsedSeconds": 4.57,
+      "peakProcessRssKiB": 241784
+    },
+    {
+      "state": "extracted",
+      "run": 3,
+      "elapsedSeconds": 4.39,
+      "peakProcessRssKiB": 241532
+    }
+  ],
+  "medians": {
+    "baseline": 4.49,
+    "extracted": 4.4
+  }
+}

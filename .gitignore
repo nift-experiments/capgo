@@ -1,6 +1,6 @@
 node_modules/
 public/
-build/
+/build/
 .nift/packages/
 .nift/mdx-prepared/
 .nift/mdx-cache/

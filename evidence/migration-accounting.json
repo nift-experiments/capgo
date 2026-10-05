@@ -4,6 +4,8 @@
     "routes": 1347,
     "distinctInventoryAuthoredSourcePages": 1285,
     "knownSupplementalAuthoredPageTemplates": 5,
+    "connectedSupplementalAuthoredBodies": 5,
+    "remainingSupplementalAuthoredBodies": 0,
     "connectedAuthoredBodies": 1285,
     "connectedDocsBodies": 529,
     "connectedWebBodies": 756,
@@ -11,8 +13,8 @@
     "remainingMarketingBodies": 0,
     "remainingInventoryAuthoredBodies": 0,
     "sourceBackedListingLayouts": 51,
-    "sourceBackedRenderedRegions": 1336,
-    "retainedGeneratedRoutes": 7,
+    "sourceBackedRenderedRegions": 1341,
+    "retainedGeneratedRoutes": 2,
     "legacyReferenceRoutes": 4,
     "localeExpandedRoutes": 0
   },
@@ -44,7 +46,7 @@
   "remainingAuthoredRoutes": [],
   "notes": [
     "Body counts exclude the generated listing layouts. Source-backed rendered regions include those layouts once; listing grids are nested within them and must not be added again.",
-    "Five routes previously labelled generated have supplemental authored templates; these are not silently counted as migrated or folded into the initial source inventory.",
+    "Five routes previously labelled generated have supplemental authored templates; these are explicitly counted as supplemental or folded into the initial source inventory.",
     "Every manifest authored source currently maps to one English route. No locale expansion is present.",
     "Source-backed bodies still retain generated shell/metadata and upstream runtime; these counts do not mean fully migrated pages.",
     "Retained generated and legacy route groups are identified, but individual architecture classifications remain pending."
