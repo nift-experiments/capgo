@@ -1,0 +1,21 @@
+{
+  "revision": "2f8dae1a",
+  "cleanClone": true,
+  "copiedCaches": false,
+  "globalMdxResolution": false,
+  "command": "env -u MDX_NODE_MODULES node tools/build.mjs --all",
+  "seconds": 79.71,
+  "peakRssKiB": 652656,
+  "parity": {
+    "routes": 1347,
+    "files": 3876,
+    "introducedIssues": 0,
+    "semanticDifferences": 0,
+    "gate": true
+  },
+  "heads": {
+    "routes": 1347,
+    "byteIdentical": 1347
+  },
+  "dependencyInstallationIncludedInTiming": false
+}

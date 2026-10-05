@@ -1,3 +1,7 @@
+# Earlier provider scaffold (not the faithful frontend contract)
+
+See `RUNTIME-INTEGRATIONS.md` for the current faithful integration classification. The contract below belongs to the earlier provider scaffold; original production controllers have not been adapted to these same-origin endpoints.
+
 # Runtime feature contract
 
 Generation and API behavior are separate. Frozen mode uses hash-recorded public plans/credits snapshots and labels their acquisition date. Live mode uses CAPGO_PROVIDER_URL with CAPGO_PROVIDER_TOKEN only in the local/hosted server. Browser requests same-origin /api endpoints; arbitrary URLs and client-supplied authentication targets are not proxyable. A user-owned provider implements the checked capability contract, independently of Capgo's backend.
