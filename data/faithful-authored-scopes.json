@@ -1,0 +1,51 @@
+{
+  "compiler": "@astrojs/compiler-rs",
+  "version": "0.5.0",
+  "purpose": "Pinned compiler scope metadata; normal Nift builds use source templates and retained CSS assets, not the Astro compiler/runtime.",
+  "records": {
+    "corpus/authored/apps/web/src/components/AppLogoStrip.astro": {
+      "scope": "data-astro-cid-335u7yr6",
+      "sourceSha256": "3dd8e9dc4ca8d1acf0a8a62cf601fb5b28a13aecfc12c4033c15ae475e990795"
+    },
+    "corpus/authored/apps/web/src/components/AskAiSection.astro": {
+      "scope": "data-astro-cid-bowlnysz",
+      "sourceSha256": "bd1a183fa0212c4f346c025fff6c701bed08c09849900274cfca0a76205ccd24"
+    },
+    "corpus/authored/apps/web/src/components/HeroWorldMap.astro": {
+      "scope": "data-astro-cid-pd2ezbyl",
+      "sourceSha256": "128f7a5303fd006b558d178d2e5afe12fd8856aea6d2eff5a77debc758f2d9f3"
+    },
+    "corpus/authored/apps/web/src/components/ProblemSolution.astro": {
+      "scope": "data-astro-cid-swxkmlat",
+      "sourceSha256": "34fd40173666c94ccc68cec527af0785e828e873c2247c0ed89345a9dc8f8431"
+    },
+    "corpus/authored/apps/web/src/components/SharedNumbers.astro": {
+      "scope": "data-astro-cid-nbm37sxk",
+      "sourceSha256": "7f1c7f3331a2a0ad32ab847f0741350ffc00072e34ae5173754fec20c10d80c9"
+    },
+    "corpus/authored/apps/web/src/pages/builder-data.astro": {
+      "scope": "data-astro-cid-ebmaqv3d",
+      "sourceSha256": "eabb755a348726ab8240f7c80f92bd49803859dcaa1464f2ab30dc80e08ad375"
+    },
+    "corpus/authored/apps/web/src/pages/ci_cd.astro": {
+      "scope": "data-astro-cid-2m4iktut",
+      "sourceSha256": "80d9cf17b82fd1783c93f110d0322c88c720e3c1310043e0e8f17aefa431388e"
+    },
+    "corpus/authored/apps/web/src/pages/data.astro": {
+      "scope": "data-astro-cid-w4fumhmk",
+      "sourceSha256": "edce77f0b6f3d72c7e2bfbaa47eec15eced66067a0c496d05ac5da68ca7e5627"
+    },
+    "corpus/authored/apps/web/src/pages/notifications.astro": {
+      "scope": "data-astro-cid-rkcmdb3v",
+      "sourceSha256": "706389d4cd55437b135e94397373757bb3c01f576f1b7ab6ba3d86fb5755a826"
+    },
+    "corpus/authored/apps/web/src/pages/observe.astro": {
+      "scope": "data-astro-cid-hyl6gyso",
+      "sourceSha256": "0c3619fc88abb098f7433f375f7a88a8c521e80ffcb1f3c1cb3626e95ebca895"
+    },
+    "corpus/authored/apps/web/src/pages/register.astro": {
+      "scope": "data-astro-cid-fvopxden",
+      "sourceSha256": "4efef086d2ccfb8ca4ee3ac933dcce3b7accc053455e07759c144561837e5a14"
+    }
+  }
+}

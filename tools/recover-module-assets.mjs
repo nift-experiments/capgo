@@ -1,0 +1,4 @@
+// One-time recovery of pinned runtime bundle identities, never run by normal builds.
+import{readFile,writeFile}from'node:fs/promises';import{parse}from'parse5';
+const routes=JSON.parse(await readFile('golden/routes.json')),assets=new Set();for(const r of routes){function visit(n){if(n.tagName==='script'){const src=n.attrs.find(a=>a.name==='src')?.value;if(src?.includes('.astro_astro_type_script_index_'))assets.add(src)}for(const c of n.childNodes??[])visit(c)}visit(parse(await readFile('golden/site/'+r.file,'utf8')))}
+await writeFile('data/faithful-module-assets.json',JSON.stringify({note:'Retained pinned production module URLs for authored scripts that are bundled as external runtime assets. Source bodies are regenerated; these runtime bundles remain explicit dependencies.',assets:[...assets].sort()},null,2)+'\n');

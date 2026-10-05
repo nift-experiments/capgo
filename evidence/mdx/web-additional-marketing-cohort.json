@@ -1,0 +1,69 @@
+{
+  "eligible": 7,
+  "matched": 7,
+  "results": [
+    {
+      "route": "/app-store-refusal-horror-story/",
+      "file": "app-store-refusal-horror-story/index.html",
+      "source": "corpus/authored/apps/web/src/pages/app-store-refusal-horror-story.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 6826,
+      "bodyEnd": 33579
+    },
+    {
+      "route": "/contact/",
+      "file": "contact/index.html",
+      "source": "corpus/authored/apps/web/src/pages/contact.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 110678,
+      "bodyEnd": 114650
+    },
+    {
+      "route": "/contributing/",
+      "file": "contributing/index.html",
+      "source": "corpus/authored/apps/web/src/pages/contributing.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111932,
+      "bodyEnd": 117790
+    },
+    {
+      "route": "/imprint/",
+      "file": "imprint/index.html",
+      "source": "corpus/authored/apps/web/src/pages/imprint.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111860,
+      "bodyEnd": 112645
+    },
+    {
+      "route": "/integrations/",
+      "file": "integrations/index.html",
+      "source": "corpus/authored/apps/web/src/pages/integrations.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112103,
+      "bodyEnd": 119688
+    },
+    {
+      "route": "/ionic-enterprise-plugins/",
+      "file": "ionic-enterprise-plugins/index.html",
+      "source": "corpus/authored/apps/web/src/pages/ionic-enterprise-plugins.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114031,
+      "bodyEnd": 167802
+    },
+    {
+      "route": "/top_app/",
+      "file": "top_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111987,
+      "bodyEnd": 116769
+    }
+  ]
+}

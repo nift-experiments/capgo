@@ -1,0 +1,4 @@
+{
+  "referenceDate": "2026-10-05",
+  "note": "Calendar date printed by the pinned local golden reference build. Used to reproduce authored build-time date labels deterministically; not a live-data claim."
+}

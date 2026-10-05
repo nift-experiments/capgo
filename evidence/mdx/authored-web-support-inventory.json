@@ -1,0 +1,290 @@
+{
+  "upstreamCommit": "7d5b69d6ba8a6630384dffc7d012431ee3ed22ec",
+  "purpose": "Authored web support files copied from pinned upstream; retained compiler/runtime data is separately recorded.",
+  "records": [
+    {
+      "source": "corpus/authored/apps/web/src/components/AgentReadySection.astro",
+      "sha256": "e11d1a85fc1f71c9a72560415450012032c1e82a08a50d7bf87f245f54b273ac"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/AppLogoStrip.astro",
+      "sha256": "3dd8e9dc4ca8d1acf0a8a62cf601fb5b28a13aecfc12c4033c15ae475e990795"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/AppflowShutdown.astro",
+      "sha256": "3e6290e678114f338d3ba26679036f8434080f7e2864f514c7e1bba02fa2f7d3"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/AskAiSection.astro",
+      "sha256": "bd1a183fa0212c4f346c025fff6c701bed08c09849900274cfca0a76205ccd24"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/Blog.astro",
+      "sha256": "bb2daa821774d8721b466bbf442f5557f6a7156653c397042299d01ab7844456"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/BlogListing.astro",
+      "sha256": "1895623e97c241363943c9e47dfdc4099fbd62c0796563735f4a72bd954f1f14"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/CommandCode.astro",
+      "sha256": "25bb6ad97261941e0a658b20775ec962e0347eb848e8fe95a25c4582a84aee65"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/GlobalInfrastructure.astro",
+      "sha256": "42060aadc84187c07315fa36f60ca302287b10b9371d8141336f339d3a9097f0"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/Hero.astro",
+      "sha256": "086a273032e7feea5e44598055cedd795b652d2f2e21f5d6632afe2dd2961e11"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/HeroWorldMap.astro",
+      "sha256": "128f7a5303fd006b558d178d2e5afe12fd8856aea6d2eff5a77debc758f2d9f3"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/HowItWorks.astro",
+      "sha256": "e9b0929d216a9d3c2bfabc67ef4ca4eb502936a4949f4991065b0d444f3ffa26"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/HumanSupport.astro",
+      "sha256": "42bfc531f9c2d17bca6de281ee0c3d61b6c803043da4ce7590cbc3ea5e4f6588"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/PlatformOverview.astro",
+      "sha256": "eeb3e480f2a721cb0cb8e1215abfc64da110a59fe249555af1c4e5066f59172f"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/ProblemSolution.astro",
+      "sha256": "34fd40173666c94ccc68cec527af0785e828e873c2247c0ed89345a9dc8f8431"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/ProductAppExamples.astro",
+      "sha256": "42c2d604b43167d63680637f472ab5d49f01f9cef40eba53fcad1c91fb87666d"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/ProductTestimonials.astro",
+      "sha256": "ab12130472f945a71ac406ad333119cb916360c3e5c2d543c7e7d233e32285e0"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/ProductVideoSection.astro",
+      "sha256": "b894559e1849ea9ea8977971279ef24bab530bfe21f50790b90b2c91630e4553"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/RatingSummary.astro",
+      "sha256": "8f6eb9ab262e21fdebc143dfb7a7aed6bf5531dbd10c0b06bf13594f349a4499"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/SharedNumbers.astro",
+      "sha256": "7f1c7f3331a2a0ad32ab847f0741350ffc00072e34ae5173754fec20c10d80c9"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/StackChips.astro",
+      "sha256": "7f050979864ba8d1635300a94312f63bc6978b512738d1499fb4d10df6ecb3bb"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/StorePolicySection.astro",
+      "sha256": "f36c3e9efd04606dce90543cc01e757fbcc0325e8b1e30e7258576da7ab4cdbf"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/TeamAvatars.astro",
+      "sha256": "1f557567265e56593dc1b2a89f84f7fb25823667beef3a898f8bc586f8eff574"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/Testimonials.astro",
+      "sha256": "d432035d781ee9e4c70353b4380826bcb132a9c83abf771d0984bc55f2ab1242"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/TransparencySection.astro",
+      "sha256": "cf300af022a5f760d787ce9efba47db7d9c9a8ca3d0d6a8ce84cd021e84014e6"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/WhyCapgo.astro",
+      "sha256": "a6ab61569ce149503fd1d440f5303b783e7a7824395744d4f8e8d62ed31757d1"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/YouTubeFacade.astro",
+      "sha256": "7b055de5019ae070825ebcdd8abed54b2641b9ff873b336ea1e6a9b6dbad6eda"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/comparison/ComparisonPage.astro",
+      "sha256": "067787500bb84a76e9636c3d136b3bd6781f107f6b667cdf32b4dc8f5ef25654"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/conversion/ConversionLandingLayout.astro",
+      "sha256": "1611bc79bbd980231ea8c48fff804378049cee0d3c9c80806d04d87263f1ca7c"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/conversion/ConversionRelatedLinks.astro",
+      "sha256": "8318bfd6c9c4fe3c121427f19a616fcf38873fe9397bcc38c2059b825ac32d47"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/ABTestIllustration.astro",
+      "sha256": "0a2125ed7adb6850290582b0edbef03b0a13867e0916853df1015ccaf142e1d3"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/AgencyDashboardIllustration.astro",
+      "sha256": "84e366051c02243b11c368a85438fa41cc8ea8d7be45464a119b1c385e3fb313"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/BugFixIllustration.astro",
+      "sha256": "b9bca562a22b8ef240d47f6e03cb436b27f4e52efcabebb8fea70a1d3536a6ce"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/HandoffIllustration.astro",
+      "sha256": "445af2ddc48af945c0e80104d13d9ad1340be89389830aa310adc2d6eb9593c5"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/HierarchyDashboardIllustration.astro",
+      "sha256": "704c348abe7f8fc1a2e57611b51b95c147258a97fce2d7566ef0d902e1bd9b08"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/RolloutIllustration.astro",
+      "sha256": "bc7dd9143833a72661566827bf65115e4796baf7074895fc66d24bc99f83432c"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/SecurityIllustration.astro",
+      "sha256": "6782f03e974492c514a0bf2e6bf52e714f56fc153baa46721d2f910c2dcc02cb"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/SolutionAppExample.astro",
+      "sha256": "2cfbb08531bcfeaf06cf31b7c31845bee8042c9b74e54f453b21834c25976c6e"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/SolutionFaq.astro",
+      "sha256": "95e691eef5cb38c666302ab79171e6db44f4a2b40569a9b10609315aa68ce102"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/SolutionHowItWorks.astro",
+      "sha256": "6d326dba1a7454f6f75566865fe7f69a58c694a772a9267d523fb928ee800ce8"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/components/solutions/WhiteLabelIllustration.astro",
+      "sha256": "e2becb4085d12b933784053436b2ed133d64c551651c5c202b47f94a4779d405"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/blog.ts",
+      "sha256": "b4d4d75d6c278369f3a9eff743b2952c297756abd40cfba2ee9e79d3da70d164"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/ldJson.ts",
+      "sha256": "d7440ce7701534e08a418ffaa6d46a0c6f5f90d1761b3c75c111f21e2778cadf"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/metricsTrendChart.ts",
+      "sha256": "f5b926ff44f887476f74a51e4eb75d99680c6c83a3c75e107b8ab8c0431e55d6"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/publicBuilderMetrics.ts",
+      "sha256": "1b1ad56692e1c8b31f06ca8301c09e0015c9d640669a0bfd6bc20230bbf8fe56"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/publicLiveUpdateMetrics.ts",
+      "sha256": "860148827268a2191fba694ac98284a6d408d045503505bf2d8bc85e4398fbc7"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/lib/transparencyMetrics.ts",
+      "sha256": "33520e9c04342bfdc490fbd842e315cf14f1f7f1282c213ddb161c3f3ecd2e66"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/app.ts",
+      "sha256": "fa60013a926fc5dd9e5c807ed8208de28b0db49519c9498018c145eb3021f8f1"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/customerApps.ts",
+      "sha256": "735a56c5978439638638962a6567c992a8a68d66043f1b1d306ca61a27c36a10"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/integrations.ts",
+      "sha256": "44b96d1391f6cb7895a14c7b293a48567c815a6d8a2e5fc94d87029b009250be"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/plugins.ts",
+      "sha256": "7e2d3bd91bd888cf2feeed415bd2552f7ecc899b520e93668331cd7846b5a966"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/productIcons.ts",
+      "sha256": "3ec8e1921e8c502fbc6aa839046707b0d25cd510ab20627242b8b89ed99de0ab"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/productTestimonials.ts",
+      "sha256": "ae0a99a31ec90869ff67c33e671409289f32c80dbaef15353acabbf535f98099"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/productVideos.ts",
+      "sha256": "77eee6a12e8a90be4b8656534ad7ba5e13ea9d629980b40371358926f72c33b5"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/siteMetrics.ts",
+      "sha256": "aad7cfe4ebef694f0b9db1cba2e3ac5da2feae1462ccbd0fefac2cce53e719b9"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/solutionAppExamples.ts",
+      "sha256": "87d38448e6cc806278228b91e7fe2b7d5c67f352bba0f11fea66124eecade2bf"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/solutionStoreApps.ts",
+      "sha256": "ed5b581b2a62a032b89c970cda9f8d0f66978dd53d0fb7aaf339d246860e8666"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/config/worldMap.ts",
+      "sha256": "85d948f0ccc3d78e73a1e06f89fa0c591ddf6ea9a7efe67551197aefefde8a3a"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/services/github.ts",
+      "sha256": "7c7811406ce107167b6100055a225f90e263c124aacd6f680e7707f8c9e33527"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/services/links.ts",
+      "sha256": "2f9c74840e7e4adfef6505724f77338afac3e6b4ecc9d2a3d7e20a0ebc16f58a"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/services/locale.ts",
+      "sha256": "20c6f0f141883bd0f827db8c7af671eaca6572fca009b4cf4fa3152d6fd8ecf0"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/services/misc.ts",
+      "sha256": "a6cb30101ca44764218450f59ebf58e87b7127eaacfdef1829d8c26dd2ef15f4"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/styles/cli-product.css",
+      "sha256": "249f420dc7d90d60a17d4161a0abe64a889050781b818b58b04eb10485d4ea34"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/styles/compare-page.css",
+      "sha256": "733d597b8761bfd58296de26c05f71c15c0ea47eeb02bed9883dbff7872e388d"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/styles/lu-product.css",
+      "sha256": "fe7e9375c2cef5547d562ea8d2f52f4b2743311ddf57b13b02711debc3f909bd"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/styles/mobile-app-product.css",
+      "sha256": "c293f56e9115b5b791fddba92f9f9d987ba9212c4e2be97b1e62bf29760f2604"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/styles/skills-product.css",
+      "sha256": "ac341a43219fc452f4a3747f6d30a89aab57d88f1b3f7e250de85f7ecc647958"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/data/appStoreRefusalStories.ts",
+      "sha256": "e457d62dd77feb145d5d4a15d736d421e40fd5dd14ac844ea63cad2d17e148c9"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/data/github-stars.json",
+      "sha256": "a6468350dc09394718214ec1d31d0827aab5b7fd07ac8c6e29f8d4611a37b8b3"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/data/github-stats.json",
+      "sha256": "59140c9b1d14c84b0499e0696bef9e46e54eec2892f9489d55178d113b2efa39"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/data/npm-downloads.json",
+      "sha256": "47e0da7e50434012bad9207e0c557571df135839740a23f7f49e0a9593bfac0b"
+    },
+    {
+      "source": "corpus/authored/apps/web/src/data/transparency.json",
+      "sha256": "abce358e2c54013f992b2a4e43f9ee46b2d75bc3150983b1d00899d3ba3f6b68"
+    }
+  ]
+}

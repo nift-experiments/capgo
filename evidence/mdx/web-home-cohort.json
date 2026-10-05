@@ -1,0 +1,15 @@
+{
+  "eligible": 1,
+  "matched": 1,
+  "results": [
+    {
+      "route": "/",
+      "file": "index.html",
+      "source": "corpus/authored/apps/web/src/pages/index.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113815,
+      "bodyEnd": 280472
+    }
+  ]
+}

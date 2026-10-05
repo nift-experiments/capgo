@@ -10995,6 +10995,402 @@
       "matches": true,
       "bodyStart": 112037,
       "bodyEnd": 127821
+    },
+    {
+      "route": "/solutions/agencies/",
+      "file": "solutions/agencies/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/agencies.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115770,
+      "bodyEnd": 192910
+    },
+    {
+      "route": "/solutions/beta-testing/",
+      "file": "solutions/beta-testing/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/beta-testing.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116175,
+      "bodyEnd": 186963
+    },
+    {
+      "route": "/solutions/build-without-mac/",
+      "file": "solutions/build-without-mac/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/build-without-mac.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115802,
+      "bodyEnd": 175074
+    },
+    {
+      "route": "/solutions/cordova-to-capacitor-ai/",
+      "file": "solutions/cordova-to-capacitor-ai/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/cordova-to-capacitor-ai.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116668,
+      "bodyEnd": 182988
+    },
+    {
+      "route": "/solutions/cordova-to-capacitor/",
+      "file": "solutions/cordova-to-capacitor/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/cordova-to-capacitor.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115846,
+      "bodyEnd": 202082
+    },
+    {
+      "route": "/solutions/direct-updates/",
+      "file": "solutions/direct-updates/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/direct-updates.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116267,
+      "bodyEnd": 202820
+    },
+    {
+      "route": "/solutions/ecommerce/",
+      "file": "solutions/ecommerce/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/ecommerce.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115918,
+      "bodyEnd": 187831
+    },
+    {
+      "route": "/solutions/fintech/",
+      "file": "solutions/fintech/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/fintech.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116125,
+      "bodyEnd": 194065
+    },
+    {
+      "route": "/solutions/healthcare/",
+      "file": "solutions/healthcare/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/healthcare.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116177,
+      "bodyEnd": 192944
+    },
+    {
+      "route": "/solutions/ionic-enterprise-plugins/",
+      "file": "solutions/ionic-enterprise-plugins/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/ionic-enterprise-plugins.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116015,
+      "bodyEnd": 176798
+    },
+    {
+      "route": "/solutions/lovable-vibecoding-to-mobile/",
+      "file": "solutions/lovable-vibecoding-to-mobile/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/lovable-vibecoding-to-mobile.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116075,
+      "bodyEnd": 182682
+    },
+    {
+      "route": "/solutions/pr-preview/",
+      "file": "solutions/pr-preview/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/pr-preview.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116005,
+      "bodyEnd": 197444
+    },
+    {
+      "route": "/solutions/production-updates/",
+      "file": "solutions/production-updates/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/production-updates.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116435,
+      "bodyEnd": 207299
+    },
+    {
+      "route": "/solutions/qsr/",
+      "file": "solutions/qsr/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/qsr.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115918,
+      "bodyEnd": 196370
+    },
+    {
+      "route": "/solutions/set-and-forget/",
+      "file": "solutions/set-and-forget/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/set-and-forget.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116288,
+      "bodyEnd": 179995
+    },
+    {
+      "route": "/solutions/solo-developers/",
+      "file": "solutions/solo-developers/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/solo-developers.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115773,
+      "bodyEnd": 191425
+    },
+    {
+      "route": "/solutions/startups/",
+      "file": "solutions/startups/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/startups.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115524,
+      "bodyEnd": 184575
+    },
+    {
+      "route": "/solutions/version-targeting/",
+      "file": "solutions/version-targeting/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/version-targeting.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116053,
+      "bodyEnd": 187247
+    },
+    {
+      "route": "/solutions/webapp-to-mobile/",
+      "file": "solutions/webapp-to-mobile/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/webapp-to-mobile.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115746,
+      "bodyEnd": 181742
+    },
+    {
+      "route": "/solutions/white-label/",
+      "file": "solutions/white-label/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/white-label.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115792,
+      "bodyEnd": 176923
+    },
+    {
+      "route": "/app-store-refusal-horror-story/",
+      "file": "app-store-refusal-horror-story/index.html",
+      "source": "corpus/authored/apps/web/src/pages/app-store-refusal-horror-story.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 6826,
+      "bodyEnd": 33579
+    },
+    {
+      "route": "/contact/",
+      "file": "contact/index.html",
+      "source": "corpus/authored/apps/web/src/pages/contact.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 110678,
+      "bodyEnd": 114650
+    },
+    {
+      "route": "/contributing/",
+      "file": "contributing/index.html",
+      "source": "corpus/authored/apps/web/src/pages/contributing.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111932,
+      "bodyEnd": 117790
+    },
+    {
+      "route": "/imprint/",
+      "file": "imprint/index.html",
+      "source": "corpus/authored/apps/web/src/pages/imprint.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111860,
+      "bodyEnd": 112645
+    },
+    {
+      "route": "/integrations/",
+      "file": "integrations/index.html",
+      "source": "corpus/authored/apps/web/src/pages/integrations.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112103,
+      "bodyEnd": 119688
+    },
+    {
+      "route": "/ionic-enterprise-plugins/",
+      "file": "ionic-enterprise-plugins/index.html",
+      "source": "corpus/authored/apps/web/src/pages/ionic-enterprise-plugins.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114031,
+      "bodyEnd": 167802
+    },
+    {
+      "route": "/top_app/",
+      "file": "top_app/index.html",
+      "source": "corpus/authored/apps/web/src/pages/top_app.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111987,
+      "bodyEnd": 116769
+    },
+    {
+      "route": "/alternatives/capawesome/",
+      "file": "alternatives/capawesome/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/capawesome.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116174,
+      "bodyEnd": 166041
+    },
+    {
+      "route": "/alternatives/codepush/",
+      "file": "alternatives/codepush/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/codepush.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115381,
+      "bodyEnd": 162799
+    },
+    {
+      "route": "/alternatives/expo/",
+      "file": "alternatives/expo/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/expo.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 118593,
+      "bodyEnd": 171789
+    },
+    {
+      "route": "/alternatives/ionic-appflow/",
+      "file": "alternatives/ionic-appflow/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/ionic-appflow.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 117729,
+      "bodyEnd": 174280
+    },
+    {
+      "route": "/alternatives/median/",
+      "file": "alternatives/median/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/median.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116517,
+      "bodyEnd": 166281
+    },
+    {
+      "route": "/alternatives/voltbuilder/",
+      "file": "alternatives/voltbuilder/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/voltbuilder.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115376,
+      "bodyEnd": 162679
+    },
+    {
+      "route": "/",
+      "file": "index.html",
+      "source": "corpus/authored/apps/web/src/pages/index.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113815,
+      "bodyEnd": 280472
+    },
+    {
+      "route": "/alternatives/",
+      "file": "alternatives/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 117172,
+      "bodyEnd": 173446
+    },
+    {
+      "route": "/app_mobile/",
+      "file": "app_mobile/index.html",
+      "source": "corpus/authored/apps/web/src/pages/app_mobile.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115129,
+      "bodyEnd": 151252
+    },
+    {
+      "route": "/capgo-cli/",
+      "file": "capgo-cli/index.html",
+      "source": "corpus/authored/apps/web/src/pages/capgo-cli.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115067,
+      "bodyEnd": 157065
+    },
+    {
+      "route": "/mcp/",
+      "file": "mcp/index.html",
+      "source": "corpus/authored/apps/web/src/pages/mcp.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111226,
+      "bodyEnd": 114233
+    },
+    {
+      "route": "/skills/",
+      "file": "skills/index.html",
+      "source": "corpus/authored/apps/web/src/pages/skills.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114829,
+      "bodyEnd": 266682
+    },
+    {
+      "route": "/ci_cd/",
+      "file": "ci_cd/index.html",
+      "source": "corpus/authored/apps/web/src/pages/ci_cd.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114389,
+      "bodyEnd": 181376
+    },
+    {
+      "route": "/subprocessors/",
+      "file": "subprocessors/index.html",
+      "source": "corpus/authored/apps/web/src/pages/subprocessors.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112052,
+      "bodyEnd": 122496
+    },
+    {
+      "route": "/cost/cost-to-publish-app-on-app-store/",
+      "file": "cost/cost-to-publish-app-on-app-store/index.html",
+      "source": "corpus/authored/apps/web/src/pages/cost/cost-to-publish-app-on-app-store.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113389,
+      "bodyEnd": 144181
+    },
+    {
+      "route": "/security-scanner/",
+      "file": "security-scanner/index.html",
+      "source": "corpus/authored/apps/web/src/pages/security-scanner.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112186,
+      "bodyEnd": 130573
+    },
+    {
+      "route": "/tools/ios-udid-finder/result/",
+      "file": "tools/ios-udid-finder/result/index.html",
+      "source": "corpus/authored/apps/web/src/pages/tools/ios-udid-finder/result.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 109839,
+      "bodyEnd": 112037
     }
   ]
 }

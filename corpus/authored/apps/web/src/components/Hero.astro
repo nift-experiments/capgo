@@ -1,0 +1,87 @@
+---
+import m from '@/copy/messages'
+import { getRelativeLocaleUrl } from '@/services/links'
+import TeamAvatars from '@/components/TeamAvatars.astro'
+import AppLogoStrip from '@/components/AppLogoStrip.astro'
+import HeroWorldMap from '@/components/HeroWorldMap.astro'
+
+const nativeBuildUrl = getRelativeLocaleUrl(Astro.locals.locale, 'native-build')
+const teamUrl = 'https://book.capgo.app/demo/'
+---
+
+<section>
+  <div class="relative overflow-hidden">
+    <div class="relative mx-auto max-w-7xl pb-8 md:pb-32 2xl:max-w-[90vw]">
+      <HeroWorldMap />
+      <div data-hero-copy class="relative z-10 mx-auto max-w-7xl px-4 pt-4 text-center sm:px-6 sm:pt-6 lg:px-0 lg:pt-8 xl:pt-10 2xl:pt-20">
+        <a
+          id="hero-whatsnew-pill"
+          href={nativeBuildUrl}
+          class="font-inter mb-8 inline-flex min-h-8 max-w-full items-center gap-2 rounded-full border border-white/15 bg-white/5 py-1 pr-3 pl-1 text-xs font-medium text-slate-300 transition-colors hover:border-blue-400/40 hover:bg-white/10 hover:text-white focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-950 focus-visible:outline-none"
+        >
+          <span class="inline-flex min-h-6 items-center rounded-full bg-white px-2.5 font-semibold text-slate-950">What's new?</span>
+          <span class="hidden sm:inline">Native builds for CapacitorJS apps</span>
+          <span class="sm:hidden">Native builds</span>
+          <svg class="h-3.5 w-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+          </svg>
+        </a>
+
+        <h1 class="font-pj text-4xl leading-tight font-bold tracking-tight sm:text-5xl sm:leading-tight lg:text-6xl lg:leading-[1.08] xl:text-[5.25rem]">
+          <span class="sr-only">Capgo. </span>
+          <span class="lg:whitespace-nowrap">{m.hero_title_line1({}, { locale: Astro.locals.locale })}</span>
+          <br />
+          <span class="text-azure-500">{m.hero_title_line2({}, { locale: Astro.locals.locale })}</span>
+        </h1>
+        <p class="font-inter mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-400 sm:text-xl">{m.hero_subtitle_v2({}, { locale: Astro.locals.locale })}</p>
+        <div class="mt-10 flex flex-col items-center gap-4">
+          <div class="flex flex-col items-center gap-4 sm:flex-row">
+            <div class="group relative inline-flex">
+              <div
+                class="absolute -inset-4 rounded-xl opacity-70 transition-all duration-1000 group-hover:-inset-5 group-hover:opacity-100 group-hover:duration-200"
+                style="background: radial-gradient(ellipse at center, rgba(68, 188, 255, 0.6) 0%, rgba(68, 188, 255, 0.3) 40%, rgba(68, 188, 255, 0) 70%);"
+              ></div>
+              <a
+                href={getRelativeLocaleUrl(Astro.locals.locale, 'register')}
+                class="font-pj relative z-10 inline-flex items-center justify-center rounded-xl bg-blue-600 px-8 py-4 text-lg font-bold text-white shadow-lg shadow-blue-600/20 transition-all duration-200 hover:bg-blue-500 focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-950 focus-visible:outline-none active:scale-[0.98]"
+              >
+                {m.hero_cta_try_free({}, { locale: Astro.locals.locale })}
+              </a>
+            </div>
+          </div>
+          <div class="font-inter flex flex-col items-center justify-center gap-3 text-sm text-gray-400 sm:flex-row">
+            <TeamAvatars size="lg" border="border-gray-950" shadow loading={false} />
+            <p>
+              Enterprise needs?
+              <a
+                href={teamUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="font-semibold text-white underline-offset-4 transition-colors hover:text-blue-300 hover:underline focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-950 focus-visible:outline-none"
+              >
+                Talk to our team
+              </a>
+            </p>
+          </div>
+        </div>
+        <!-- Status line for the interactive map; short reserved slot so it floats in the gap above the stats without shifting layout. -->
+        <div class="relative h-6" aria-hidden="true">
+          <div data-map-hud class="map-hud"></div>
+        </div>
+      </div>
+      <AppLogoStrip />
+    </div>
+  </div>
+</section>
+
+<script>
+  // Analytics only — no visual/markup change to the pill itself.
+  // Fires a named PostHog event when the hero "What's new?" pill is clicked.
+  const pill = document.getElementById('hero-whatsnew-pill')
+  pill?.addEventListener('click', () => {
+    ;(window as any).posthog?.capture('home_whatsnew_pill_click', {
+      location: 'hero',
+      destination: 'native-build',
+    })
+  })
+</script>

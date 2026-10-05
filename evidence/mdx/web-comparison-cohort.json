@@ -1,0 +1,60 @@
+{
+  "eligible": 6,
+  "matched": 6,
+  "results": [
+    {
+      "route": "/alternatives/capawesome/",
+      "file": "alternatives/capawesome/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/capawesome.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116174,
+      "bodyEnd": 166041
+    },
+    {
+      "route": "/alternatives/codepush/",
+      "file": "alternatives/codepush/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/codepush.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115381,
+      "bodyEnd": 162799
+    },
+    {
+      "route": "/alternatives/expo/",
+      "file": "alternatives/expo/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/expo.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 118593,
+      "bodyEnd": 171789
+    },
+    {
+      "route": "/alternatives/ionic-appflow/",
+      "file": "alternatives/ionic-appflow/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/ionic-appflow.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 117729,
+      "bodyEnd": 174280
+    },
+    {
+      "route": "/alternatives/median/",
+      "file": "alternatives/median/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/median.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116517,
+      "bodyEnd": 166281
+    },
+    {
+      "route": "/alternatives/voltbuilder/",
+      "file": "alternatives/voltbuilder/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives/voltbuilder.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115376,
+      "bodyEnd": 162679
+    }
+  ]
+}

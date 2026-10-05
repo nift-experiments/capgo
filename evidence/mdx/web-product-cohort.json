@@ -1,0 +1,96 @@
+{
+  "eligible": 10,
+  "matched": 10,
+  "results": [
+    {
+      "route": "/alternatives/",
+      "file": "alternatives/index.html",
+      "source": "corpus/authored/apps/web/src/pages/alternatives.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 117172,
+      "bodyEnd": 173446
+    },
+    {
+      "route": "/app_mobile/",
+      "file": "app_mobile/index.html",
+      "source": "corpus/authored/apps/web/src/pages/app_mobile.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115129,
+      "bodyEnd": 151252
+    },
+    {
+      "route": "/capgo-cli/",
+      "file": "capgo-cli/index.html",
+      "source": "corpus/authored/apps/web/src/pages/capgo-cli.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115067,
+      "bodyEnd": 157065
+    },
+    {
+      "route": "/ci_cd/",
+      "file": "ci_cd/index.html",
+      "source": "corpus/authored/apps/web/src/pages/ci_cd.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114389,
+      "bodyEnd": 181376
+    },
+    {
+      "route": "/cost/cost-to-publish-app-on-app-store/",
+      "file": "cost/cost-to-publish-app-on-app-store/index.html",
+      "source": "corpus/authored/apps/web/src/pages/cost/cost-to-publish-app-on-app-store.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 113389,
+      "bodyEnd": 144181
+    },
+    {
+      "route": "/mcp/",
+      "file": "mcp/index.html",
+      "source": "corpus/authored/apps/web/src/pages/mcp.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 111226,
+      "bodyEnd": 114233
+    },
+    {
+      "route": "/security-scanner/",
+      "file": "security-scanner/index.html",
+      "source": "corpus/authored/apps/web/src/pages/security-scanner.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112186,
+      "bodyEnd": 130573
+    },
+    {
+      "route": "/skills/",
+      "file": "skills/index.html",
+      "source": "corpus/authored/apps/web/src/pages/skills.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 114829,
+      "bodyEnd": 266682
+    },
+    {
+      "route": "/subprocessors/",
+      "file": "subprocessors/index.html",
+      "source": "corpus/authored/apps/web/src/pages/subprocessors.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 112052,
+      "bodyEnd": 122496
+    },
+    {
+      "route": "/tools/ios-udid-finder/result/",
+      "file": "tools/ios-udid-finder/result/index.html",
+      "source": "corpus/authored/apps/web/src/pages/tools/ios-udid-finder/result.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 109839,
+      "bodyEnd": 112037
+    }
+  ]
+}

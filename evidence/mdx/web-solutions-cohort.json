@@ -1,0 +1,186 @@
+{
+  "eligible": 20,
+  "matched": 20,
+  "results": [
+    {
+      "route": "/solutions/agencies/",
+      "file": "solutions/agencies/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/agencies.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115770,
+      "bodyEnd": 192910
+    },
+    {
+      "route": "/solutions/beta-testing/",
+      "file": "solutions/beta-testing/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/beta-testing.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116175,
+      "bodyEnd": 186963
+    },
+    {
+      "route": "/solutions/build-without-mac/",
+      "file": "solutions/build-without-mac/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/build-without-mac.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115802,
+      "bodyEnd": 175074
+    },
+    {
+      "route": "/solutions/cordova-to-capacitor-ai/",
+      "file": "solutions/cordova-to-capacitor-ai/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/cordova-to-capacitor-ai.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116668,
+      "bodyEnd": 182988
+    },
+    {
+      "route": "/solutions/cordova-to-capacitor/",
+      "file": "solutions/cordova-to-capacitor/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/cordova-to-capacitor.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115846,
+      "bodyEnd": 202082
+    },
+    {
+      "route": "/solutions/direct-updates/",
+      "file": "solutions/direct-updates/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/direct-updates.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116267,
+      "bodyEnd": 202820
+    },
+    {
+      "route": "/solutions/ecommerce/",
+      "file": "solutions/ecommerce/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/ecommerce.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115918,
+      "bodyEnd": 187831
+    },
+    {
+      "route": "/solutions/fintech/",
+      "file": "solutions/fintech/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/fintech.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116125,
+      "bodyEnd": 194065
+    },
+    {
+      "route": "/solutions/healthcare/",
+      "file": "solutions/healthcare/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/healthcare.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116177,
+      "bodyEnd": 192944
+    },
+    {
+      "route": "/solutions/ionic-enterprise-plugins/",
+      "file": "solutions/ionic-enterprise-plugins/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/ionic-enterprise-plugins.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116015,
+      "bodyEnd": 176798
+    },
+    {
+      "route": "/solutions/lovable-vibecoding-to-mobile/",
+      "file": "solutions/lovable-vibecoding-to-mobile/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/lovable-vibecoding-to-mobile.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116075,
+      "bodyEnd": 182682
+    },
+    {
+      "route": "/solutions/pr-preview/",
+      "file": "solutions/pr-preview/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/pr-preview.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116005,
+      "bodyEnd": 197444
+    },
+    {
+      "route": "/solutions/production-updates/",
+      "file": "solutions/production-updates/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/production-updates.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116435,
+      "bodyEnd": 207299
+    },
+    {
+      "route": "/solutions/qsr/",
+      "file": "solutions/qsr/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/qsr.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115918,
+      "bodyEnd": 196370
+    },
+    {
+      "route": "/solutions/set-and-forget/",
+      "file": "solutions/set-and-forget/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/set-and-forget.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116288,
+      "bodyEnd": 179995
+    },
+    {
+      "route": "/solutions/solo-developers/",
+      "file": "solutions/solo-developers/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/solo-developers.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115773,
+      "bodyEnd": 191425
+    },
+    {
+      "route": "/solutions/startups/",
+      "file": "solutions/startups/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/startups.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115524,
+      "bodyEnd": 184575
+    },
+    {
+      "route": "/solutions/version-targeting/",
+      "file": "solutions/version-targeting/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/version-targeting.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 116053,
+      "bodyEnd": 187247
+    },
+    {
+      "route": "/solutions/webapp-to-mobile/",
+      "file": "solutions/webapp-to-mobile/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/webapp-to-mobile.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115746,
+      "bodyEnd": 181742
+    },
+    {
+      "route": "/solutions/white-label/",
+      "file": "solutions/white-label/index.html",
+      "source": "corpus/authored/apps/web/src/pages/solutions/white-label.astro",
+      "family": "authored-template",
+      "matches": true,
+      "bodyStart": 115792,
+      "bodyEnd": 176923
+    }
+  ]
+}

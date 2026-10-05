@@ -1,0 +1,19 @@
+{
+  "note": "Retained pinned production module URLs for authored scripts that are bundled as external runtime assets. Source bodies are regenerated; these runtime bundles remain explicit dependencies.",
+  "assets": [
+    "/_astro/HeroWorldMap.astro_astro_type_script_index_0_lang.BmOliRPD.js",
+    "/_astro/PricingCalculator.astro_astro_type_script_index_0_lang.B47Z9P2K.js",
+    "/_astro/WebMcpTools.astro_astro_type_script_index_0_lang.B1KGHWS1.js",
+    "/_astro/builder-data.astro_astro_type_script_index_0_lang.Cnvh4Rnx.js",
+    "/_astro/capgo-cli.astro_astro_type_script_index_0_lang.B8kVXzbl.js",
+    "/_astro/data.astro_astro_type_script_index_0_lang.Cummv57X.js",
+    "/_astro/index.astro_astro_type_script_index_0_lang.Dmdlp8i1.js",
+    "/_astro/index.astro_astro_type_script_index_0_lang.DoeJ4j7D.js",
+    "/_astro/index.astro_astro_type_script_index_1_lang.bMLFBcN7.js",
+    "/_astro/native-build.astro_astro_type_script_index_0_lang.D09z5kig.js",
+    "/_astro/plugins.astro_astro_type_script_index_0_lang.BfXy0Jgq.js",
+    "/_astro/register.astro_astro_type_script_index_1_lang.HGOShIPC.js",
+    "/_astro/result.astro_astro_type_script_index_0_lang.DI176D6N.js",
+    "/_astro/semver_tester.astro_astro_type_script_index_0_lang.CprJh9KR.js"
+  ]
+}
