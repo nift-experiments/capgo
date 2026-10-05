@@ -1,6 +1,7 @@
 // Prepare reusable source components, never individual golden page bodies.
-import{readFile,writeFile}from'node:fs/promises';import{transform}from'esbuild';import{createHash}from'node:crypto';
+import{readFile,writeFile,mkdir}from'node:fs/promises';import{transform}from'esbuild';import{createHash}from'node:crypto';
 async function prepare(){
+await mkdir('build/faithful',{recursive:true});
 const root='components/faithful/source/',names=['BuildCredentialsQuestionnaire.astro','ConditionalQuestionnaire.astro','FrameworkSelector.astro','messages.ts','plugins.ts','pluginDocs.ts'];
 const contents=Object.fromEntries(await Promise.all(names.map(async n=>[n,await readFile(root+n,'utf8')]))),manifest=JSON.parse(await readFile('data/corpus-manifest.json'));
 const fingerprint=createHash('sha256').update(JSON.stringify(contents)).update(await readFile('data/faithful-plugin-directory.json')).update(await readFile('tools/prepare-rich-components.mjs')).update(JSON.stringify(manifest.records.filter(r=>r.family==='docs').map(r=>r.source))).digest('hex');
