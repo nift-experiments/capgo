@@ -1,0 +1,378 @@
+Browser tab: 12, Title: "Capgo | Turn Your Web App into iOS and Android Apps", URL: "http://localhost:4176/solutions/webapp-to-mobile/".
+1 AXWebArea Capgo | Turn Your Web App into iOS and Android Apps, URL: localhost:4176/solutions/webapp-to-mobile/
+	2 link Description: Skip to main content, Value: localhost:4176/solutions/webapp-to-mobile/#main-content
+	3 container
+		4 text Login and register links available
+		5 container
+			6 link Description: Capgo home, Value: localhost:4176/
+			7 link Description: Docs, Value: localhost:4176/docs/
+			8 button Products
+			9 button Solutions
+			10 link Description: Pricing, Value: localhost:4176/pricing/
+			11 link Description: Login, Value: console.capgo.app/login/
+		12 button Register
+	13 container main-content
+		14 container
+			15 text For teams with a web app
+			16 heading Turn your web app into iOS and Android apps, Value: 1
+				17 text Turn your web app into iOS and Android apps
+			18 text Wrap your existing web build with Capacitor, build signed binaries with Capgo Build, and publish to the App Store and Google Play. After launch, ship web changes as live updates. Your web code stays the source. human support from Martin
+			19 link Description: Start Free Trial, Value: localhost:4176/register/
+			20 link Description: See the steps, Value: localhost:4176/solutions/webapp-to-mobile/#how-it-works
+			21 definition list
+				22 container for web, iOS, and Android
+					23 text for web, iOS, and Android
+				24 text One codebase
+				25 container typical native build
+					26 text typical native build
+				27 text 2–3 min
+				28 container for web changes after launch
+					29 text for web changes after launch
+				30 text Live updates
+			31 text npm install @capacitor/core @capacitor/cli @capacitor/ios @capacitor/android
+npx cap init "Your App" com.company.app --web-dir dist
+npx cap add ios && npx cap add android
+npx @capgo/cli@latest init
+npx @capgo/cli@latest build request --platform ios
+			32 text Your web app React, Vue, Angular, Svelte, or any stack that builds to static files Store apps you keep updating Native iOS and Android projects, built in the cloud, updated over the air
+		33 container problem
+			34 text THE PROBLEM
+			35 heading Your team ships the web every day. Mobile adds new work., Value: 2
+				36 text Your team ships the web every day. Mobile adds new work.
+			37 container
+				38 heading A responsive site is not a store app, Value: 3
+					39 text A responsive site is not a store app
+				40 text Store presence, push notifications, and device APIs need a native app shell around your web code.
+			41 container
+				42 heading Native tooling is new for a web team, Value: 3
+					43 text Native tooling is new for a web team
+				44 text Xcode, Android Studio, signing certificates, keystores, and store records are work your team has not done before.
+			45 container
+				46 heading Two release speeds, Value: 3
+					47 text Two release speeds
+				48 text Your web app ships whenever you merge. A store app waits for review on each change, often 24–48 hours, sometimes much longer.
+		49 container source-requirements
+			50 text BEFORE YOU START
+			51 heading What to check in your web app first, Value: 2
+				52 text What to check in your web app first
+			53 text Most web apps work inside Capacitor with few changes. These three checks catch the common problems early.
+			54 container
+				55 heading A static build output, Value: 3
+					56 text A static build output
+				57 text Capacitor loads your built files from one folder (webDir). Vite, Angular, and Vue produce that by default. Next.js needs a static export.
+				58 link Description: Next.js with Capacitor, Value: localhost:4176/blog/building-a-native-mobile-app-with-nextjs-and-capacitor/
+			59 container
+				60 heading Routing and sign-in redirects, Value: 3
+					61 text Routing and sign-in redirects
+				62 text Check that client-side routes, OAuth redirects, and links work inside the app, not only on your domain.
+				63 link Description: Web app to Capacitor guide, Value: localhost:4176/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/
+			64 container
+				65 heading Device features you need, Value: 3
+					66 text Device features you need
+				67 text List what needs a native plugin: push notifications, camera, files, biometrics, or in-app purchases.
+				68 link Description: Capacitor plugins, Value: localhost:4176/plugins/
+		69 container capabilities
+			70 text THE SOLUTION
+			71 heading What Capacitor and Capgo handle, Value: 2
+				72 text What Capacitor and Capgo handle
+			73 text Capacitor gives your web app a native shell. Capgo builds it, sends it to the stores, and keeps it updated.
+			74 container
+				75 heading Capacitor wraps your web build, Value: 3
+					76 text Capacitor wraps your web build
+				77 text Capacitor places your built web app in native iOS and Android projects. Plugins give your JavaScript access to device features.
+				78 link Description: Capacitor plugins, Value: localhost:4176/plugins/
+			79 container
+				80 heading Capgo Build compiles and signs, Value: 3
+					81 text Capgo Build compiles and signs
+				82 text Request iOS and Android builds from the CLI. iOS builds run on cloud Macs, so nobody on the team needs one. A typical build takes 2–3 minutes.
+				83 link Description: Capgo Build docs, Value: localhost:4176/docs/builder/getting-started/
+			84 container
+				85 heading Upload to the stores, Value: 3
+					86 text Upload to the stores
+				87 text Signed builds upload to App Store Connect and Google Play. The first release and every native change still go through store review.
+				88 link Description: Capgo Build docs, Value: localhost:4176/docs/builder/getting-started/
+			89 container
+				90 heading Live updates after launch, Value: 3
+					91 text Live updates after launch
+				92 text Ship JavaScript, HTML, CSS, and asset changes to installed apps without a new store release. Test on a staging channel first.
+				93 link Description: Channels docs, Value: localhost:4176/docs/live-updates/channels/
+		94 container How web teams ship mobile apps with Capgo, ID: how-it-works
+			95 text HOW IT WORKS
+			96 heading How web teams ship mobile apps with Capgo, Value: 2, ID: how-it-works-title
+				97 text How web teams ship mobile apps with Capgo
+			98 text From an existing web app to store builds and live updates. Capacitor commands come from the Capacitor CLI, Capgo commands from the Capgo CLI docs.
+			99 content list
+				100 container
+					101 heading Add Capacitor to your web app, Value: 3
+						102 text Add Capacitor to your web app
+					103 text Install Capacitor, set the app name, bundle ID, and build output folder, then add the iOS and Android projects.
+					104 text npm install @capacitor/core @capacitor/cli @capacitor/ios @capacitor/android
+npx cap init "Your App" com.company.app --web-dir dist
+npx cap add ios
+npx cap add android
+					105 link Description: Web app to Capacitor guide, Value: localhost:4176/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/
+				106 container
+					107 heading Connect the app to Capgo, Value: 3
+						108 text Connect the app to Capgo
+					109 text The onboarding adds your app to Capgo, creates a production channel, installs the updater plugin, and walks you through a first test update.
+					110 text npx @capgo/cli@latest init
+					111 link Description: CLI onboarding guide, Value: localhost:4176/docs/getting-started/onboarding/
+				112 container
+					113 heading Build signed apps in the cloud, Value: 3
+						114 text Build signed apps in the cloud
+					115 text Set up signing once, then request iOS and Android builds. Signed builds upload to App Store Connect and Google Play for review.
+					116 text npm run build && npx cap sync
+npx @capgo/cli@latest build init
+npx @capgo/cli@latest build request --platform ios
+npx @capgo/cli@latest build request --platform android
+					117 link Description: Capgo Build docs, Value: localhost:4176/docs/builder/getting-started/
+				118 container
+					119 heading Ship web changes as live updates, Value: 3
+						120 text Ship web changes as live updates
+					121 text After users install the store app, upload each new web build to a channel. Native changes still need a new store build.
+					122 text npm run build
+npx @capgo/cli@latest bundle upload --channel production
+					123 link Description: Ship an update, Value: localhost:4176/docs/getting-started/deploy/
+			124 container Docs for this workflow
+				125 text Docs for this workflow
+				126 content list
+					127 link Description: CLI onboarding guide, Value: localhost:4176/docs/getting-started/onboarding/
+					128 link Description: Capgo Build docs, Value: localhost:4176/docs/builder/getting-started/
+					129 link Description: Ship an update, Value: localhost:4176/docs/getting-started/deploy/
+					130 link Description: Channels docs, Value: localhost:4176/docs/live-updates/channels/
+					131 link Description: Live update or native build?, Value: localhost:4176/docs/live-updates/compatibility/
+					132 link Description: CI/CD integration, Value: localhost:4176/docs/getting-started/cicd-integration/
+		133 container ai-instructions
+			134 text OPTIONAL: AI CODING AGENT
+			135 heading Give your coding agent a mobile-release brief, Value: 2
+				136 text Give your coding agent a mobile-release brief
+			137 text If you use an AI coding agent, paste this brief. It inspects the app and writes a handoff file with the config, plugin needs, and open tasks before anyone runs native tooling.
+			138 text AI mobile-release brief
+			139 button Copy prompt
+			140 text You are preparing this existing web app to become an installable iOS and Android app.
+Do not assume you can run local tooling. If this environment cannot create native projects or run local tools, create a clean handoff document instead.
+
+Inspect the app and return:
+
+1. The framework, package manager, production build process, and build output folder.
+2. Whether the app can be exported or committed to a real Git repository.
+3. The app name, bundle ID or package ID suggestion, app icon and splash-screen source, and any missing brand assets.
+4. Auth, redirect, deep-link, storage, camera, push, payment, geolocation, file, or notification features that need native plugin planning.
+5. Routing, environment variables, API URLs, and asset assumptions that could break inside a native WebView.
+6. A proposed Capacitor configuration, including appId, appName, webDir, and required plugins, without inventing secrets.
+7. A release-channel plan: production, staging, preview, and rollback expectations for web-layer updates.
+8. A list of tasks that must happen outside this environment, such as Apple signing, Android keystore setup, native sync, store records, and signed builds.
+9. A docs/mobile-release-handoff.md file with the exact checklist, open questions, and files that a developer or build service should handle next.
+10. A short summary of what you changed, what you could not do in this environment, and the next human action.
+		141 container real-app-examples
+			142 text APPS BUILT WITH CAPACITOR
+			143 heading Web products that also ship store apps, Value: 2
+				144 text Web products that also ship store apps
+			145 text Products that already live on the web can package the same code with Capacitor, publish to the App Store and Google Play, and keep shipping web-layer improvements as live updates.
+			146 container
+				147 image Poll Everywhere app icon
+				148 text BUSINESS
+				149 heading Poll Everywhere, Value: 3
+					150 text Poll Everywhere
+				151 text Audience polling product used on the web and on phones, where presenters and participants expect the same flows.
+				152 definition list
+					153 container Google Play installs
+						154 text Google Play installs
+					155 text 1.1M
+					156 container Store rating
+						157 text Store rating
+					158 text 3.2
+			159 container
+				160 image Freelancer: Hire & Find Jobs app icon
+				161 text BUSINESS
+				162 heading Freelancer: Hire & Find Jobs, Value: 3
+					163 text Freelancer: Hire & Find Jobs
+				164 text Marketplace with a large web product where hiring, messaging, and account screens also ship in a store app.
+				165 definition list
+					166 container Google Play installs
+						167 text Google Play installs
+					168 text 8.9M
+					169 container Store rating
+						170 text Store rating
+					171 text 4.1
+			172 container
+				173 image TV SPIELFILM - TV-Programm app icon
+				174 text ENTERTAINMENT
+				175 heading TV SPIELFILM - TV-Programm, Value: 3
+					176 text TV SPIELFILM - TV-Programm
+				177 text TV listings service with a busy website and a store app that shows the same guide and editorial content.
+				178 definition list
+					179 container Google Play installs
+						180 text Google Play installs
+					181 text 12.1M
+					182 container Store rating
+						183 text Store rating
+					184 text 4.4
+			185 container app-examples-cta
+				186 text NEXT RELEASE LANE
+				187 heading Use the same release controls for your app., Value: 3
+					188 text Use the same release controls for your app.
+				189 text Create a controlled rollout channel, publish a small web update, and keep rollback ready from the first release.
+				190 content list
+					191 text Package the existing web build with Capacitor
+					192 text Build and sign in the cloud with Capgo Build
+					193 text Ship web fixes as live updates after launch
+				194 text human support from Martin
+				195 link Description: Start shipping with Capgo, Value: localhost:4176/register/
+		196 container product-testimonials
+			197 text CUSTOMER PROOF
+			198 heading What teams shipping with Capgo say, Value: 2
+				199 text What teams shipping with Capgo say
+			200 image Rated 5.0 out of 5 by developer teams using Capgo
+			201 text 5.0/5
+			202 text rated by developer teams
+			203 text 9,400+
+			204 text teams
+			205 link Description: Read reviews, Value: localhost:4176/#testimonials
+			206 container
+				207 heading sikafanka, Value: 3
+					208 text sikafanka
+				209 text Design, radius 5
+				210 image 5 out of 5 stars
+				211 text “Capgo Build helped us simplify our Capacitor app release process. We can build and ship iOS and Android apps from one clear workflow.”
+			212 container
+				213 heading Kapil, Value: 3
+					214 text Kapil
+				215 text Founder, NuTriQ
+				216 image 5 out of 5 stars
+				217 text “Being able to push production OTA updates instantly without waiting for full App Store review cycles has been a massive operational advantage.”
+			218 container
+				219 image Portrait of Luis Dominguez
+				220 heading Luis Dominguez, Value: 3
+					221 text Luis Dominguez
+				222 text El que paga, Anirol
+				223 image 5 out of 5 stars
+				224 text “Since I started using Capgo everything is faster, and I can give my users the time they deserve without neglecting my daily life.”
+		225 container Questions web teams ask, ID: faq
+			226 text FAQ
+			227 heading Questions web teams ask, Value: 2, ID: faq-title
+				228 text Questions web teams ask
+			229 text Short answers for teams taking an existing web app to the App Store and Google Play.
+			230 container
+				231 button (expanded) Do we have to rewrite our web app?, Secondary Actions: Collapse
+					232 heading Do we have to rewrite our web app?, Value: 3
+						233 text Do we have to rewrite our web app?
+				234 text No. Capacitor runs your existing web build inside native iOS and Android projects. You add plugins where you need device features and keep one codebase for web and mobile.
+				235 link Description: Web app to Capacitor guide, Value: localhost:4176/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/
+			236 button (collapsed) Does it work with Next.js?, Secondary Actions: Expand
+				237 heading Does it work with Next.js?, Value: 3
+					238 text Does it work with Next.js?
+			239 button (collapsed) Do we need a Mac for the iOS build?, Secondary Actions: Expand
+				240 heading Do we need a Mac for the iOS build?, Value: 3
+					241 text Do we need a Mac for the iOS build?
+			242 button (collapsed) What can we change without a store release?, Secondary Actions: Expand
+				243 heading What can we change without a store release?, Value: 3
+					244 text What can we change without a store release?
+			245 button (collapsed) Can mobile updates ship from our existing CI?, Secondary Actions: Expand
+				246 heading Can mobile updates ship from our existing CI?, Value: 3
+					247 text Can mobile updates ship from our existing CI?
+		248 container
+			249 heading Put your web app in the stores, Value: 2
+				250 text Put your web app in the stores
+			251 text Start the 14-day free trial, wrap your app with Capacitor, and request your first iOS and Android builds from the CLI. human support from Martin
+			252 link Description: Start Free Trial, Value: localhost:4176/register/
+			253 link Description: Talk to Our Team, Value: book.capgo.app/demo/
+	254 container Footer
+		255 heading Footer, Value: 2, ID: footer-heading
+			256 text Footer
+		257 link Description: Capgo home, Value: localhost:4176/
+		258 text Live updates, native builds, and release tooling for Capacitor apps.
+		259 link Description: ALL SYSTEMS NORMAL, Value: status.capgo.app/
+		260 image SOC 2 Type II (Enterprise plan)
+		261 image ISO 27001 Compliant
+		262 image GDPR Compliant
+		263 heading PRODUCTS, Value: 3
+			264 text PRODUCTS
+		265 content list
+			266 link Description: Live Update, Value: localhost:4176/live-update/
+			267 link Description: Native Build, Value: localhost:4176/native-build/
+			268 link Description: Observe, Value: localhost:4176/observe/
+			269 link Description: Notifications, Value: localhost:4176/notifications/
+			270 link Description: App mobile, Value: localhost:4176/app_mobile/
+			271 link Description: Plugins, Value: localhost:4176/plugins/
+			272 link Description: Integrations, Value: localhost:4176/integrations/
+			273 link Description: CLI & API, Value: localhost:4176/docs/cli/
+			274 link Description: Mobile CI/CD, Value: localhost:4176/ci_cd/
+			275 link Description: Pricing, Value: localhost:4176/pricing/
+			276 link Description: Enterprise, Value: localhost:4176/enterprise/
+		277 heading RESOURCES, Value: 3
+			278 text RESOURCES
+		279 content list
+			280 link Description: Documentation, Value: localhost:4176/docs/
+			281 link Description: Blog, Value: localhost:4176/blog/
+			282 link Description: Articles, Value: localhost:4176/articles/
+			283 link Description: Capacitor Skills, Value: localhost:4176/skills/
+			284 link Description: Community, Value: discord.capgo.app/
+			285 link Description: Chat, Value: support.capgo.app/
+			286 link Description: Premium Support, Value: localhost:4176/premium-support/
+			287 link Description: Status, Value: status.capgo.app/
+			288 link Description: App store publishing costs, Value: localhost:4176/cost/cost-to-publish-app-on-app-store/
+			289 link Description: App store refusal stories, Value: localhost:4176/app-store-refusal-horror-story/
+			290 link Description: Awesome Capacitor, Value: github.com/riderx/awesome-capacitor/
+			291 link Description: Top App by Framework, Value: localhost:4176/top_app/
+		292 heading FREE TOOLS, Value: 3
+			293 text FREE TOOLS
+		294 content list
+			295 link Description: Free Mobile Tools, Value: localhost:4176/tools/
+			296 link Description: Security Scanner, Value: localhost:4176/security-scanner/
+			297 link Description: AASA Tester, Value: aasa-tester.capgo.app/
+			298 link Description: SemVer Tester, Value: localhost:4176/semver_tester/
+			299 link Description: Live Update data, Value: localhost:4176/data/
+			300 link Description: Native Build data, Value: localhost:4176/builder-data/
+			301 link Description: Android distribution chart, Value: localhost:4176/android-distribution-chart/
+			302 link Description: iOS distribution chart, Value: localhost:4176/ios-distribution-chart/
+		303 heading COMPARE, Value: 3
+			304 text COMPARE
+		305 content list
+			306 link Description: Alternatives, Value: localhost:4176/alternatives/
+			307 link Description: Ionic AppFlow vs Capgo, Value: localhost:4176/alternatives/ionic-appflow/
+			308 link Description: EAS vs Capgo, Value: localhost:4176/alternatives/expo/
+			309 link Description: Median vs Capgo, Value: localhost:4176/alternatives/median/
+			310 link Description: Capawesome vs Capgo, Value: localhost:4176/alternatives/capawesome/
+			311 link Description: CodePush alternative, Value: localhost:4176/alternatives/codepush/
+			312 link Description: VoltBuilder vs Capgo, Value: localhost:4176/alternatives/voltbuilder/
+			313 link Description: Best Capacitor live update tools, Value: localhost:4176/best/capacitor-live-updates/
+			314 link Description: Migrate from Appflow, Value: localhost:4176/migrate/from-appflow/
+			315 link Description: MCP server, Value: localhost:4176/mcp/
+			316 link Description: AI Migration Guide (2026), Value: localhost:4176/solutions/cordova-to-capacitor-ai/
+			317 link Description: Web App to Mobile, Value: localhost:4176/solutions/webapp-to-mobile/
+		318 heading COMPANY, Value: 3
+			319 text COMPANY
+		320 content list
+			321 link Description: About, Value: localhost:4176/about/
+			322 link Description: Contact, Value: localhost:4176/contact/
+			323 link Description: Trust, Value: localhost:4176/trust/
+			324 link Description: HIPAA compliance, Value: localhost:4176/hipaa-compliance/
+			325 link Description: Consulting, Value: localhost:4176/consulting/
+			326 link Description: Affiliate program, Value: localhost:4176/affiliate/
+			327 link Description: Jobs, Value: console.algora.io/org/capgo/bounties?status=open/
+			328 link Description: Contributing, Value: localhost:4176/contributing/
+			329 link Description: Sponsoring, Value: localhost:4176/sponsor/
+			330 link Description: Imprint, Value: localhost:4176/imprint/
+		331 heading LEGAL, Value: 3
+			332 text LEGAL
+		333 content list
+			334 link Description: Privacy, Value: localhost:4176/privacy/
+			335 link Description: Terms of Service, Value: localhost:4176/tos/
+			336 link Description: Service Level Agreement, Value: localhost:4176/sla/
+			337 link Description: Support Policy, Value: localhost:4176/support-policy/
+			338 link Description: Acceptable Use Policy, Value: localhost:4176/aup/
+			339 link Description: Security.txt, Value: localhost:4176/security/
+			340 link Description: Bug Bounty, Value: localhost:4176/bug-bounty/
+			341 link Description: Data Policy, Value: localhost:4176/dp/
+			342 link Description: Data Protection Agreement, Value: localhost:4176/dpa/
+			343 link Description: Subprocessors, Value: localhost:4176/subprocessors/
+			344 link Description: End-User License Agreement, Value: localhost:4176/eula/
+			345 link Description: Return Policy, Value: localhost:4176/return/
+		346 text © Capgo 2026 · Digital Shift OÜ
+		347 pop up button (collapsed) Description: English, Change language, ID: language-dropdown-button, Secondary Actions: Expand
+		348 link Description: llms.txt, Value: localhost:4176/llms.txt
+		349 link Description: llms-full.txt, Value: localhost:4176/llms-full.txt
+		350 link Description: Sitemap, Value: localhost:4176/sitemap-index.xml
+
+The focused UI element is 1 AXWebArea Capgo | Turn Your Web App into iOS and Android Apps, URL: localhost:4176/solutions/webapp-to-mobile/

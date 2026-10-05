@@ -1,0 +1,445 @@
+Browser tab: 12, Title: "Capgo | Ionic and Capacitor Live Updates", URL: "http://localhost:4176/live-update/".
+1 AXWebArea Capgo | Ionic and Capacitor Live Updates, URL: localhost:4176/live-update/
+	2 link Description: Skip to main content, Value: localhost:4176/live-update/#main-content
+	3 container
+		4 text Login and register links available
+		5 link Description: Capgo home, Value: localhost:4176/
+		6 button (collapsed) Description: Expand menu, ID: menu-toggle, Secondary Actions: Expand
+	7 container
+		8 container top
+			9 text Capgo Live Updates
+			10 heading Description: Skip the wait. Ship the fix., Value: 1
+				11 text Skip the wait. Ship the fix. OTA updates for Ionic and Capacitor apps.
+			12 text Push web-layer fixes instantly for Ionic and Capacitor apps. Skip the App Store wait.
+			13 text human support from Martin
+			14 link Description: Start shipping, Value: localhost:4176/register/
+			15 link Description: View Documentation, Value: localhost:4176/docs/live-updates/
+			16 text 14-day unlimited free trial. No credit card required.
+			17 text ✓ 99.9% uptime ✓ 300+ Locations Active ✓ Triple-provider resilience
+			18 text Native rollback
+			19 text JS FAILURES RECOVER OUTSIDE JAVASCRIPT
+			20 text 99.9% uptime
+			21 text PLATFORM UPTIME
+			22 text Dynamic channels
+			23 text CANARY, BETA, SUPPORT, AND PRODUCTION TRACKS
+			24 text 300+ edge locations
+			25 text WORLDWIDE CDN
+			26 text ~50ms typical
+			27 text ULTRA-LOW LATENCY
+			28 text Device logs
+			29 text PER-DEVICE UPDATE STATUS AND ROLLBACK HISTORY
+		30 container platforms
+			31 text SUPPORTED RUNTIMES
+			32 heading One Capgo backend for every hybrid stack you ship., Value: 2
+				33 text One Capgo backend for every hybrid stack you ship.
+			34 text Use the same channels, bundle uploads, rollback protection, and device logs whether your app runs on Capacitor, Cordova, or Electron.
+			35 container
+				36 heading Capacitor, Value: 3
+					37 text Capacitor
+				38 text Native live updates for iOS and Android apps built with Capacitor. Install @capgo/capacitor-updater and ship bundles with @capgo/cli.
+				39 link Description: Read more →, Value: localhost:4176/docs/plugins/updater/getting-started/
+			40 container
+				41 heading Cordova, Value: 3
+					42 text Cordova
+				43 text Keep your Cordova toolchain and still get Capgo OTA on iOS 7+ and Android 13+ with @capgo/cordova-updater and the same JavaScript API.
+				44 link Description: Read more →, Value: localhost:4176/docs/plugins/cordova-updater/getting-started/
+			45 container
+				46 heading Electron, Value: 3
+					47 text Electron
+				48 text Push HTML, CSS, and JavaScript updates to desktop apps without rebuilding installers. @capgo/electron-updater mirrors the mobile API.
+				49 link Description: Read more →, Value: localhost:4176/docs/plugins/electron-updater/getting-started/
+		50 container outcomes
+			51 text BUILT FOR RELEASE PRESSURE
+			52 heading Know exactly what happens when production breaks in CapacitorJS apps., Value: 2
+				53 text Know exactly what happens when production breaks in CapacitorJS apps.
+			54 text Capgo gives mobile teams a release path for urgent web fixes, controlled rollout, and a clear audit trail, so a bad deploy does not become days of store-review waiting.
+			55 container
+				56 heading Recover production without waiting on review, Value: 3
+					57 text Recover production without waiting on review
+				58 text Use live updates for JavaScript, CSS, copy, runtime feature flags, and web asset fixes while native and Capacitor config changes continue through the stores.
+			59 container
+				60 heading Control risk before everyone gets the build, Value: 3
+					61 text Control risk before everyone gets the build
+				62 text Ship to internal, beta, canary, and production channels with rollback ready before a rollout becomes a support incident.
+			63 container
+				64 heading Prove what happened after release, Value: 3
+					65 text Prove what happened after release
+				66 text Use device logs, update status, bundle history, and adoption metrics to explain releases to engineering, support, and leadership.
+			67 heading Choose live updates when these statements are true, Value: 3
+				68 text Choose live updates when these statements are true
+			69 content list
+				70 text You need a recovery path for production bugs that does not depend on App Store or Play review time.
+				71 text Your app has multiple customer cohorts, white-label deployments, beta testers, or support-only debug channels.
+				72 text Your team needs compliance-friendly control: signed bundles, rollback, auditability, and a self-hosting path.
+		73 container product-video
+			74 text FROM MARTIN
+			75 heading Why Capgo live updates work the way they do, Value: 2
+				76 text Why Capgo live updates work the way they do
+			77 text Capgo founder Martin on channels, compatibility checks, rollback, and shipping web bundle changes safely after store approval.
+			78 text Martin, Founder, Capgo
+			79 link Description: Play video: Why Capgo live updates work the way they do — video message from Martin, Capgo founder, Value: youtube.com/watch?v=9SBpTPjTg3o
+		80 container product-testimonials
+			81 text LIVE UPDATE PROOF
+			82 heading Teams already shipping with Capgo, Value: 2
+				83 text Teams already shipping with Capgo
+			84 text Short notes from Capacitor teams using Capgo for production OTA updates.
+			85 image Rated 5.0 out of 5 by developer teams using Capgo
+			86 text 5.0/5
+			87 text rated by developer teams
+			88 text 9,400+
+			89 text teams
+			90 link Description: Read reviews, Value: localhost:4176/#testimonials
+			91 container
+				92 image 5 out of 5 stars
+				93 text The Capgo Capacitor Updater plugin completely transformed how we ship updates. What used to take days now takes just minutes.
+				94 text Sergiu S
+				95 text Lead Developer, drivolino GmbH
+			96 container
+				97 image 5 out of 5 stars
+				98 text Being able to push production OTA updates instantly without waiting for full App Store review cycles has been a massive operational advantage.
+				99 text Kapil
+				100 text Founder, NuTriQ
+		101 container features
+			102 text WHAT'S IN THE BOX
+			103 heading Built for safe OTA updates, not just fast uploads., Value: 2
+				104 text Built for safe OTA updates, not just fast uploads.
+			105 text Native runtime, rollback, validation, and rollout control in one service.
+			106 container Capgo Live Updates
+				107 container
+					108 text Capgo Live Updates
+					109 text Pure Native Engine
+				110 text Downloads, installation, and activation run on native OS threads. JavaScript crashes can't affect the update process.
+				111 text $ npx @capgo/cli bundle upload ✔ validated · ✔ published · ✔ rolling out
+			112 container
+				113 heading Breaking Update Detection, Value: 3
+					114 text Breaking Update Detection
+				115 text CLI scans native dependencies and warns you before deploying incompatible updates. Ship web changes fast without pushing native-breaking code to customers.
+			116 container
+				117 heading Automatic Rollback, Value: 3
+					118 text Automatic Rollback
+				119 text If your app doesn't call notifyAppReady() within 10 seconds, we automatically roll back to the last working version.
+			120 container
+				121 heading Pre-flight Validation, Value: 3
+					122 text Pre-flight Validation
+				123 text Validates notifyAppReady(), index.html, bundle size limits, and checksums before accepting any upload.
+			124 container
+				125 heading Tamper-Proof Updates, Value: 3
+					126 text Tamper-Proof Updates
+				127 text Every update is checksummed, signed, and encrypted end-to-end. No one can tamper with updates - not even Capgo can see what's inside your bundles.
+			128 container
+				129 heading Self-Healing Updates, Value: 3
+					130 text Self-Healing Updates
+				131 text Fallback bundle mechanism always maintains a working version. Your users never see a broken app.
+			132 container
+				133 heading Switch release tracks live (no new binary), Value: 3
+					134 text Switch release tracks live (no new binary)
+				135 text Capgo channels are live controls, not hardcoded. Move users between dev, staging, PR, canary, and production from your app UI or via API instantly.
+			136 container
+				137 heading Push-triggered auto updates, Value: 3
+					138 text Push-triggered auto updates
+				139 text Pair Capgo Notifications with Live Updates so a silent push can ask devices to check, download, and queue the latest bundle for the selected channel.
+		140 container guidance
+			141 text RELEASE INTELLIGENCE
+			142 heading Catch breaking updates before they ship, Value: 2
+				143 text Catch breaking updates before they ship
+			144 text See whether an upload is OTA-safe, needs a native build, or should wait — before it hits production.
+			145 content list
+				146 container
+					147 text ✓ OTA safe: native packages match the production channel
+				148 container
+					149 text ✓ Native build needed: a plugin or Capacitor dependency changed
+				150 container
+					151 text ✓ Rollout action: gate by native version, pause the channel, or trigger a store build
+			152 text human support from Martin
+			153 link Description: Read compatibility docs, Value: localhost:4176/docs/live-updates/compatibility/
+			154 link Description: Start shipping, Value: localhost:4176/register/
+			155 image Capgo console demo app showing a live-update bundle, release dates, checksum, and linked channels
+			156 container
+				157 text $  npx @capgo/cli@latest bundle upload --channel production --fail-on-incompatible
+			158 text warning: native-incompatible bundle
+			159 text @capacitor/camera changed from 6.1.0 to 6.2.0
+			160 text action: fail this upload or ship a native build first
+		161 container What actually happens when you ship a live update
+			162 text SEE IT MOVE
+			163 heading What actually happens when you ship a live update, Value: 2, ID: explainers-title
+				164 text What actually happens when you ship a live update
+			165 text Four short animations: how a fix reaches a phone, what can ship over the air, why downloads stay small, and how you recover from a bad release.
+			166 tab group Live update explainers
+				167 tab (selectable, settable, boolean) Next-launch update, Value: 0, ID: explainer-tab-next-launch
+				168 tab (selectable, settable, boolean) OTA vs store, Value: 0, ID: explainer-tab-ota-boundary
+				169 tab (selectable, settable, boolean) Delta updates, Value: 0, ID: explainer-tab-delta
+				170 tab (selected, settable, boolean) Rollout & rollback, Value: 1, ID: explainer-tab-rollout
+			171 button Play animation
+			443 container Description: Rollout & rollback, ID: explainer-panel-rollout
+				444 content list Animation steps
+					445 button 1 Every device on production runs 2.5.0.
+						446 text 1
+						447 text Every device on production runs 2.5.0.
+				448 button 1 / 6
+				449 button 2 / 6
+				450 button 3 / 6
+				451 button 4 / 6
+				452 button 5 / 6
+				453 button 6 / 6
+		183 text WHAT'S POSSIBLE
+		184 heading Flexible update control, Value: 2
+			185 text Flexible update control
+		186 text Choose the right combination of update types for your app's needs
+		187 heading Apply timing, Value: 3
+			188 text Apply timing
+		189 container
+			190 text Control when updates are applied:  default  (background),  atInstall ,  onLaunch , or  always
+		191 heading Delay conditions, Value: 3
+			192 text Delay conditions
+		193 container
+			194 text Wait for specific conditions:  date ,  background ,  nativeVersion , or  kill  event
+		195 heading Version blocking, Value: 3
+			196 text Version blocking
+		197 container
+			198 text Control 
+			199 link Description: semver updates, Value: localhost:4176/semver_tester/
+			200 text :  none ,  major ,  minor ,  patch , or  metadata
+		201 heading Delivery types, Value: 3
+			202 text Delivery types
+		203 container
+			204 text Full bundle  (entire JS bundle) or  Delta/manifest  (only changed files for faster updates)
+		205 link Description: Explore all update types, Value: localhost:4176/docs/live-updates/update-types/
+		206 container Will Apple or Google reject OTA updates?
+			207 text App Store & Google Play
+			208 heading Will Apple or Google reject OTA updates?, Value: 2, ID: store-policy-title
+				209 text Will Apple or Google reject OTA updates?
+			210 text Not for using live updates. Both stores let apps download interpreted code like JavaScript, HTML, and CSS, as long as each update stays within the app you submitted for review.
+			211 text OUR TRACK RECORD
+			212 text 0 rejections
+			213 text Across 4.7K+ apps in production, we have never seen a store reject an app because it ships updates with Capgo.
+			214 button (collapsed) Has Apple ever flagged Capgo?, Secondary Actions: Expand
+				215 text Has Apple ever flagged Capgo?
+			216 container
+				217 heading Apple Developer Program License Agreement, Value: 3
+					218 text Apple Developer Program License Agreement
+				219 text Apps may download interpreted code if it doesn't change the app's primary purpose, create a storefront for other code or apps, or bypass signing, the sandbox, or other OS security features.
+				220 link Description: Official policy : Apple, Value: developer.apple.com/support/terms/apple-developer-program-license-agreement/
+			221 container
+				222 heading Google Play Device and Network Abuse policy, Value: 3
+					223 text Google Play Device and Network Abuse policy
+				224 text Apps can't update their own native code outside Google Play. Code that runs in an interpreter or virtual machine, such as JavaScript in a WebView, is explicitly exempt.
+				225 link Description: Official policy : Google Play, Value: support.google.com/googleplay/android-developer/answer/16559646
+			226 heading STAY INSIDE THE RULES, Value: 3
+				227 text STAY INSIDE THE RULES
+			228 content list
+				229 text Ship web-layer changes over the air: JavaScript, HTML, CSS, and assets.
+				230 text Send native code, permissions, and plugin changes through a store release.
+				231 text Keep every update within the purpose you submitted for review.
+			232 text Review decisions always belong to Apple and Google, so no vendor can promise approval. Capgo keeps you on the side of the policies they publish.
+			233 link Description: Read the store policy FAQ, Value: localhost:4176/docs/faq/#how-does-this-relate-to-the-appplay-store-review-process-or-policies
+		234 container Building blocks for agentic workflows
+			235 text AI-ready
+			236 heading Building blocks for agentic workflows, Value: 2, ID: agent-ready-title
+				237 text Building blocks for agentic workflows
+			238 text Claude Code, Cursor, Codex, or any agent can set up Capgo, upload bundles, manage channels, and request native builds. Every action is one command or one tool call.
+			239 content list
+				240 link Value: localhost:4176/capgo-cli/, Description: CLI Every release action is a command. Script it in CI or let an agent run it. npx @capgo/cli@latest bundle upload
+				241 link Value: localhost:4176/mcp/, Description: MCP server Tools for apps, bundles, channels, stats, and native builds, ready for any MCP client. npx @capgo/cli@latest mcp
+				242 link Value: localhost:4176/skills/, Description: Agent Skills Teach your agent the right way to add live updates, builds, and Capgo plugins. npx skills add Cap-go/capgo-skills
+				243 link Description: llms.txt The full Capgo docs in one file, ready to paste into any model. capgo.app/llms-full.txt, Value: localhost:4176/llms-full.txt
+			244 link Description: Explore AI tooling, Value: localhost:4176/skills/
+		245 container compare
+			246 text HONEST COMPARISON
+			247 heading Capgo Live Updates vs. the alternatives., Value: 2
+				248 text Capgo Live Updates vs. the alternatives.
+			249 text Same Ionic and Capacitor OTA promise. Different safety model.
+			250 table
+				251 row
+					252 cell
+						253 text CAPGO LIVE UPDATES
+					254 cell
+						255 text DIY / SELF-HOSTED Custom scripts and static hosting
+					256 cell
+						257 text COMPETITOR CLOUD
+				258 row
+					259 cell
+						260 text UPDATE RUNTIME
+					261 cell
+						262 text Fully native.  Download, install, and activate on native OS threads. A JS crash cannot break the update pipeline.
+					263 cell
+						264 text Runs in your app JS context. A bad bundle can break updates too.
+					265 cell
+						266 text Mostly app-layer delivery. JS errors can block or corrupt the update flow.
+				267 row
+					268 cell
+						269 text ROLLBACK RECOVERY
+					270 cell
+						271 text Native rollback.  Falls back to the last good bundle outside JavaScript, even when the new bundle crashes on launch.
+					272 cell
+						273 text You design and maintain your own rollback logic.
+					274 cell
+						275 text Rollback exists but often depends on the app layer still working.
+				276 row
+					277 cell
+						278 text FAILED INSTALL GUARD
+					279 cell
+						280 text Automatic.  Rolls back if notifyAppReady() is not called within 10 seconds.
+					281 cell
+						282 text You instrument and monitor it yourself.
+					283 cell
+						284 text Optional or manual, depending on product.
+				285 row
+					286 cell
+						287 text NATIVE COMPATIBILITY
+					288 cell
+						289 text CLI checks.  Scans native dependencies before upload and flags breaking changes.
+					290 cell
+						291 text No guardrails unless you build them.
+					292 cell
+						293 text Upload validation only on most products.
+				294 row
+					295 cell
+						296 text PRE-UPLOAD VALIDATION
+					297 cell
+						298 text Deep checks.  Validates index.html, bundle size, checksums, duplicate versions, and hub constraints.
+					299 cell
+						300 text Your CI rules, if you wrote them.
+					301 cell
+						302 text Basic bundle checks.
+				303 row
+					304 cell
+						305 text ROLLOUT CONTROL
+					306 cell
+						307 text Dynamic channels.  Canary, beta, production, support, and per-device channel assignment.
+					308 cell
+						309 text Multiple hosted URLs or custom routing.
+					310 cell
+						311 text Channels supported, depth and APIs vary.
+				312 row
+					313 cell
+						314 text DEVICE VISIBILITY
+					315 cell
+						316 text Per-device logs.  Install, failure, rollback, and policy events per device without Xcode or Android Studio.
+					317 cell
+						318 text Custom analytics or server-side download counts.
+					319 cell
+						320 text Dashboard aggregates, less per-device depth.
+				321 row
+					322 cell
+						323 text TRY BEFORE YOU PAY
+					324 cell
+						325 text Yes.  14-day unlimited free trial. No credit card required.
+					326 cell
+						327 text Cheap hosting until traffic grows.
+					328 cell
+						329 text Tiered plans. Trials vary by vendor.
+			330 text Capgo is built so a JavaScript bug cannot take down your update system.
+			331 text Comparison reflects typical DIY/self-hosted setups and public competitor cloud documentation.
+		332 container eas-update
+			333 text COMING FROM EXPO?
+			334 heading The EAS Update equivalent for Capacitor apps, Value: 2
+				335 text The EAS Update equivalent for Capacitor apps
+			336 text EAS Update ships JavaScript fixes for Expo and React Native apps. Capgo does the same job for Capacitor web bundles: channels, rollback, and device logs. Stay on EAS if the app is React Native. Use Capgo if you kept the web UI.
+			337 link Description: Compare Capgo with Expo Application Services, Value: localhost:4176/alternatives/expo/
+		338 container cta
+			339 heading Capgo Live Updates Ship your next fix today., Value: 2
+				340 text Capgo Live Updates
+				341 text Ship your next fix today.
+			342 text Start automatic in 5 minutes. Switch to manual control when your release strategy needs it.
+			343 text human support from Martin
+			344 link Description: Start shipping →, Value: localhost:4176/register/
+			345 text ✓ 99.9% uptime ✓ Worldwide CDN delivery ✓ 14-day unlimited free trial
+	346 container Footer
+		347 heading Footer, Value: 2, ID: footer-heading
+			348 text Footer
+		349 link Description: Capgo home, Value: localhost:4176/
+		350 text Live updates, native builds, and release tooling for Capacitor apps.
+		351 link Description: ALL SYSTEMS NORMAL, Value: status.capgo.app/
+		352 image SOC 2 Type II (Enterprise plan)
+		353 image ISO 27001 Compliant
+		354 image GDPR Compliant
+		355 heading PRODUCTS, Value: 3
+			356 text PRODUCTS
+		357 content list
+			358 link Description: Live Update, Value: localhost:4176/live-update/
+			359 link Description: Native Build, Value: localhost:4176/native-build/
+			360 link Description: Observe, Value: localhost:4176/observe/
+			361 link Description: Notifications, Value: localhost:4176/notifications/
+			362 link Description: App mobile, Value: localhost:4176/app_mobile/
+			363 link Description: Plugins, Value: localhost:4176/plugins/
+			364 link Description: Integrations, Value: localhost:4176/integrations/
+			365 link Description: CLI & API, Value: localhost:4176/docs/cli/
+			366 link Description: Mobile CI/CD, Value: localhost:4176/ci_cd/
+			367 link Description: Pricing, Value: localhost:4176/pricing/
+			368 link Description: Enterprise, Value: localhost:4176/enterprise/
+		369 heading RESOURCES, Value: 3
+			370 text RESOURCES
+		371 content list
+			372 link Description: Documentation, Value: localhost:4176/docs/
+			373 link Description: Blog, Value: localhost:4176/blog/
+			374 link Description: Articles, Value: localhost:4176/articles/
+			375 link Description: Capacitor Skills, Value: localhost:4176/skills/
+			376 link Description: Community, Value: discord.capgo.app/
+			377 link Description: Chat, Value: support.capgo.app/
+			378 link Description: Premium Support, Value: localhost:4176/premium-support/
+			379 link Description: Status, Value: status.capgo.app/
+			380 link Description: App store publishing costs, Value: localhost:4176/cost/cost-to-publish-app-on-app-store/
+			381 link Description: App store refusal stories, Value: localhost:4176/app-store-refusal-horror-story/
+			382 link Description: Awesome Capacitor, Value: github.com/riderx/awesome-capacitor/
+			383 link Description: Top App by Framework, Value: localhost:4176/top_app/
+		384 heading FREE TOOLS, Value: 3
+			385 text FREE TOOLS
+		386 content list
+			387 link Description: Free Mobile Tools, Value: localhost:4176/tools/
+			388 link Description: Security Scanner, Value: localhost:4176/security-scanner/
+			389 link Description: AASA Tester, Value: aasa-tester.capgo.app/
+			390 link Description: SemVer Tester, Value: localhost:4176/semver_tester/
+			391 link Description: Live Update data, Value: localhost:4176/data/
+			392 link Description: Native Build data, Value: localhost:4176/builder-data/
+			393 link Description: Android distribution chart, Value: localhost:4176/android-distribution-chart/
+			394 link Description: iOS distribution chart, Value: localhost:4176/ios-distribution-chart/
+		395 heading COMPARE, Value: 3
+			396 text COMPARE
+		397 content list
+			398 link Description: Alternatives, Value: localhost:4176/alternatives/
+			399 link Description: Ionic AppFlow vs Capgo, Value: localhost:4176/alternatives/ionic-appflow/
+			400 link Description: EAS vs Capgo, Value: localhost:4176/alternatives/expo/
+			401 link Description: Median vs Capgo, Value: localhost:4176/alternatives/median/
+			402 link Description: Capawesome vs Capgo, Value: localhost:4176/alternatives/capawesome/
+			403 link Description: CodePush alternative, Value: localhost:4176/alternatives/codepush/
+			404 link Description: VoltBuilder vs Capgo, Value: localhost:4176/alternatives/voltbuilder/
+			405 link Description: Best Capacitor live update tools, Value: localhost:4176/best/capacitor-live-updates/
+			406 link Description: Migrate from Appflow, Value: localhost:4176/migrate/from-appflow/
+			407 link Description: MCP server, Value: localhost:4176/mcp/
+			408 link Description: AI Migration Guide (2026), Value: localhost:4176/solutions/cordova-to-capacitor-ai/
+			409 link Description: Web App to Mobile, Value: localhost:4176/solutions/webapp-to-mobile/
+		410 heading COMPANY, Value: 3
+			411 text COMPANY
+		412 content list
+			413 link Description: About, Value: localhost:4176/about/
+			414 link Description: Contact, Value: localhost:4176/contact/
+			415 link Description: Trust, Value: localhost:4176/trust/
+			416 link Description: HIPAA compliance, Value: localhost:4176/hipaa-compliance/
+			417 link Description: Consulting, Value: localhost:4176/consulting/
+			418 link Description: Affiliate program, Value: localhost:4176/affiliate/
+			419 link Description: Jobs, Value: console.algora.io/org/capgo/bounties?status=open/
+			420 link Description: Contributing, Value: localhost:4176/contributing/
+			421 link Description: Sponsoring, Value: localhost:4176/sponsor/
+			422 link Description: Imprint, Value: localhost:4176/imprint/
+		423 heading LEGAL, Value: 3
+			424 text LEGAL
+		425 content list
+			426 link Description: Privacy, Value: localhost:4176/privacy/
+			427 link Description: Terms of Service, Value: localhost:4176/tos/
+			428 link Description: Service Level Agreement, Value: localhost:4176/sla/
+			429 link Description: Support Policy, Value: localhost:4176/support-policy/
+			430 link Description: Acceptable Use Policy, Value: localhost:4176/aup/
+			431 link Description: Security.txt, Value: localhost:4176/security/
+			432 link Description: Bug Bounty, Value: localhost:4176/bug-bounty/
+			433 link Description: Data Policy, Value: localhost:4176/dp/
+			434 link Description: Data Protection Agreement, Value: localhost:4176/dpa/
+			435 link Description: Subprocessors, Value: localhost:4176/subprocessors/
+			436 link Description: End-User License Agreement, Value: localhost:4176/eula/
+			437 link Description: Return Policy, Value: localhost:4176/return/
+		438 text © Capgo 2026 · Digital Shift OÜ
+		439 pop up button (collapsed) Description: English, Change language, ID: language-dropdown-button, Secondary Actions: Expand
+		440 link Description: llms.txt, Value: localhost:4176/llms.txt
+		441 link Description: llms-full.txt, Value: localhost:4176/llms-full.txt
+		442 link Description: Sitemap, Value: localhost:4176/sitemap-index.xml
+
+The focused UI element is 170 tab (selected, settable, boolean) Rollout & rollback, Value: 1, ID: explainer-tab-rollout

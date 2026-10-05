@@ -1,0 +1,283 @@
+Browser tab: 12, Title: "Deploy a Live Update - Capacitor Live Updates Docum… | Capgo", URL: "http://localhost:4176/docs/getting-started/deploy/".
+1 AXWebArea Deploy a Live Update - Capacitor Live Updates Docum… | Capgo, URL: localhost:4176/docs/getting-started/deploy/
+	2 link Description: Skip to content, Value: localhost:4176/docs/getting-started/deploy/#_top
+	3 container
+		4 link Description: Capgo - Live Updates for Capacitor Apps Capgo, Value: localhost:4176/
+		5 button Search (Ctrl+K)
+		6 link Description: Discord, Value: discord.capgo.app/
+		7 link Description: GitHub, Value: github.com/Cap-go/
+		8 text Select theme
+		9 pop up button (collapsed, settable) Select theme, Value: Auto, Secondary Actions: Expand
+			10 menu
+				11 Dark
+				12 Light
+				13 (selected) Auto
+		14 button Language, ID: language-menu-button
+	15 container Main
+		16 content list
+			17 link Description: Welcome to Capgo, Value: localhost:4176/docs/
+			18 container
+				19 button (expanded) Quickstart, Secondary Actions: Collapse
+					20 text Quickstart
+				21 content list
+					22 link Description: Overview, Value: localhost:4176/docs/getting-started/quickstart/
+					23 link Description: CLI Onboarding Guide, Value: localhost:4176/docs/getting-started/onboarding/
+					24 link Description: Add an App, Value: localhost:4176/docs/getting-started/add-an-app/
+					25 link Description: Deploy a Live Update, Value: localhost:4176/docs/getting-started/deploy/
+					26 link Description: CI/CD Integration, Value: localhost:4176/docs/getting-started/cicd-integration/
+					27 link Description: One time setup checklist, Value: localhost:4176/docs/getting-started/after-onboarding-setup-checklist/
+					28 link Description: Troubleshooting, Value: localhost:4176/docs/getting-started/troubleshooting/
+					29 link Description: Wrapping up, Value: localhost:4176/docs/getting-started/wrapping-up/
+			30 button (collapsed) Capgo CLI, Secondary Actions: Expand
+				31 text Capgo CLI
+			32 container
+				33 button (expanded) Capgo Builder, Secondary Actions: Collapse
+					34 text Capgo Builder
+				35 content list
+					36 link Description: Introduction, Value: localhost:4176/docs/builder/
+					37 link Description: Getting Started, Value: localhost:4176/docs/builder/getting-started/
+					38 link Description: Configuration Options, Value: localhost:4176/docs/builder/configuration/
+					39 link Description: iOS Builds, Value: localhost:4176/docs/builder/ios/
+					40 link Description: Android Builds, Value: localhost:4176/docs/builder/android/
+					41 link Description: GitHub Actions, Value: localhost:4176/docs/builder/github-actions/
+					42 link Description: Troubleshooting, Value: localhost:4176/docs/builder/troubleshooting/
+					43 link Description: Managing Credentials, Value: localhost:4176/docs/builder/credentials/
+					44 link Description: AI Debug, Value: localhost:4176/docs/builder/ai-debug/
+					45 link Description: Auto OTA or Native, Value: localhost:4176/docs/builder/ci-ota-or-native/
+					46 link Description: Trigger from CI UI, Value: localhost:4176/docs/builder/ci-ui-trigger/
+					47 link Description: Build Webhooks, Value: localhost:4176/docs/builder/webhooks/
+					48 link Description: Prescan checks, Value: localhost:4176/docs/builder/prescan/
+			49 button (collapsed) Live Updates, Secondary Actions: Expand
+				50 text Live Updates
+			51 button (collapsed) Public API, Secondary Actions: Expand
+				52 text Public API
+			53 button (collapsed) Plugins, Secondary Actions: Expand
+				54 text Plugins
+			55 button (collapsed) Console, Secondary Actions: Expand
+				56 text Console
+			57 link Description: Versioning, Value: localhost:4176/docs/versioning/
+			58 link Description: How To, Value: localhost:4176/docs/how-to/
+			59 link Description: FAQ, Value: localhost:4176/docs/faq/
+			60 link Description: How to get support, Value: localhost:4176/docs/getting-help/
+			61 link Description: 💬 Consult us, Value: localhost:4176/consulting/
+			62 link Description: LLMs-full.txt, Value: capgo.app/llms-full.txt
+	63 container
+		64 container On this page
+			65 heading On this page, Value: 2, ID: starlight__on-this-page
+				66 text On this page
+			67 content list
+				68 link Description: Overview, Value: localhost:4176/docs/getting-started/deploy/#_top
+				69 container
+					70 link Description: Uploading a Bundle, Value: localhost:4176/docs/getting-started/deploy/#uploading-a-bundle
+					71 content list
+						72 link Description: Troubleshooting Uploads, Value: localhost:4176/docs/getting-started/deploy/#troubleshooting-uploads
+				73 link Description: Receiving an Update on a Device, Value: localhost:4176/docs/getting-started/deploy/#receiving-an-update-on-a-device
+				74 link Description: Next Steps, Value: localhost:4176/docs/getting-started/deploy/#next-steps
+				75 link Description: Keep going from Deploy a Live Update, Value: localhost:4176/docs/getting-started/deploy/#keep-going-from-deploy-a-live-update
+		76 heading Deploy a Live Update, Value: 1
+			77 text Deploy a Live Update
+		78 container
+			79 button Copy page options
+				80 image
+				81 text Copy page
+				82 image
+		83 container
+			84 text Use Capgo’s Live Updates feature to update the UI and business logic of your app remotely, in real-time. Push JS bundle updates directly to your users without going through the app store to instantly fix bugs and ship new features.
+			85 container Tip
+				86 container
+					87 text Capgo uploads the generated web build folder. HTML, CSS, JavaScript, assets, and pure-JavaScript package changes can go OTA once they are bundled there. Changes to  capacitor.config.ts , native plugin configuration, native packages, or iOS/Android project files require a native app release.
+			88 text This guide assumes you’ve completed the 
+			89 link Description: Capgo Quickstart, Value: localhost:4176/docs/getting-started/quickstart/
+			90 text  and have already:
+			91 content list
+				92 container
+					93 text 1 Installed the 
+					94 text @capgo/capacitor-updater
+					95 text  SDK in your Capacitor app
+				96 container
+					97 text 2 Configured your app ID and update channel in 
+					98 text capacitor.config.ts
+				99 container
+					100 text 3 Added in your code the 
+					101 text CapacitorUpdater.notifyAppReady()
+					102 text  method
+			103 text If you haven’t done those steps yet, please go back and complete the quickstart first.
+			104 link Description: Add an app, Value: localhost:4176/docs/getting-started/add-an-app/
+			105 text Add an app to your Capgo account, and install the plugin in your app
+			106 heading Uploading a Bundle, Value: 2, ID: uploading-a-bundle
+				107 text Uploading a Bundle
+			108 link Description: Section titled “Uploading a Bundle”, Value: localhost:4176/docs/getting-started/deploy/#uploading-a-bundle
+			109 text With the Capgo SDK installed and configured, you’re ready to upload your first live update bundle:
+			110 content list
+				111 container
+					112 AXListMarker 1. 
+					113 text Build your web assets:
+					114 container
+						232 text Terminal window
+					116 container
+						117 text npm run build
+					118 container
+						119 button Copy to clipboard
+				120 container
+					121 AXListMarker 2. 
+					122 text Upload the bundle to Capgo:
+					123 tab group
+						124 tab (selectable, settable, boolean) Console, Value: 0, ID: tab-0-0
+						125 tab (selected, settable, boolean) Github Actions, Value: 1, ID: tab-0-1
+						126 tab (selectable, settable, boolean) Gitlab, Value: 0, ID: tab-0-2
+					233 container Description: Github Actions, ID: tab-panel-0-1
+						234 container
+							235 text .github/workflows/build_and_deploy.yml
+							236 container
+								237 container
+									238 text name :  Build source code and send to Capgo
+								239 container
+									240 text concurrency :
+								241 container
+									242 text group :  ${{ github.workflow }}-${{ github.ref }}
+								243 container
+									244 text cancel-in-progress :  true
+								245 container
+									246 text on :
+								247 container
+									248 text push :
+								249 container
+									250 text branches :
+								251 container
+									252 text -  main
+								253 container
+									254 text jobs :
+								255 container
+									256 text deploy_to_capgo :
+								257 container
+									258 text runs-on :  ubuntu-latest
+								259 container
+									260 text steps :
+								261 container
+									262 text -  name :  Checkout
+								263 container
+									264 text uses :  actions/checkout@v6
+								265 container
+									266 text -  uses :  actions/setup-node@v6
+								267 container
+									268 text with :
+								269 container
+									270 text node-version :  '24'
+								271 container
+									272 text -  name :  Install dependencies
+								273 container
+									274 text run :  npm install
+								275 container
+									276 text -  name :  Build
+								277 container
+									278 text run :  npm run build
+								279 container
+									280 text -  name :  Deploy to Capgo
+								281 container
+									282 text run :  npx @capgo/cli@latest bundle upload -a ${{ secrets.CAPGO_TOKEN }} --channel ${{ env.CHANNEL }}
+								283 container
+									284 text env :
+								285 container
+									286 text CAPGO_TOKEN :  ${{ secrets.CAPGO_TOKEN }}
+							287 button Copy to clipboard
+					133 text This will upload a new bundle version to the channel specified in the command.
+			134 heading Troubleshooting Uploads, Value: 3, ID: troubleshooting-uploads
+				135 text Troubleshooting Uploads
+			136 link Description: Section titled “Troubleshooting Uploads”, Value: localhost:4176/docs/getting-started/deploy/#troubleshooting-uploads
+			137 text If your upload fails, double check:
+			138 content list
+				139 container
+					140 AXListMarker • 
+					141 text Your app ID in  capacitor.config.ts  matches your app in the Capgo dashboard
+				142 container
+					143 AXListMarker • 
+					144 text You’re running the upload command from the root of your Capacitor project
+				145 container
+					146 AXListMarker • 
+					147 text Your web assets are built and up to date
+			148 text If you’re still having trouble, go to the 
+			149 link Description: Troubleshooting, Value: localhost:4176/docs/getting-started/troubleshooting/
+			150 text  section.
+			151 heading Receiving an Update on a Device, Value: 2, ID: receiving-an-update-on-a-device
+				152 text Receiving an Update on a Device
+			153 link Description: Section titled “Receiving an Update on a Device”, Value: localhost:4176/docs/getting-started/deploy/#receiving-an-update-on-a-device
+			154 text Once your bundle is uploaded, you can test the live update on a device:
+			155 content list
+				156 container
+					157 AXListMarker 1. 
+					158 text Sync your app to the device:
+					159 container
+						160 text Terminal window
+					161 container
+						162 text npx cap sync ios
+					163 container
+						164 button Copy to clipboard
+				165 container
+					166 AXListMarker 2. 
+					167 text Open another terminal and run the following command to check the update status:
+					168 container
+						169 text Terminal window
+					170 container
+						171 text npx @capgo/cli@latest app debug
+					172 container
+						173 button Copy to clipboard
+				174 container
+					175 AXListMarker 3. 
+					176 text Run your app locally:
+					177 container
+						178 text Terminal window
+					179 container
+						180 text npx cap run ios
+					181 container
+						182 button Copy to clipboard
+					183 text Or open the iOS/Android project in Xcode/Android Studio and do a native run.
+				184 container
+					185 AXListMarker 4. 
+					186 text Keep the app open for about 30 seconds to allow the update to download in the background.
+				187 container
+					188 AXListMarker 5. 
+					189 text The logs will take a few seconds to update and show the update status.
+				190 container
+					191 AXListMarker 6. 
+					192 text Close and reopen the app. You should see your live update applied!
+			193 text Refer back to the 
+			194 link Description: Capgo Quickstart, Value: localhost:4176/docs/getting-started/quickstart/#receiving-a-live-update-on-a-device
+			195 text  for more details on testing live updates.
+			196 heading Next Steps, Value: 2, ID: next-steps
+				197 text Next Steps
+			198 link Description: Section titled “Next Steps”, Value: localhost:4176/docs/getting-started/deploy/#next-steps
+			199 text Congrats on deploying your first live update with Capgo! 🎉 To learn more, review the rest of the 
+			200 link Description: Capgo Live Updates documentation, Value: localhost:4176/docs/live-updates/
+			201 text . Some key topics to check out next:
+			202 content list
+				203 container
+					204 AXListMarker • 
+					205 link Description: Targeting Updates with Channels, Value: localhost:4176/docs/live-updates/channels/
+				206 container
+					207 AXListMarker • 
+					208 link Description: Customizing Update Behavior, Value: localhost:4176/docs/live-updates/update-behavior/
+				209 container
+					210 AXListMarker • 
+					211 link Description: Live Update Rollbacks, Value: localhost:4176/docs/live-updates/rollbacks/
+			212 heading Keep going from Deploy a Live Update, Value: 2, ID: keep-going-from-deploy-a-live-update
+				213 text Keep going from Deploy a Live Update
+			214 link Description: Section titled “Keep going from Deploy a Live Update”, Value: localhost:4176/docs/getting-started/deploy/#keep-going-from-deploy-a-live-update
+			215 text If you are using 
+			216 text Deploy a Live Update
+			217 text  to plan CI/CD automation, connect it with 
+			218 link Description: Capgo CI/CD, Value: localhost:4176/ci_cd/
+			219 text  for the product workflow in Capgo CI/CD, 
+			220 link Description: Capgo Native Builds, Value: localhost:4176/native-build/
+			221 text  for the product workflow in Capgo Native Builds, 
+			222 link Description: Capgo Integrations, Value: localhost:4176/integrations/
+			223 text  for the product workflow in Capgo Integrations, 
+			224 link Description: CI/CD Integration, Value: localhost:4176/docs/getting-started/cicd-integration/
+			225 text  for the implementation detail in CI/CD Integration, and 
+			226 link Description: GitHub Actions Integration, Value: localhost:4176/docs/live-updates/integrations/github-actions/
+			227 text  for the implementation detail in GitHub Actions Integration.
+		228 container
+			229 link Description: Edit page, Value: github.com/Cap-go/website/edit/main/apps/docs/src/content/docs/docs/getting-started/deploy.mdx
+			230 link Description: Previous Add an App, Value: localhost:4176/docs/getting-started/add-an-app/
+			231 link Description: Next CI/CD Integration, Value: localhost:4176/docs/getting-started/cicd-integration/
+
+The focused UI element is 125 tab (selected, settable, boolean) Github Actions, Value: 1, ID: tab-0-1

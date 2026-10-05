@@ -1,0 +1,171 @@
+Browser tab: 12, Title: "Deploy a Live Update - Capacitor Live Updates Docum… | Capgo", URL: "http://localhost:4176/docs/getting-started/deploy/".
+1 AXWebArea Deploy a Live Update - Capacitor Live Updates Docum… | Capgo, URL: localhost:4176/docs/getting-started/deploy/
+	2 link Description: Skip to content, Value: localhost:4176/docs/getting-started/deploy/#_top
+	3 container
+		4 link Description: Capgo - Live Updates for Capacitor Apps Capgo, Value: localhost:4176/
+		5 button Search (Ctrl+K)
+	6 container Main
+		7 button (collapsed) Menu, Secondary Actions: Expand
+	8 container
+		9 container On this page Overview
+			10 button (collapsed) On this page Overview, ID: starlight__on-this-page--mobile, Secondary Actions: Expand
+				11 text On this page
+				12 text Overview
+		13 heading Deploy a Live Update, Value: 1
+			14 text Deploy a Live Update
+		15 container
+			16 button Copy page options
+				17 image
+				18 text Copy page
+				19 image
+		20 container
+			21 text Use Capgo’s Live Updates feature to update the UI and business logic of your app remotely, in real-time. Push JS bundle updates directly to your users without going through the app store to instantly fix bugs and ship new features.
+			22 container Tip
+				23 container
+					24 text Capgo uploads the generated web build folder. HTML, CSS, JavaScript, assets, and pure-JavaScript package changes can go OTA once they are bundled there. Changes to  capacitor.config.ts , native plugin configuration, native packages, or iOS/Android project files require a native app release.
+			25 text This guide assumes you’ve completed the 
+			26 link Description: Capgo Quickstart, Value: localhost:4176/docs/getting-started/quickstart/
+			27 text  and have already:
+			28 content list
+				29 container
+					30 text 1 Installed the 
+					31 text @capgo/capacitor-updater
+					32 text  SDK in your Capacitor app
+				33 container
+					34 text 2 Configured your app ID and update channel in 
+					35 text capacitor.config.ts
+				36 container
+					37 text 3 Added in your code the 
+					38 text CapacitorUpdater.notifyAppReady()
+					39 text  method
+			40 text If you haven’t done those steps yet, please go back and complete the quickstart first.
+			41 link Description: Add an app, Value: localhost:4176/docs/getting-started/add-an-app/
+			42 text Add an app to your Capgo account, and install the plugin in your app
+			43 heading Uploading a Bundle, Value: 2, ID: uploading-a-bundle
+				44 text Uploading a Bundle
+			45 link Description: Section titled “Uploading a Bundle”, Value: localhost:4176/docs/getting-started/deploy/#uploading-a-bundle
+			46 text With the Capgo SDK installed and configured, you’re ready to upload your first live update bundle:
+			47 content list
+				48 container
+					49 AXListMarker 1. 
+					50 text Build your web assets:
+					51 container
+						52 text Terminal window
+					53 container
+						54 text npm run build
+					55 container
+						56 button Copy to clipboard
+				57 container
+					58 AXListMarker 2. 
+					59 text Upload the bundle to Capgo:
+					60 tab group
+						61 tab (selected, settable, boolean) Console, Value: 1, ID: tab-0-0
+						62 tab (selectable, settable, boolean) Github Actions, Value: 0, ID: tab-0-1
+						63 tab (selectable, settable, boolean) Gitlab, Value: 0, ID: tab-0-2
+					64 container Description: Console, ID: tab-panel-0-0
+						65 container
+							66 text Terminal window
+							67 container
+								68 text npx @capgo/cli@latest bundle upload --channel=production
+							69 button Copy to clipboard
+					70 text This will upload a new bundle version to the channel specified in the command.
+			71 heading Troubleshooting Uploads, Value: 3, ID: troubleshooting-uploads
+				72 text Troubleshooting Uploads
+			73 link Description: Section titled “Troubleshooting Uploads”, Value: localhost:4176/docs/getting-started/deploy/#troubleshooting-uploads
+			74 text If your upload fails, double check:
+			75 content list
+				76 container
+					77 AXListMarker • 
+					78 text Your app ID in  capacitor.config.ts  matches your app in the Capgo dashboard
+				79 container
+					80 AXListMarker • 
+					81 text You’re running the upload command from the root of your Capacitor project
+				82 container
+					83 AXListMarker • 
+					84 text Your web assets are built and up to date
+			85 text If you’re still having trouble, go to the 
+			86 link Description: Troubleshooting, Value: localhost:4176/docs/getting-started/troubleshooting/
+			87 text  section.
+			88 heading Receiving an Update on a Device, Value: 2, ID: receiving-an-update-on-a-device
+				89 text Receiving an Update on a Device
+			90 link Description: Section titled “Receiving an Update on a Device”, Value: localhost:4176/docs/getting-started/deploy/#receiving-an-update-on-a-device
+			91 text Once your bundle is uploaded, you can test the live update on a device:
+			92 content list
+				93 container
+					94 AXListMarker 1. 
+					95 text Sync your app to the device:
+					96 container
+						97 text Terminal window
+					98 container
+						99 text npx cap sync ios
+					100 container
+						101 button Copy to clipboard
+				102 container
+					103 AXListMarker 2. 
+					104 text Open another terminal and run the following command to check the update status:
+					105 container
+						106 text Terminal window
+					107 container
+						108 text npx @capgo/cli@latest app debug
+					109 container
+						110 button Copy to clipboard
+				111 container
+					112 AXListMarker 3. 
+					113 text Run your app locally:
+					114 container
+						115 text Terminal window
+					116 container
+						117 text npx cap run ios
+					118 container
+						119 button Copy to clipboard
+					120 text Or open the iOS/Android project in Xcode/Android Studio and do a native run.
+				121 container
+					122 AXListMarker 4. 
+					123 text Keep the app open for about 30 seconds to allow the update to download in the background.
+				124 container
+					125 AXListMarker 5. 
+					126 text The logs will take a few seconds to update and show the update status.
+				127 container
+					128 AXListMarker 6. 
+					129 text Close and reopen the app. You should see your live update applied!
+			130 text Refer back to the 
+			131 link Description: Capgo Quickstart, Value: localhost:4176/docs/getting-started/quickstart/#receiving-a-live-update-on-a-device
+			132 text  for more details on testing live updates.
+			133 heading Next Steps, Value: 2, ID: next-steps
+				134 text Next Steps
+			135 link Description: Section titled “Next Steps”, Value: localhost:4176/docs/getting-started/deploy/#next-steps
+			136 text Congrats on deploying your first live update with Capgo! 🎉 To learn more, review the rest of the 
+			137 link Description: Capgo Live Updates documentation, Value: localhost:4176/docs/live-updates/
+			138 text . Some key topics to check out next:
+			139 content list
+				140 container
+					141 AXListMarker • 
+					142 link Description: Targeting Updates with Channels, Value: localhost:4176/docs/live-updates/channels/
+				143 container
+					144 AXListMarker • 
+					145 link Description: Customizing Update Behavior, Value: localhost:4176/docs/live-updates/update-behavior/
+				146 container
+					147 AXListMarker • 
+					148 link Description: Live Update Rollbacks, Value: localhost:4176/docs/live-updates/rollbacks/
+			149 heading Keep going from Deploy a Live Update, Value: 2, ID: keep-going-from-deploy-a-live-update
+				150 text Keep going from Deploy a Live Update
+			151 link Description: Section titled “Keep going from Deploy a Live Update”, Value: localhost:4176/docs/getting-started/deploy/#keep-going-from-deploy-a-live-update
+			152 text If you are using 
+			153 text Deploy a Live Update
+			154 text  to plan CI/CD automation, connect it with 
+			155 link Description: Capgo CI/CD, Value: localhost:4176/ci_cd/
+			156 text  for the product workflow in Capgo CI/CD, 
+			157 link Description: Capgo Native Builds, Value: localhost:4176/native-build/
+			158 text  for the product workflow in Capgo Native Builds, 
+			159 link Description: Capgo Integrations, Value: localhost:4176/integrations/
+			160 text  for the product workflow in Capgo Integrations, 
+			161 link Description: CI/CD Integration, Value: localhost:4176/docs/getting-started/cicd-integration/
+			162 text  for the implementation detail in CI/CD Integration, and 
+			163 link Description: GitHub Actions Integration, Value: localhost:4176/docs/live-updates/integrations/github-actions/
+			164 text  for the implementation detail in GitHub Actions Integration.
+		165 container
+			166 link Description: Edit page, Value: github.com/Cap-go/website/edit/main/apps/docs/src/content/docs/docs/getting-started/deploy.mdx
+			167 link Description: Previous Add an App, Value: localhost:4176/docs/getting-started/add-an-app/
+			168 link Description: Next CI/CD Integration, Value: localhost:4176/docs/getting-started/cicd-integration/
+
+The focused UI element is 1 AXWebArea Deploy a Live Update - Capacitor Live Updates Docum… | Capgo, URL: localhost:4176/docs/getting-started/deploy/

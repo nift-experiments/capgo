@@ -1,0 +1,155 @@
+Browser tab: 12, Title: "Capgo | Sign up to Capgo", URL: "http://localhost:4176/register/".
+1 AXWebArea Capgo | Sign up to Capgo, URL: localhost:4176/register/
+	2 link Description: Skip to main content, Value: localhost:4176/register/#main-content
+	3 container
+		4 text Login and register links available
+		5 container
+			6 link Description: Capgo home, Value: localhost:4176/
+			7 link Description: Docs, Value: localhost:4176/docs/
+			8 button Products
+			9 button Solutions
+			10 link Description: Pricing, Value: localhost:4176/pricing/
+			11 link Description: Login, Value: console.capgo.app/login/
+		12 button Register
+	13 container
+		14 heading Sign up to Capgo, Value: 1
+			15 text Sign up to Capgo
+		16 text Already have an account?
+		17 link Description: Sign in, Value: console.capgo.app/login/
+		18 text 14-day unlimited free trial No credit card required
+		19 container registerForm
+			20 text Email
+			21 text field (settable) Email
+			22 text First name
+			23 text field (settable) First name, ID: firstName
+			24 text Last name
+			25 text field (settable) Last name, ID: lastName
+			26 text Password
+			27 text field (settable) Password
+			28 button Sign up
+			29 container
+				30 text By registering, you accept our 
+				31 link Description: Terms of Service, Value: capgo.app/tos/
+				32 text .
+		33 text Need help?
+		34 link Description: Open Support, Value: support.capgo.app/
+		35 image Rated 5.0 out of 5 by developer teams using Capgo
+		36 text 5.0/5 rated by developer teams 9,400+ teams
+		37 link Description: Read reviews, Value: localhost:4176/#testimonials
+		38 content list
+			39 text Ship web fixes to users in minutes
+			40 text Signed iOS and Android builds, no Mac
+			41 text Know how every release is doing
+		42 container Customer reviews
+			153 container 8 / 8
+				154 image 5 out of 5 stars
+				155 text “The Capgo Capacitor Updater plugin completely transformed how we ship updates. What used to take days now takes just minutes.”
+				156 container
+					157 text Sergiu S Lead Developer, drivolino GmbH
+			48 button Show review from Luis Dominguez
+			49 button Show review from Nate van Jole
+			50 button Show review from Kapil
+			51 button Show review from no-tone @ Webincode
+			52 button Show review from sikafanka
+			53 button Show review from Mikołaj Wilczek
+			54 button Show review from Michael Haberler
+			55 button Show review from Sergiu S
+	56 container Footer
+		57 heading Footer, Value: 2, ID: footer-heading
+			58 text Footer
+		59 link Description: Capgo home, Value: localhost:4176/
+		60 text Live updates, native builds, and release tooling for Capacitor apps.
+		61 link Description: ALL SYSTEMS NORMAL, Value: status.capgo.app/
+		62 image SOC 2 Type II (Enterprise plan)
+		63 image ISO 27001 Compliant
+		64 image GDPR Compliant
+		65 heading PRODUCTS, Value: 3
+			66 text PRODUCTS
+		67 content list
+			68 link Description: Live Update, Value: localhost:4176/live-update/
+			69 link Description: Native Build, Value: localhost:4176/native-build/
+			70 link Description: Observe, Value: localhost:4176/observe/
+			71 link Description: Notifications, Value: localhost:4176/notifications/
+			72 link Description: App mobile, Value: localhost:4176/app_mobile/
+			73 link Description: Plugins, Value: localhost:4176/plugins/
+			74 link Description: Integrations, Value: localhost:4176/integrations/
+			75 link Description: CLI & API, Value: localhost:4176/docs/cli/
+			76 link Description: Mobile CI/CD, Value: localhost:4176/ci_cd/
+			77 link Description: Pricing, Value: localhost:4176/pricing/
+			78 link Description: Enterprise, Value: localhost:4176/enterprise/
+		79 heading RESOURCES, Value: 3
+			80 text RESOURCES
+		81 content list
+			82 link Description: Documentation, Value: localhost:4176/docs/
+			83 link Description: Blog, Value: localhost:4176/blog/
+			84 link Description: Articles, Value: localhost:4176/articles/
+			85 link Description: Capacitor Skills, Value: localhost:4176/skills/
+			86 link Description: Community, Value: discord.capgo.app/
+			87 link Description: Chat, Value: support.capgo.app/
+			88 link Description: Premium Support, Value: localhost:4176/premium-support/
+			89 link Description: Status, Value: status.capgo.app/
+			90 link Description: App store publishing costs, Value: localhost:4176/cost/cost-to-publish-app-on-app-store/
+			91 link Description: App store refusal stories, Value: localhost:4176/app-store-refusal-horror-story/
+			92 link Description: Awesome Capacitor, Value: github.com/riderx/awesome-capacitor/
+			93 link Description: Top App by Framework, Value: localhost:4176/top_app/
+		94 heading FREE TOOLS, Value: 3
+			95 text FREE TOOLS
+		96 content list
+			97 link Description: Free Mobile Tools, Value: localhost:4176/tools/
+			98 link Description: Security Scanner, Value: localhost:4176/security-scanner/
+			99 link Description: AASA Tester, Value: aasa-tester.capgo.app/
+			100 link Description: SemVer Tester, Value: localhost:4176/semver_tester/
+			101 link Description: Live Update data, Value: localhost:4176/data/
+			102 link Description: Native Build data, Value: localhost:4176/builder-data/
+			103 link Description: Android distribution chart, Value: localhost:4176/android-distribution-chart/
+			104 link Description: iOS distribution chart, Value: localhost:4176/ios-distribution-chart/
+		105 heading COMPARE, Value: 3
+			106 text COMPARE
+		107 content list
+			108 link Description: Alternatives, Value: localhost:4176/alternatives/
+			109 link Description: Ionic AppFlow vs Capgo, Value: localhost:4176/alternatives/ionic-appflow/
+			110 link Description: EAS vs Capgo, Value: localhost:4176/alternatives/expo/
+			111 link Description: Median vs Capgo, Value: localhost:4176/alternatives/median/
+			112 link Description: Capawesome vs Capgo, Value: localhost:4176/alternatives/capawesome/
+			113 link Description: CodePush alternative, Value: localhost:4176/alternatives/codepush/
+			114 link Description: VoltBuilder vs Capgo, Value: localhost:4176/alternatives/voltbuilder/
+			115 link Description: Best Capacitor live update tools, Value: localhost:4176/best/capacitor-live-updates/
+			116 link Description: Migrate from Appflow, Value: localhost:4176/migrate/from-appflow/
+			117 link Description: MCP server, Value: localhost:4176/mcp/
+			118 link Description: AI Migration Guide (2026), Value: localhost:4176/solutions/cordova-to-capacitor-ai/
+			119 link Description: Web App to Mobile, Value: localhost:4176/solutions/webapp-to-mobile/
+		120 heading COMPANY, Value: 3
+			121 text COMPANY
+		122 content list
+			123 link Description: About, Value: localhost:4176/about/
+			124 link Description: Contact, Value: localhost:4176/contact/
+			125 link Description: Trust, Value: localhost:4176/trust/
+			126 link Description: HIPAA compliance, Value: localhost:4176/hipaa-compliance/
+			127 link Description: Consulting, Value: localhost:4176/consulting/
+			128 link Description: Affiliate program, Value: localhost:4176/affiliate/
+			129 link Description: Jobs, Value: console.algora.io/org/capgo/bounties?status=open/
+			130 link Description: Contributing, Value: localhost:4176/contributing/
+			131 link Description: Sponsoring, Value: localhost:4176/sponsor/
+			132 link Description: Imprint, Value: localhost:4176/imprint/
+		133 heading LEGAL, Value: 3
+			134 text LEGAL
+		135 content list
+			136 link Description: Privacy, Value: localhost:4176/privacy/
+			137 link Description: Terms of Service, Value: localhost:4176/tos/
+			138 link Description: Service Level Agreement, Value: localhost:4176/sla/
+			139 link Description: Support Policy, Value: localhost:4176/support-policy/
+			140 link Description: Acceptable Use Policy, Value: localhost:4176/aup/
+			141 link Description: Security.txt, Value: localhost:4176/security/
+			142 link Description: Bug Bounty, Value: localhost:4176/bug-bounty/
+			143 link Description: Data Policy, Value: localhost:4176/dp/
+			144 link Description: Data Protection Agreement, Value: localhost:4176/dpa/
+			145 link Description: Subprocessors, Value: localhost:4176/subprocessors/
+			146 link Description: End-User License Agreement, Value: localhost:4176/eula/
+			147 link Description: Return Policy, Value: localhost:4176/return/
+		148 text © Capgo 2026 · Digital Shift OÜ
+		149 pop up button (collapsed) Description: English, Change language, ID: language-dropdown-button, Secondary Actions: Expand
+		150 link Description: llms.txt, Value: localhost:4176/llms.txt
+		151 link Description: llms-full.txt, Value: localhost:4176/llms-full.txt
+		152 link Description: Sitemap, Value: localhost:4176/sitemap-index.xml
+
+The focused UI element is 1 AXWebArea Capgo | Sign up to Capgo, URL: localhost:4176/register/

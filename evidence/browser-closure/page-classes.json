@@ -1,0 +1,273 @@
+[
+  {
+    "route": "/solutions/webapp-to-mobile/",
+    "device": "desktop",
+    "controls": [
+      {
+        "label": "Products",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Solutions",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "By Team\n              Built for how your team ships",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "By Industry\n              When a bad release costs more",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Workflows\n              Rollouts, previews, and targeting",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Migrate & build\n              Move to Capacitor and Capgo",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Expand menu",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Products",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Solutions",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Copy prompt",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "English, Change language",
+        "role": null,
+        "tag": "BUTTON"
+      }
+    ],
+    "headings": [
+      "Turn your web app into iOS and Android apps"
+    ],
+    "scrollWidth": 1265,
+    "title": "Capgo | Turn Your Web App into iOS and Android Apps",
+    "viewport": 1280
+  },
+  {
+    "route": "/alternatives/ionic-appflow/",
+    "device": "desktop",
+    "controls": [
+      {
+        "label": "Products",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Solutions",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "By Team\n              Built for how your team ships",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "By Industry\n              When a bad release costs more",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Workflows\n              Rollouts, previews, and targeting",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Migrate & build\n              Move to Capacitor and Capgo",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Expand menu",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Products",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Solutions",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "English, Change language",
+        "role": null,
+        "tag": "BUTTON"
+      }
+    ],
+    "headings": [
+      "The Ionic Appflow alternative for Capacitor live updates and native builds"
+    ],
+    "scrollWidth": 1265,
+    "title": "Ionic AppFlow vs Capgo",
+    "viewport": 1280
+  },
+  {
+    "route": "/data/",
+    "device": "desktop",
+    "controls": [
+      {
+        "label": "Products",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Solutions",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "By Team\n              Built for how your team ships",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "By Industry\n              When a bad release costs more",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Workflows\n              Rollouts, previews, and targeting",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Migrate & build\n              Move to Capacitor and Capgo",
+        "role": "tab",
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Expand menu",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Products",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "Solutions",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "1D",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "1W",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "1M",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "3M",
+        "role": null,
+        "tag": "BUTTON"
+      },
+      {
+        "label": "English, Change language",
+        "role": null,
+        "tag": "BUTTON"
+      }
+    ],
+    "headings": [
+      "Live Updates"
+    ],
+    "scrollWidth": 1265,
+    "title": "Capgo Live Update status | Delivery trends",
+    "viewport": 1280
+  },
+  {
+    "route": "/solutions/webapp-to-mobile/",
+    "device": "mobile",
+    "headings": [
+      "Turn your web app into iOS and Android apps"
+    ],
+    "scrollWidth": 375,
+    "title": "Capgo | Turn Your Web App into iOS and Android Apps",
+    "viewport": 390
+  },
+  {
+    "route": "/alternatives/ionic-appflow/",
+    "device": "mobile",
+    "headings": [
+      "The Ionic Appflow alternative for Capacitor live updates and native builds"
+    ],
+    "scrollWidth": 375,
+    "title": "Ionic AppFlow vs Capgo",
+    "viewport": 390
+  },
+  {
+    "route": "/privacy/",
+    "device": "mobile",
+    "headings": [
+      "Privacy Policy"
+    ],
+    "scrollWidth": 375,
+    "title": "Capgo | Privacy Policy",
+    "viewport": 390
+  },
+  {
+    "route": "/docs/getting-started/deploy/",
+    "device": "mobile",
+    "headings": [
+      "Deploy a Live Update"
+    ],
+    "scrollWidth": 375,
+    "title": "Deploy a Live Update - Capacitor Live Updates Docum… | Capgo",
+    "viewport": 390
+  },
+  {
+    "route": "/blog/category/alternatives/",
+    "device": "mobile",
+    "headings": [
+      "Latest from the blog"
+    ],
+    "scrollWidth": 375,
+    "title": "Capgo | Capacitor Blog",
+    "viewport": 390
+  },
+  {
+    "route": "/register/",
+    "device": "mobile",
+    "headings": [
+      "Sign up to Capgo"
+    ],
+    "scrollWidth": 375,
+    "title": "Capgo | Sign up to Capgo",
+    "viewport": 390
+  }
+]
